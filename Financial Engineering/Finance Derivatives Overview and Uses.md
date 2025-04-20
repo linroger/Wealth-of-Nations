@@ -21,11 +21,6 @@ key_concepts:
 ---
 
 # Contents  
-
-# rticles  
-
-#  
-
 Derivative (finance) 1   
 Futures contract 9   
 Forward contract 19   
@@ -47,15 +42,6 @@ Property derivatives 101
 Freight derivative 104   
 Inflation derivative 105  
 
-References  
-
-Article Sources and Contributors. 107   
-Image Sources, Licenses and Contributors 109  
-
-Article Licenses  
-
-License 110  
-
 # Derivative (finance)  
 
 In finance, a derivative is a financial instrument (or, more simply, an agreement between two parties) that has a value, based on the expected future price movements of the asset to which it is linked-called the underlying assetl] such as a share or a currency. There are many kinds of derivatives, with the most common being swaps, futures, and options. Derivatives are a form of alternative investment.  
@@ -76,9 +62,7 @@ exotic derivatives (more complicated and specialized).
 
 # Uses  
 
-Derivatives are used by investors to:  
-
-provide leverage (or gearing), such that a small movement in the underlying value can cause a large difference in the value of the derivative; speculate and make a profit if the value of the underlying asset moves the way they expect (e.g., moves in a given direction, stays in or out of a specified range, reaches a certain level); hedge or mitigate risk in the underlying, by entering into a derivative contract whose value moves in the opposite direction to their underlying position and cancels part or all of it out; obtain exposure to the underlying where it is not possible to trade in the underlying (e.g., weather derivatives); create option ability where the value of the derivative is linked to a specific condition or event (e.g., the underlying reaching a specific price level).  
+Derivatives are used by investors to:  provide leverage (or gearing), such that a small movement in the underlying value can cause a large difference in the value of the derivative; speculate and make a profit if the value of the underlying asset moves the way they expect (e.g., moves in a given direction, stays in or out of a specified range, reaches a certain level); hedge or mitigate risk in the underlying, by entering into a derivative contract whose value moves in the opposite direction to their underlying position and cancels part or all of it out; obtain exposure to the underlying where it is not possible to trade in the underlying (e.g., weather derivatives); create option ability where the value of the derivative is linked to a specific condition or event (e.g., the underlying reaching a specific price level).  
 
 # Hedging  
 
@@ -113,7 +97,7 @@ Speculative trading in derivatives gained a great deal of notoriety in 1995 when
 
 In broad terms, there are two groups of derivative contracts, which are distinguished by the way they are traded in the market:  
 
-:Over-the-counter (OTC) derivatives are contracts that are traded (and privately negotiated) directly between two parties, without going through an exchange or other intermediary. Products such as swaps, forward rate agreements, and exotic options are almost always traded in this way. The OTC derivative market is the largest market for derivatives, and is largely unregulated with respect to disclosure of information between the parties, since the OTC market is made up of banks and other highly sophisticated parties, such as hedge funds. Reporting of OTC amounts are difficult because trades can occur in private, without activity being visible on any exchange. According to the Bank for International Settlements, the total outstanding notional amount is US\$684 trillion (as of June 2008).[ Of this total notional amount, $67\%$ are interest rate contracts, $8\%$ are credit default swaps (CDS), $9\%$ are foreign exchange contracts, $2\%$ are commodity contracts, $1\%$ are equity contracts, and $12\%$ are other. Because OTC derivatives are not traded on an exchange, there is no central counter-party. Therefore, they are. subject to counter-party risk, like an ordinary contract, since each counter-party relies on the other to perform.   
+:Over-the-counter (OTC) derivatives are contracts that are traded (and privately negotiated) directly between two parties, without going through an exchange or other intermediary. Products such as swaps, forward rate agreements, and exotic options are almost always traded in this way. The OTC derivative market is the largest market for derivatives, and is largely unregulated with respect to disclosure of information between the parties, since the OTC market is made up of banks and other highly sophisticated parties, such as hedge funds. Reporting of OTC amounts are difficult because trades can occur in private, without activity being visible on any exchange. According to the Bank for International Settlements, the total outstanding notional amount is US\$684 trillion (as of June 2008). Of this total notional amount, $67\%$ are interest rate contracts, $8\%$ are credit default swaps (CDS), $9\%$ are foreign exchange contracts, $2\%$ are commodity contracts, $1\%$ are equity contracts, and $12\%$ are other. Because OTC derivatives are not traded on an exchange, there is no central counter-party. Therefore, they are. subject to counter-party risk, like an ordinary contract, since each counter-party relies on the other to perform.   
 Exchange-traded derivative contracts (ETD) are those derivatives instruments that are traded via specialized derivatives exchanges or other exchanges. A derivatives exchange is a market where individuals trade standardized contracts that hae been defined by the exchange.8 A derivatives exchange act as an intermediary to all related transactions, and takes Initial margin from both sides of the trade to act as a guarantee. The world's largestl9 derivatives exchanges (by number of transactions) are the Korea Exchange (which lists KOSPI Index Futures & Options), Eurex (which lists a wide range of European products such as interest rate & index products), and CME Group (made up of the 2007 merger of the Chicago Mercantile Exchange and the Chicago Board of Trade and the 2008 acquisition of the New York Mercantile Exchange). According to BIS, the combined turnover. in the world's derivatives exchanges totaled USD 344 trillion during Q4 2005. Some types of derivative. instruments also may trade on traditional exchanges. For instance, hybrid instruments such as convertible bonds and/or convertible preferred may be listed on stock or bond exchanges. Also, warrants (or "rights") may be listed. on equity exchanges. Performance Rights, Cash xPRTs and various other instruments that essentially consist of a. complex set of options bundled into a simple package are routinely listed on equity exchanges. Like other derivatives, these publicly traded derivatives provide investors access to risk/reward and volatility characteristics that, while related to an underlying commodity, nonetheless are distinctive.  
 
 # Common derivative contract types  
@@ -142,24 +126,21 @@ Some common examples of these derivatives are:
 <html><body><table><tr><td rowspan="2">UNDERLYING</td><td colspan="5">CONTRACT TYPES</td></tr><tr><td>Exchange-traded futures</td><td>Exchange-traded options</td><td>OTC swap</td><td>OTC forward</td><td>OTC option</td></tr><tr><td>Equity</td><td>DJIA Index future Single-stock future</td><td>Option on DJIA Index future Single-share option</td><td>Equity swap</td><td>Back-to-back Repurchase agreement</td><td>Stock option Warrant Turbo warrant</td></tr><tr><td>Interest rate</td><td>Eurodollar future Euribor future</td><td>Option on Eurodollar future Option on Euribor future</td><td>Interestrate swap</td><td>Forward rate agreement</td><td>Interest rate cap and floor Swaption Basis swap Bond option</td></tr><tr><td>Credit</td><td>Bond future</td><td>Option on Bond future</td><td>Credit default swap Total return swap</td><td>Repurchase agreement</td><td>Credit default option</td></tr><tr><td>Foreign exchange</td><td>Currency future</td><td>Option on currency future</td><td>Currency swap</td><td>Currency forward</td><td>Currency option</td></tr><tr><td>Commodity</td><td>WTI crude oil futures</td><td>Weather derivatives</td><td>Commodity swap</td><td>Iron ore forward contract</td><td>Gold option</td></tr></table></body></html>  
 
 Other examples of underlying exchangeables are:  
-
-:Property (mortgage) derivatives   
-Economic derivative that pay off acording to economic reports10] as measured and reported by national statistical agencies   
-.Freight derivatives   
-. Inflation derivatives   
-.Weather derivatives   
-:Insurance derivatives   
-: Emissions derivatives[11]  
+- Property (mortgage) derivatives   
+- Economic derivative that pay off acording to economic reports10] as measured and reported by national statistical agencies   
+- Freight derivatives   
+- Inflation derivatives   
+- Weather derivatives   
+- Insurance derivatives   
+- Emissions derivatives[11]  
 
 # Valuation  
 
 # Market and arbitrage-free prices  
 
 Two common measures of value are:  
-
 Market price, i.e., the price at which traders are willing to buy or sell the contract;   
-Arbitrage-free price, meaning that no risk-free profits can be made by trading in these contracts; see.   
-rational pricing.  
+Arbitrage-free price, meaning that no risk-free profits can be made by trading in these contracts;  
 
 # Determining the market price  
 

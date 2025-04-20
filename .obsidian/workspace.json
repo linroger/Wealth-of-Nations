@@ -8,136 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "907f0640e075ca09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "8. Credit Modeling and Credit Derivatives"
-            }
-          },
-          {
-            "id": "f369d220e801c9cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Python Notes"
-            }
-          },
-          {
-            "id": "1e5b295b03ccffab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Engineering/Advanced Derivatives Pricing Methodology.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Derivatives Pricing Methodology"
-            }
-          },
-          {
-            "id": "40d1d20a8f6b7412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 37/Lessons for All Users of Derivatives.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lessons for All Users of Derivatives"
-            }
-          },
-          {
-            "id": "a21cb61043c13f1b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e2bb182337d26f87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Notes/Corporate Finance Lecture Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Corporate Finance Lecture Notes"
-            }
-          },
-          {
             "id": "9e9a1f77ede3d170",
             "type": "leaf",
             "state": {
@@ -145,6 +15,126 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "4ac6ea37bb09f770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 14/Chapter 14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 14"
+            }
+          },
+          {
+            "id": "ddcd23e563999387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 13/Chapter 13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 13"
+            }
+          },
+          {
+            "id": "d901933b35534bab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 12/Chapter 12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 12"
+            }
+          },
+          {
+            "id": "3738c709c09b8105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 11/Chapter 11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 11"
+            }
+          },
+          {
+            "id": "1912d5ca36e8b902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Fixed Income Securities Tools for Today's Markets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fixed Income Securities Tools for Today's Markets"
             }
           }
         ],
@@ -303,10 +293,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Course Notes/Applied Financial Management Lecture Notes.md"
+                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 11/Chapter 11.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Applied Financial Management Lecture Notes"
+              "title": "File properties for Chapter 11"
             }
           },
           {
@@ -351,35 +341,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e2bb182337d26f87",
+  "active": "1912d5ca36e8b902",
   "lastOpenFiles": [
-    "Course Notes/Applied Financial Management Lecture Notes.md",
-    "Financial Engineering/Finance Derivatives Overview and Uses.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 11/Chapter 11.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 12/Chapter 12.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 13/Chapter 13.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 14/Chapter 14.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/25. The Term Structure of Interest Rates.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Us Markets.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Front Matter.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 16/Chapter 16.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 15/Chapter 15.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Table of Contents.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Us Market Participants.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Trading and Liquidity.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Global Fixed Income Markets.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Monetary Policy with Abundantreserves.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Negative Rates and Qe in Europe and Japan.md",
+    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Oaktree and the Restructuring of Cit Group (b).md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 4/Hedging a Century Bond Part I.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 4/DV01.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 3/Pl Attribution.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 3/Yield and Relative Value.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 3/Spreads.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 2/Forward Rates.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 2/Interest Rate Swaps.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/The Law of One Price.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Government Coupon Bonds.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md",
     "Course Notes/Python/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
-    "Financial Engineering/Introduction to Financial Mathematics.md",
-    "Financial Engineering/Inverse Matrices Solve Linear Systems.md",
-    "Financial Engineering/Financial Mathematics Course.md",
-    "Financial Engineering/Notes on Currency Swaps.md",
-    "Financial Engineering/Verifying Martingale Property with Q.md",
-    "Financial Engineering/Verification of Central Limit Theorem.md",
-    "Financial Engineering/Static Option Replication.md",
-    "Financial Engineering/6. A Brief Introduction to Stochastic Calculus.md",
-    "Financial Engineering/5. Mean Variance-CAPM.md",
-    "Financial Engineering/1. DeterministicCashFlows.md",
-    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 5 - Index Futures.md",
-    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 3 - Forward and Futures Prices.md",
-    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 2 - Futures Markets.md",
-    "Financial Engineering/Derivatives/Part XI - Market Risk/Chapter 45 - VaR: Other Portfolios.md",
-    "Financial Engineering/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing/2. Boundaries, Limits, and Conditions on Option Prices.md",
-    "Financial Engineering/Fixed Income Derivatives/Zero-coupon convertible bonds.md",
-    "Financial Engineering/Fixed Income Derivatives/The Impact of Demand and Liquidity on the Information Content and Predictive Power of the Government Bond Yield Curve.md",
-    "Financial Engineering/Fixed Income Derivatives/Equity Linked Note.md",
-    "Financial Engineering/Fixed Income Derivatives/Determining the Expression for the Fair Value of the Swap Spread.md",
-    "Financial Engineering/Fixed Income Derivatives/Introduction to the Mathematics of Fixed Income Pricing.md",
-    "Financial Engineering/Fixed Income Derivatives/Pricing & Risk Management of Synthetic CDOs.md",
-    "Financial Engineering/Fixed Income Derivatives/Part II-Basis Trading and the Implied Repo Rate.md",
-    "Financial Engineering/Fixed Income Derivatives/Implementing Heath, Jarrow & Merton (HJM) Model.md",
-    "Financial Engineering/Fixed Income Derivatives/Fitting the Term Structure of Interest Rates.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods",
