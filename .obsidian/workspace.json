@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 2o Essentials of Structured Product En.md",
+                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 20 Essentials of Structured Product Engineering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 2o Essentials of Structured Product En"
+              "title": "Chapter 20 Essentials of Structured Product Engineering"
+            }
+          },
+          {
+            "id": "b962c93a50fb6e20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -112,33 +122,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "050a887f0962f125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Linear Model"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -292,11 +278,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for The Linear Model"
+              "title": "File properties"
             }
           },
           {
@@ -341,8 +325,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "050a887f0962f125",
+  "active": "b962c93a50fb6e20",
   "lastOpenFiles": [
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Foundations of the Pricing of Financial Derivatives.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 31/An Example of Implied Volatility.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md",
+    "Financial Markets/Options Futures and Other Derivatives Part 2/Front Matter/Front Matter.md",
+    "Financial Markets/Financial Trading and Markets/Chapter 10 Evaluating Trading Strategies and Performance.md",
+    "Financial Markets/Financial Trading and Markets/Chapter 7 Random Walks Risk and Arbitrage.md",
+    "Financial Markets/Financial Trading and Markets/Chapter 1 Introduction to Securities Trading and Markets.md",
+    "Financial Markets/Financial Trading and Markets/Financial Trading and Markets.md",
+    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 20 Essentials of Structured Product Engineering.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13/Banks Asset-Liability Managemen 303.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13/Chapter 13.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13/Banks Asset-Liability Management.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13/Bank Balance Sheets and Income Statements.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Preview of the Book.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Financial Institutions Transforming Intermediar.md",
+    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Financial Asset Pricing Theory Overview.md",
     "Untitled.md",
     "Untitled 1.md",
     "Python Notes.md",
@@ -351,24 +353,6 @@
     "Financial Markets/Principles of Financial Engineering Part 1/Chapter 2/Positions.md",
     "Financial Markets/Options Futures and Other Derivatives Part 1/Chapter 22/Value at Risk and Expected Shortfall 49.md",
     "Financial Markets/Options Futures and Other Derivatives Part 1/Options Futures and Other Derivatives Part 1.md",
-    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 2/Markets.md",
-    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/Chapter 22.md",
-    "Financial Markets/Options Futures and Other Derivatives Part 2/Options Futures and Other Derivatives Part 2.md",
-    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 2/Conclusions.md",
-    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 2/Chapter 2 Institutional Aspects of Derivative Mark.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 7/Arbitraging Price Discrepancies.md",
-    "Financial Markets/Principles of Financial Engineering Part 1/Principles of Financial Engineering Part1.md",
-    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 1/A Money Market Problem.md",
-    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 1/Chapter 1.md",
-    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 2 - Futures Markets.md",
-    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 1 - Derivative Securities.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 24/Chapter 24.md",
-    "Financial Engineering/Financial Engineering.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 2o Essentials of Structured Product En.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 696.md",
-    "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025).md",
-    "Financial Engineering/Untitled.md",
-    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
     "Untitled.canvas",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
