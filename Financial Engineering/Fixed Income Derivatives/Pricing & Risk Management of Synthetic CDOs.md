@@ -22,7 +22,7 @@ key_concepts:
 # Abstract
 
 The purpose of this paper is to analyze the risks of synthetic CDO structures and their  sensitivity to model parameters.  In order to measure these sensitivities, I also introduce  the latest techniques in the pricing and risk management of synthetic CDOs.  I show how  to model the conditional and unconditional default distributions of a typical synthetic deal  using a simple mathematical framework.  Strictly speaking, the findings of this paper are  only directly applicable to synthetic structures, however; many of the modeling and riskmanagement insights discussed apply to structures involving a waterfall.
-# [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]
+# Introduction
 
 The purpose of this paper is to introduce the latest techniques in the pricing and risk  management of synthetic CDOs and measure the risks and model sensitivities of a typical  synthetic deal.  Although these techniques are only directly applicable to synthetic  structures, many of the modeling and risk-management insights discussed in the paper  apply to structures involving a waterfall.
 

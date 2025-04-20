@@ -23,7 +23,7 @@ key_concepts:
 # Determining the Expression for the Fair Value of the Swap Spread
 
 ## Determining the Expression for the Fair Value of the Swap Spread: An Approach  Using Libor and GC Repo Rates
-### [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]  
+### Introduction  
 
 Several studies have highlighted an environment of lower liquidity in government bond  markets, with yield levels falling below true risk-free rates.  Under these circumstances  capital market practitioners are increasingly using the interest rate swap curve as their  main reference benchmark for valuation and analysis purposes. This reflects  practitioners’ views that continued exclusive reliance on government yields would  possibly lead to inaccurate analysis. The interest rate swap curve is viewed as an  acceptable alternative measurement benchmark. It is also used as a comparator  instrument, against which the yields on government bonds can be measured. As the  interest rate swap market is considered to be sufficiently liquid and exposing users to  only a very low level of default risk, the swap curve is considered invariably to be  trading at a fair value to the theoretical zero-coupon yield curve. For this reason market  participants are concerned that the swap curve is indeed fairly valued at all times, so that  swap spreads over the government curve can be taken to be a reasonable measure of the  liquidity and fair value of government bonds.  
 

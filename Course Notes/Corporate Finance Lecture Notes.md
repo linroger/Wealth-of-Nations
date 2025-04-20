@@ -28,11 +28,8 @@ January 3, 2023
 # Course Goals  
 
 •   Introduce essential tools for business analysis and financing  decisions  
-
 o   Principal perspective is that of CFO and Treasurer  
-
 •   Understand use of  the time value of money concept  
-
 o   Role of interest rates  
 
 •   Pricing of debt – loans, bonds and other fixed and floating rate  debt instruments  

@@ -20,7 +20,7 @@ key_concepts:
 # Equity Linked Note
 # Equity Linked Note :  An Introduction to Principal  Guaranteed Structures
 
-# [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]
+# Introduction
 
 In this article we provide a succinct description of a commonly used investment instrument  in the capital markets, the equity-linked note. These are instruments that allows investors  to secure downside protection for their initial investment, while still retaining a  participation in any upside gain in the equity market. The equity side of the instrument is  linked to the performance of an equity index, individual stocks, or a portfolio of indices  and equities.
 

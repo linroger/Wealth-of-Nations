@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/Fixed Income Derivatives/Introduction to the Mathematics of Fixed Income Pricing.md",
+                "file": "Course Notes/Corporate Finance Lecture Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to the Mathematics of Fixed Income Pricing"
+              "title": "Corporate Finance Lecture Notes"
             }
           },
           {
@@ -303,10 +303,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Engineering/Fixed Income Derivatives/Introduction to the Mathematics of Fixed Income Pricing.md"
+                "file": "Course Notes/Applied Financial Management Lecture Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Introduction to the Mathematics of Fixed Income Pricing"
+              "title": "File properties for Applied Financial Management Lecture Notes"
             }
           },
           {
@@ -353,32 +353,33 @@
   },
   "active": "e2bb182337d26f87",
   "lastOpenFiles": [
+    "Course Notes/Applied Financial Management Lecture Notes.md",
+    "Financial Engineering/Finance Derivatives Overview and Uses.md",
+    "Course Notes/Python/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
+    "Financial Engineering/Introduction to Financial Mathematics.md",
+    "Financial Engineering/Inverse Matrices Solve Linear Systems.md",
+    "Financial Engineering/Financial Mathematics Course.md",
+    "Financial Engineering/Notes on Currency Swaps.md",
+    "Financial Engineering/Verifying Martingale Property with Q.md",
+    "Financial Engineering/Verification of Central Limit Theorem.md",
+    "Financial Engineering/Static Option Replication.md",
+    "Financial Engineering/6. A Brief Introduction to Stochastic Calculus.md",
+    "Financial Engineering/5. Mean Variance-CAPM.md",
+    "Financial Engineering/1. DeterministicCashFlows.md",
+    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 5 - Index Futures.md",
+    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 3 - Forward and Futures Prices.md",
+    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 2 - Futures Markets.md",
+    "Financial Engineering/Derivatives/Part XI - Market Risk/Chapter 45 - VaR: Other Portfolios.md",
+    "Financial Engineering/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing/2. Boundaries, Limits, and Conditions on Option Prices.md",
+    "Financial Engineering/Fixed Income Derivatives/Zero-coupon convertible bonds.md",
+    "Financial Engineering/Fixed Income Derivatives/The Impact of Demand and Liquidity on the Information Content and Predictive Power of the Government Bond Yield Curve.md",
+    "Financial Engineering/Fixed Income Derivatives/Equity Linked Note.md",
+    "Financial Engineering/Fixed Income Derivatives/Determining the Expression for the Fair Value of the Swap Spread.md",
+    "Financial Engineering/Fixed Income Derivatives/Introduction to the Mathematics of Fixed Income Pricing.md",
+    "Financial Engineering/Fixed Income Derivatives/Pricing & Risk Management of Synthetic CDOs.md",
     "Financial Engineering/Fixed Income Derivatives/Part II-Basis Trading and the Implied Repo Rate.md",
     "Financial Engineering/Fixed Income Derivatives/Implementing Heath, Jarrow & Merton (HJM) Model.md",
     "Financial Engineering/Fixed Income Derivatives/Fitting the Term Structure of Interest Rates.md",
-    "Financial Engineering/Fixed Income Derivatives/Exotic Options.md",
-    "Financial Engineering/Fixed Income Derivatives/Equity Linked Note.md",
-    "Financial Engineering/Fixed Income Derivatives/Determining the Expression for the Fair Value of the Swap Spread.md",
-    "Financial Engineering/Fixed Income Derivatives/Credit Risk Models and the Valuation of Credit  Default Swap Contracts.md",
-    "Financial Engineering/Fixed Income Derivatives/Assessing the LIFFE Swapnote.md",
-    "Financial Engineering/Fixed Income Derivatives/A Primer on Probability Theory and Stochastic  Modelling.md",
-    "Financial Engineering/Appendices/Appendix 19.A Formulas for Geometric Average Options.md",
-    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 4 - Futures: Hedging and Speculation.md",
-    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 2 - Futures Markets.md",
-    "Financial Engineering/Derivatives/Part XII - Price Dynamics/Chapter 47 - Asset Price Dynamics.md",
-    "Advanced Financial Analysis and Valuation/Introduction to Corporate Finance.md",
-    "Financial Engineering/Finance Derivatives Overview and Uses.md",
-    "Financial Engineering/Financial Mathematics Course.md",
-    "Financial Engineering/An Introduction to Equity Markets.md",
-    "Financial Engineering/A Guide to Duration DV01 and Yield Curve.md",
-    "Financial Engineering/Derivatives/Part I - Forwards and Futures/Chapter 7 - Currency Forwards and Futures.md",
-    "Course Notes/Applied Financial Management Lecture Notes.md",
-    "Financial Engineering/Trading the Fixed Income Inflation and Credit Markets.md",
-    "Financial Engineering/Derivatives/Part III - Fixed Income Futures Contracts/Chapter 11 - Interest Rate Futures.md",
-    "Financial Engineering/Derivatives/Part IV - Options/Chapter 18 - Stock Options and Stock Index Options.md",
-    "Financial Engineering/Derivatives/Part II - Fixed Income Cash Markets/Chapter 9 - Bond Markets.md",
-    "Financial Engineering/Derivatives/Part III - Fixed Income Futures Contracts/Chapter 13 - T-bond Futures.md",
-    "Financial Engineering/Derivatives/Part IV - Options/Chapter 19 - Foreign Currency Options.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods",
@@ -398,7 +399,6 @@
     "Attachments/4ad753624df201bc723b1d399bcd77953a438216b2d2b7a9376346eefb7d7fe0.jpg",
     "Attachments/81eda38dfd1a090f81cdd95b6362b17a8e1fdab62b36ec80fe16c5bd8f586099.jpg",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8"
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9"
   ]
 }

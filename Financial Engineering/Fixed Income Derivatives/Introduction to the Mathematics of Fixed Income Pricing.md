@@ -16,9 +16,9 @@ key_concepts:
   - stochastic variables calculus
 ---
 
-# [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]] to the Mathematics of Fixed Income Pricing  
+# Introduction to the Mathematics of Fixed Income Pricing  
   
-# [[1. DeterministicCashFlows#1 Basic Theory Of Interest|Introduction]]  
+# Introduction  
 
 Powerfully built techniques for handling the dynamics and calculus of stochastic variables  such as interest rates have been developed over the last few decades. In this section we  introduce the fundamentals of mathematical finance with respect to fixed income pricing.  An extended and through discussion of the content of this section can be found in  Choudhry (2004).  
 

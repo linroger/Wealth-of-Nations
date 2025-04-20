@@ -429,13 +429,11 @@ FRB Actual 2022 (\$bn)
 # Thinking Carefully About Asset-Liability (Duration) Mismatch  
 
 Let’s use the SVB balance sheet to think about asset-liability and duration mismatch • “Duration” or interest rate sensitivity is a topic we cover in the next week or two  
-
 • You will not be able to fully understand this discussion, but we will return to this  
-
 Some points re any bank balance sheet:  
-
-• Assets and liabilities must always match • Assets generally long-dated (long duration) –  What does this mean? Discuss “duration” next week  
-
+• Assets and liabilities must always match 
+• Assets generally long-dated (long duration) 
+–  What does this mean? Discuss “duration” next week  
 • Liabilities (deposits) short-dated  
 
  ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2e3efa8ff650ed4d22e0f7d918fa5919de18212cd653420cbfe2f97a6a7229c.jpg)  
