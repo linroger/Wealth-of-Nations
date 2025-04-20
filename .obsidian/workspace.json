@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8161d565ba39a5f7",
+            "id": "d096aba34d1264fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 3 - Futures Markets/Chapter 3 - Futures Markets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Financial Derivatives and Quantitative Methods"
+              "title": "Chapter 3 - Futures Markets"
             }
           },
           {
-            "id": "375c393577bbdbfa",
+            "id": "a20123a1abed7e26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 14 - Private Equity, Pension, and Sovereign Funds/Chapter 14 - Private Equity, Pension, and Sovereign Funds.md",
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 2 - Spot Markets/Short Selling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 14 - Private Equity, Pension, and Sovereign Funds"
+              "title": "Short Selling"
             }
           },
           {
-            "id": "f114d1d6145bbaa3",
+            "id": "3e53c197e95db713",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory.md",
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4 - Swap Markets/Chapter 4 - Swap Markets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 11 - Individual Investors-A Survey of Modern Investment Theory"
+              "title": "Chapter 4 - Swap Markets"
             }
           },
           {
-            "id": "25e5d932f491e035",
+            "id": "030225283965931a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Collateralized Debt Obligations and Basket Cred.md",
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 5 Options on Prices and Hedge-Based Valuation/Chapter 5 Options on Prices and Hedge-Based Valuation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Collateralized Debt Obligations and Basket Cred"
+              "title": "Chapter 5 Options on Prices and Hedge-Based Valuation"
             }
           },
           {
-            "id": "cb6c143eade65dca",
+            "id": "2eaaecb5391c5ab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Untitled/Untitled.md",
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 6/Options on Non-Price Variables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Options on Non-Price Variables"
             }
           }
         ],
@@ -283,10 +283,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Untitled/Untitled.md"
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 6/Options on Non-Price Variables.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for Options on Non-Price Variables"
             }
           },
           {
@@ -331,36 +331,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cb6c143eade65dca",
+  "active": "2eaaecb5391c5ab8",
   "lastOpenFiles": [
-    "Financial Markets/Financial Asset Pricing Theory Overview/PART III THE PLAYERS/PART III THE PLAYERS.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Untitled/Untitled.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Untitled",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Collateralized Debt Obligations and Basket Cred.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/PART III THE PLAYERS",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Collateralized Debt Obligations.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Copulas and the Modeling of Default Correlatio.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Basket Credit Derivatives.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 14 - Private Equity, Pension, and Sovereign Funds/Chapter 14 - Private Equity, Pension, and Sovereign Funds.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 12 - Hedge Fund Strategies/Hedge Fund Strategies.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 12 - Hedge Fund Strategies/Chapter 12 - Hedge Fund Strategies.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory/Fundamental Indexing.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11/Individual Investors a Survey of Modern Investm.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory/Free Cash Flow Valuation of Companies.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory/A Brief History of Investment Thought.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 12 - Hedge Fund Strategies/Hedge Fund Replication and Strategy Indexes.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 12 - Hedge Fund Strategies/Portable Alpha and Market-Neutral Plays.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4 - State Prices/Chapter 4 - State Prices.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 14 - Private Equity, Pension, and Sovereign Funds/Private Equity.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13 - Banks Asset-Liability Management/Bank Balance Sheets and Income Statements.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13 - Banks Asset-Liability Management/Chapter 13 - Banks Asset-Liability Management.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13 - Banks Asset-Liability Management/Banks Asset-Liability Management.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13/Banks Asset-Liability Managemen 303.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 14 - Private Equity, Pension, and Sovereign Funds/Risk Allocation for Pension Funds and Sovereig.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 14/Private Equity Pension and Sovereign Funds 329.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 6/Exotic Interest Rate Options.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 6/Convexity-Adjusted Models for LIBOR Forwards Qu.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 6/Black Models for Bond Price Options Capsfloors.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 6/Arbitrage-Free Interest Rate Models.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 6/Chapter 6.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 5 Options on Prices and Hedge-Based Valuation/Chapter 5 Options on Prices and Hedge-Based Valuation.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4 - Swap Markets/Chapter 4 - Swap Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 2 - Spot Markets/Spot Markets 23.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 2 - Spot Markets/Short Selling.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4 - Swap Markets/Interest Rate Swaps.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4 - Swap Markets/Fundamentals of Swaps.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4 - Swap Markets/Equity Commodity and Exotic Swaps.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4 - Swap Markets/Cross-Currency Swaps.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 3 - Futures Markets/Chapter 3 - Futures Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 2 - Spot Markets/Chapter 2 - Spot Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 3 - Futures Markets/Yield Curve Construction with Interest Rate Fut.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 3 - Futures Markets/Futures Not Subject to Cash-And-Carry.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 3 - Futures Markets/Futures Mechanics.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 3 - Futures Markets/Fundamentals of Futures and Forwards.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 3 - Futures Markets/Cash-And-Carry Arbitrage.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 2 - Spot Markets/Intra-Year Compounding and Day-Count.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 2 - Spot Markets/Interest Rate Risk Duration and Convexity.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 2 - Spot Markets/Bonds and Annual Bond Math.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1 - Purpose and Structure of Financial Markets/Transactional Structure of Financial Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1 - Purpose and Structure of Financial Markets/Risk Sharing.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1 - Purpose and Structure of Financial Markets/Primary Issuance and Secondary Resale Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS",
     "Course Notes/Python/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",
@@ -368,7 +369,6 @@
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing",
     "Untitled.canvas",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",

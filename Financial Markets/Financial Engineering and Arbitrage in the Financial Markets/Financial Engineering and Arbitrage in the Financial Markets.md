@@ -1,8 +1,8 @@
 %% Begin Waypoint %%
 - **[[Financial Engineering and Arbitrage in the Financial Markets]]**
-	- **[[Chapter 1]]**
+	- **[[Chapter 1 - Purpose and Structure of Financial Markets]]**
 		- [[Arbitrage Pure Versus Relative Value]]
-		- [[Chapter 1]]
+		- [[Chapter 1 - Purpose and Structure of Financial Markets]]
 		- [[Financial Institutions Transforming Intermediar]]
 		- [[Market Players Hedgers Vs Speculators]]
 		- [[Overview of Financial Markets]]
@@ -11,9 +11,9 @@
 		- [[Purpose and Structure of Financial Markets 1]]
 		- [[Risk Sharing]]
 		- [[Transactional Structure of Financial Markets]]
-	- **[[Chapter 2]]**
+	- **[[Chapter 2 - Spot Markets]]**
 		- [[Bonds and Annual Bond Math]]
-		- [[Chapter 2]]
+		- [[Chapter 2 - Spot Markets]]
 		- [[Equity Commodity and Currency Math]]
 		- [[Hedge Funds Alpha Beta and Strategy Indexes 287]]
 		- [[Interest Rate Risk Duration and Convexity]]
@@ -21,25 +21,25 @@
 		- [[Short Selling]]
 		- [[Spot Markets 23]]
 		- [[Term Structure of Interest Rates and the Discou]]
-	- **[[Chapter 3]]**
+	- **[[Chapter 3 - Futures Markets]]**
 		- [[Cash-And-Carry Arbitrage]]
-		- [[Chapter 3]]
+		- [[Chapter 3 - Futures Markets]]
 		- [[Fundamentals of Futures and Forwards]]
 		- [[Futures Mechanics]]
 		- [[Futures Not Subject to Cash-And-Carry]]
 		- [[Yield Curve Construction with Interest Rate Fut]]
-	- **[[Chapter 4]]**
-		- [[Chapter 4]]
+	- **[[Chapter 4 - Swap Markets]]**
+		- [[Chapter 4 - Swap Markets]]
 		- [[Cross-Currency Swaps]]
 		- [[Equity Commodity and Exotic Swaps]]
 		- [[Fundamentals of Swaps]]
-		- [[Interest Rate Swaps]]
-	- **[[Chapter 5]]**
+		- [[Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4 - Swap Markets/Interest Rate Swaps]]
+	- **[[Chapter 5 Options on Prices and Hedge-Based Valuation]]**
 		- [[A Real-Life Option Pricing Exercise]]
-		- [[Binomial Option Pricing]]
+		- [[Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 5 Options on Prices and Hedge-Based Valuation/Binomial Option Pricing]]
 		- [[Black-Scholes Model and Extensions]]
 		- [[Call and Put Payoffs at Expiry]]
-		- [[Chapter 5]]
+		- [[Chapter 5 Options on Prices and Hedge-Based Valuation]]
 		- [[Composite Payoffs at Expiry]]
 		- [[Currency Options]]
 		- [[Option Values Prior to Expiry]]

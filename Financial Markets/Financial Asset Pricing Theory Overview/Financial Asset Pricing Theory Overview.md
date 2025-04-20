@@ -13,9 +13,5 @@
 	- **[[Chapter 11 - Risk-adjusted probabilities]]**
 	- **[[Chapter 12 - Derivatives]]**
 	- [[Financial Asset Pricing Theory Overview]]
-	- **[[PART III THE PLAYERS]]**
-		- [[PART III THE PLAYERS]]
-	- **[[Untitled]]**
-		- [[Untitled]]
 
 %% End Waypoint %%

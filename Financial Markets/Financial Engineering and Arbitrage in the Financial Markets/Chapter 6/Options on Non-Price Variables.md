@@ -27,12 +27,8 @@ key_concepts:
   - Trinomial trees
 ---
 
-# 6 Options on Non-Price Variables  
-
-155  
-
-6.1 Black Models For Bond Price Options, Caps/Floors, and European   
-Swaptions 156   
+6 Options on Non-Price Variables 155  
+6.1 Black Models For Bond Price Options, Caps/Floors, and European Swaptions 156   
 6.1.1 Options on Bond Prices 156   
 6.1.2 Cap and Floor Definitions. 158   
 6.1.3 Relationship of Caps and Floors to FRAs and Swaps 159   
