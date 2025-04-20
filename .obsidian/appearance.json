@@ -1,7 +1,7 @@
 {
   "cssTheme": "Minimal",
   "accentColor": "#9fd8de",
-  "textFontFamily": "Latin Modern Roman,CMU Serif,Palatino,SF Pro Text",
+  "textFontFamily": "SF Pro Text,Latin Modern Roman,CMU Serif,Palatino",
   "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "SF Mono",
   "baseFontSize": 16,

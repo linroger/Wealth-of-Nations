@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 20 Essentials of Structured Product Engineering.md",
+                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 2o Essentials of Structured Product En.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,17 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 20 Essentials of Structured Product Engineering"
-            }
-          },
-          {
-            "id": "b962c93a50fb6e20",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 2o Essentials of Structured Product En"
             }
           },
           {
@@ -122,9 +112,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "050a887f0962f125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Linear Model"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -278,9 +292,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for The Linear Model"
             }
           },
           {
@@ -325,34 +341,41 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b962c93a50fb6e20",
+  "active": "050a887f0962f125",
   "lastOpenFiles": [
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Foundations of the Pricing of Financial Derivatives.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Chapter 31/An Example of Implied Volatility.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md",
-    "Financial Markets/Options Futures and Other Derivatives Part 2/Front Matter/Front Matter.md",
-    "Financial Markets/Financial Trading and Markets/Chapter 10 Evaluating Trading Strategies and Performance.md",
-    "Financial Markets/Financial Trading and Markets/Chapter 7 Random Walks Risk and Arbitrage.md",
-    "Financial Markets/Financial Trading and Markets/Chapter 1 Introduction to Securities Trading and Markets.md",
-    "Financial Markets/Financial Trading and Markets/Financial Trading and Markets.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 20 Essentials of Structured Product Engineering.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13/Banks Asset-Liability Managemen 303.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13/Chapter 13.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13/Banks Asset-Liability Management.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 13/Bank Balance Sheets and Income Statements.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Preview of the Book.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Financial Institutions Transforming Intermediar.md",
-    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Financial Asset Pricing Theory Overview.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Python Notes.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/The Framework 396.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 2/An Application 401.md",
-    "Financial Markets/Principles of Financial Engineering Part 1/Chapter 2/Positions.md",
-    "Financial Markets/Options Futures and Other Derivatives Part 1/Chapter 22/Value at Risk and Expected Shortfall 49.md",
-    "Financial Markets/Options Futures and Other Derivatives Part 1/Options Futures and Other Derivatives Part 1.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/32. Pricing Foreign Currency Options.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/31. Implied Volatility and the Volatility Smile.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/30. Option Prices and Expected Returns.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/29. Option Prices and the Prices of State-Contingent Claims.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/28. Pricing Fixed-Income Securities and Derivatives Using an Arbitrage-Free Binomial Tree.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/26. Interest Rate Contracts_ Forward Rate Agreements, Swaps, and Options.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/27. Fitting an Arbitrage-Free Term Structure Model.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/25. The Term Structure of Interest Rates.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods/24. Finite Difference Methods.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods/23. Monte Carlo Simulation.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/22. Pricing Forwards, Futures, and Options on Forwards and Futures.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/18. Compound Option Pricing.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/21. Min-Max Option Pricing.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/20. American Put Option Pricing.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/19. American Call Option Pricing.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/17. Applying Linear Homogeneity to Option Pricing.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/16. Connecting Discrete and Continuous Brownian Motions.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/14. The Greeks in the Black-Scholes-Merton Model.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/13. Deriving the Black-Scholes-Merton Model.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/12. Properties of the Lognormal and Normal Diffusion Processes for Modeling Assets.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/10. The Basics of Brownian Motion and Wiener Processes.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory/9. Convergence of the Binomial Model to the Black-Scholes-Merton Model.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory/8. Calculating the Greeks in the Binomial Model.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory/7. The Binomial Model.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing/6. Basic Concepts in Valuing Risky Assets and Derivatives.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing",
     "Untitled.canvas",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",
@@ -366,13 +389,6 @@
     "Attachments/81eda38dfd1a090f81cdd95b6362b17a8e1fdab62b36ec80fe16c5bd8f586099.jpg",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 7",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 2",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12"
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8"
   ]
 }
