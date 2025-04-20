@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44dfb800350e4282",
+            "id": "8161d565ba39a5f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11/Individual Investors a Survey of Modern Investm.md",
+                "file": "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Individual Investors a Survey of Modern Investm"
+              "title": "Financial Derivatives and Quantitative Methods"
             }
           },
           {
-            "id": "801b95d26a0226ed",
+            "id": "86bf45d57b78eef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Real Interest Rates and Aggregate Consumption.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4 - State Prices/Chapter 4 - State Prices.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Real Interest Rates and Aggregate Consumption"
+              "title": "Chapter 4 - State Prices"
             }
           },
           {
-            "id": "9fb11b77ff824d94",
+            "id": "e5a0be4de1b90611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9/Chapter 9.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 9"
+              "title": "Chapter 11 - Risk-adjusted probabilities"
             }
           },
           {
-            "id": "4f1ef712028a7502",
+            "id": "3281f4efbab7c1b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "12d86bf333c5743b",
+            "id": "6c257a80c1772da2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Chapter 12 - Derivatives.md",
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 12 - Derivatives"
+              "title": "Financial Engineering and Arbitrage in the Financial Markets"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -283,10 +283,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9/Chapter 9.md"
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Chapter 9"
+              "title": "File properties for Financial Engineering and Arbitrage in the Financial Markets"
             }
           },
           {
@@ -331,34 +331,34 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9fb11b77ff824d94",
+  "active": "6c257a80c1772da2",
   "lastOpenFiles": [
+    "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter/Table of Contents.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter/Front Matter.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Chapter 12 - Derivatives.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4 - State Prices/Chapter 4 - State Prices.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8 - Consumption-Based Asset Pricing/Chapter 8 - Consumption-Based Asset Pricing.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9 - Factor Models/Chapter 9 - Factor Models.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Chapter 10 - The Economics of the Term Structure of Interest Rates.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5 - Modeling the Preferences of Individuals/Chapter 5 - Modeling the Preferences of Individuals.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6 - Individual optimality/Chapter 6 - Individual optimality.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 7 - Market equilibrium/Chapter 7 - Market equilibrium.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1 - Introduction and Overview/Chapter 1 - Introduction and Overview.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 2 - Uncertainty, Information, and Stochastic Processes/Chapter 2 - Uncertainty, Information, and Stochastic Processes.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3 -  Assets, Portfolios, and Arbitrage/Chapter 3 -  Assets, Portfolios, and Arbitrage.md",
+    "Financial Instruments/Financial Instruments.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Financial Asset Pricing Theory Overview.md",
+    "Financial Markets/Financial Markets.md",
+    "Financial Markets/Financial Trading and Markets/Chapter 6 Adverse Selection, Trading, and Liquidity.md",
+    "Financial Markets/Financial Trading and Markets/Financial Trading and Markets.md",
+    "Financial Markets/Financial Trading and Markets/Chapter 1 Introduction to Securities Trading and Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Front Matter/Front Matter.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Real Interest Rates and Aggregate Consumption.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Real Interest Rates and Aggregate Production.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/The Expectation Hypothesis.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Chapter 10 - The Economics of the Term Structure of Interest Rates.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11/Individual Investors a Survey of Modern Investm.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Real and Nominal Interest Rates and Term Struc.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Liquidity Preference Market Segmentation and P.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Basic Interest Rate Concepts and Relations.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Equilibrium Interest Rate Models.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The Economics of the Term Structure of Interest Rates/Exercises.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Financial Asset Pricing Theory Overview.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9/Theoretical Factors.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10 - The economics of the term structure of interest rates/__temp__Chapter 10 - The Economics of the Term Structure of Interest Rates.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Chapter 12 - Derivatives.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Introduction.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 5/Residual Risk of Options Gamma Vega and Volatil.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11/Chapter 11.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11/Fundamental Indexing.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11/Free Cash Flow Valuation of Companies.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 11/A Brief History of Investment Thought.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Arbitrage Pure Versus Relative Value.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Chapter 1.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4/Interest Rate Swaps.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4/Chapter 4.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4/Fundamentals of Swaps.md",
     "Course Notes/Python/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",
@@ -379,6 +379,6 @@
     "Attachments/4ad753624df201bc723b1d399bcd77953a438216b2d2b7a9376346eefb7d7fe0.jpg",
     "Attachments/81eda38dfd1a090f81cdd95b6362b17a8e1fdab62b36ec80fe16c5bd8f586099.jpg",
     "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9"
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9 - Factor Models"
   ]
 }

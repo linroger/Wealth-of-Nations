@@ -15,10 +15,20 @@ key_concepts:
   - model assets and portfolios
   - one- and multi-period models
 ---
+%% Begin Waypoint %%
+- **[[Chapter 3]]**
+	- [[Arbitrage]]
+	- [[Assets]]
+	- [[Chapter 3]]
+	- [[Exercises]]
+	- [[Marketed Dividends and Market Completeness]]
+	- [[Portfolios and Trading Strategies]]
+	- [[Redundant Assets]]
 
-# Chapter 3  
+%% End Waypoint %%
+# Chapter 3 -  Assets, Portfolios, and Arbitrage
 
-# Assets, portfolios, and arbitrage  
+# Assets, Portfolios, and Arbitrage
 
 3 Assets, portfolios, and arbitrage 45  
 3.1 Introduction 45   

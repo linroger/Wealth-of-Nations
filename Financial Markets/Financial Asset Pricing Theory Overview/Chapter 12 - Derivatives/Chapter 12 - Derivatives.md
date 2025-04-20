@@ -15,7 +15,17 @@ key_concepts:
   - pricing models
   - risk management
 ---
+%% Begin Waypoint %%
+- **[[Chapter 12 - Derivatives]]**
+	- [[American-Style Derivatives]]
+	- [[Chapter 12 - Derivatives]]
+	- [[Concluding Remarks]]
+	- [[Exercises]]
+	- [[Forwards and Futures]]
+	- [[Interest Rate Swaps and Swaptions]]
+	- [[Options]]
 
+%% End Waypoint %%
 # Chapter 12 - Derivatives
 
 # Derivatives  

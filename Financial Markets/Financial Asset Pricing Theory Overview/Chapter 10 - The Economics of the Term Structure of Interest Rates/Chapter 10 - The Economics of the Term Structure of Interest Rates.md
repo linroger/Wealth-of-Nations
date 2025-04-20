@@ -1,4 +1,16 @@
+%% Begin Waypoint %%
+- **[[Chapter 10 - The Economics of the Term Structure of Interest Rates]]**
+	- [[Basic Interest Rate Concepts and Relations]]
+	- [[Chapter 10 - The Economics of the Term Structure of Interest Rates]]
+	- [[Equilibrium Interest Rate Models]]
+	- [[Exercises]]
+	- [[Liquidity Preference Market Segmentation and P]]
+	- [[Real and Nominal Interest Rates and Term Struc]]
+	- [[Real Interest Rates and Aggregate Consumption]]
+	- [[Real Interest Rates and Aggregate Production]]
+	- [[The Expectation Hypothesis]]
 
+%% End Waypoint %%
 10 The economics of the term structure of interest rates 243  
 10.1 Introduction . 243   
 10.2 Basic interest rate concepts and relations 244   

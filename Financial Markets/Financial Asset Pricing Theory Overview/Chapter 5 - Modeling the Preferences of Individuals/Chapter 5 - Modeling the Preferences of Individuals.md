@@ -6,8 +6,19 @@ tags:
   - '#preference_modeling'
 ---
 # Chapter 5  
+%% Begin Waypoint %%
+- **[[Chapter 5 - Modeling the Preferences of Individuals]]**
+	- [[Chapter 5 - Modeling the Preferences of Individuals]]
+	- [[Consumption Plans and Preference Relations]]
+	- [[Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5 - Modeling the Preferences of Individuals/Exercises]]
+	- [[Expected Utility Representation of Preferences]]
+	- [[Preferences for Multi-Date Consumption Plans]]
+	- [[Risk Aversion]]
+	- [[Utility Functions in Models and in Reality]]
+	- [[Utility Indices]]
 
-# Modeling the preferences of individuals  
+%% End Waypoint %%
+# Modeling the Preferences of Individuals  
 
 5 Modeling the preferences of individuals 99  
 5.1 Introduction . 99   

@@ -10,10 +10,19 @@ key_concepts:
   - Introduction
   - Overview
 ---
+%% Begin Waypoint %%
+- **[[Chapter 1]]**
+	- [[Chapter 1]]
+	- [[Elements of Asset Pricing Models]]
+	- [[Prerequisites]]
+	- [[Some Stylized Empirical Facts About Asset Retur]]
+	- [[The Organization of This Book]]
+	- [[What Is Modern Asset Pricing]]
 
-# Chapter 1  
+%% End Waypoint %%
+# Chapter 1 - Introduction and Overview
 
-# Introduction and overview  
+# Introduction and Overview  
 # 1 Introduction and overview 1  
 1.1 What is modern asset pricing? 1   
 1.2 Elements of asset pricing models 3   

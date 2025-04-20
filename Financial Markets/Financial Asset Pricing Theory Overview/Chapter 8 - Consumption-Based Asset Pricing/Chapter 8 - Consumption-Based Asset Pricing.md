@@ -5,9 +5,22 @@ tags:
   - '#consumption'
   - '#consumption_based_asset_pricing'
 ---
-# Chapter 8  
+# Chapter 8 - Consumption-Based Asset Pricing
+%% Begin Waypoint %%
+- **[[Chapter 8 - Consumption-Based Asset Pricing]]**
+	- [[CCAPM with Alternative Preferences]]
+	- [[Chapter 8 - Consumption-Based Asset Pricing]]
+	- [[Consumption-Based Asset Pricing with Incomplete Markets]]
+	- [[Exercises]]
+	- [[General Multi-Period Link Between Consumption a]]
+	- [[Long-Run Risks and Epstein-Zin Utility]]
+	- [[Problems with the Empirical Studies]]
+	- [[The One-Period Ccapm]]
+	- [[The Simple Multi-Period Ccapm]]
+	- [[Theory Meets Data - Asset Pricing Puzzles]]
 
-# Consumption-based asset pricing  
+%% End Waypoint %%
+# Consumption-Based Asset Pricing
 8.1 Introduction. 175   
 8.2 The one-period CCAPM . 175   
 8.2.1 The simple one-period CCAPM: version 1. 176   

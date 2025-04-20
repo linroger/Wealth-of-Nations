@@ -10,7 +10,15 @@ tags:
 7.4 Pareto-optimality in some incomplete markets . 168   
 7.5 Exercises 171   
 Consumption-based asset pricing 175   
+%% Begin Waypoint %%
+- **[[Chapter 7 - Market equilibrium]]**
+	- [[Chapter 7 - Market equilibrium]]
+	- [[Exercises]]
+	- [[Pareto-Optimality and Representative Individual]]
+	- [[Pareto-Optimality in Complete Markets]]
+	- [[Pareto-Optimality in Some Incomplete Markets]]
 
+%% End Waypoint %%
 # 7.1 Introduction  
 
 The previous chapter characterized the optimal decisions of utility-maximizing individuals who take asset prices as given. This chapter will focus on the characterization of market equilibrium asset prices. We will work throughout in a one-period model and assume that the state space is finite, $\Omega=\{1,2,\dots,S\}$ . The results can be generalized to an infinite state space and a multi-period Setting.  

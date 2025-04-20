@@ -4,7 +4,18 @@ tags:
   - '#factor_models'
 ---
 # Chapter 9 - Factor Models
+%% Begin Waypoint %%
+- **[[Chapter 9 - Factor Models]]**
+	- [[Chapter 9 - Factor Models]]
+	- [[Empirical Factors]]
+	- [[Exercises]]
+	- [[Mean-Variance Efficient Returns and Pricing Fac]]
+	- [[Pricing Factors in a Multi-Period Framework]]
+	- [[Pricing Factors in a One-Period Framework]]
+	- [[The Classical One-Period Capm]]
+	- [[Theoretical Factors]]
 
+%% End Waypoint %%
 # Factor models  
 9 Factor models 217  
 9.1 Introduction 217   
