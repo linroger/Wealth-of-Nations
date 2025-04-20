@@ -1,31 +1,3 @@
----
-tags:
-  - bond_option_pricing
-  - cap_floor_pricing
-  - european_swaptions
-  - exotic_options
-  - interest_rate_models
-aliases:
-  - Arbitrage-Free Models
-  - Black Model
-  - Convexity-Adjusted Models
-  - Interest Rate Options
-  - Options on Non-Price Variables
-key_concepts:
-  - Arbitrage-free models
-  - Bermudan swaptions
-  - Black model
-  - Cap and floor pricing
-  - Convexity adjustment
-  - Digitals and ranges
-  - European swaptions
-  - Exotic interest rate options
-  - Heath-Jarrow-Morton model
-  - LIBOR market model
-  - Periodic caps
-  - Short rate models
-  - Trinomial trees
----
 
 6 Options on Non-Price Variables 155  
 6.1 Black Models For Bond Price Options, Caps/Floors, and European Swaptions 156   
@@ -39,8 +11,7 @@ key_concepts:
 6.1.8 Relationship of Swaptions to Forward Swaps 165   
 6.1.9 Pricing of European Swaptions 167   
 6.1.10 Limitations of the Black Model 168   
-6.2 Convexity-Adjusted Models For Libor Forwards, Quantos, and Constant   
-Maturity Swaps 168   
+6.2 Convexity-Adjusted Models For Libor Forwards, Quantos, and Constant Maturity Swaps 168   
 6.2.1 Convexity Adjustment for Eurodollar Futures 169   
 6.2.2 Convexity Adjustment for CMS Options 170   
 6.2.3 Quanto Adjustments 171   

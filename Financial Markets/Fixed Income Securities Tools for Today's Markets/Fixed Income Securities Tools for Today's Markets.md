@@ -12,7 +12,7 @@
 		- [[Chapter 2]]
 		- [[Forward Rates]]
 		- [[Interest Rate Quotations]]
-		- [[Interest Rate Swaps]]
+		- [[Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 2/Interest Rate Swaps]]
 		- [[Pricing Interest Rate Swaps]]
 		- [[Spot Rates]]
 	- **[[Chapter 3]]**

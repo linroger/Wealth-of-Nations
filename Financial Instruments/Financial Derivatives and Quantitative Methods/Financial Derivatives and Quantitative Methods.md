@@ -26,7 +26,7 @@ key_concepts:
 	- [[Arithmetic and Geometric Rates of Return]]
 	- [[Asset Price Dynamics]]
 	- [[Black Scholes Formula]]
-	- [[Credit Default Swaps]]
+	- [[Financial Instruments/Financial Derivatives and Quantitative Methods/Credit Default Swaps]]
 	- [[Exotic Options]]
 	- [[Financial Derivatives and Quantitative Methods]]
 	- [[Forward and Futures Contracts]]

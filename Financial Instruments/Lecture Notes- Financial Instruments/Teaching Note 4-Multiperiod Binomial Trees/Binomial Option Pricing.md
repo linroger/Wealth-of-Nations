@@ -19,7 +19,7 @@ key_concepts:
 ---
 
 - **[[Teaching Note 4-Multiperiod Binomial Trees]]**
-	- [[Binomial Option Pricing]]
+	- [[Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing]]
 	- [[Binomial Tree Steps]]
 	- [[Calculate Stock Prices at Different Nodes]]
 	- [[Options Strategies Construction]]

@@ -168,7 +168,7 @@ dollar will depreciate relative to the Canadian dollar.
 > [!ANSWER]
 > False The forward exchange rate is determined by the current exchange rate and the interest rate differential between the US and Canada. Further the forward rate reflects both expectations and risk premia.
 #### PROBLEM 2. (25 POINTS) BINOMIAL TREES
-[Binomial Option Pricing](Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Binomial%20Option%20Pricing.md)
+[Binomial Option Pricing](Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Binomial%20Option%20Pricing.md)
 [Binomial Trees and Option Pricing MBA](Binomial%20Trees%20and%20Option%20Pricing%20MBA.md)
 [Lecture Note 4- Binomial Tree](Lecture%20Note%204-%20Binomial%20Tree.md)
 [Option Pricing With Multiperiod Binomial Tree](Option%20Pricing%20With%20Multiperiod%20Binomial%20Tree.md)
