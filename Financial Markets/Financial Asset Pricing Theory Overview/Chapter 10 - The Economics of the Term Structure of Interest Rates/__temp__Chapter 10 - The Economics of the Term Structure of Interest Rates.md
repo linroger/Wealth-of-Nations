@@ -5,9 +5,7 @@ tags:
   - interest_rates
   - term_structure
   - yield_curve
-aliases:
-  - Chapter 10
-  - Chapter Ten
+aliases: []
 key_concepts:
   - Forward rate models
   - Interest rate curves
@@ -16,7 +14,7 @@ key_concepts:
   - Yield curve analysis
 ---
 
-# Chapter 10  
+
 
 # The economics of the term structure of interest rates  
 10 The economics of the term structure of interest rates 243  

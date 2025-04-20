@@ -68,8 +68,8 @@
 		- [[The One-Period Ccapm]]
 		- [[The Simple Multi-Period Ccapm]]
 		- [[Theory Meets Data - Asset Pricing Puzzles]]
-	- **[[Chapter 9]]**
-		- [[Chapter 9]]
+	- **[[Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9/Chapter 9 - Factor Models]]**
+		- [[Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9/Chapter 9 - Factor Models]]
 		- [[Empirical Factors]]
 		- [[Exercises]]
 		- [[Mean-Variance Efficient Returns and Pricing Fac]]
@@ -77,9 +77,9 @@
 		- [[Pricing Factors in a One-Period Framework]]
 		- [[The Classical One-Period Capm]]
 		- [[Theoretical Factors]]
-	- **[[Chapter 10]]**
+	- **[[Chapter 10 - The Economics of the Term Structure of Interest Rates]]**
 		- [[Basic Interest Rate Concepts and Relations]]
-		- [[Chapter 10]]
+		- [[Chapter 10 - The Economics of the Term Structure of Interest Rates]]
 		- [[Equilibrium Interest Rate Models]]
 		- [[Exercises]]
 		- [[Liquidity Preference Market Segmentation and P]]
@@ -103,7 +103,6 @@
 		- [[Exercises]]
 		- [[Forwards and Futures]]
 		- [[Interest Rate Swaps and Swaptions]]
-		- [[Introduction]]
 		- [[Options]]
 	- [[Financial Asset Pricing Theory Overview]]
 	- **[[Front Matter]]**

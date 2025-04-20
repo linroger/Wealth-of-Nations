@@ -37,4 +37,4 @@ key_concepts:
 11.5.1 A Brief History of Fundamental Indexing 285   
 11.5.2 Fundamental Indexing and Rebalancing 285   
 11.5.3 Tactical Asset Allocation 286   
-11.5.4Fundamentally Indexed US Funds 286  
+11.5.4 Fundamentally Indexed US Funds 286  

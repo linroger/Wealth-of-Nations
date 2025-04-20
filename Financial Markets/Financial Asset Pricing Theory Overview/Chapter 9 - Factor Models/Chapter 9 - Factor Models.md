@@ -3,7 +3,7 @@ tags:
   - '#chapter_9'
   - '#factor_models'
 ---
-# Chapter 9  
+# Chapter 9 - Factor Models
 
 # Factor models  
 9 Factor models 217  
