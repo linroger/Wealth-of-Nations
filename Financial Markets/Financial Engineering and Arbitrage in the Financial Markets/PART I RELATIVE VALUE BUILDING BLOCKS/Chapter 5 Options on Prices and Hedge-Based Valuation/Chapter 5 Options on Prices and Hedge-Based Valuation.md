@@ -1,6 +1,19 @@
+%% Begin Waypoint %%
+- **[[Chapter 5 Options on Prices and Hedge-Based Valuation]]**
+	- [[A Real-Life Option Pricing Exercise]]
+	- [[Binomial Option Pricing]]
+	- [[Black-Scholes Model and Extensions]]
+	- [[Call and Put Payoffs at Expiry]]
+	- [[Chapter 5 Options on Prices and Hedge-Based Valuation]]
+	- [[Composite Payoffs at Expiry]]
+	- [[Currency Options]]
+	- [[Option Values Prior to Expiry]]
+	- [[Options and Forwards Risk Sharing and Put-Call]]
+	- [[Residual Risk of Options Gamma Vega and Volatil]]
 
-# 5 Options on Prices and Hedge-Based Valuation 119  
+%% End Waypoint %%
 
+5 Options on Prices and Hedge-Based Valuation 119  
 5.1 Call and Put Payoffs at Expiry 120   
 5.2 Composite Payoffs at Expiry 122   
 5.2.1 Straddles and Strangles. 122   

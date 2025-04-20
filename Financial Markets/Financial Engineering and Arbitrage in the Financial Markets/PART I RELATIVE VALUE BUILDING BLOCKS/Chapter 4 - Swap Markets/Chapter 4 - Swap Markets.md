@@ -1,3 +1,13 @@
+%% Begin Waypoint %%
+- **[[Chapter 4 - Swap Markets]]**
+	- [[Chapter 4 - Swap Markets]]
+	- [[Cross-Currency Swaps]]
+	- [[Equity Commodity and Exotic Swaps]]
+	- [[Fundamentals of Swaps]]
+	- [[Interest Rate Swaps]]
+
+%% End Waypoint %%
+
 4 Swap Markets 95  
 4.1 Fundamentals or Swaps 95   
 4.1.1 The Dual Nature of Swaps 96   

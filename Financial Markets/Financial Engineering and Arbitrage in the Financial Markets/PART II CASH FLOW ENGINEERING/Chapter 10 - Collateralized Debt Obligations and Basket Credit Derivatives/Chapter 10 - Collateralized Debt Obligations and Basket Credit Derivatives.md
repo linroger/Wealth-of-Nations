@@ -1,3 +1,15 @@
+%% Begin Waypoint %%
+- **[[Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives]]**
+	- [[Basket Credit Derivatives]]
+	- [[Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives]]
+	- [[Collateralized Debt Obligations and Basket Cred]]
+	- [[Collateralized Debt Obligations]]
+	- [[Copulas and the Modeling of Default Correlatio]]
+	- [[Credit Derivative Indexes]]
+	- [[Synthetic CDO Tranche Pricing and Loss Analysi]]
+
+%% End Waypoint %%
+
 10  Collateralized Debt Obligations and Basket Credit Derivatives  
 10.1 Collateralized Debt Obligations 243   
 10.1.1 Cash CDO 244   

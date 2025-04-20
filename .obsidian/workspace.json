@@ -32,7 +32,103 @@
             }
           },
           {
-            "id": "a4999f4442165de8",
+            "id": "77be7f4625785689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 3 - Futures Markets/Chapter 3 - Futures Markets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3 - Futures Markets"
+            }
+          },
+          {
+            "id": "f3ff574e577e29ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 4 - Swap Markets/Chapter 4 - Swap Markets.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 4 - Swap Markets"
+            }
+          },
+          {
+            "id": "700e38de82459f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 5 Options on Prices and Hedge-Based Valuation/Chapter 5 Options on Prices and Hedge-Based Valuation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 5 Options on Prices and Hedge-Based Valuation"
+            }
+          },
+          {
+            "id": "19f6f5c37c7f6305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Chapter 6 Options on Non-Price Variables.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 6 Options on Non-Price Variables"
+            }
+          },
+          {
+            "id": "e3bdcda32073cb77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +152,7 @@
             }
           },
           {
-            "id": "8b14f5c6dd974458",
+            "id": "3a63f064724013c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,55 +176,17 @@
             }
           },
           {
-            "id": "d5e2a63c0aa51253",
+            "id": "98d54005c4e01625",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/PART II CASH FLOW ENGINEERING.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PART II CASH FLOW ENGINEERING"
-            }
-          },
-          {
-            "id": "aa377e38abc62d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/PART III THE PLAYERS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PART III THE PLAYERS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -282,11 +340,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/PART III THE PLAYERS.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for PART III THE PLAYERS"
+              "title": "File properties"
             }
           },
           {
@@ -331,34 +387,34 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aa377e38abc62d8c",
+  "active": "98d54005c4e01625",
   "lastOpenFiles": [
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/PART III THE PLAYERS.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/PART II CASH FLOW ENGINEERING.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/PART I RELATIVE VALUE BUILDING BLOCKS.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 7 - Default Risk and Credit Derivatives/Chapter 7 - Default Risk and Credit Derivatives.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Synthetic CDO Tranche Pricing and Loss Analysi.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 14 - Private Equity, Pension, and Sovereign Funds/Chapter 14 - Private Equity, Pension, and Sovereign Funds.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 9 - Mortgage-Backed Securities/Chapter 9 - Mortgage-Backed Securities.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 9 - Mortgage-Backed Securities/Mortgage-Backed Securities 223.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 9 - Mortgage-Backed Securities/Collateralized Mortgage Obligations.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/Chapter 8 - Structured Finance.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/Structured Finance 203.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/Interest Rate and Yield Curve-Based Structured.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/A Simple Classification of Structured Notes.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 7 - Default Risk and Credit Derivatives/Default Risk and Credit Derivatives 183.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 7 - Default Risk and Credit Derivatives/The Default Correlation of the Reference Issuer.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Chapter 6 Options on Non-Price Variables.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 6 Options on Non-Price Variables/Options on Non-Price Variables.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Exotic Interest Rate Options.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Convexity-Adjusted Models for LIBOR Forwards Qu.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Black Models for Bond Price Options Capsfloors.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Arbitrage-Free Interest Rate Models.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 5 Options on Prices and Hedge-Based Valuation/Chapter 5 Options on Prices and Hedge-Based Valuation.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 4 - Swap Markets/Chapter 4 - Swap Markets.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 2 - Spot Markets/Spot Markets 23.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 3 - Futures Markets/Chapter 3 - Futures Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Synthetic CDO Tranche Pricing and Loss Analysi.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/A Simple Classification of Structured Notes.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/Chapter 8 - Structured Finance.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 9 - Mortgage-Backed Securities/Chapter 9 - Mortgage-Backed Securities.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 1 - Purpose and Structure of Financial Markets/Chapter 1 - Purpose and Structure of Financial Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 2 - Spot Markets/Chapter 2 - Spot Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/PART II CASH FLOW ENGINEERING.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/PART III THE PLAYERS.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 12 - Hedge Fund Strategies/Chapter 12 - Hedge Fund Strategies.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 13 - Banks Asset-Liability Management/Chapter 13 - Banks Asset-Liability Management.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 14 - Private Equity, Pension, and Sovereign Funds/Chapter 14 - Private Equity, Pension, and Sovereign Funds.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 9 - Mortgage-Backed Securities/Mortgage-Backed Securities 223.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 9 - Mortgage-Backed Securities/Collateralized Mortgage Obligations.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/Structured Finance 203.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/Interest Rate and Yield Curve-Based Structured.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 7 - Default Risk and Credit Derivatives/Default Risk and Credit Derivatives 183.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 7 - Default Risk and Credit Derivatives/The Default Correlation of the Reference Issuer.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS",

@@ -1,3 +1,18 @@
+%% Begin Waypoint %%
+- **[[Chapter 1 - Purpose and Structure of Financial Markets]]**
+	- [[Arbitrage Pure Versus Relative Value]]
+	- [[Chapter 1 - Purpose and Structure of Financial Markets]]
+	- [[Financial Institutions Transforming Intermediar]]
+	- [[Market Players Hedgers Vs Speculators]]
+	- [[Overview of Financial Markets]]
+	- [[Preview of the Book]]
+	- [[Primary Issuance and Secondary Resale Markets]]
+	- [[Purpose and Structure of Financial Markets 1]]
+	- [[Risk Sharing]]
+	- [[Transactional Structure of Financial Markets]]
+
+%% End Waypoint %%
+
 1 Purpose and Structure of Financial Markets 1  
 1.1 Overview of Financial Markets 1   
 1.2 Risk Sharing 2   

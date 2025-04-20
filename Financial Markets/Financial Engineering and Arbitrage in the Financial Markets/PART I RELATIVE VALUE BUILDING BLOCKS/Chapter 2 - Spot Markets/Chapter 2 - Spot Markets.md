@@ -1,5 +1,17 @@
-# 2 Spot Markets 23  
+%% Begin Waypoint %%
+- **[[Chapter 2 - Spot Markets]]**
+	- [[Bonds and Annual Bond Math]]
+	- [[Chapter 2 - Spot Markets]]
+	- [[Equity Commodity and Currency Math]]
+	- [[Hedge Funds Alpha Beta and Strategy Indexes 287]]
+	- [[Interest Rate Risk Duration and Convexity]]
+	- [[Intra-Year Compounding and Day-Count]]
+	- [[Short Selling]]
+	- [[Term Structure of Interest Rates and the Discou]]
 
+%% End Waypoint %%
+
+2 Spot Markets 23  
 2.1 Bonds and Annual Bond Math 23   
 2.1.1 Zero-Coupon Bond 23   
 2.1.2 Coupon Bond 25   

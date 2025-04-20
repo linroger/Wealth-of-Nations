@@ -1,3 +1,12 @@
+%% Begin Waypoint %%
+- **[[Chapter 6 Options on Non-Price Variables]]**
+	- [[Arbitrage-Free Interest Rate Models]]
+	- [[Black Models for Bond Price Options Capsfloors]]
+	- [[Chapter 6 Options on Non-Price Variables]]
+	- [[Convexity-Adjusted Models for LIBOR Forwards Qu]]
+	- [[Exotic Interest Rate Options]]
+
+%% End Waypoint %%
 
 6 Options on Non-Price Variables 155  
 6.1 Black Models For Bond Price Options, Caps/Floors, and European Swaptions 156   

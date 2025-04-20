@@ -1,3 +1,12 @@
+%% Begin Waypoint %%
+- **[[Chapter 9 - Mortgage-Backed Securities]]**
+	- [[Chapter 9 - Mortgage-Backed Securities]]
+	- [[Collateralized Mortgage Obligations]]
+	- [[Mortgage Financing Basics]]
+	- [[Mortgage Pass-Through Securities]]
+
+%% End Waypoint %%
+
 9 Mortgage-Backed Securities 223  
 9.1 Mortgage Financing Basics 224   
 9.2 Prepayment Risk 226   

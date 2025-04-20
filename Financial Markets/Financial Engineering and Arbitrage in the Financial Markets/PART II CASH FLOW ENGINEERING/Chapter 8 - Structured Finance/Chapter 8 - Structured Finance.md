@@ -1,3 +1,12 @@
+%% Begin Waypoint %%
+- **[[Chapter 8 - Structured Finance]]**
+	- [[A Simple Classification of Structured Notes]]
+	- [[Chapter 8 - Structured Finance]]
+	- [[Interest Rate and Yield Curve-Based Structured]]
+	- [[Structured Finance 203]]
+
+%% End Waypoint %%
+
 8 Structured Finance 203  
 8.1 A Simple Classification of Structured Notes 204   
 8.2 Interest Rate and Yield Curve-Based Structured Products 206   
