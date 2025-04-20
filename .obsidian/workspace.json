@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "ddcd23e563999387",
+            "id": "703b26ad742d0ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 13/Chapter 13.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,16 +62,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 13"
+              "title": "Chapter 11 - Risk-adjusted probabilities"
             }
           },
           {
-            "id": "d901933b35534bab",
+            "id": "171fdded188e6dac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 12/Chapter 12.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,16 +86,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 12"
+              "title": "Chapter 11 - Risk-adjusted probabilities"
             }
           },
           {
-            "id": "3738c709c09b8105",
+            "id": "3e1becb85467f3bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 11/Chapter 11.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Chapter 12 - Derivatives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,16 +110,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 11"
+              "title": "Chapter 12 - Derivatives"
             }
           },
           {
-            "id": "1912d5ca36e8b902",
+            "id": "9e58aa83f9a10ba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Fixed Income Securities Tools for Today's Markets.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Chapter 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fixed Income Securities Tools for Today's Markets"
+              "title": "Chapter 1"
             }
           }
         ],
@@ -293,10 +293,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 11/Chapter 11.md"
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Chapter 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Chapter 11"
+              "title": "File properties for Chapter 1"
             }
           },
           {
@@ -341,34 +341,34 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1912d5ca36e8b902",
+  "active": "9e58aa83f9a10ba0",
   "lastOpenFiles": [
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 11/Chapter 11.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 12/Chapter 12.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 13/Chapter 13.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Financial Asset Pricing Theory Overview.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Chapter 1.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Chapter 12 - Derivatives.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Introduction.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Introduction.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11/Introduction 279.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 14/Chapter 14.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 13/Chapter 13.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 15/Chapter 15.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Options.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Introduction 299.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter/Table of Contents.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Front Matter.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 16/Chapter 16.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 12/Chapter 12.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 11/Chapter 11.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Fixed Income Securities Tools for Today's Markets.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/25. The Term Structure of Interest Rates.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Us Markets.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Front Matter.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 16/Chapter 16.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 15/Chapter 15.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Table of Contents.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Us Market Participants.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Trading and Liquidity.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Global Fixed Income Markets.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Monetary Policy with Abundantreserves.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Negative Rates and Qe in Europe and Japan.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Oaktree and the Restructuring of Cit Group (b).md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 4/Hedging a Century Bond Part I.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 4/DV01.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 3/Pl Attribution.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 3/Yield and Relative Value.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 3/Spreads.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 2/Forward Rates.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 2/Interest Rate Swaps.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/The Law of One Price.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Government Coupon Bonds.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md",
     "Course Notes/Python/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",
