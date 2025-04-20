@@ -11,10 +11,7 @@ tags:
   - risk_management
   - stochastic_processes
 aliases:
-  - Financial Mathematics I
-  - Kiesel Financial Math Notes
-  - Ulm Financial Math
-  - Universitat Ulm FM
+  - Financial Mathematics
 key_concepts:
   - Arbitrage theory
   - Asset pricing models
@@ -35,39 +32,15 @@ key_concepts:
 # Financial Mathematics I  
 
 Lecture Notes Universitat Ulm  
-
-VERSION: February 6, 2004  
-
-THIS IS A PRELIMINARY VERSION THERE WILL BE UPDATES DURING THE COURSE  
-
-Prof.Dr. Rudiger Kiesel Abteilung Finanzmathematik Universitat Ulm  
-
-email:kiesel@mathematik.uni-ulm.de  
-
-Short Description.  
-
-Times and Location: Lectures will be Monday 10-12; Tuesday 8-10 in He120. First Lecture Tuesday, 14.10.2003  
-
 # Content.  
 
-This course covers the fundamental principles and techniques of financial mathematics in discreteand continuous-time models. The focus will be on probabilistic techniques which will be discussed in some detail. Specific topics are  
+This course covers the fundamental principles and techniques of financial mathematics in discrete and continuous-time models. The focus will be on probabilistic techniques which will be discussed in some detail. Specific topics are  
 
-Classical Asset Pricing: Mean-Variance Analysis, CAPM, Arbitrage.   
-. Martingale-based stochastic market models: Fundamental Theorems of Asset Pricing.   
+Classical Asset Pricing: Mean-Variance Analysis, CAPM, Arbitrage,
+Martingale-based stochastic market models: Fundamental Theorems of Asset Pricing.   
 Contingent Claim Analysis: European, American and Exotic Options.   
 .Interest Rate Theory: Term Structure Models, Interest Rate Derivatives.  
-
 Pre-requisites. Probability Theory, Calculus, Linear Algebra  
-
-# Literature.  
-
-: N.H.Bingham & R.Kiesel, Risk Neutral Valuation, Springer 1998..   
-: H.Follmer & A.Schied: Stochastic Finance: An Introduction in Discrete Time, De Gruyter 2002.   
-. J.Hull: Options, Futures & Other Derivatives, 4th edition, Prentice Hall, 1999..   
-: R.Jarrow & S.Turnbull, Derivative Securities, 2nd edition, 2000..  
-
-Office Hours. Tuesday 10-11. He 230 course webpage: www.mathematik.uni-ulm.de/finmath email: kiesel@mathematik.uni-ulm.de..  
-
 # Contents  
 
 # Arbitrage Theory 5  
@@ -538,11 +511,10 @@ $$
 \theta_{0}+\theta_{1}\cdot20=5.
 $$  
 
-In state 2 the stock price is 7.5  and the value of the option $0\mathrm{~\textem~}\pounds^{\ast}$ , SO  
-
+In state 2 the stock price is 7.5  and the value of the option $0 \$\pounds^{\ast}$ , SO  
 $$
 \theta_{0}+\theta_{1}\cdot7.5=0.
-$$  
+$$
 
 We solve this and get $\theta_{0}=-3\quad\mathrm{and}\quad\theta_{1}=0.4$ So the value of our portfolio at time $0$ in $\pounds$ is  
 
@@ -552,13 +524,13 @@ $$
 
 $V(0)$ is called the no-arbitrage price. Every other price allows a riskless profit, since if the option is too cheap, buy it and finance yourself by selling short the above portfolio (i.e. sell the portfolio without possessing it and promise to deliver it at time $T=1$ this is riskfree because you own the option). If on the other hand the option is too dear, write it (i.e. sell it in the market) and cover yourself by setting up the above portfolio.  
 
-We see that the no-arbitrage price is independent of the individual preferences of the investor. (given by certain probability assumptions about the future, i.e. a probability measure $\mathcal{W}$ ).But one can identify a special, so called risk-neutral, probability measure. $\b{\mathcal{M}}^{*}$ , such that  
+We see that the no-arbitrage price is independent of the individual preferences of the investor. (given by certain probability assumptions about the future, i.e. a probability measure $\mathcal{W}$ ).But one can identify a special, so called risk-neutral, probability measure. ${\mathcal{M}}^{*}$ , such that  
 
 $$
 {\cal H}_{0}={\cal I}E^{*}\left(\beta{\cal H}\right)=\left(p^{*}\cdot\beta(S_{1}-K)+\left(1-p^{*}\right)\cdot0\right)=1.
 $$  
 
-In the above example we get from $1=p^{*}5+(1-p^{*})0$ that $p^{*}=0.2$ This probability measure $\b{\mathcal{N}}^{*}$ is equivalent to $\mathcal{W}$ , and the discounted stock price process, i.e. $\beta_{t}S_{t},t=0,1$ follows a $\b{\mathcal{N}}^{*}$ martingale. In the above example this corresponds to $S(0)=p^{*}S(T)^{u p}+(1-p^{*})S(T)^{d o w n}$ , that is $S(0)=I E^{*}\left(\beta S(T)\right)$  
+In the above example we get from $1=p^{*}5+(1-p^{*})0$ that $p^{*}=0.2$ This probability measure ${\mathcal{N}}^{*}$ is equivalent to $\mathcal{W}$ , and the discounted stock price process, i.e. $\beta_{t}S_{t},t=0,1$ follows a ${\mathcal{N}}^{*}$ martingale. In the above example this corresponds to $S(0)=p^{*}S(T)^{u p}+(1-p^{*})S(T)^{d o w n}$ , that is $S(0)=I E^{*}\left(\beta S(T)\right)$  
 
 We will show that the above generalizes. Indeed, we will find that the no-arbitrage condition is equivalent to the existence of an equivalent martingale measure (first fundamental theorem of asset pricing) and that the property that we can price assets using the expectation operator is equivalent to the uniqueness of the equivalent martingale measure..  
 
@@ -600,7 +572,7 @@ $$
 S(0)=(S_{0}(0),S_{1}(0),\ldots,S_{d}(0))^{\prime}
 $$  
 
-(where $'$ denotes the transpose of a vector or matrix). At time $T$ , the owner of financial asset number $i$ receives a random payment depending on the state of the world. We model this randomness by introducing a finite probability space $(\Omega,{\mathcal{F}},I P)$ , with a finite number $|\Omega|=N$ of points (each) corresponding to a certain state of the world) $\omega_{1},\ldots,\omega_{j},\ldots,\omega_{N}$ , each with positive probability: ${\cal P}(\{\omega\})>0$ , which means that every state of the world is possible. $\mathcal{F}$ is the set of subsets of $\Omega$ (events that can happen in the world) on which $\varmathbb{\textit{P}}(.)$ is defined (we can quantify how probable these events are), here $\mathcal{F}=\mathcal{P}(\Omega)$ the set of all subsets of $\Omega$ .(In more complicated models it is not possible to define a probability measure on all subsets of the state space $\Omega$ , see 2.1.) We can now write the random payment arising from financial asset $i$ as  
+(where $'$ denotes the transpose of a vector or matrix). At time $T$ , the owner of financial asset number $i$ receives a random payment depending on the state of the world. We model this randomness by introducing a finite probability space $(\Omega,{\mathcal{F}},I P)$ , with a finite number $|\Omega|=N$ of points (each) corresponding to a certain state of the world) $\omega_{1},\ldots,\omega_{j},\ldots,\omega_{N}$ , each with positive probability: ${\cal P}(\{\omega\})>0$ , which means that every state of the world is possible. $\mathcal{F}$ is the set of subsets of $\Omega$ (events that can happen in the world) on which $\mathbb{\textit{P}}(.)$ is defined (we can quantify how probable these events are), here $\mathcal{F}=\mathcal{P}(\Omega)$ the set of all subsets of $\Omega$ .(In more complicated models it is not possible to define a probability measure on all subsets of the state space $\Omega$ , see 2.1.) We can now write the random payment arising from financial asset $i$ as  
 
 $$
 S_{i}(T)=(S_{i}(T,\omega_{1}),\dots,S_{i}(T,\omega_{j}),\dots,S_{i}(T,\omega_{N}))^{\prime}.

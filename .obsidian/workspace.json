@@ -107,9 +107,19 @@
             "id": "a21cb61043c13f1b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e2bb182337d26f87",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md",
+                "file": "Financial Engineering/Valuation of Credit Default Swaps.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Day-Count Conventions"
+              "title": "Valuation of Credit Default Swaps"
             }
           },
           {
@@ -138,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -293,10 +303,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md"
+                "file": "Financial Engineering/Valuation of Credit Default Swaps.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Day-Count Conventions"
+              "title": "File properties for Valuation of Credit Default Swaps"
             }
           },
           {
@@ -341,10 +351,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a21cb61043c13f1b",
+  "active": "e2bb182337d26f87",
   "lastOpenFiles": [
-    "Financial Markets/Options Futures and Other Derivatives Part 2/Options Futures and Other Derivatives Part 2.md",
+    "Financial Engineering/Untitled.md",
+    "Financial Engineering/Inverse Matrices Solve Linear Systems.md",
+    "Financial Engineering/Financial Mathematics Course.md",
+    "Financial Engineering/6. A Brief Introduction to Stochastic Calculus.md",
+    "Financial Engineering/7. Black Scholes Model.md",
+    "Financial Engineering/A Practical Guide to Bonds and Swaps.md",
+    "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
+    "Financial Engineering/1. DeterministicCashFlows.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Credit Default Swaps.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Arithmetic and Geometric Rates of Return.md",
+    "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing/2. Boundaries, Limits, and Conditions on Option Prices.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md",
+    "Financial Markets/Options Futures and Other Derivatives Part 2/Options Futures and Other Derivatives Part 2.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Principles of Financial Engineering Part2.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Chapter 1.md",
     "Financial Markets/Fixed Income Securities Tools for Today's Markets/Fixed Income Securities Tools for Today's Markets.md",
@@ -357,19 +379,7 @@
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Chapter 1.md",
     "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 37/Lessons for All Users of Derivatives.md",
     "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 37/Chapter 37.md",
-    "Financial Engineering/Advanced Derivatives Pricing Methodology.md",
-    "Financial Engineering/A Primer on Structured Finance.md",
-    "Financial Engineering/A Primer on Currency Derivatives.md",
-    "Financial Engineering/A Practical Guide to Bonds and Swaps.md",
-    "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025).md",
-    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 20 Essentials of Structured Product Engineering.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/32. Pricing Foreign Currency Options.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/31. Implied Volatility and the Volatility Smile.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/30. Option Prices and Expected Returns.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/29. Option Prices and the Prices of State-Contingent Claims.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/28. Pricing Fixed-Income Securities and Derivatives Using an Arbitrage-Free Binomial Tree.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing",

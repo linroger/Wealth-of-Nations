@@ -19,10 +19,6 @@ key_concepts:
 
 # Valuation of Credit Default Swaps
 
-Dominic O'Kane. $+44$ (0) 20 7260 2628 dokane@lehman.com  
-
-Stuart Turnbull +1 212 526 9251 sturnbul@lehman.com  
-
 We present the market standard pricing model for marking credit default swap positions to market. Our aim is first to explain why credit default swaps require a valuation model, and then to explain the standard model - the one most widely used in the market. In the process of setting out the model, we take care to explain and justify the various modeling assumptions made. We also provide examples.  
 
 # 1 INTRODUCTION 1  
@@ -133,7 +129,7 @@ In the following sections we will first show how to use this model to value both
 
 # 5.  VALUING THE PREMIUM LEG  
 
-The premium leg is the series of payments of the default swap spread made to maturity or to the time of the credit event, whichever occurs first. It also includes the payment of premium accrued from the previous premium payment date until the time of the credit event. Assume that there are. $\scriptstyle\mathrm{n=1,\ldots,N}$ contractual payment dates $\mathbf{t}_{1},\ldots,\mathbf{t}_{\mathrm{N}}$ where $\mathrm{\Deltat_{N}}$ is the maturity date of the default swap. Denoting the $\mathrm{\Deltat_{N}}$ maturity contractual default swap spread by $\mathrm{S(t_{0}t_{N})}$ , and ignoring premium accrued, we can write the present value of the premium leg of an existing contract as  
+The premium leg is the series of payments of the default swap spread made to maturity or to the time of the credit event, whichever occurs first. It also includes the payment of premium accrued from the previous premium payment date until the time of the credit event. Assume that there are. $\scriptstyle\mathrm{n=1,\ldots,N}$ contractual payment dates $\mathbf{t}_{1},\ldots,\mathbf{t}_{\mathrm{N}}$ where ${} \mathrm{\Delta t_{N}} {}$ is the maturity date of the default swap. Denoting the ${} \mathrm{\Delta t_{N}} {}$ maturity contractual default swap spread by $\mathrm{S(t_{0}t_{N})}$ , and ignoring premium accrued, we can write the present value of the premium leg of an existing contract as  
 
 $$
 \operatorname{Premium}\operatorname{Leg}\operatorname{PV}(t_{V},t_{N})=S(t_{0},t_{n})\sum_{n=1}^{N}\Delta(t_{n-1},t_{n},B)Z(t_{V},t_{n})\mathcal{Q}(t_{V},t_{n})
@@ -141,7 +137,7 @@ $$
 
 # where  
 
-$\Delta(\mathrm{t_{n-1}},\mathrm{t_{n}},\mathrm{B})$ is the day count fraction between premium dates. $\bf{t}_{n-1}$ and $\mathrm{\bft}_{\mathrm{n}}$ in the appropriate basis convention denoted by B.   
+$\Delta(\mathrm{t_{n-1}},\mathrm{t_{n}},\mathrm{B})$ is the day count fraction between premium dates. $\bf{t}_{n-1}$ and ${} \mathrm{\bf t}_{\mathrm{n}} {}$ in the appropriate basis convention denoted by B.   
 $\mathrm{Q(t_{V},t_{n})}$ is the arbitrage-free survival probability of the reference entity from valuation time ty to premium payment time $\mathrm{\bft_{n}}$ . This factors into the pricing the risk that a reference. entity will not survive to a premium payment time..   
 $Z(\mathrm{t_{V},t_{n}})$ is the Libor discount factor from valuation date to premium payment date n. In. what follows, we have assumed that the user has been able to bootstrap a full term structure of Libor discount factors, $Z(\mathrm{t},\mathrm{T})$ in the currency of the default swap. being priced.  
 
