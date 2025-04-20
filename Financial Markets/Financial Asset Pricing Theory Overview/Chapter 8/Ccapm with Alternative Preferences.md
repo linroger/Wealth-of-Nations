@@ -234,7 +234,7 @@ $$
 d x_{t}=\kappa\left(y_{t}-x_{t}\right)d t.
 $$  
 
-The log-benchmark is a weighted average of past log-consumption. The relative log-consumption variable $\omega_{t}=y_{t}-x_{t}$ will be representative of the state of the economy. A high [low] value of $\omega_{t}$ represents a good [bad] state in terms of aggregate consumption relative to the benchmark. Note that  
+The log-benchmark is a weighted average of past log-consumption. The relative log-consumption variable $\omega_{t}=y_{t}-x_{t}$ will be representative of the state of the economy. A high (low) value of $\omega_{t}$ represents a good (bad) state in terms of aggregate consumption relative to the benchmark. Note that  
 
 $$
 d\omega_{t}=d y_{t}-d x_{t}=\kappa\left(\bar{\omega}-\omega_{t}\right)d t+\sigma d z_{t},
@@ -354,7 +354,7 @@ $$
 By the Cauchy-Schwartz inequality and (8.46), we get exactly  
 
 $$
-\begin{array}{r l}{\lefteqn{\left(\int_{1}^{\infty}\frac{1}{\gamma}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma\right)^{2}\leq\left(\int_{1}^{\infty}\frac{1}{\gamma^{2}}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma\right)\left(\int_{1}^{\infty}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma\right)}}\ &{=\int_{1}^{\infty}\frac{1}{\gamma^{2}}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma}\end{array}
+\begin{array}{r l}{{\left(\int_{1}^{\infty}\frac{1}{\gamma}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma\right)^{2}\leq\left(\int_{1}^{\infty}\frac{1}{\gamma^{2}}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma\right)\left(\int_{1}^{\infty}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma\right)}}\ &{=\int_{1}^{\infty}\frac{1}{\gamma^{2}}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma}\end{array}
 $$  
 
 as was to be shown.  
