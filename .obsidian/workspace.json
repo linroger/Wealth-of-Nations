@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Principles of Financial Engineering Part 2/Principles of Financial Engineering Part2.md",
+                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Principles of Financial Engineering Part2"
+              "title": "Day-Count Conventions"
             }
           },
           {
@@ -293,10 +293,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Markets/Principles of Financial Engineering Part 2/Principles of Financial Engineering Part2.md"
+                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Principles of Financial Engineering Part2"
+              "title": "File properties for Day-Count Conventions"
             }
           },
           {
@@ -343,6 +343,9 @@
   },
   "active": "a21cb61043c13f1b",
   "lastOpenFiles": [
+    "Financial Markets/Principles of Financial Engineering Part 2/Principles of Financial Engineering Part2.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Chapter 1.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Fixed Income Securities Tools for Today's Markets.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Front Matter/Table of Contents.md",
     "Financial Markets/Financial Trading and Markets/Chapter 9 Arbitrage and Hedging With Options.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 10/Collateralized Debt Obligations and Basket Cred.md",
@@ -367,10 +370,7 @@
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/28. Pricing Fixed-Income Securities and Derivatives Using an Arbitrage-Free Binomial Tree.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/26. Interest Rate Contracts_ Forward Rate Agreements, Swaps, and Options.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/27. Fitting an Arbitrage-Free Term Structure Model.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/25. The Term Structure of Interest Rates.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods/24. Finite Difference Methods.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods/23. Monte Carlo Simulation.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory",
