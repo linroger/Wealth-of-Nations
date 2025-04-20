@@ -396,7 +396,7 @@ $$
 
 Due to the special-ex rule in this case, the last day for delivery of   $8\%$   Treasury 2007 into the futures contract is 12 June. This makes the term 48 days. The total price paid including accrued interest will be 108.64923. To ﬁnance that using repo for 48 days until 12 June will cost £0.9087243. The holder of the gilt will however earn 48 days’ accrued interest of £1.1178082. Therefore, buying the bond direct gives the owner an income advantage of £0.2090839.
 
-The difference between the gross basis and this income advantage is  $\pounds0.216159-\pounds0.2090839)$  , that is £0.0525. It therefore represents the gain by buying the gilt using the futures contract rather than buying directly in the market.
+The difference between the gross basis and this income advantage is  $£0.216159-£0.2090839)$  , that is £0.0525. It therefore represents the gain by buying the gilt using the futures contract rather than buying directly in the market.
 
 Of course the long gilt contract gives the futures seller the right to deliver any of the gilts in the delivery basket and on any day of the delivery month. If the CTD is bought through a futures contract the buyer may ﬁnd that because of market movements, a different gilt is delivered. The futures short in effect holds an option which decreases the value of the futures contract to the long.
 

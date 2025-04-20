@@ -698,7 +698,7 @@ $n=$ whole number of years
 So, substituting our values gives:  
 
 $$
-\pounds5.23=\pounds5.00\times1.045
+£5.23=£5.00\times1.045
 $$  
 
 For periods of less than 1 year, the formula is:  
@@ -1620,7 +1620,7 @@ $$
 
 where:  
 
-$\mathbf{L}_{\mathrm{t-1,~t~}}=$ Forward LIBOR rate from $\mathrm{\Deltat-1}$ to t  
+$\mathbf{L}_{\mathrm{t-1,~t~}}=$ Forward LIBOR rate from $\mathrm{\Delta t-1}$ to t  
 
 Applying formula A2 we derive the 1-year forward rate:  
 
@@ -4585,7 +4585,7 @@ $$
 
 Net carry is therefore $\mathbf{\Phi}_{-}\notin25,383$  
 
-The total net carry on the combined positions $\mathrm{is}+\pounds_{10,135}$  
+The total net carry on the combined positions $\mathrm{is}+£_{10,135}$  
 
 The roll-down profit and loss is calculated as shown in Section 6.3.3. The bond is revalued assuming no change in the yield curve but with a shorter maturity, which is reduced by the magnitude of the particular investment period. For consistency, we can use the estimated roll-down values used in the previous examples and show the profits and losses in Table 6.7. As a result, the net roll down on this position is positive and equal to $\yen5,969$  
 
@@ -5748,12 +5748,12 @@ To calculate the net carry on the trade, we will assume:
 
 The first step is to calculate the carry on the short comparator position, which comprises repo income and coupon expense. The repo income is calculated as:  
 
-Nominal $\times$ dirty price $\times$ repo rate $\times$ day fraction $=\pounds7,700,000\times94.876066/100\times5\%\times31/365=\pounds31,023.17$  
+Nominal $\times$ dirty price $\times$ repo rate $\times$ day fraction $=£7,700,000\times94.876066/100\times5\%\times31/365=£31,023.17$  
 
 The coupon expense for the holding period is:  
 
 $$
-=\pounds7,700,000\times4.25\%/2\times31/182=\pounds27,870.19
+=£7,700,000\times4.25\%/2\times31/182=£27,870.19
 $$  
 
 The carry on the comparator position is therefore:  
@@ -5761,19 +5761,19 @@ The carry on the comparator position is therefore:
 The second step is to calculate the carry on the long linker position. This comprises a repo cost and coupon income. The repo cost is:.  
 
 $$
-\begin{array}{r l}&{\mathrm{Nominal~\times~dirty~price~\times~repo~rate~\times~day~fraction}}\ &{\quad=\pounds10,000,000\times\pounds121.548006/100\times5\%\times31/365=\pounds51,616.28}\end{array}
+\begin{array}{r l}&{\mathrm{Nominal~\times~dirty~price~\times~repo~rate~\times~day~fraction}}\ &{\quad=\pounds10,000,000\times£121.548006/100\times5\%\times31/365=£51,616.28}\end{array}
 $$  
 
 The real coupon accrual income uplifted by inflation is:  
 
 $$
-\begin{array}{r l}&{\mathrm{Nominal}\times\mathrm{realyield}/2\times\mathrm{dayfraction}\times\mathrm{inflationupl}}\ &{\quad=\pounds10,000,000\times1.25\%/2\times31/182\times1.11234}\ &{\quad=\pounds11,841.53}\end{array}
+\begin{array}{r l}&{\mathrm{Nominal}\times\mathrm{realyield}/2\times\mathrm{dayfraction}\times\mathrm{inflationupl}}\ &{\quad=£10,000,000\times1.25\%/2\times31/182\times1.11234}\ &{\quad=£11,841.53}\end{array}
 $$  
 
 The carry on the linker position is therefore:  
 
 $$
-\begin{array}{l}{\mathrm{Interest~accrual-repo~cost}}\ {\mathrm{~=~}(\pounds39,774.75)}\end{array}
+\begin{array}{l}{\mathrm{Interest~accrual-repo~cost}}\ {\mathrm{~=~}(£39,774.75)}\end{array}
 $$  
 
 The total net carry on both positions is therefore:  
@@ -5798,7 +5798,7 @@ The overall profit and loss on the trade comprises two elements:
 # Nominal position  
 
 $$
-\pounds7,700,000\times7.9374\times0.12077/100=\pounds73,812.18\mathrm{loss}
+£7,700,000\times7.9374\times0.12077/100=£73,812.18\mathrm{loss}
 $$  
 
 # Linker position  
@@ -5807,7 +5807,7 @@ $$
 \pm10,000,000\times3.4751\times0.187479/100=\pm65,150.83~\mathrm{profit}
 $$  
 
-The profit on the linker is uplifted by the index ratio of 1.11234 to give a value of. 72,469.87, but overall the position loses 1,342.31 from the fall in breakevens and since the position carried negatively by 36,621.77 the total loss on the position is. 37,964.08. Essentially the trader's view on the evolution of breakeven rates was wrong. He expected breakevens to rise but in fact they fell. Interestingly, if the trader had opted. for a Dv01-weighted trade the ratio of the two values would have implied a trade size of about $\operatorname{f}15.5\mathrm{m}$ for the comparator and $\pounds10\mathrm{m}$ for the linker. Based on these trade sizes the. losses on the comparator bond alone due to the change in rates would have been much greater than the beta-adjusted trade..  
+The profit on the linker is uplifted by the index ratio of 1.11234 to give a value of. 72,469.87, but overall the position loses 1,342.31 from the fall in breakevens and since the position carried negatively by 36,621.77 the total loss on the position is. 37,964.08. Essentially the trader's view on the evolution of breakeven rates was wrong. He expected breakevens to rise but in fact they fell. Interestingly, if the trader had opted. for a Dv01-weighted trade the ratio of the two values would have implied a trade size of about $\operatorname{f}15.5\mathrm{m}$ for the comparator and $£10\mathrm{m}$ for the linker. Based on these trade sizes the. losses on the comparator bond alone due to the change in rates would have been much greater than the beta-adjusted trade..  
 
 # 8.6.2 Derivative strategies  
 
@@ -5960,13 +5960,13 @@ Table 8.4 Market data for forward breakeven position for settlement on 25 Novemb
 
 Note: The dirty prices of the linkers are their actual settlement amount - i.e., their dirty values multiplied by their index ratios. Source: UK DMO.  
 
-Step I . For the shorter-dated breakeven position we create a Dv01-neutral trade assuming a nominal linker position of $\pounds100\mathrm{m}$ . This is based on the ratio of the DV01s, which is 1.44 (0.134998/0.093651) and so returns a nominal value of $\pounds_{ Ḋ }144 Ḍ .15_{ Ḋ }\mathrm{m} Ḍ$ for the comparator position. Step II. Here we need to determine a nominal value for the long-dated linker position. The aim is to make sure that until the forward-starting date, the overall position is not impacted by any inflation accrual. To achieve this we solve the following identity:  
+Step I . For the shorter-dated breakeven position we create a Dv01-neutral trade assuming a nominal linker position of $£100\mathrm{m}$ . This is based on the ratio of the DV01s, which is 1.44 (0.134998/0.093651) and so returns a nominal value of $£_{ Ḋ }144 Ḍ .15_{ Ḋ }\mathrm{m} Ḍ$ for the comparator position. Step II. Here we need to determine a nominal value for the long-dated linker position. The aim is to make sure that until the forward-starting date, the overall position is not impacted by any inflation accrual. To achieve this we solve the following identity:  
 
 2022 linker nominal $\times$ index ratio  2027 linker nominal $\times$ index ratio $=0$   
 $100\times1.09460-2027\mathrm{linkernominal}\times1.15998=0$   
 2027 nominal = 94.36  
 
-Step III . Based on the result of step II, we create a DV01-weighted longer-dated breakeven position Step II derived a nominal value for the longer-dated linker position of. $\pounds94.36\mathrm{m}$ and so using the ratio of the two longer-dated Dv01s of 1.549144 (0.190757/0.123137), the appropriate nominal trade size for the longer-dated comparator position is. $\mathrm{f}146.18\mathrm{m}$  
+Step III . Based on the result of step II, we create a DV01-weighted longer-dated breakeven position Step II derived a nominal value for the longer-dated linker position of. $£94.36\mathrm{m}$ and so using the ratio of the two longer-dated Dv01s of 1.549144 (0.190757/0.123137), the appropriate nominal trade size for the longer-dated comparator position is. $\mathrm{f}146.18\mathrm{m}$  
 
 The associated settlement cash flows for the position are given in the last line of the table. The shorter-dated breakeven position has an initial net cash inflow of 13.97, while the longer-dated breakeven position has a net cash outflow of 15.92. As a result, there is an overall net cash outflow of $-1.95$  
 

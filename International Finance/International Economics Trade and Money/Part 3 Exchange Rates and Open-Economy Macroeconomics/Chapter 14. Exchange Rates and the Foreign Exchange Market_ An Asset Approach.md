@@ -35,33 +35,33 @@ Rates are derived from WM Reuters Spot Rates and MorningStar (latest rates at ti
 The answer is found by multiplying the price of the sweater in pounds, 50, by the price of a pound in terms of dollars—the dollar’s exchange rate against the pound. At an exchange rate of $\$1.50$ per pound (expressed in American terms), the dollar price of the sweater is  
 
 $$
-(1.50\S/\pounds)\times(\pounds50)=\S75.
+(1.50\S/£)\times(£50)=\S75.
 $$  
 
 A change in the dollar/pound exchange rate would alter the sweater’s dollar price. At an exchange rate of 1.25 per pound, the sweater would cost only  
 
 $$
-(1.25\mathbb{S}/\pounds)\times(\pounds50)=\mathbb{S}62.50,
+(1.25\mathbb{S}/£)\times(£50)=\mathbb{S}62.50,
 $$  
 
 assuming its price in terms of pounds remained the same. At an exchange rate of $\$1.75$ per pound, the sweater’s dollar price would be higher, equal to  
 
 $$
-(1.75\mathbb{S}/\pounds)\times(\pounds50)=\mathbb{S}87.50.
+(1.75\mathbb{S}/£)\times(£50)=\mathbb{S}87.50.
 $$  
 
 Changes in exchange rates are described as depreciations or appreciations. A ­depreciation of the pound against the dollar is a fall in the dollar price of pounds, for example, a change in the exchange rate from $\$1.50$ per pound to $\$1.25$ per pound. The preceding example shows that all else equal, a depreciation of a country’s currency makes its goods cheaper for foreigners. A rise in the pound’s price in terms of dollars— for example, from $\$1.50$ per pound to $\$1.75$ per pound—is an appreciation of the pound against the dollar. All else equal, an appreciation of a country’s currency makes its goods more expensive for foreigners.  
 
-The exchange rate changes discussed in the example simultaneously alter the prices Britons pay for American goods. At an exchange rate of $\$1.50$ per pound, the pound price of a pair of American designer jeans costing $\$45$ is $(\mathbb{S}45)/(1.50\mathbb{S}/\pounds)=\pounds30$ . A change in the exchange rate from $\$1.50$ per pound to $\$1.25$ per pound, while a depreciation of the pound against the dollar, is also a rise in the pound price of dollars, an appreciation of the dollar against the pound. This appreciation of the dollar makes the American jeans more expensive for Britons by raising their pound price from £30 to  
+The exchange rate changes discussed in the example simultaneously alter the prices Britons pay for American goods. At an exchange rate of $\$1.50$ per pound, the pound price of a pair of American designer jeans costing $\$45$ is $(\mathbb{S}45)/(1.50\mathbb{S}/£)=£30$ . A change in the exchange rate from $\$1.50$ per pound to $\$1.25$ per pound, while a depreciation of the pound against the dollar, is also a rise in the pound price of dollars, an appreciation of the dollar against the pound. This appreciation of the dollar makes the American jeans more expensive for Britons by raising their pound price from £30 to  
 
 $$
-(\mathbb{S}45)/(1.25\mathbb{S}/\pounds)=\pounds36.
+(\mathbb{S}45)/(1.25\$/£)=£36.
 $$  
 
 The change in the exchange rate from $\$1.50$ per pound to $\$1.75$ per pound—an appreciation of the pound against the dollar but a depreciation of the dollar against the pound—lowers the pound price of the jeans from £30 to  
 
 $$
-(\mathbb{S}45)/(1.75\mathbb{S}/\pounds)=\pounds25.71.
+(\mathbb{S}45)/(1.75\$/£)=£25.71.
 $$  
 
 As you can see, descriptions of exchange rate changes as depreciations or appreciations can be bewildering because when one currency depreciates against another, the second currency must simultaneously appreciate against the first. To avoid confusion in discussing exchange rates, we must always keep track of which of the two currencies we are examining has depreciated or appreciated against the other.  

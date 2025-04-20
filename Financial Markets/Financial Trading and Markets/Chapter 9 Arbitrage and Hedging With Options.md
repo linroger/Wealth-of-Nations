@@ -691,11 +691,11 @@ Alternatively, the firm can employ the conversion or the call and put hedge. Thi
 
 The result of this conversion is that the interest earned on the net time-zero outlay is  $\S552$  . If the three-month exchange rate is less than  $\Updownarrow1.75/\updownarrow$  , the exchange rate of  $\Updownarrow1.75/\updownarrow$   is locked in by the put. If the exchange rate exceeds  $\mathbb{S}1.75/\mathfrak{L}_{i}$  , the obligation incurred by the short position in the call is activated. Thus, the firm’s exchange rate of  $\Updownarrow1.75/\updownarrow$   is locked in no matter what the market exchange rate is. The cash flows in three months are summarized as follows:  
 
-Put cash flows   $(\pounds1,000,000\times\mathbf{M}\mathbf{A}\mathbf{X}[1.75-\,S_{1},0])$  Call cash flows   $(\pounds1,000,000\times\mathrm{MIN}[1.75-\,S_{1},\!0])$  
+Put cash flows   $(£1,000,000\times\mathbf{M}\mathbf{A}\mathbf{X}[1.75-\,S_{1},0])$  Call cash flows   $(£1,000,000\times\mathrm{MIN}[1.75-\,S_{1},\!0])$  
 
 Total of option transactions:  
 
-d1; 000; $000\times(1.75-S_{1})=\S1$ ðÞ; 750; 000 2 dð1; 000; 000 3 S1ÞExchange of currency  $=(\pounds1,000,000\times S_{1})$  Þ Time zero cash   $\mathrm{flow}\mathrm{s}=\S36,800$  Interest on time zero flows  $=\!\!\Phi552$  Total time one cash flows  $=\overline{{\mathbb{S}1,787,352}}$  
+d1; 000; $000\times(1.75-S_{1})=\S1$ ðÞ; 750; 000 2 dð1; 000; 000 3 S1ÞExchange of currency  $=(£1,000,000\times S_{1})$  Þ Time zero cash   $\mathrm{flow}\mathrm{s}=\S36,800$  Interest on time zero flows  $=\!\!\Phi552$  Total time one cash flows  $=\overline{{\mathbb{S}1,787,352}}$  
 
 This cash flow of   $\mathbb{S}1,787,352$   is assured in the absence of default risk.  
 

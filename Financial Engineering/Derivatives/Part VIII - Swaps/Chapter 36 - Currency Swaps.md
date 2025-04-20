@@ -150,7 +150,7 @@ The value of the swap to UncleSam will change if either USD-LIBOR or Euro-LIBOR 
 
 The swap has zero value at inception on 15 March-01 and it terminates on 15 March-04. Suppose we want to value the swap to UncleSam on 15 September 02, when there are three payments left on 15 March-03, 15 September-03, and 15 March-04. Note that spot interest rates in the two countries and the spot-FX rate will be diferent on 15 September-02, than at inception of the swap at $t=0$ .  
 
-To simplify our calculations we assume that on 15 September the USD-LIBOR curve is fat at $5.5\%$ and the Euro-LIBOR curve is fat at $4.5\%$ (both continuously compounded) and the euro has appreciated from $1.4(\mathbb{S}/\pounds)$ to $E_{t}=1.5(\S/\pounds)$ . We also assume the number of days between payment dates is exactly $^1/_{2}$ year, so the new discount rates are $d_{i}=\exp(-r_{i}.t_{i})$ where $t_{i}={^{1}}/_{2}$ , 1 and 3/2.2  
+To simplify our calculations we assume that on 15 September the USD-LIBOR curve is fat at $5.5\%$ and the Euro-LIBOR curve is fat at $4.5\%$ (both continuously compounded) and the euro has appreciated from $1.4(\$/£)$ to $E_{t}=1.5(\S/£)$ . We also assume the number of days between payment dates is exactly $^1/_{2}$ year, so the new discount rates are $d_{i}=\exp(-r_{i}.t_{i})$ where $t_{i}={^{1}}/_{2}$ , 1 and 3/2.2  
 
 $$
 \begin{array}{r l}&{V_{F i x}^{\S}(t)=\S3.752\mathrm{m}\left[e^{-0.055(1/2)}+e^{-0.055(1)}+e^{-0.055(3/2)}\right]+\S140\mathrm{m}e^{-0.055(3/2)}}\\ &{\qquad=\S3.752\mathrm{m}\left[0.9729+0.9465+0.9208\right]+\S140\mathrm{m}[0.9208]}\\ &{\qquad=\S139.5684\mathrm{m}}\end{array}
@@ -230,7 +230,7 @@ $$
 V_{F i x}^{\mathfrak{F}}=Q^{\mathfrak{s}}\left[s p^{\mathfrak{s}}\sum_{i=1}^{n}h_{i}^{\mathfrak{s}}d_{i}^{\mathfrak{s}}+d_{n}^{\mathfrak{s}}\right]=E_{0}V_{F i x}^{\varepsilon}=E_{0}.Q^{\varepsilon}\left[s p^{\varepsilon}\sum_{i=1}^{n}h_{i}^{\varepsilon}d_{i}^{\varepsilon}+d_{n}^{\varepsilon}\right]
 $$  
 
-where $E_{0}$ is the USD-Euro spot exchange rate at inception of the swap. At the outset of the swap the notional principals are exchanged. Suppose the US frm wants to initially have $Q^{\varepsilon}=$ $\mathsf{\epsilon}_{\mathrm{{l00m}}}$ funds available (e.g. to invest in a new plant in Europe) and the current exchange rate is $E_{0}=1.4(\S/\pounds)$ so the US frm initially borrows $Q^{\mathfrak{s}}=Q^{\varepsilon}.E_{0}=\mathfrak{s}140\mathrm{m}$ (from Citibank, say). Substituting $Q^{\S}=Q^{\varepsilon}.E_{0}$ in (36.A.3) we fnd that for the value of the swap to be zero we require:  
+where $E_{0}$ is the USD-Euro spot exchange rate at inception of the swap. At the outset of the swap the notional principals are exchanged. Suppose the US frm wants to initially have $Q^{\varepsilon}=$ $\mathsf{\epsilon}_{\mathrm{{l00m}}}$ funds available (e.g. to invest in a new plant in Europe) and the current exchange rate is $E_{0}=1.4(\S/£)$ so the US frm initially borrows $Q^{\mathfrak{s}}=Q^{\varepsilon}.E_{0}=\mathfrak{s}140\mathrm{m}$ (from Citibank, say). Substituting $Q^{\S}=Q^{\varepsilon}.E_{0}$ in (36.A.3) we fnd that for the value of the swap to be zero we require:  
 
 $$
 s p^{\S}\sum_{i=1}^{n}h_{i}^{\S}d_{i}^{\S}+d_{n}^{\S}=s p^{\varepsilon}\sum_{i=1}^{n}h_{i}^{\varepsilon}d_{i}^{\varepsilon}+d_{n}^{\varepsilon}

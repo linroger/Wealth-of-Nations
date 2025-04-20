@@ -138,14 +138,14 @@ $$
 # where  
 
 $\Delta(\mathrm{t_{n-1}},\mathrm{t_{n}},\mathrm{B})$ is the day count fraction between premium dates. $\bf{t}_{n-1}$ and ${} \mathrm{\bf t}_{\mathrm{n}} {}$ in the appropriate basis convention denoted by B.   
-$\mathrm{Q(t_{V},t_{n})}$ is the arbitrage-free survival probability of the reference entity from valuation time ty to premium payment time $\mathrm{\bft_{n}}$ . This factors into the pricing the risk that a reference. entity will not survive to a premium payment time..   
+$\mathrm{Q(t_{V},t_{n})}$ is the arbitrage-free survival probability of the reference entity from valuation time ty to premium payment time $\mathrm{\bf t_{n}}$ . This factors into the pricing the risk that a reference. entity will not survive to a premium payment time..   
 $Z(\mathrm{t_{V},t_{n}})$ is the Libor discount factor from valuation date to premium payment date n. In. what follows, we have assumed that the user has been able to bootstrap a full term structure of Libor discount factors, $Z(\mathrm{t},\mathrm{T})$ in the currency of the default swap. being priced.  
 
 This equation ignores the effect of premium accrued - the fact that upon a credit event the contract will usually require the protection buyer to pay the fraction of premium that has accrued from the previous premium payment date to the time of credit event.  
 
 To include the effect of premium accrued, we have to work out the expected accrued premium payment by considering the probability of defaulting at each time between two premium dates, and calculating the probability weighted accrued premium payment. To do this, we have to  
 
-1. Consider each premium accrual period starting at $\mathrm{{t_{n-l}}}$ with the payment date at $\mathrm{\bft}_{\mathrm{n}}$   
+1. Consider each premium accrual period starting at $\mathrm{{t_{n-l}}}$ with the payment date at $\mathrm{\bf t}_{\mathrm{n}}$   
 2. Determine the probability of surviving from the valuation date $\mathrm{t_{V}}$ to each time s in the. premium period and then defaulting in the next small time interval ds. The probability of this is given by $\mathrm{Q}(\mathrm{t_{V}},\mathrm{s})\lambda(\mathrm{s})\mathrm{d}\mathrm{s}$   
 3. Calculate the accrued payment since the previous premium date to each time.   
 4. Discount this payment back to the valuation date using the Libor discount factor..   
@@ -194,7 +194,7 @@ The breakeven spread with premium accrued has to be less than that without premi
 
 The protection leg is the contingent payment of. $(100\%\mathrm{~-~R~})$ on the face value of the protection made following the credit event. R is the expected recovery rate -- to be precise, it is the expected price of the CTD obligation into the protection at the time of a credit event. There may be a delay of up to 72 calendar days between notification of the credit event and settlement of the protection leg payment, but we typically assume that this payment is made immediately.  
 
-In pricing the protection leg, it is important to take into account the timing of the credit event because this can have a significant effect on the present value of the protection leg - especially for longer maturity default swaps. Within the hazard rate approach we can solve this timing problem by conditioning on each small time interval $\displaystyle\left[\mathbf{s},\mathbf{s}^{+}\mathbf{ds}\right]$ between time ty and time $\mathrm{\Deltat_{N}}$ at which the credit event can occur. The steps are described below.  
+In pricing the protection leg, it is important to take into account the timing of the credit event because this can have a significant effect on the present value of the protection leg - especially for longer maturity default swaps. Within the hazard rate approach we can solve this timing problem by conditioning on each small time interval $\displaystyle\left[\mathbf{s},\mathbf{s}^{+}\mathbf{ds}\right]$ between time ty and time $\mathrm{\Delta t_{N}}$ at which the credit event can occur. The steps are described below.  
 
 1. Calculate the probability of surviving to some future time s which equals $\mathrm{Q(t_{\mathrm{V}},s)}$   
 2. Compute the probability of a credit event in the next small time increment ds which is given by (s).ds.   

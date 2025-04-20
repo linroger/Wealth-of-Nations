@@ -30,7 +30,7 @@ Most FX-options contracts are traded in the OTC market as they can be tailored t
 
 Most contracts traded are against the US dollar and the option premium is quoted in cents per unit of foreign currency, with the only exception being contracts on the Japanese yen which are quoted in hundredths of a cent. Delivery is the foreign currency (in exchange for USD). There are also options contracts which deliver an FX-futures contract – futures options are dealt with in Chapter 20.  
 
-For example (Table 19.1), the contract size for the (British) pound sterling (GBP) is for £31,250 and entries are quoted in cents per GBP. If the current spot rate on 26 July is $S_{0}=$ $1.5000(\S/\pounds)$ then October-options would be available with strike prices around this value; for example, for strikes of 1.490, 1.495, 1.510, and 1.520 (although these are not the only strike prices available). If the quoted call premium for one October-1.5200 (American style) contract on GBP is 2.05 cents (per GBP) then the invoice price for one contract is $\$640.63[=\pounds31,250\times$ 0.0205 $(\$/\pounds)]$ .  
+For example (Table 19.1), the contract size for the (British) pound sterling (GBP) is for £31,250 and entries are quoted in cents per GBP. If the current spot rate on 26 July is $S_{0}=$ $1.5000(\S/£)$ then October-options would be available with strike prices around this value; for example, for strikes of 1.490, 1.495, 1.510, and 1.520 (although these are not the only strike prices available). If the quoted call premium for one October-1.5200 (American style) contract on GBP is 2.05 cents (per GBP) then the invoice price for one contract is $\$640.63[=£31,250\times$ 0.0205 $(\$/£)]$ .  
 
 TABLE 19.1 Foreign currency options (NASDAQ-OMX-PHLX)   
 
@@ -67,10 +67,10 @@ $$
 A long call on sterling gives the investor the right to receive $z=\pm31,250$ at expiration, at an exchange rate of $K=140$ cents (per GBP). Suppose in January, the March-140 call on sterling has a premium of $C=4$ cents (per GBP) then:  
 
 $$
-\mathrm{ntract}=z C=\pounds31,250\left(0.04\right)=\S1,250
+\mathrm{ntract}=z C=£31,250\left(0.04\right)=\S1,250
 $$  
 
-If the spot price in March at expiration turns out to be $S_{T}=1.50(\Phi/\pounds)$ (see Figure 19.1), then:  
+If the spot price in March at expiration turns out to be $S_{T}=1.50(\Phi/£)$ (see Figure 19.1), then:  
 
 $$
 \mathrm{Payoff}=(S_{T}-K)z=(1.50-1.40)\:\pm31,250=\S3,125
@@ -79,13 +79,13 @@ $$
 The proft on one contract is:  
 
 $$
-\Pi=(S_{T}-K-C)\pounds31,250=\S1,875
+\Pi=(S_{T}-K-C)£31,250=\S1,875
 $$  
 
 If $S_{T}<K$ then the option will not be exercised and the loss will be limited to the call premium, or more precisely the invoice price of one contract $\$1,250$ . The breakeven spot rate at expiration is:  
 
 $$
-S_{B E}=K+C=1.40+0.04=1.44(\Phi/\pounds)=144(\mathrm{cents}/\pounds)
+S_{B E}=K+C=1.40+0.04=1.44(\Phi/£)=144(\mathrm{cents}/£)
 $$  
 
 It should be obvious that the appropriate speculative strategy is:  
@@ -106,27 +106,27 @@ $$
 S_{B E}=K-P=1.44-0.025=1.44-0.025=1.415
 $$  
 
-The proft profle is given in Figure 19.2 for $K=1.44\left({\Phi/\pounds}\right)$ and $S_{T}=1.40\left(\mathbb{\Phi}/\pounds\right)$ where the put premium $P=\$025$ (2.5 cents).  
+The proft profle is given in Figure 19.2 for $K=1.44\left({\Phi/£}\right)$ and $S_{T}=1.40\left(\mathbb{\Phi}/£\right)$ where the put premium $P=\$025$ (2.5 cents).  
 
-Invoice price contract $=P z=\left(0.025(\Phi/\pounds)\right)\pounds31,250=\mathfrak{F}781.25$  
+Invoice price contract $=P z=\left(0.025(\Phi/£)\right)£31,250=\mathfrak{F}781.25$  
 
 ![](images/ca785d78eabd46c8f0a8825ecc9c405d2ffa7bb02d753b68d3c6339a5b15cfb0.jpg)  
 FIGURE 19.2 Foreign currency put option  
 
 $$
-\mathrm{Grossprofit}=(K-S_{T})z=(1.44-1.40)\:\pounds31,250=\mathfrak{F}1,250
+\mathrm{Grossprofit}=(K-S_{T})z=(1.44-1.40)\:£31,250=\mathfrak{F}1,250
 $$  
 
 The proft per contract is:  
 
 $$
-\Pi=(K-S_{T}-P)\pounds31,250=\S468.75
+\Pi=(K-S_{T}-P)£31,250=\S468.75
 $$  
 
 The maximum proft occurs if the spot FX-rate $S_{T}$ falls to zero:  
 
 $$
-\Pi_{\mathrm{max}}=(K-P)\pounds31,250=(1.44-0.025)\pounds31,500=\S44,218.75
+\Pi_{\mathrm{max}}=(K-P)£31,250=(1.44-0.025)£31,500=\S44,218.75
 $$  
 
 The appropriate speculative investment strategy is:  
@@ -145,11 +145,11 @@ Next consider a US multinational that may have to buy foreign currency in 1 year
 
 In all these cases a foreign currency option is appropriate since it gives the holder the right to exchange currencies in the future at an exchange rate fxed today, but crucially the option also allows the holder to ‘walk away’ from the deal if it is not to her advantage.  
 
-For our specifc example we consider a US frm UncleSam, that in January is making a bid on an investment contract, to supply IT hardware to the UK. But UncleSam doesn’t know in advance whether the bid will be accepted and hence whether it will receive any sterling (GBP) in the future. Suppose the outcome of the bid will be announced in 1 year’s time (December) and if successful involves an immediate receipt by UncleSam of $V=\pounds12.5\mathrm{m}$ . The current (1-year) forward rate $F_{0}=1.61(\Phi/\mathrm{\Phi})$ giving a dollar equivalent of $\$20.125m$ . Now consider the alternatives of having no hedge in place versus using either forwards, futures or options to hedge its sterling exposure.  
+For our specifc example we consider a US frm UncleSam, that in January is making a bid on an investment contract, to supply IT hardware to the UK. But UncleSam doesn’t know in advance whether the bid will be accepted and hence whether it will receive any sterling (GBP) in the future. Suppose the outcome of the bid will be announced in 1 year’s time (December) and if successful involves an immediate receipt by UncleSam of $V=£12.5\mathrm{m}$ . The current (1-year) forward rate $F_{0}=1.61(\Phi/\mathrm{\Phi})$ giving a dollar equivalent of $\$20.125m$ . Now consider the alternatives of having no hedge in place versus using either forwards, futures or options to hedge its sterling exposure.  
 
 # 19.3.1 Numerical Example  
 
-The initial data is given in Table 19.2. In January, the initial spot and forward rates are $S_{0}=$ $1.60(\S/\pounds)$ and $F_{0}=1.61\left(\Phi/\mathfrak{L}\right)$ and the two possible outcomes for the spot rate in December are $S_{T}=1.65$ and $S_{T}=1.50$ .  
+The initial data is given in Table 19.2. In January, the initial spot and forward rates are $S_{0}=$ $1.60(\S/£)$ and $F_{0}=1.61\left(\Phi/\mathfrak{L}\right)$ and the two possible outcomes for the spot rate in December are $S_{T}=1.65$ and $S_{T}=1.50$ .  
 
 # 19.3.2 No Hedge  
 
@@ -167,7 +167,7 @@ TABLE 19.2A Bid successful
 
 # 19.3.3 Using the Forward Rate  
 
-UncleSam selling $\mathtt{f l}2.5\mathrm{m}$ sterling in the forward market (Table 19.2A, column 3) at $F_{0}=1.61$ implies certain USD receipts of $V F_{0}=\pounds12.5(1.62)=\$20.125\mathrm{m}-b$ ut only if the bid is successful (Table 19.2A, column 3).  
+UncleSam selling $\mathtt{f l}2.5\mathrm{m}$ sterling in the forward market (Table 19.2A, column 3) at $F_{0}=1.61$ implies certain USD receipts of $V F_{0}=£12.5(1.62)=\$20.125\mathrm{m}-b$ ut only if the bid is successful (Table 19.2A, column 3).  
 
 If in January, UncleSam hedges by selling $\mathtt{f l}2.5\mathrm{m}$ sterling in the forward market at $F_{0}$ then a problem may arise if the frm fails to win the contract, next December. It will then have a naked short futures position in sterling. The US frm has agreed to sell $\mathtt{f l}2.5\mathrm{m}$ in 1 year’s time at $F_{0}$ , in exchange for receipt of $\$20.25\mathrm{m}$ .  
 
@@ -179,7 +179,7 @@ When the bid is unsuccessful, hedging using forwards (or futures) does not reduc
 
 # 19.3.4 Put Options (Bid Successful)  
 
-Now consider the risk if UncleSam buys put options on sterling and the bid is successful. If sterling appreciates the put expires worthless but UncleSam converts the $V=\pounds12.5\mathrm{m}$ sterling  
+Now consider the risk if UncleSam buys put options on sterling and the bid is successful. If sterling appreciates the put expires worthless but UncleSam converts the $V=£12.5\mathrm{m}$ sterling  
 
 TABLE 19.2B Bid unsuccessful   
 
@@ -215,7 +215,7 @@ If the bid is not successful UncleSam has a naked position in the long put but t
 UncleSam’s losses are limited to the put premium: $\Pi=V P=\S312,500$ (Table 19.2B, column 4). If sterling depreciates, the put ends up in-the-money giving a net proft of:  
 
 $$
-\Pi=(K-S_{T}-P)\pounds12.5\mathrm{m}=(1.60-1.50-0.025)\ \pounds12.5\mathrm{m}=\S937,500.
+\Pi=(K-S_{T}-P)\pounds12.5\mathrm{m}=(1.60-1.50-0.025)\ £12.5\mathrm{m}=\S937,500.
 $$  
 
 # Bid unsuccessful:  

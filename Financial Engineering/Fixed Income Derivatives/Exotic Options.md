@@ -715,9 +715,9 @@ Where max (H, K) is the function which gives the larger of the two numbers  $\ma
 
 We now continue to price down-and-call option by using numerical example and  with the assumption that the down barrier is touched. This implies that the rebate is  zero.
 
-To find the find the price of down-and-in barrier call option, consider the following  parameter;  strike price   $\mathrm{K}=\pounds98$  , spot price  $=\pounds100$  , barrier level of  $\mathrm{H}=\pounds95$  , interest  rate   $r=8\%$  , the yield of the underlying asset  $g=3\%$   and volatility of the underlying  asset  $=20\%$
+To find the find the price of down-and-in barrier call option, consider the following  parameter;  strike price   $\mathrm{K}=£98$  , spot price  $=£100$  , barrier level of  $\mathrm{H}=£95$  , interest  rate   $r=8\%$  , the yield of the underlying asset  $g=3\%$   and volatility of the underlying  asset  $=20\%$
 
-Substituting   $\mathrm{S}=\pounds100$  ,   $\mathrm{K}=\pounds98$  ,  $\mathrm{H}=\pounds95$  ,   $w=0.20$  ,   $r=0.08$  ,  $g=0.03$  ,  and  $t=0.5$    into (5.6) yields
+Substituting   $\mathrm{S}=£100$  ,   $\mathrm{K}=£98$  ,  $\mathrm{H}=£95$  ,   $w=0.20$  ,   $r=0.08$  ,  $g=0.03$  ,  and  $t=0.5$    into (5.6) yields
 
 $$
 \begin{array}{r l}&{\nu=r-g-\sigma^{2}\⁄2=0.8-0.03-(0.20^{2}⁄2)=0.03,}\\ &{(H^{2}⁄S)=(95^{2}⁄100)=90.25,}\\ &{\operatorname*{max}(H,K)=\operatorname*{max}(95,\!98)=98,}\end{array}
@@ -730,7 +730,7 @@ $$
 d_{_{1b s}}\Biggl(\frac{H^{2}}{S},K\Biggr)=d_{_{b s}}\Biggl(\frac{H^{2}}{S},K\Biggr)+\sigma\sqrt{\tau}=-0.3351
 $$
 
-Since   $\mathrm{K}=\pounds98>\pounds95=\mathrm{H}$  , the call option price  $B_{H>K}{=}0$  .  We can then find the downand-in call price from (5.6) as follows:
+Since   $\mathrm{K}=£98>£95=\mathrm{H}$  , the call option price  $B_{H>K}{=}0$  .  We can then find the downand-in call price from (5.6) as follows:
 
 $$
 D I N C(K=98)\!=\!\!\left(\frac{H}{S}\right)^{2\nu\tau/\sigma^{2}}C_{b s}\!\left(\frac{H^{2}}{S},K\right)
@@ -741,12 +741,12 @@ $$
 $$
 
 $$
-0.95^{2\,x0.03\,/\,0.20^{2}}\bigl[90.25e^{-0.03x0.5}N(-0.3351)-98e^{-0.08x0.5}N(-0.4765)\bigr]\!=\!\pounds2.731
+0.95^{2\,x0.03\,/\,0.20^{2}}\bigl[90.25e^{-0.03x0.5}N(-0.3351)-98e^{-0.08x0.5}N(-0.4765)\bigr]\!=\!£2.731
 $$
 
-when the strike price   $\mathrm{K}=\pounds92$  , max (H, K) - max   $(95,\,92)=\pounds\,95$  ,   $B_{H>K}{=}I$  ,  and all  the terms in (5.6) and nonzero.
+when the strike price   $\mathrm{K}=£92$  , max (H, K) - max   $(95,\,92)=£\,95$  ,   $B_{H>K}{=}I$  ,  and all  the terms in (5.6) and nonzero.
 
-Substituting  $\mathrm{S}=\pounds100,\,\mathrm{K}=\pounds92,\,B_{H>K}=\,I,\,\mathrm{sigma}=0.20,\,r=0.08,\,g=0.03$   and   $t=$   $\it0.50$    into (5.6) yields:
+Substituting  $\mathrm{S}=£100,\,\mathrm{K}=£92,\,B_{H>K}=\,I,\,\mathrm{sigma}=0.20,\,r=0.08,\,g=0.03$   and   $t=$   $\it0.50$    into (5.6) yields:
 
 $$
 d_{_{b s}}\biggl[\frac{H^{2}}{S}\mathrm{max}(H,K)\biggr]\!=\!\frac{\ln\bigl[\bigl(H^{2}\mid S\bigr)/\,H\bigr]\!+\nu\tau}{\sigma\sqrt{\tau}}\!=\!-0.2566,
@@ -770,7 +770,7 @@ $$
 Thus the value of the down-and-in call option is
 
 $$
-\begin{array}{c}{{D I N C=\left(\displaystyle\frac{95}{100}\right)^{2x0.03/0.2^{2}}\left[3.9816+(95-92)e^{-0.08x0.5}N(-0.2566)\right]}}\\ {{+\left[1.5801-2.4896+(95-92)e^{-0.08x0.05}N(-0.4689)\right]=\pounds4.863}}\end{array}
+\begin{array}{c}{{D I N C=\left(\displaystyle\frac{95}{100}\right)^{2x0.03/0.2^{2}}\left[3.9816+(95-92)e^{-0.08x0.5}N(-0.2566)\right]}}\\ {{+\left[1.5801-2.4896+(95-92)e^{-0.08x0.05}N(-0.4689)\right]=£4.863}}\end{array}
 $$
 
 the price of the down-and-in barrier call option can also be incorporated in the case  when the barrier is never touched and the option pays some rebate.  (the present  value of this rebate is given above). For compact solutions for all remaining types of  barrier options can be found under Haug (1998).
@@ -800,7 +800,7 @@ Where RBDI and DINC are given in equations (5.6) and (5.8) respectively.
 
 To find the present value of the rebate when the rebate is paid £1.5 at maturity if the  barrier is not touched within the live of the call option from the numerical example  above, substituting
 
-$\mathrm{Rm}(0.5)=1.5$  ,   $\mathrm{S}=\pounds100$  ,  $\mathrm{H}=\pounds95$  , sigma  $=0.20$  ,   $\mathrm{r}=0.08$  ,  $\mathbf{g}=0.03$  , and  $\mathbf{t}=0.50$    Into equation (5.8) yields
+$\mathrm{Rm}(0.5)=1.5$  ,   $\mathrm{S}=£100$  ,  $\mathrm{H}=£95$  , sigma  $=0.20$  ,   $\mathrm{r}=0.08$  ,  $\mathbf{g}=0.03$  , and  $\mathbf{t}=0.50$    Into equation (5.8) yields
 
 $$
 d_{_{b s}}\left(H,S\right)\!=\!\frac{\ln(S\,/\,H)+\nu\tau}{\sigma\sqrt{\tau}}\!=\!\frac{\ln(100\,/\,95)+0.03x0.5}{0.20\sqrt{0.50}}\!=\!0.4688,
@@ -811,7 +811,7 @@ d_{_{b s}}(H,S)\!=\!\frac{\ln(H\,/\,S)+\nu\tau}{\sigma\sqrt{\tau}}\!=\!\frac{\ln
 $$
 
 $$
-R B D I=1.5e^{-0.08x0.05}\left\{N\big[0.4688\big]-\left(\frac{95}{100}\right)^{2x0.03/0.2^{2}}N\big[-0.2566\big]\right\}=\pounds0.449
+R B D I=1.5e^{-0.08x0.05}\left\{N\big[0.4688\big]-\left(\frac{95}{100}\right)^{2x0.03/0.2^{2}}N\big[-0.2566\big]\right\}=£0.449
 $$
 
 we can now find the price of the down-and-in call option when the rebate is paid £1.5  at maturity if the barrier is not touched within the live of the option
@@ -819,7 +819,7 @@ we can now find the price of the down-and-in call option when the rebate is paid
 The down-and-in call option price with strike price  $\mathrm{K}{=}\ 92$
 
 $$
-=\mathrm{DINC}(\mathrm{K}=92)+\mathrm{RBDI}\ =\ 4.862\ \ +\ 0.449\ \ =\pounds5.312
+=\mathrm{DINC}(\mathrm{K}=92)+\mathrm{RBDI}\ =\ 4.862\ \ +\ 0.449\ \ =£5.312
 $$
 
 An important issue of pricing barrier options is whether the barrier crossing is  monitored in continues time. Most models assume continues monitoring of the  barrier. In other words, in the models a knock-in or knock-out occurs if the barrier is  reached at any instance before the maturity of the contract, mainly because this leads  to analytical solutions;  see for example Merton (1973), Heynen & Kat  (1994a,1994b) and kunitomo & Ikeda (1992) for various formulae for continuously  monitored barrier options under the classical Brownian motion framework; see Kou  & Wang (2001) for continuously monitored barrier options under a jump diffusion  framework.

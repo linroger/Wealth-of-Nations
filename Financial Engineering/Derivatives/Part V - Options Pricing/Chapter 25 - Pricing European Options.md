@@ -187,14 +187,14 @@ $$
 S e^{-r_{f}T}+P=C+K e^{-r T}
 $$  
 
-Put–call parity for foreign currency options can be established in a similar fashion to that for an option on a dividend paying stock. We take the US dollar as the domestic currency and the (pound) sterling (GBP) as the foreign currency. The spot exchange rate is $S\left(\mathbb{S}/\mathbb{\pounds}\right)$ . Consider the following two portfolios:  
+Put–call parity for foreign currency options can be established in a similar fashion to that for an option on a dividend paying stock. We take the US dollar as the domestic currency and the (pound) sterling (GBP) as the foreign currency. The spot exchange rate is $S\left(\mathbb{S}/\mathbb{£}\right)$ . Consider the following two portfolios:  
 
 Portfolio-A: One put with price $\$9$ (strike $K$ and maturity T) plus cash of $\mathrm{USD}=S e^{-r_{f}T}$ invested in foreign risk-free asset   
 Portfolio-B: One long call at $\$0$ (strike $K$ and maturity T) plus cash of $\mathrm{USD}=K e^{-r T}$ invested in domestic risk-free asset  
 
 The risk-free asset could be T-bills or a bank deposit. We show in Table 25.1 that the payofs at maturity are the same for both portfolios and hence they must be worth the same today, which gives the put–call parity condition of Equation (25.21).  
 
-For portfolio-A, if cash of USD, $S e^{-r_{f}T}$ is switched into sterling (at the current exchange rate $S\S/\pounds$ ), you receive GBP of $e^{-r_{f}T}$ today. If this sterling amount is invested in a sterling bank deposit paying $r_{f}$ it will accrue to £1 at $T$ which can then be switched back into $S_{T}$ dollars (Table 25.1, top row).  
+For portfolio-A, if cash of USD, $S e^{-r_{f}T}$ is switched into sterling (at the current exchange rate $S\S/£$ ), you receive GBP of $e^{-r_{f}T}$ today. If this sterling amount is invested in a sterling bank deposit paying $r_{f}$ it will accrue to £1 at $T$ which can then be switched back into $S_{T}$ dollars (Table 25.1, top row).  
 
 First consider the outcome for the two portfolios when $S_{T}>K$ . Portfolio-A pays $S_{T}$ dollars, since the put is out-of-the money. At $T$ , portfolio-B pays out $S_{T}-K$ dollars from the call and $\$1$ on the domestic (US) asset, giving a total payof $S_{T}$ – the same as portfolio-A.  
 

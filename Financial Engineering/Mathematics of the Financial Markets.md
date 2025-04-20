@@ -3292,7 +3292,7 @@ the $P V$ of each leg being computed on its own yield curve. Since the sum of ea
 
 Let us consider the case of a fund manager having invested the counter-value of EUR 100 million in a US denominated bond, and willing to swap his USD revenues (interest $^+$ principal in bullet) into EUR. He will thus enter into a 5-year CRS, EUR/USD, fixed against fixed rates; the current (mid) EUR/USD sp $\mathrm{_{ot}}=1.4835$ . The swap is based on a 5-year fixed USD swap rate of $2.106\%$ and a 5-year fixed EUR swap rate of $3.057\%$ . To simplify the presentation, the cash flows have been computed and exchanged as if they were both on an annual basis -- see Figure 6.14.  
 
-The yearly interest cash flows in EUR are. $\in100\mathrm{million}\times3.057\%,$ that is, $\notin3.057$ million, and in USD, ( $\pounds_{100}$ million $\times1.4835=)$ $\$148.35$ million, $\times2.106\%,=\$3.1243$ million. There is nothing to add about the calculation steps, and we can verify that this CRS is indeed. equilibrated (in mid rates) at inception: the counter-value of the sum of discounted EUR cash flows equals the sum of discounted USD cash flows at the contractual spot rate of 1.4835.  
+The yearly interest cash flows in EUR are. $\in100\mathrm{million}\times3.057\%,$ that is, $\notin3.057$ million, and in USD, ( $£_{100}$ million $\times1.4835=)$ $\$148.35$ million, $\times2.106\%,=\$3.1243$ million. There is nothing to add about the calculation steps, and we can verify that this CRS is indeed. equilibrated (in mid rates) at inception: the counter-value of the sum of discounted EUR cash flows equals the sum of discounted USD cash flows at the contractual spot rate of 1.4835.  
 
 As mentioned before, an alternative to this CRS would consist in a series of five forward currency exchanges (but the regular forward market is actually limited to about 2 years), that.  
 
@@ -3609,7 +3609,7 @@ This can be shown through the following example, dated 01/23/03, of futures on t
 
 Let us consider a speculative sale of 100 contracts, $@$ 2290 (expecting the index to lower). The initial margin for this contract being $\tplus000$  
 
-initial deposit $=\pounds300000$ , that is, 100 contracts. $\times3000$   
+initial deposit $=£300000$ , that is, 100 contracts. $\times3000$   
 the tick value of this contract being. $\Xi10$ , each time the future price is lowering by 1 tick,. the seller makes a profit of $\in1000=\in10\times100$ contracts;   
 : and if the future price is increasing by 1 tick, he makes a loss of $\t{\in}1000$  
 
@@ -3633,7 +3633,7 @@ $$
 2290\times{\in}10\mathrm{percontract}\times100\mathrm{contracts}={\in}2290000
 $$  
 
-on the deposit margin of $\pounds300000$ , that is, a leverage of:  
+on the deposit margin of $£300000$ , that is, a leverage of:  
 
 $$
 2290000/300000\approx7.5
@@ -3996,7 +3996,7 @@ Six months later, the position has to be unwound. 3-M EURIBOR is then quoting $2
 : $\mathrm{P/L}$ on the futures transaction It is usually computed as follows: $\mathsf{p}/\mathrm{l}=$ tick value of $\in12.50\times100$ contracts $\times$ number of ticks between opening and closing of the position,. with number of ticks $=(97.66-97.885)\times200=-45$ ticks with $\times200$ because $1\mathrm{tick}={}^{1}/2$ bp, hence, there are 200 half bps in a (future price) percent. Hence,  
 
 $$
-p/l=-\pounds12.50\times100\times45=\pounds-56250
+p/l=-£12.50\times100\times45=£-56250
 $$  
 
 .Actual deposit rate  
@@ -5746,7 +5746,7 @@ The moneyness measures the "distance" between $K$ and $F$ if $K=F$ , the moneyne
 
 Example. Consider 3M European options on L'Oreal: mid data as of 02/19/08 are  
 
-$\mathrm{S}=\pounds83.06$ $3\mathrm{MF}=82.535$ 3M implied volatility $=35.569\%$ p.a.  
+$\mathrm{S}=£83.06$ $3\mathrm{MF}=82.535$ 3M implied volatility $=35.569\%$ p.a.  
 
 The moneyness of an option (call or put) for which the strike $=82.535$ is 0. A moneyness of $+1$ corresponds to a strike of $\mathrm{F}+1\sigma$ . Here, with a $3\mathrm{M}=90$ days option, we have:  
 
@@ -5760,7 +5760,7 @@ and similarly:
 
 These values are shown in Figure 10.5 together with two strikes, $\mathrm{K}^{\prime\prime}$ and $\mathrm{K}^{\prime}$ , respectively at:  
 
-$K^{\prime}=S-\pounds_{}10=73.06$ corresponding to a moneyness of --1.31 $K^{\prime\prime}{=}S+\in10=93.06$ corresponding to a moneyness of $+1.45$  
+$K^{\prime}=S-£_{}10=73.06$ corresponding to a moneyness of --1.31 $K^{\prime\prime}{=}S+\in10=93.06$ corresponding to a moneyness of $+1.45$  
 
 The moneyness measure is mainly used with respect to the option smile, as developed in Chapter 12, Section 12.1.3.  
 
@@ -5982,10 +5982,10 @@ $$
 \to\mathrm{a^{\prime}}_{1\mathrm{j}}=0.000000175-0.000755\times0.87691=-0.00066189
 $$  
 
-applied to $\Delta\mathrm{S}$ $\Delta\mathrm{S}=\pounds64.5\times0.00066189=-0.04269$  
+applied to $\Delta\mathrm{S}$ $\Delta\mathrm{S}=£ 64.5\times0.00066189=-0.04269$  
 
 $$
-\begin{array}{l}{\rightarrow\mathrm{S(t+\Deltat)}=64.5-0.04269=64.45731}\ {\rightarrow\cdot\cdot\cdot}\ {\rightarrow\mathrm{S(t+n\Deltat)}=\in69.26}\ {=\mathrm{jth~simulation~of~S(T)}}\end{array}
+\begin{array}{l}{\rightarrow\mathrm{S(t+\Delta t)}=64.5-0.04269=64.45731}\ {\rightarrow\cdot\cdot\cdot}\ {\rightarrow\mathrm{S(t+n\Delta t)}=\in69.26}\ {=\mathrm{jth~simulation~of~S(T)}}\end{array}
 $$  
 
 ![](86c5d969a4bb6f01c2c0098b61a24de68f91f29f90022e3fb25a743286375720.jpg)  
@@ -7135,7 +7135,7 @@ $$
 
 where $A(T)-$ instead of $S_{T}$ for a regular option -- is the arithmetic average of $S$ between $t_{0}$ and $T_{:}$ for example, on a daily basis (other periodicities can be agreed). To compute $C$ we need a value for $A(T)$ , that will be estimated by Monte Carlo simulations.  
 
-Given the data used in Chapter 10, Section 10.4 (Monte Carlo example for a vanilla call), that is, a 3-month (90-day) European average call ATMS on L'OREAL stock: $S=K=\pounds64.50$ spot, $\mu=0.004375$ (annualized), $\sigma=0.119$ (annualized), $3\mathrm{M}{\mathrm{-LIBOR}}=2.514\%$ with $n=$ 9000 time intervals, so that, for a daily average, we need the price simulations at each 100 time intervals.  
+Given the data used in Chapter 10, Section 10.4 (Monte Carlo example for a vanilla call), that is, a 3-month (90-day) European average call ATMS on L'OREAL stock: $S=K=£64.50$ spot, $\mu=0.004375$ (annualized), $\sigma=0.119$ (annualized), $3\mathrm{M}{\mathrm{-LIBOR}}=2.514\%$ with $n=$ 9000 time intervals, so that, for a daily average, we need the price simulations at each 100 time intervals.  
 
 First simulation of $\{S(t)\}$ : goes up to $S_{T}=69.26$ with an average $A_{1}(T)=66.75$  
 

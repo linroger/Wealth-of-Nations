@@ -28,7 +28,7 @@ $$
 
 at time $t+n$ . Note that, in general, this return is not known before time $t+n-1$ and in particular not at time. $t$ where the investment strategy is initiated. An investment with a truly risk-free return between time $t$ and $t+n$ is a zero-coupon bond maturing at time $t+n$ . If $B_{t}^{t+n}$ denotes the price of this bond at time $t$ and the face value of the bond is normalized at 1, the gross risk-free return between $t$ and $t+n$ is $1/B_{t}^{t+n}$  
 
-In a continuous-time economy we can think of the limit of the above roll-over strategy. If $\boldsymbol{r}_{t}^{f}$ denotes the continuously compounded risk-free net rate of return at time $t$ (the interest rate over the instant following time $t$ ), an investment of $^{1}$ in this roll-over strategy at time $\mathrm{\Deltat}$ will give you  
+In a continuous-time economy we can think of the limit of the above roll-over strategy. If $\boldsymbol{r}_{t}^{f}$ denotes the continuously compounded risk-free net rate of return at time $t$ (the interest rate over the instant following time $t$ ), an investment of $^{1}$ in this roll-over strategy at time $\mathrm{\Delta t}$ will give you  
 
 $$
 R_{t,t^{\prime}}^{f}=\exp\left\{\int_{t}^{t^{\prime}}r_{u}^{f}d u\right\}

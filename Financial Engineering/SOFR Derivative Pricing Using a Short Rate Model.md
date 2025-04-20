@@ -95,7 +95,7 @@ $$
 P a y m e n t=N\cdot\delta\cdot R_{G}(T_{i})
 $$  
 
-With unit Its present value at $\mathrm{\Deltat}$ is given by  
+With unit Its present value at $\mathrm{\Delta t}$ is given by  
 
 $$
 V(t)=E[\delta\cdot R_{G}(T_{i})D(t,T_{i})]=E\left[\left(\frac{D(t,T_{i-1})}{D(t,T_{i})}-1\right)D(t,T_{i})\right]=P(t,T_{i-1})-P(t,T_{i})

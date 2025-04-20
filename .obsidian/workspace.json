@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Engineering/Valuation of Credit Default Swaps.md",
+                "file": "Financial Engineering/Derivatives/Part IV - Options/Chapter 19 - Foreign Currency Options.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Valuation of Credit Default Swaps"
+              "title": "Chapter 19 - Foreign Currency Options"
             }
           },
           {
@@ -303,10 +303,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Engineering/Valuation of Credit Default Swaps.md"
+                "file": "Financial Engineering/Derivatives/Part IV - Options/Chapter 19 - Foreign Currency Options.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Valuation of Credit Default Swaps"
+              "title": "File properties for Chapter 19 - Foreign Currency Options"
             }
           },
           {
@@ -353,6 +353,25 @@
   },
   "active": "e2bb182337d26f87",
   "lastOpenFiles": [
+    "Financial Engineering/Derivatives/Part VIII - Swaps/Chapter 37 - Equity Swaps.md",
+    "Financial Engineering/Derivatives/Part IV - Options/Chapter 19 - Foreign Currency Options.md",
+    "Financial Engineering/Derivatives/Part V - Options Pricing/Chapter 25 - Pricing European Options.md",
+    "Financial Engineering/Derivatives/Part VIII - Swaps/Chapter 36 - Currency Swaps.md",
+    "Financial Engineering/Trading the Fixed Income Inflation and Credit Markets.md",
+    "Financial Engineering/Fixed Income Derivatives/Exotic Options.md",
+    "Course Notes/Applied Financial Management Lecture Notes.md",
+    "Financial Engineering/Fixed Income Derivatives/Part I-Basis Trading.md",
+    "Financial Engineering/Mathematics of the Financial Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 4/Cross-Currency Swaps.md",
+    "Financial Markets/Financial Trading and Markets/Chapter 2 Securities Markets.md",
+    "Financial Markets/Financial Trading and Markets/Chapter 8 Arbitrage and Hedging With Fixed Income Instruments and Currencies.md",
+    "Financial Markets/Financial Trading and Markets/Chapter 9 Arbitrage and Hedging With Options.md",
+    "Course Notes/Corporate Finance Lecture Notes.md",
+    "International Finance/International Economics Trade and Money/Part 3 Exchange Rates and Open-Economy Macroeconomics/Chapter 14. Exchange Rates and the Foreign Exchange Market_ An Asset Approach.md",
+    "International Finance/International Economics Trade and Money/Part 3 Exchange Rates and Open-Economy Macroeconomics/Chapter 16. Price Levels and the Exchange Rate in the Long Run.md",
+    "Financial Engineering/SOFR Derivative Pricing Using a Short Rate Model.md",
+    "Financial Engineering/Valuation of Credit Default Swaps.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11/Risk-Neutral Probabilities.md",
     "Financial Engineering/Untitled.md",
     "Financial Engineering/Inverse Matrices Solve Linear Systems.md",
     "Financial Engineering/Financial Mathematics Course.md",
@@ -360,25 +379,6 @@
     "Financial Engineering/7. Black Scholes Model.md",
     "Financial Engineering/A Practical Guide to Bonds and Swaps.md",
     "Financial Engineering/8. Credit Modeling and Credit Derivatives.md",
-    "Financial Engineering/1. DeterministicCashFlows.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Credit Default Swaps.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Arithmetic and Geometric Rates of Return.md",
-    "Financial Instruments/Financial Derivatives and Quantitative Methods/Financial Derivatives and Quantitative Methods.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing/2. Boundaries, Limits, and Conditions on Option Prices.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Day-Count Conventions.md",
-    "Financial Markets/Options Futures and Other Derivatives Part 2/Options Futures and Other Derivatives Part 2.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Principles of Financial Engineering Part2.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 1/Chapter 1.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Fixed Income Securities Tools for Today's Markets.md",
-    "Financial Markets/Principles of Financial Engineering Part 2/Front Matter/Table of Contents.md",
-    "Financial Markets/Financial Trading and Markets/Chapter 9 Arbitrage and Hedging With Options.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 10/Collateralized Debt Obligations and Basket Cred.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Market Players Hedgers Vs Speculators.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Financial Institutions Transforming Intermediar.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Chapter 1.md",
-    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 37/Lessons for All Users of Derivatives.md",
-    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 37/Chapter 37.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods",

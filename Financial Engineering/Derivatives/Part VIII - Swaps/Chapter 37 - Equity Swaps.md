@@ -98,7 +98,7 @@ Ms Bright has used the equity swap to synthetically change the composition of he
 
 This type of equity swap enables a US investor (Ms Bright) to gain exposure to foreign stocks (FTSE 100), including taking on exchange rate risk if she wishes. The alternative to using the swap would be to purchase the foreign equity directly but again this could involve high transactions cost (e.g. transactions taxes and possible dividend withholding taxes, bid–ask spreads etc.). Instead, Ms Bright, who is holding $Q=\$1000$ in FRNs, could agree to receive payments based on the return on the FTSE 100 (say) and pay 3-month US-LIBOR, on a notional principal of $Q=\$1000$ . The expiry date of the swap might be in 1 year’s time, with a tenor of 3 months. After entering the swap Ms Bright efectively has $\$1000$ invested in both the FTSE 100 and the GBP-USD exchange rate, over the next year.  
 
-Suppose the GBP-USD exchange rate is currently ${\cal E}_{0}=1.5~(\Phi/\pounds)$ . Then $\$1000$ is equivalent to $\pm66.667\mathrm{m}$ . If $R_{F T S E}=4\%$ over the next 3 months then the sterling (GBP) investment increases to $\mathtt{f69.333m}$ but if sterling also depreciates by $2\%$ over the next 3 months (to $E_{1}=1.47\:\S/\pounds)$ then the USD value of the UK investment is $\$101.92$ $(=\pm69.333\times1.47)$ , an increase of about $2\%$ .  
+Suppose the GBP-USD exchange rate is currently ${\cal E}_{0}=1.5~(\Phi/£)$ . Then $\$1000$ is equivalent to $\pm66.667\mathrm{m}$ . If $R_{F T S E}=4\%$ over the next 3 months then the sterling (GBP) investment increases to $\mathtt{f69.333m}$ but if sterling also depreciates by $2\%$ over the next 3 months (to $E_{1}=1.47\:\S/£)$ then the USD value of the UK investment is $\$101.92$ $(=\pm69.333\times1.47)$ , an increase of about $2\%$ .  
 
 The swap is unhedged, so although the FTSE 100 increases by $4\%$ , the USD swap receipts only increase by around $2\%$ , because of the fall in sterling (GBP). Ms Bright will receive $\$1.92m$ from the swap dealer at the frst payment date (and will pay US-LIBOR). The net cash fows from the FRN plus the unhedged cross-currency swap are:  
 
@@ -106,7 +106,7 @@ $$
 \begin{array}{r l}&{\mathsf{V e}t c a s h f l o w s\left(U S D\right)^{2}\approx\mathfrak{H}O L(d a y s/360)+\mathfrak{H}O[R_{F T S E}+R_{F X}^{\left(\mathfrak{G}/\mathfrak{c}\right)}-L(d a y s/360)]}\\ &{=\mathfrak{H}O[R_{F T S E}+R_{F X}^{\left(\mathfrak{G}/\mathfrak{c}\right)}]}\end{array}
 $$  
 
-(wnheegraet $R_{F X}^{(\S/\pounds)}=(E_{1}/E_{0})-1$ ciisatehse(‘dretpurrenc’iaotenst)haegaUiSnsDt tShterliUnSgD.exBcrhoandglye rsapteakaindg tshpeoesiftievcet of the swap is to synthetically ‘convert’ the $\$1000$ FRN portfolio into a $\$1000$ portfolio whose return depends on both the performance of the FTSE 100 and the USD-Sterling exchange rate.3  
+(wnheegraet $R_{F X}^{(\S/£)}=(E_{1}/E_{0})-1$ ciisatehse(‘dretpurrenc’iaotenst)haegaUiSnsDt tShterliUnSgD.exBcrhoandglye rsapteakaindg tshpeoesiftievcet of the swap is to synthetically ‘convert’ the $\$1000$ FRN portfolio into a $\$1000$ portfolio whose return depends on both the performance of the FTSE 100 and the USD-Sterling exchange rate.3  
 
 # 37.3 HEDGED CROSS-CURRENCY EQUITY SWAP  
 
@@ -281,7 +281,7 @@ $$
 \mathrm{\starReturn~USD},\mathrm{foreign~investment}=(1+R_{f})(1+R_{F X}^{{\S}/{\varepsilon}})=(S_{1}^{f}E_{1}^{{\S}/{\varepsilon}})/(S_{0}^{f}E_{0}^{{\S}/{\varepsilon}})
 $$  
 
-where $E^{\Phi/\pounds}$ is the USD-GBP spot FX-rate. To replicate the cash fows in both (37.14) and (37.15) requires $\$1$ at $t_{0}$ . Hence the net payof at $t_{1}$ to a cross-currency equity swap is:  
+where $E^{\Phi/£}$ is the USD-GBP spot FX-rate. To replicate the cash fows in both (37.14) and (37.15) requires $\$1$ at $t_{0}$ . Hence the net payof at $t_{1}$ to a cross-currency equity swap is:  
 
 $$
 \begin{array}{r}{N e t\ c a s h\ f l o w\ (\mathrm{at}\ t_{1})=(1+R_{f})(1+R_{F X}^{\mathfrak{H}/\mathfrak{L}})-(1+R_{d})}\\ {=(S_{1}^{f}E_{1}^{\mathfrak{H}/\mathfrak{L}})/(S_{0}^{f}E_{0}^{\mathfrak{H}/\mathfrak{L}})-(S_{1}^{d}/S_{0}^{d})}\end{array}

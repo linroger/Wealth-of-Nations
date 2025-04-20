@@ -338,7 +338,7 @@ As of 2019, the most commonly traded currencies in spot markets are the U.S. dol
 
 During the Bretton Woods regime following World War   $\operatorname{II},$   cross rates referred to the price of a currency other than the U.S. dollar in terms of the price of any other currency besides, again, the U.S. dollar. The Bretton Woods agreement provided that currencies would be pegged to the U.S. dollar. Thus, rates were normally expressed in dollars, although the term cross rate retains its meaning after the Bretton Woods system is largely obsolete.  Table 2.7  provides a listing of  cross rates  (the exchange rate or cost of one currency in terms of another) for several different major world currencies along with rates in dollars.  
 
-The price of the Swiss franc (CHF) in terms of dollars is given in  Table 2.7  to be   $\mathbb{S}1.0217$  . The price of a U.S. dollar in terms of the UK pound is  d 0.7676. These two rates imply that the price of a Swiss franc in terms of the UK pound is   $\begin{array}{r}{\mathbb{S}1.0217\times\pounds.7676=0.7824,}\end{array}$  , consistent with the cross rate given in  Table 2.7 .  
+The price of the Swiss franc (CHF) in terms of dollars is given in  Table 2.7  to be   $\mathbb{S}1.0217$  . The price of a U.S. dollar in terms of the UK pound is  d 0.7676. These two rates imply that the price of a Swiss franc in terms of the UK pound is   $\begin{array}{r}{\mathbb{S}1.0217\times£.7676=0.7824,}\end{array}$  , consistent with the cross rate given in  Table 2.7 .  
 
 TABLE 2.7 Cross Currency Rates, May 17, 2017 
  ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8756b94b72efd857b6cf8d915957a53e99c22582414d9e683ee8872be608353.jpg)  
@@ -414,13 +414,13 @@ An example of a pair of bid and offer quotations on a pair of currencies, say eu
 A variety of types of quotation types are used in the trading of currencies. Currency traders must become familiar also with the way that currencies are quoted in the particular environment in which they work. When a currency pair is quoted, the first currency or the denominator currency in the pair is typically called the base currency and the second or numerator currency is the counter or quote currency. In most quotations, the U.S. dollar is the base currency, and quotes are expressed in units of counter currency per USD (e.g., JPY/USD or CAD/USD). The normal exceptions to this convention are quotes involving the euro, the pound sterling, and the Australian dollar; these three are quoted as dollars per foreign currency. Other quotation conventions are as follows from the perspective of a U.S. trader:  
 1.  Direct quotations (home price of foreign currency, e.g.,  $\mathbb{S}1.8000/\mathfrak{E})$  2.  Indirect quotations (foreign price of home currency, e.g.,    $\pm0.5556/\mathbb{S})$  3.  European quotations (price of USD, e.g.,  $\mathrm{CHF1.8000/\Phi}$  )
 
- 4.  American quotations (price of foreign currency,   $\S0.5556/\mathrm{CHF})$  . European quotes are more common except when trades involve the following currencies:    $\pounds_{\mathrm{UK}},\,\S_{\mathrm{AU}},$   and  $\S_{\mathrm{NZ}}$  .
+ 2.  American quotations (price of foreign currency,   $\S0.5556/\mathrm{CHF})$  . European quotes are more common except when trades involve the following currencies:    $£_{\mathrm{UK}},\,\S_{\mathrm{AU}},$   and  $\S_{\mathrm{NZ}}$  .
 
- 5.  Outright quotations are the price of a currency in the forward market quoted in terms of a second currency.
+ 3.  Outright quotations are the price of a currency in the forward market quoted in terms of a second currency.
 
- 6.  Point (or swap) quotations are quotations for a currency in forward markets in terms of the premium or discount relative to the spot price. Generally forward spreads exceed spot spreads due to higher uncertainty in forward markets.
+ 4.  Point (or swap) quotations are quotations for a currency in forward markets in terms of the premium or discount relative to the spot price. Generally forward spreads exceed spot spreads due to higher uncertainty in forward markets.
 
- 7.  Forward quotations are often made in percentage terms as follows: a.  Forward premium or discount as a percent per annum (European terms):  
+ 5.  Forward quotations are often made in percentage terms as follows: a.  Forward premium or discount as a percent per annum (European terms):  
 
 $$
 [(\mathrm{Spot\,rate}-\mathrm{forward\,rate})\div\mathrm{forward\,rate}]\times1200/n

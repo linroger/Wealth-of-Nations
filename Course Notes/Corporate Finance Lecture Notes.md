@@ -2765,7 +2765,7 @@ o   Build subsequent yearly forecast using forecast error, e.g.,  standard devia
 
 3,4'2 \*%(&+,-  = ¥6800LL × (1 + .1) = ¥7480LL,    3,4'2 \*%(&+.#/0  = ¥6800LL × (1 −.1) =  ¥6120LL   O99 &(/)' '11')+ 10( P',( 2,  
 
-Q/+ℎ 2,4'2 '8<')+'9 +0 R' H\*)ℎ,\*-'9   $f o r\,y e a r\,2.$  ,    3,4'2\*%(&)-&1"%,- = ¥7480L $\begin{array}{c c c}{{\imath m\times(1+.03)\,=\,\pounds7704m m,}}\end{array}$   3,4'2 \*%(&)-&1"%.#/0  = ¥6120LL × (1 −.03) = ¥5936LL Specify Probabilities, Simulate Cash Flows and Calculate  Present Values  
+Q/+ℎ 2,4'2 '8<')+'9 +0 R' H\*)ℎ,\*-'9   $f o r\,y e a r\,2.$  ,    3,4'2\*%(&)-&1"%,- = ¥7480L $\begin{array}{c c c}{{\imath m\times(1+.03)\,=\,£7704m m,}}\end{array}$   3,4'2 \*%(&)-&1"%.#/0  = ¥6120LL × (1 −.03) = ¥5936LL Specify Probabilities, Simulate Cash Flows and Calculate  Present Values  
 •   Specifying probability and forecast errors of each outcome    o   Data availability and cleanliness    o   Length of data series  
 
 •   Distribution al assumption versus reality  •   Derive multiple sets of cashflows by iterating through model  

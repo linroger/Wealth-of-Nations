@@ -3462,7 +3462,7 @@ See this looking at: •  Black-Scholes option formula – •  Assets just  $<\
 
  ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e44cd50270b464317469b54861b642411a497249627ab854d55c5312e879a8d0.jpg)  
 
-Negative NPV Project:   $\pounds_{10}$   investment,   $10\%$   chance \$120,  $90\%$   lose   $\S3.56$  ;  
+Negative NPV Project:   $£_{10}$   investment,   $10\%$   chance \$120,  $90\%$   lose   $\S3.56$  ;  
 
 •  EV = \$8.80  $\mathsf{E V}=\S8.80$  
 
@@ -5146,7 +5146,7 @@ History: France in early 1700s: reduced coupon on  rentes Britain: often reduced
 
 (b) France: reduced coupons on  rentes  – a form of re-scheduling and thus default (c) Britain: often reduced coupon on Consols  
 
-i. But this is interesting – not a re-scheduling. ii. Consols redeemable annuities – callable at £100. Often the government would ﬁnd it easier to have investors take a reduce coupon rather than redeem the existing bonds and then re-issue at new (lower) coupon iii. Rates   $3\%$  : Annuity of   $\pounds4$   is worth £  $4/.03=\pounds133$  . Can redeem at £100, then re-issue new annuity at   $\pounds3$   coupon, worth £100.  
+i. But this is interesting – not a re-scheduling. ii. Consols redeemable annuities – callable at £100. Often the government would ﬁnd it easier to have investors take a reduce coupon rather than redeem the existing bonds and then re-issue at new (lower) coupon iii. Rates   $3\%$  : Annuity of   $\pounds4$   is worth £  $4/.03=£133$  . Can redeem at £100, then re-issue new annuity at   $£3$   coupon, worth £100.  
 
 # Nations Default Often – R&R Figure 6.2  
 
