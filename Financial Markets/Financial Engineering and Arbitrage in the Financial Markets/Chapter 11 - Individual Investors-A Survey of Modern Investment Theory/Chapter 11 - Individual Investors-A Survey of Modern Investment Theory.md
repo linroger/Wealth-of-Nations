@@ -1,24 +1,4 @@
----
-tags:
-  - capm
-  - free_cash_flow
-  - fundamental_indexing
-  - individual_investors
-  - investment_theory
-  - modern_portfolio_theory
-aliases:
-  - Individual Investors
-  - Modern Investment Theory
-key_concepts:
-  - Efficient frontier and CAPM
-  - Free cash flow valuation
-  - Fundamental indexing
-  - Modern portfolio theory
-  - Multifactor index models
----
-
-# 11  Individual Investors: A Survey of Modern Investment Theory  
-
+11  Individual Investors: A Survey of Modern Investment Theory  
 11.1 A Brief History of Investment Thought 266   
 11.2 Free Cash Flow Valuation of Companies 269   
 11.2.1 Free Cash Flow Definitions 270   
@@ -32,8 +12,8 @@ key_concepts:
 11.4 Multifactor Index Models 282   
 11.4.1 The Fama-French Three-Factor Model 283   
 11.4.2 The Carhart Fourth Factor: the Momentum 283   
-11.4.3International Index Factors 284   
-11.5Fundamental Indexing 284   
+11.4.3 International Index Factors 284   
+11.5 Fundamental Indexing 284   
 11.5.1 A Brief History of Fundamental Indexing 285   
 11.5.2 Fundamental Indexing and Rebalancing 285   
 11.5.3 Tactical Asset Allocation 286   

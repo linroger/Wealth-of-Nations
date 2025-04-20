@@ -71,39 +71,35 @@
 		- [[Mortgage Financing Basics]]
 		- [[Mortgage Pass-Through Securities]]
 		- [[Mortgage-Backed Securities 223]]
-	- **[[Chapter 10]]**
+	- **[[Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives]]**
 		- [[Basket Credit Derivatives]]
-		- [[Chapter 10]]
+		- [[Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives]]
 		- [[Collateralized Debt Obligations and Basket Cred]]
 		- [[Collateralized Debt Obligations]]
 		- [[Copulas and the Modeling of Default Correlatio]]
 		- [[Credit Derivative Indexes]]
 		- [[Synthetic CDO Tranche Pricing and Loss Analysi]]
-	- **[[Chapter 11]]**
+	- **[[Chapter 11 - Individual Investors-A Survey of Modern Investment Theory]]**
 		- [[A Brief History of Investment Thought]]
-		- [[Chapter 11]]
+		- [[Chapter 11 - Individual Investors-A Survey of Modern Investment Theory]]
 		- [[Free Cash Flow Valuation of Companies]]
 		- [[Fundamental Indexing]]
 		- [[Individual Investors a Survey of Modern Investm]]
 		- [[The Modern Portfolio Theory and the Capm]]
-	- **[[Chapter 12]]**
-		- [[Chapter 12]]
+	- **[[Chapter 12 - Hedge Fund Strategies]]**
+		- [[Chapter 12 - Hedge Fund Strategies]]
 		- [[Hedge Fund Replication and Strategy Indexes]]
 		- [[Hedge Fund Strategies]]
 		- [[Portable Alpha and Market-Neutral Plays]]
-	- **[[Chapter 13]]**
+	- **[[Chapter 13 - Banks Asset-Liability Management]]**
 		- [[Bank Balance Sheets and Income Statements]]
 		- [[Banks Asset-Liability Managemen 303]]
 		- [[Banks Asset-Liability Management]]
-		- [[Chapter 13]]
+		- [[Chapter 13 - Banks Asset-Liability Management]]
 		- [[Duration Gap Management]]
 		- [[Interest-Sensitive Gap Management]]
 		- [[Value at Risk]]
-	- **[[Chapter 14]]**
-		- [[Chapter 14]]
-		- [[Private Equity Pension and Sovereign Funds 329]]
-		- [[Private Equity]]
-		- [[Risk Allocation for Pension Funds and Sovereig]]
+	- **[[Chapter 14 - Private Equity, Pension, and Sovereign Funds]]**
 	- [[Financial Engineering and Arbitrage in the Financial Markets]]
 
 %% End Waypoint %%
