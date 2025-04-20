@@ -504,8 +504,6 @@ o The PDE is generic for any derivative securities, as long as S follows geometr
 
 Given boundary conditions, derivative values can be solved numerically from the PDE.  
 
-# Liuren Wu  
-
 # Explicit finite difference method  
 
 One way to solve the PDE numerically is to discretize across time using N time steps $(0,\Delta t,2\Delta t,\cdot\cdot\textit{,}T)$ and discretize across states using $M$ grids (0, S, ..., $S_{\mathrm{max}})$  

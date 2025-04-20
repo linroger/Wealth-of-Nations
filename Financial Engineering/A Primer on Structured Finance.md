@@ -20,25 +20,13 @@ key_concepts:
 
 # A primer on structured finance  
 
-International Monetary Fund (IMF), Monetary and Capital Markets Department (MCM), 700 19th Street, NW, Washington DC 20431, USA. Tel. +1 202 623 6362, Fax: +1 202 589 6362, E-mail: ajobst@imf.org  
-
-Received (in revised form): 7th June, 2007  
-
-Andreas (Andy) Jobst is a mid-career economist at the Monetary and Capital Markets Department (MCM) of the International Monetary Fund (IMF) in Washington, DC. His research focuses on structured finance, risk management, sovereign debt management, emerging market finance and economics, financial regulation, and time series econometrics. He previously worked at the Division for Insurance and Research at the Federal Deposit Insurance Corporation (FDiC), the Economics Department of the Deutsche Bundesbank, the Financial Markets Group (FMG) at. the London School of Economics (LSE), the Center for Financial Studies (CFS) in Frankfurt/Main, the International Division of the European Central Bank (EcB), the Financial Institutions Division of the Bank of England, the Comision. Economica para America Latina y el Caribe (CEPAL) of the United Nations, the European Securitization Group of Deutsche Bank in London, and the Financial Services Group of the Boston Consulting Group (BcG). He holds a PhD in Finance from the London School of Economics (LSE). He was also educated in Oxford, Cambridge, Leicester and Maryland, and holds the professional qualification of Accredited Asset Management Specialist (AAMS).  
-
 # Practical applications  
 
 The article helps uninitiated market participants, policy makers and regulators understand the technical. aspects and economic characteristics of structured finance in a bid to promote the development of market practices and prudential standards that guarantee market stability without encumbering the welfare-enhancing effect of risk sharing and efficient market pricing..  
 
 # Abstract  
 
-On the heels of last year's downgrades of General Motors Corp. and Ford Motor Co. to noninvestment grade. status, the haircut unwinding of exposed collateralised debt obligations reverberated in mounting regulatory unease about current risk measurement standards of derivatives and their impact on financial stability. Probable knock-on effects of the recent bankruptcies of. US auto parts supplier Delphi and two major airlines have fuelled groundswell concern about complex structured finance techniques, such as customised singletranche and hybrid collateralised debt obligations with overlay structures, against the background of tightening. credit spreads and greater dislocation in the correlation market. Subsequent warnings about the resilience of credit risk transfer to systemic crisis, however, hardly  
-
-extended beyond indistinct assessments of how derivatives might propagate asset shocks across different capital market segments. This brief paper defines structured finance in order to inform a more specific debate about the regulatory challenges posed by the assembly of asset exposures and credit risk transfer in complex structured finance transactions that marry considerations of profitability and diversification alike.  
-
-Journal of Derivatives & Hedge Funds (2007) 13, 199-213. doi:10.1057/palgrave.jdhf.1850070  
-
-Keywords: structured finance; credit risk transfer; asset-backed securitisation (ABS); securitisation; mortgage-backed securitisation (MBS); collateralised debt obligation (CDO)  
+On the heels of last year's downgrades of General Motors Corp. and Ford Motor Co. to noninvestment grade. status, the haircut unwinding of exposed collateralised debt obligations reverberated in mounting regulatory unease about current risk measurement standards of derivatives and their impact on financial stability. Probable knock-on effects of the recent bankruptcies of. US auto parts supplier Delphi and two major airlines have fuelled groundswell concern about complex structured finance techniques, such as customised singletranche and hybrid collateralised debt obligations with overlay structures, against the background of tightening. credit spreads and greater dislocation in the correlation market. Subsequent warnings about the resilience of credit risk transfer to systemic crisis, however, hardly extended beyond indistinct assessments of how derivatives might propagate asset shocks across different capital market segments. This brief paper defines structured finance in order to inform a more specific debate about the regulatory challenges posed by the assembly of asset exposures and credit risk transfer in complex structured finance transactions that marry considerations of profitability and diversification alike.  
 
 # INTRODUCTION  
 

@@ -17,9 +17,9 @@ key_concepts:
   - Forward exchange rate
 ---
 
-# A Primer on Currency Derivatives Gregory P.Hopper\*  
+# A Primer on Currency Derivatives \*  
 
-n American company wants to import Anew computer screens from Japan. Company executives discover that they can buy the computer screens at a price of 10,000 yen per screen. At the prevailing exchange rate of 100 yen per dollar, the screens will cost $\$100$ each. Market research reveals that each computer screen can be sold for. $\$105$ in the United States,. a profit of. $\$5$ per screen. Excited by this prospect, the company negotiates a contract to buy 1250 computer screens, yielding a profit of $\$6250$ . The company will take delivery of the screens in exactly one year, at which time payment will be due in full..  
+An American company wants to import Anew computer screens from Japan. Company executives discover that they can buy the computer screens at a price of 10,000 yen per screen. At the prevailing exchange rate of 100 yen per dollar, the screens will cost $\$100$ each. Market research reveals that each computer screen can be sold for. $\$105$ in the United States,. a profit of. $\$5$ per screen. Excited by this prospect, the company negotiates a contract to buy 1250 computer screens, yielding a profit of $\$6250$ . The company will take delivery of the screens in exactly one year, at which time payment will be due in full..  
 
 After one year, the company is shocked to learn that the exchange rate is no longer 100 yen per dollar, but 95 yen per dollar. Since the company must buy its yen at the exchange rate prevailing on the delivery date, each computer screen costs $\$105.26$ (10,000 yen/screen divided by 95 yen/dollar $=\$105.26$ per screen) at. delivery. Not only did the company fail to receive its anticipated $\$5$ per screen profit, it lost $\$26$ per screen.  
 

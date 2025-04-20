@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025).md",
+                "file": "Financial Engineering/Advanced Derivatives Pricing Methodology.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025)"
+              "title": "Advanced Derivatives Pricing Methodology"
             }
           },
           {
-            "id": "455c41efec970225",
+            "id": "40d1d20a8f6b7412",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 2o Essentials of Structured Product En.md",
+                "file": "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 37/Lessons for All Users of Derivatives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 2o Essentials of Structured Product En"
+              "title": "Lessons for All Users of Derivatives"
+            }
+          },
+          {
+            "id": "a21cb61043c13f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Principles of Financial Engineering Part 2/Principles of Financial Engineering Part2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Principles of Financial Engineering Part2"
             }
           },
           {
@@ -112,33 +136,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "050a887f0962f125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Linear Model"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -293,10 +293,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md"
+                "file": "Financial Markets/Principles of Financial Engineering Part 2/Principles of Financial Engineering Part2.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Linear Model"
+              "title": "File properties for Principles of Financial Engineering Part2"
             }
           },
           {
@@ -341,8 +341,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "050a887f0962f125",
+  "active": "a21cb61043c13f1b",
   "lastOpenFiles": [
+    "Financial Markets/Principles of Financial Engineering Part 2/Front Matter/Table of Contents.md",
+    "Financial Markets/Financial Trading and Markets/Chapter 9 Arbitrage and Hedging With Options.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 10/Collateralized Debt Obligations and Basket Cred.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Market Players Hedgers Vs Speculators.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Financial Institutions Transforming Intermediar.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 1/Chapter 1.md",
+    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 37/Lessons for All Users of Derivatives.md",
+    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 37/Chapter 37.md",
+    "Financial Engineering/Advanced Derivatives Pricing Methodology.md",
+    "Financial Engineering/A Primer on Structured Finance.md",
+    "Financial Engineering/A Primer on Currency Derivatives.md",
+    "Financial Engineering/A Practical Guide to Bonds and Swaps.md",
+    "Comparative Analysis of Leading AI Models-Technical Specifications and API Access (April 2025).md",
+    "Financial Markets/Options Futures and Other Derivatives Part 2/Chapter 22/The Linear Model.md",
     "Financial Markets/Principles of Financial Engineering Part 2/Chapter 696/Chapter 20 Essentials of Structured Product Engineering.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/32. Pricing Foreign Currency Options.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics/31. Implied Volatility and the Volatility Smile.md",
@@ -357,24 +372,9 @@
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods/24. Finite Difference Methods.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods/23. Monte Carlo Simulation.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/22. Pricing Forwards, Futures, and Options on Forwards and Futures.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/18. Compound Option Pricing.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/21. Min-Max Option Pricing.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/20. American Put Option Pricing.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/19. American Call Option Pricing.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing/17. Applying Linear Homogeneity to Option Pricing.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/16. Connecting Discrete and Continuous Brownian Motions.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/14. The Greeks in the Black-Scholes-Merton Model.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/13. Deriving the Black-Scholes-Merton Model.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/12. Properties of the Lognormal and Normal Diffusion Processes for Modeling Assets.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory/10. The Basics of Brownian Motion and Wiener Processes.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory/9. Convergence of the Binomial Model to the Black-Scholes-Merton Model.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory/8. Calculating the Greeks in the Binomial Model.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory/7. The Binomial Model.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing/6. Basic Concepts in Valuing Risky Assets and Derivatives.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing",
     "Untitled.canvas",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
