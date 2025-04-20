@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "4ac6ea37bb09f770",
+            "id": "0b0562c15a9893ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 14/Chapter 14.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Consumption Plans and Preference Relations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,16 +38,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 14"
+              "title": "Consumption Plans and Preference Relations"
             }
           },
           {
-            "id": "703b26ad742d0ea7",
+            "id": "1c869478a253e19f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Chapter 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,16 +62,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 11 - Risk-adjusted probabilities"
+              "title": "Chapter 5"
             }
           },
           {
-            "id": "171fdded188e6dac",
+            "id": "8af64deaf0f71218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Expected Utility Representation of Preferences.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,16 +86,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 11 - Risk-adjusted probabilities"
+              "title": "Expected Utility Representation of Preferences"
             }
           },
           {
-            "id": "3e1becb85467f3bf",
+            "id": "7ab23c0b8fae2e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Chapter 12 - Derivatives.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Chapter 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,16 +110,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 12 - Derivatives"
+              "title": "Chapter 5"
             }
           },
           {
-            "id": "9e58aa83f9a10ba0",
+            "id": "4d2bd39045d938e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Chapter 1.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6/Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "Introduction"
             }
           }
         ],
@@ -293,10 +293,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Chapter 1.md"
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6/Introduction.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Chapter 1"
+              "title": "File properties for Introduction"
             }
           },
           {
@@ -341,34 +341,34 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9e58aa83f9a10ba0",
+  "active": "4d2bd39045d938e7",
   "lastOpenFiles": [
-    "Financial Markets/Financial Asset Pricing Theory Overview/Financial Asset Pricing Theory Overview.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Chapter 1.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Chapter 12 - Derivatives.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6/Introduction 129.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6/Introduction.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6/Chapter 6.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Chapter 5.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Expected Utility Representation of Preferences.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Modeling the Preferences of Individuals 99.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Introduction.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Consumption Plans and Preference Relations.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Exercises.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Chapter 4.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Properties of State-Price Deflators.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Nominal and Real State-Price Deflators.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Multi-Period Valuation Models.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Introduction.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Exercises.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Definitions and Immediate Consequences.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/A Preview of Alternative Formulations.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Introduction.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Introduction.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11/Introduction 279.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 14/Chapter 14.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 13/Chapter 13.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 15/Chapter 15.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Options.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Introduction 299.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter/Table of Contents.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Front Matter.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 16/Chapter 16.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 12/Chapter 12.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 11/Chapter 11.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Fixed Income Securities Tools for Today's Markets.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives/25. The Term Structure of Interest Rates.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Us Markets.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Table of Contents.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Us Market Participants.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Trading and Liquidity.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Global Fixed Income Markets.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Front Matter/Monetary Policy with Abundantreserves.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Chapter 12 - Derivatives.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3/Redundant Assets.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3/Portfolios and Trading Strategies.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3/Marketed Dividends and Market Completeness.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3/Exercises.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3/Assets.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3/Arbitrage.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 3/Chapter 3.md",
     "Course Notes/Python/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",

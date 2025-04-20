@@ -3,7 +3,6 @@
 	- **[[Chapter 1]]**
 		- [[Chapter 1]]
 		- [[Elements of Asset Pricing Models]]
-		- [[Introduction and Overview 1]]
 		- [[Prerequisites]]
 		- [[Some Stylized Empirical Facts About Asset Retur]]
 		- [[State Prices 63]]
@@ -21,7 +20,6 @@
 		- [[Uncertainty Information and Stochastic Processes]]
 	- **[[Chapter 3]]**
 		- [[Arbitrage]]
-		- [[Assets Portfolios and Arbitrage 45]]
 		- [[Assets]]
 		- [[Chapter 3]]
 		- [[Exercises]]
@@ -42,8 +40,6 @@
 		- [[Consumption Plans and Preference Relations]]
 		- [[Exercises]]
 		- [[Expected Utility Representation of Preferences]]
-		- [[Introduction]]
-		- [[Modeling the Preferences of Individuals 99]]
 		- [[Preferences for Multi-Date Consumption Plans]]
 		- [[Risk Aversion]]
 		- [[Utility Functions in Models and in Reality]]
