@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8abc72ffbcf6433d",
+            "id": "bd269d0f0f53a6f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 7/Chapter 7.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10/Chapter 10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 7"
+              "title": "Chapter 10"
             }
           },
           {
-            "id": "78645cd999a74dbb",
+            "id": "ff7793f6e67c3400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 7/Chapter 7.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10/The Expectation Hypothesis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 7"
+              "title": "The Expectation Hypothesis"
             }
           },
           {
-            "id": "8cd1f10eec6f6338",
+            "id": "87c7493dff628f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Chapter 8.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Risk-Neutral Probabilities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 8"
+              "title": "Risk-Neutral Probabilities"
             }
           },
           {
-            "id": "7d0371fb25b7b8c1",
+            "id": "aaa995c28bd02e5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/CCAPM with Alternative Preferences.md",
+                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter/Table of Contents.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CCAPM with Alternative Preferences"
+              "title": "Table of Contents"
+            }
+          },
+          {
+            "id": "37de082b10b74351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 5/Call and Put Payoffs at Expiry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Call and Put Payoffs at Expiry"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -259,10 +283,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Markets/Financial Asset Pricing Theory Overview/Financial Asset Pricing Theory Overview.md"
+                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 5/Call and Put Payoffs at Expiry.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Financial Asset Pricing Theory Overview"
+              "title": "File properties for Call and Put Payoffs at Expiry"
             }
           },
           {
@@ -307,34 +331,34 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7d0371fb25b7b8c1",
+  "active": "37de082b10b74351",
   "lastOpenFiles": [
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Consumption-Based Asset Pricing with Incomplete Markets.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Chapter 8.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Introduction.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6 - Individual optimality/Exercises 155.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Theory Meets Data - Asset Pricing Puzzles.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/The Simple Multi-Period Ccapm.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/The One-Period Ccapm.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Problems with the Empirical Studies.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Long-Run Risks and Epstein-Zin Utility.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 7/Chapter 7.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 7/Introduction.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6 - Individual optimality/Introduction.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6 - Individual optimality/Chapter 6 - Individual optimality.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 6 - Individual optimality/Introduction 129.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Chapter 5.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Expected Utility Representation of Preferences.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Modeling the Preferences of Individuals 99.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Introduction.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Consumption Plans and Preference Relations.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 5/Exercises.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 14/Chapter 14.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Chapter 5/Call and Put Payoffs at Expiry.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/What Is Modern Asset Pricing.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/The Organization of This Book.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 2/Chapter 2.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Some Stylized Empirical Facts About Asset Retur.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/State Prices 63.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Chapter 4.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Properties of State-Price Deflators.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Nominal and Real State-Price Deflators.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Multi-Period Valuation Models.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Introduction.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 4/Exercises.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Elements of Asset Pricing Models.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Prerequisites.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 1/Chapter 1.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter/Table of Contents.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Front Matter/Front Matter.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Risk-Neutral Probabilities.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 11 - Risk-adjusted probabilities/Chapter 11 - Risk-adjusted probabilities.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10/The Expectation Hypothesis.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10/The Economics of the Term Structure of Interest.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10/Chapter 10.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 10/Introduction.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 7/Chapter 7.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9/Chapter 9.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9/Introduction.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Chapter 8.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 9/Factor Models 217.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/CCAPM with Alternative Preferences.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 8/Consumption-Based Asset Pricing with Incomplete Markets.md",
     "Course Notes/Python/Jupyter Notebook 2024-10-28-09-10-06.ipynb",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VII Miscellaneous Topics",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part VI Interest Rate Derivatives",

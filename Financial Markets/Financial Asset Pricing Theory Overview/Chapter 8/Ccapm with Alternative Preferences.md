@@ -354,7 +354,32 @@ $$
 By the Cauchy-Schwartz inequality and (8.46), we get exactly  
 
 $$
-\begin{array}{r l}{{\left(\int_{1}^{\infty}\frac{1}{\gamma}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma\right)^{2}\leq\left(\int_{1}^{\infty}\frac{1}{\gamma^{2}}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma\right)\left(\int_{1}^{\infty}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma\right)}}\ &{=\int_{1}^{\infty}\frac{1}{\gamma^{2}}f(\gamma)^{1/\gamma}e^{-\frac{1}{\gamma}h(\omega)-\omega}d\gamma}\end{array}
+\begin{aligned}
+\left(
+  \int_{1}^{\infty}
+    \frac{1}{\gamma} f(\gamma)^{1/\gamma}
+    e^{ -\frac{1}{\gamma} h(\omega) - \omega }
+  \, d\gamma
+\right)^2
+&\leq
+\left(
+  \int_{1}^{\infty}
+    \frac{1}{\gamma^2} f(\gamma)^{1/\gamma}
+    e^{ -\frac{1}{\gamma} h(\omega) - \omega }
+  \, d\gamma
+\right)
+\left(
+  \int_{1}^{\infty}
+    f(\gamma)^{1/\gamma}
+    e^{ -\frac{1}{\gamma} h(\omega) - \omega }
+  \, d\gamma
+\right) \\
+&=
+\int_{1}^{\infty}
+  \frac{1}{\gamma^2} f(\gamma)^{1/\gamma}
+  e^{ -\frac{1}{\gamma} h(\omega) - \omega }
+\, d\gamma
+\end{aligned}
 $$  
 
 as was to be shown.  
@@ -479,4 +504,3 @@ which is not far from historical estimates. (However, with these parameters and 
 
 # 8.7.6 Durable goods  
 
-See Lustig and van Nieuwerburgh (2005), Piazzesi, Schneider, and Tuzel (2006), Yogo (2006). See Exercise 8.10.  
