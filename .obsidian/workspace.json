@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes 10- Interest Rate Derivatives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Lecture Notes 10- Interest Rate Derivatives"
+            }
+          },
+          {
+            "id": "18a0c56cb067b530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Note 6-Implied Volatility.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture Note 6-Implied Volatility"
             }
           }
         ],
@@ -259,10 +283,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Notes 10- Interest Rate Derivatives.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for Lecture Notes 10- Interest Rate Derivatives"
             }
           },
           {
@@ -309,9 +333,12 @@
   },
   "active": "19f6f5c37c7f6305",
   "lastOpenFiles": [
+    "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Financial Distress,  Reorganization,  And Organizational Efficiency.md",
+    "Untitled.md",
     "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Note 6-Implied Volatility.md",
-    "Financial Instruments/Lecture Notes- Financial Instruments/Untitled.md",
     "Financial Instruments/Lecture Notes- Financial Instruments/Lecture Note 5- Black Scholes Formula.md",
+    "Untitled 2.md",
+    "Financial Instruments/Lecture Notes- Financial Instruments/Untitled.md",
     "Financial Markets and Institutions/I- Introduction to Financial Markets and Intermediation/I- Introduction to Financial Markets and Intermediation/Class Note 1 Borrower-Lender conflicts and implied agency problems.md",
     "Financial Markets/Financial Trading and Markets/Chapter 8 Arbitrage and Hedging With Fixed Income Instruments and Currencies.md",
     "Financial Markets/Financial Trading and Markets/Chapter 10 Evaluating Trading Strategies and Performance.md",
@@ -321,7 +348,6 @@
     "Python Notes.md",
     "Untitled 1.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Chapter 6 Options on Non-Price Variables.md",
-    "Untitled.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/PART I RELATIVE VALUE BUILDING BLOCKS.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 7 - Default Risk and Credit Derivatives/Chapter 7 - Default Risk and Credit Derivatives.md",
@@ -333,8 +359,6 @@
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/Chapter 8 - Structured Finance.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 9 - Mortgage-Backed Securities/Chapter 9 - Mortgage-Backed Securities.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 1 - Purpose and Structure of Financial Markets/Chapter 1 - Purpose and Structure of Financial Markets.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS",

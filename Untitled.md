@@ -70,3 +70,47 @@
 \end{document}
 
 ```
+
+
+```latex
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+\begin{document}
+\begin{tikzpicture}[
+    box/.style = {draw,     rounded corners,     minimum width=4cm,     minimum height=2cm,     align=left},    
+    node distance=3cm
+]
+
+% Level i = 0
+\node[box] (i0) {
+    $S_0 = 1502.39$\\
+    $q^*_0 = 0.528631113$\\
+    $p_0 = e^{-r \times 0.12} \times (1 - q^*_0) \times p_{1,    d} = 28.394$
+};
+
+% Level i = 1,     upper branch
+\node[box,     right=of i0,     yshift=1.5cm] (i1u) {
+    $S_{1,    u} = 1568.114$\\
+    $p_{1,    u} = 0$
+};
+
+% Level i = 1,     lower branch
+\node[box,     right=of i0,     yshift=-1.5cm] (i1d) {
+    $S_{1,    d} = 1439.421$\\
+    $p_{1,    d} = 60.579$
+};
+
+% Connect nodes
+\draw[->] (i0.east) -- ++(0.5,    0) |- (i1u.west);
+\draw[->] (i0.east) -- ++(0.5,    0) |- (i1d.west);
+
+% Labels for time levels
+\node[above left=0.5cm of i0] {$i = 0$};
+\node[above left=0.5cm of i1u] {$i = 1$};
+
+\end{tikzpicture}
+\end{document}
+```		
+```
+
