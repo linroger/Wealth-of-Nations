@@ -213,8 +213,7 @@ $\bar{\text{market price }p^{mkt}(1500,  0.\1)}=\bar{\$20.35}.$
 \end{tikzpicture}
 \end{document}
 
-```			
-
+```		
 ![Implied Tree Logic](https://storage.simpletex.cn/view/fwGGRatMlqKAhywFVsAy9CZUEPb0iO4hh)
 
 An implied tree has the same logic as implied volatility: Since the model is not working using the correct inputs,  we look for an alternative specification that makes it work.
