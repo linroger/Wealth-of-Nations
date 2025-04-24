@@ -108,7 +108,7 @@ Variance (volatility) swaps, on the other hand, are pure volatility positions. P
 
 In financial markets, a volatility position is often interpreted to be a static position taken by buying and selling straddles, or a dynamically maintained position that uses straddles or options. As  
 
-![](images/6e704bf35253e115191ea65764511918cae0dcf045af8cf407ef2a615b0925e5.jpg)  
+![](6e704bf35253e115191ea65764511918cae0dcf045af8cf407ef2a615b0925e5.jpg)  
 
 # FIGURE 15.1  
 
@@ -156,7 +156,7 @@ Initially we let $t_{0}=0$ .
 3. To buy into a volatility position, the trader borrows an amount equal to $100\:C\left(S_{t},\:t\right)$ , and buys 100 calls at time $t_{0}$ with funding cost $r=0$ .5   
 4. Next, the position is delta-hedged by short-selling $C_{s}$ units of the underlying per call to obtain the familiar exposure shown in Figure 15.2.  
 
-![](images/5fe6321b33d1344060be0fc1052756d095f266ead36f6719e87fba8d629f59c7.jpg)  
+![](5fe6321b33d1344060be0fc1052756d095f266ead36f6719e87fba8d629f59c7.jpg)  
 
 # FIGURE 15.2  
 
@@ -228,7 +228,7 @@ $$
 
 Under the present conditions, we see that as long as $S_{t}$ remains in the vicinity of the strike $K$ , the trader has some exposure to volatility changes. But as soon as $S_{t}$ leaves the neighborhood of $K$ , this exposure drops sharply. The trader may think he or she has a (variance) volatility position, but, in fact, the position costs money, and may not have any significant variance exposure as the underlying changes right after the trade is put in place. Thus, such classical volatility positions are imperfect ways of putting on volatility trades or hedging volatility exposures.  
 
-![](images/4486c037cb124f120b718a3d6346c4a8a80ad2dbbccc928021deb05f3223277f.jpg)  
+![](4486c037cb124f120b718a3d6346c4a8a80ad2dbbccc928021deb05f3223277f.jpg)  
 
 # FIGURE 15.3  
 
@@ -246,7 +246,7 @@ If a dynamic delta-neutral option position loses its exposure to movements in $\
 
 A classic position that has volatility exposure is buying (selling) ATM straddles. Using the same numbers as above, Figure 15.4 shows the joint payoff of an ATM call and an ATM put struck at $K=100$ . This position is made of two plain vanilla options and may suffer from a similar defect. The following example discusses this in more detail.  
 
-![](images/2c282b99cf434d83d4d56f7553d884472fa6f951569cef12d74ebe2f26a33d0f.jpg)  
+![](2c282b99cf434d83d4d56f7553d884472fa6f951569cef12d74ebe2f26a33d0f.jpg)  
 
 # FIGURE 15.4  
 
@@ -290,7 +290,7 @@ $$
 
 As expected, this return is about twice as big as in the previous example. The straddle has more sensitivity to volatility changes. But, the option’s responsiveness to volatility movements is again not constant, and depends on factors that are external to what happens to volatility. The table shows that if $S_{t}$ moves to 80, then even when the trader’s expectation is justified and volatility moves from $20\%$ to $30\%$ , the position’s mark-to-market gains will go down to about 0.56.  
 
-![](images/06a4210dae3540cdf13e91d669da40e910561f33efc14f751bfb47a7e866f4d5.jpg)  
+![](06a4210dae3540cdf13e91d669da40e910561f33efc14f751bfb47a7e866f4d5.jpg)  
 
 # FIGURE 15.5  
 
@@ -304,7 +304,7 @@ The key to finding the right way to hedge volatility risk or to take positions i
 
 First, we know from Chapters 12 and 13 that by using options with different strikes we can essentially create any payoff that we like—if options with a broad range of strikes exist and if markets are complete. Thus, we should, in principle, be able to create pure volatility instruments by using judiciously selected option portfolios.  
 
-![](images/258f0208ab847210e70a9c43d77e9a555d2af05c72f8f0e2450efc0bced1d89a.jpg)  
+![](258f0208ab847210e70a9c43d77e9a555d2af05c72f8f0e2450efc0bced1d89a.jpg)  
 
 # FIGURE 15.6  
 
@@ -326,7 +326,7 @@ $$
 V(S_{t},t)=\frac{1}{K_{0}^{2}}C(S_{t},t,K_{0})+\frac{1}{K_{1}^{2}}C(S_{t},t,K_{1})+\frac{1}{K_{2}^{2}}C(S_{t},t,K_{2})
 $$  
 
-![](images/38e8af45601ed18b356e8bac47cee3124d384ba03fbc275bb686609f1595651e.jpg)  
+![](38e8af45601ed18b356e8bac47cee3124d384ba03fbc275bb686609f1595651e.jpg)  
 Variance vega of a portfolio of options with weights inversely proportional to the square of the strike price.  
 
 # FIGURE 15.7  
@@ -449,7 +449,7 @@ Thus, variance swaps are similar to a vanilla (interest rate) swap in that a “
 
 The cash flows implied by a variance swap are shown in Figure 15.8. The contract is initiated at time $t_{0}.$ , and the start date is $T_{1}$ . It matures at $T_{2}$ . The “floating” volatility (variance) is the total volatility (variance) of $S_{t}$ during the entire period $[T_{1},T_{2}].F_{t_{0}}$ has the subscript $t_{0}$ , and, hence, has to be determined at time $t_{0}$ .  
 
-![](images/f7a03597c078168ac799053db1322be256472d72532a0f8f3034c6d418387f53.jpg)  
+![](f7a03597c078168ac799053db1322be256472d72532a0f8f3034c6d418387f53.jpg)  
 
 # FIGURE 15.8  
 
@@ -495,7 +495,7 @@ on average. For example, if the index only realizes $12\%$ , the long will pay $
 
 Figure 15.9 shows the floating and fixed leg for a S&P500 variance swap contract from 1996 to 2014. The contract is for 30-day variance. The floating leg is based on the realized variance and  
 
-![](images/3ff6ceeea1911c31afedea49c6acdd72ad2cdfa4510c23a65812e112a0092be5.jpg)  
+![](3ff6ceeea1911c31afedea49c6acdd72ad2cdfa4510c23a65812e112a0092be5.jpg)  
 
 # FIGURE 15.9  
 
@@ -736,7 +736,7 @@ $$
 
 The above states that $(1/2K_{\mathrm{vol}})$ variance contracts with a strike $K_{\mathrm{vol}}$ can be used to approximate a volatility swap with a notional of $(\$1/\mathrm{vol}$ point for realized volatilities near $K_{\mathrm{vol}}$ . This naı¨ve approximation would also mean that the fair price of future volatility (the stroke for which the volatility swap has zero value) is simply the square root of the fair variance, that is, $K_{\mathrm{vol}}=\sqrt{K_{\mathrm{var}}}$ . Figure 15.10 plots the left-hand side and the right-hand side of Eq. (15.59) for different values of realized volatility and a strike price $K_{\mathrm{vol}}=16\%$ . The payoff of the volatility swap is represented by the dashed line and the payoff of the variance swap is represented by the solid parabola. The figure shows that the actual volatility swap and the corresponding approximation based on a variance swap different considerably when future realized volatility is far away from the strike price. We see that the naı¨ve approximation  
 
-![](images/1f60565c5645a21f26c003ee62a3b7815a0d9e16804a8bad0d95f68214976639.jpg)  
+![](1f60565c5645a21f26c003ee62a3b7815a0d9e16804a8bad0d95f68214976639.jpg)  
 
 # FIGURE 15.10  
 
@@ -800,7 +800,7 @@ Below is a term sheet for the S&P500 Variance Futures
 
 <html><body><table><tr><td>Description:</td><td>S&P 5Oo Variance futures are exchange-traded futures contracts based on the realized variance of the S&P 500 Composite Stock Price Index (S&P 5O0). The final settlement value for the contract will be determined based on a standardized formula for calculating the realized variance of the S&P 5O0 measured from the time of initial listing until</td></tr><tr><td>Contract size:</td><td>expiration of the contract. The standard formula inputs for discount factor and daily interest rate are determined by the Exchange. The contract multiplier for the S&P 50o Variance futures contract is $1 per variance unit. One contract equals one variance unit.</td></tr><tr><td>Trading hours:</td><td>8:30 a.m.-3:15 p.m. (Chicago time). All Orders, quotes, cancellations and Order modifications for S&P 5o Variance futures </td></tr><tr><td></td><td>during trading hours must be received by the Exchange by no later than 3:14:59 p.m. Chicago time and will be automatically rejected if received by the Exchange during trading hours after 3:14:59 p.m. Chicago time.</td></tr><tr><td>Contract months:</td><td>The Exchange may list contract months on S&P 50o Variance futures that correspond to the listed contract months for S&P 500 Index options listed on Chicago Board Options Exchange, Incorporated (CBOE).</td></tr></table></body></html>  
 
-![](images/aba7185781c2033b2c254edad751987b472021183fc07ef82a66cbeb03ce5a97.jpg)  
+![](aba7185781c2033b2c254edad751987b472021183fc07ef82a66cbeb03ce5a97.jpg)  
 S&P500 VARIANCE FUTURES   
 Source: CBOE  
 

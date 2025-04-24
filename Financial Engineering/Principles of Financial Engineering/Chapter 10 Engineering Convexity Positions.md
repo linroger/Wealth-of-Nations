@@ -67,7 +67,7 @@ First, we show how convexity of a long bond relates to yield volatility. The hig
 
 Here is a puzzle. Consider the yield curve shown in Figure 10.1. The 10-year zero-coupon bond has a yield to maturity that equals $5.2\%$ . The 30-year zero, however, has a yield to maturity of just $4.94\%$ . In other words, if we buy and hold the latter bond 20 more years, we would receive a lower yield during its lifetime.  
 
-![](images/4b8541991eae11b6b7841d03e491e53fc55db6a3716c2c9411d0bbbdce8a3d37.jpg)  
+![](4b8541991eae11b6b7841d03e491e53fc55db6a3716c2c9411d0bbbdce8a3d37.jpg)  
 
 # FIGURE 10.1  
 
@@ -111,13 +111,13 @@ $$
 
 This option is financed by a money market loan so that the overall position is shown as the downward sloping curve $B B^{\prime}$ .5 We see a great deal of resemblance between the two positions.  
 
-![](images/e40a0a79b960b4b32e55773db0dd11a4f6ab1f8c5bb7fcbaae783d717fdff5c8.jpg)  
+![](e40a0a79b960b4b32e55773db0dd11a4f6ab1f8c5bb7fcbaae783d717fdff5c8.jpg)  
 
 # FIGURE 10.2  
 
 Bond and put option as examples of convex instruments.  
 
-![](images/bacc691cf03ffb13bf14968be42c8708b757ddc8920df3f2403cc9178d372316.jpg)  
+![](bacc691cf03ffb13bf14968be42c8708b757ddc8920df3f2403cc9178d372316.jpg)  
 
 # FIGURE 10.3  
 
@@ -150,7 +150,7 @@ Thus, we will proceed as if there was a single underlying risk that causes price
 
 The trader buys the long bond with borrowed funds and then hedges the downside risk implied by the curve $A A^{\prime}$ in Figure 10.4. The hedge for the downside risk will be a position that makes money when $\boldsymbol{r}_{t}$ increases and loses money when $\boldsymbol{r}_{t}$ declines. This can be accomplished by shorting an appropriate number of the short bond.  
 
-![](images/4177f38481f83a99dfc1617ce30a422f7f7f1c7ef8da5babdfc7bc0c5160c07e.jpg)  
+![](4177f38481f83a99dfc1617ce30a422f7f7f1c7ef8da5babdfc7bc0c5160c07e.jpg)  
 
 # FIGURE 10.4  
 
@@ -610,7 +610,7 @@ $$
 
 We see that the function is nonlinear and concave.  
 
-![](images/c42b9a79035513a976d1ecafcdc43b88c4ec0481481cb9a127d22a6b7b280e93.jpg)  
+![](c42b9a79035513a976d1ecafcdc43b88c4ec0481481cb9a127d22a6b7b280e93.jpg)  
 
 # FIGURE 10.5  
 
@@ -658,7 +658,7 @@ $$
 \left[L_{t_{i}}-f_{t_{0}}\right]\delta N
 $$  
 
-![](images/1c0bfb47c6338db3f48f1fa0fc8a3b1e5e982739205a0989fd0cd5004cee36e6.jpg)  
+![](1c0bfb47c6338db3f48f1fa0fc8a3b1e5e982739205a0989fd0cd5004cee36e6.jpg)  
 
 # FIGURE 10.6  
 
@@ -684,7 +684,7 @@ Consider the standard currency swap in Figure 10.7. There are two cash flows, in
 
 The standard currency swap of Figure 10.7 will now be modified in an interesting way. We keep the two floating LIBOR rates the same, but force all payments to be made in one currency only, say USD. In other words, the calculated EUR LIBOR indexed cash flows will be paid (received) in USD. This instrument is called a quanto swap or differential swap. In such a swap, the principal amounts would be in the same currency, and there would be no need to exchange them. Only net interest rate cash flows will be exchanged.  
 
-![](images/d62bce53d7f011f1cf9c0436ffeaf57bd282c310ae0b22401e108c43d2905d37.jpg)  
+![](d62bce53d7f011f1cf9c0436ffeaf57bd282c310ae0b22401e108c43d2905d37.jpg)  
 
 # FIGURE 10.7  
 

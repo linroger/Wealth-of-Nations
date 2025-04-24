@@ -72,7 +72,7 @@ Expected cost of borrowing between June and December $\cdot=\mathfrak{H}2\mathrm
 
 We hedge using the June-Eurodollar futures contract. The contract size is for ‘notional delivery’ of a $\$10$ deposit (with 3 months maturity). The quoted (June) IMM index is determined by the (90-day) forward (discount) rate $d_{f,0}=7\%$ p.a. (quoted on 20 April, which applies to the 3-month period between 15 June and 15 September)2:  
 
-![](images/b85523932694191a298af426e0fdcc03f59dc36aa116d08028f2060fa3822d0a.jpg)  
+![](b85523932694191a298af426e0fdcc03f59dc36aa116d08028f2060fa3822d0a.jpg)  
 FIGURE 12.1 Hedging 6-month bank loan using Eurodollar futures  
 
 $$
@@ -153,7 +153,7 @@ Suppose it is 15 April and company-XYZ knows that it will borrow at 3-month LIBO
 
 On 15 April, suppose (spot) LIBOR rates for all maturities are $3\%$ p.a. and therefore all forward rates are also $3\%$ p.a. Company-XYZ fears a rise in the LIBOR yield curve in the future.  
 
-![](images/24e9671a2674bf49f884c0f6b47bd7eec50bc576f5a3e864ff2b8abd62ea0958.jpg)  
+![](24e9671a2674bf49f884c0f6b47bd7eec50bc576f5a3e864ff2b8abd62ea0958.jpg)  
 FIGURE 12.2 Hedging 3-month loans at LIBOR using Eurodollar futures  
 
 To cover the frst loan reset-date on 15 June, frm-XYZ on the 15 April will short (sell) $N_{F}=40$ June-contracts:  
@@ -238,7 +238,7 @@ $$
 
 Between 15 May and 15 August assume that all interest rates fall (see Table 12.1) and CashRich only earns a yield of $y_{1}=9.6\%$ on its 6-month deposit. However, lower spot rates  
 
-![](images/08c11c35b2525d7d6b47281494b550bb591ddb33749ba385fe2ec238183cb9f6.jpg)  
+![](08c11c35b2525d7d6b47281494b550bb591ddb33749ba385fe2ec238183cb9f6.jpg)  
 FIGURE 12.3 Hedging using Eurodollar futures  
 
 TABLE 12.1 Cross hedge (US T-bill futures)   
@@ -306,7 +306,7 @@ $$
 E x p e c t e d f u t u r e\ l o a n r a t e\left(c o m p o u n d\right)=\left[1+0.10\left(\frac{30}{360}\right)\right]^{\frac{365}{30}}-1=0.1062
 $$  
 
-![](images/1c88856e680d69e9944ca7d585947b5c8d32382947f4e29d09f5925abdeaaa0a.jpg)  
+![](1c88856e680d69e9944ca7d585947b5c8d32382947f4e29d09f5925abdeaaa0a.jpg)  
 
 TABLE 12.2A Eurodollar futures, stack hedge   
 

@@ -1,5 +1,4 @@
----
-title: Interest Rate Swap Values
+ 
 source: 
   https://www.investopedia.com/articles/active-trading/111414/how-value-interest-rate-swaps.asp
 description: An interest rate swap is a contractual agreement between two parties

@@ -71,7 +71,7 @@ The payof is determined at expiration of the option at $T=30$ but the cash payou
 
 If at expiration $L I B O R_{T}=14\%$ the option has a payof of $L I B O R_{T}-K_{c a p}=4\%$ p.a. (or $1\%$ over 90 days). This proft of $4\%$ p.a. ofsets the higher borrowing rate of $L I B O R_{T}=14\%$ giving an efective borrowing rate of $10\%$ p.a., which equals the strike rate in the option contract. If at expiration $L I B O R_{T}=8\%<K_{c a p}=10\%$ then the caplet is not exercised but you can take advantage of the low borrowing cost of $8\%$ p.a. The loan plus caplet ensures an efective maximum borrowing cost of $K_{c a p}=10\%$ but allows the ‘upside’ of borrowing at low rates should these occur. The caplet therefore provides insurance for the borrower:  
 
-![](images/b8bb6ed9610620b56d469decbe3e8f2ca7d6d3856a9f10ba71389da0053f0076.jpg)  
+![](b8bb6ed9610620b56d469decbe3e8f2ca7d6d3856a9f10ba71389da0053f0076.jpg)  
 FIGURE 38.1 Payof at maturity, 30-day caplet on 90-day LIBOR  
 
 $$
@@ -108,7 +108,7 @@ The efective interest cost of $11.67\%$ p.a. is reasonably close to that of the 
 
 With the caplet, whatever the out-turn LIBOR rate (at or above $K_{c a p}=10\%$ ), the cost of borrowing is a maximum of $11.67\%$ . Of course, if $\mathrm{LIBOR}_{\mathrm{T}}<10\%$ , then the caplet is not  
 
-![](images/21f62fd3cfee65f124bdad808f99e449d887291e50bc997322adcc07a15eeb8c.jpg)  
+![](21f62fd3cfee65f124bdad808f99e449d887291e50bc997322adcc07a15eeb8c.jpg)  
 FIGURE 38.2 Loan $^+$ caplet  
 
 exercised and the interest cost of the loan is the low LIBOR rate. The cost of the unhedged position and the efective cost of borrowing with the long caplet are given in Figure 38.2. The payof profle for the insured position is similar to a covered call.  
@@ -121,7 +121,7 @@ Both parties can ‘lock in’ a lower bound on their efective interest rate in 
 
 where $d a y s=180$ . But the corporate with the bank deposit will not receive the payof from the foorlet until $T\mathrm{+}180$ . If at expiration 180-day $L I B O R_{T}=8\%<K_{F L}=10\%$ , the payof to the put is $(K_{F L}-L I B O R)=2\%$ which ofsets the lower deposit rate of $8\%$ p.a. This efectively ‘locks in’ a minimum efective deposit rate of $8\%+2\%$ which is equal to the strike rate $K_{F L}=$ $10\%$ – hence the put is known as a foorlet. If at $T$ , 180-day $L I B O R_{T}=11\%>K_{F L}=10\%$ , the put is not exercised but the corporate receives the high deposit rate of $11\%$ . The foating rate bank deposit plus the long foorlet has a payof profle of a long call – see Figure 38.3:  
 
-![](images/2254348aabbce9c22d60eae0087307bc3d333ea82bee9dfe26836ea3af3ac210.jpg)  
+![](2254348aabbce9c22d60eae0087307bc3d333ea82bee9dfe26836ea3af3ac210.jpg)  
 FIGURE 38.3 Deposit $^+$ foorlet  
 
 $$
@@ -232,7 +232,7 @@ If a corporate is borrowing money at LIBOR, it can protect itself against future
 
 Suppose $K_{c a p}=10\%$ and $K_{F L}=8\%$ . Hence at LIBOR rates above $10\%$ , the cap is exercised and the corporate’s efective borrowing costs are a maximum of $K_{c a p}=10\%$ (Figure 38.4). When LIBOR falls below $8\%$ the corporate can take advantage of lower loan rates but these savings are ofset because the corporate will have to pay $K_{F L}-L I B O R$ on the written foor. Hence for $L I B O R<K_{F L}$ (ignoring cash fows from the sale of the foor and the cost of the cap):  
 
-![](images/851befc3b2be2f17784d1b6836b1afa89dcf11a6544e50ec4929234a637d2179.jpg)  
+![](851befc3b2be2f17784d1b6836b1afa89dcf11a6544e50ec4929234a637d2179.jpg)  
 FIGURE 38.4 Collar  
 
 The net efect of being long a cap and short a foor is to establish both a ceiling and a foor on the efective borrowing cost of the corporate’s LIBOR loan – this combination is a collar.  

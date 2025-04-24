@@ -149,7 +149,7 @@ A ‘pay-fxed, receive-foating’ swap is equivalent to being short a fxed rate 
 
 Ksp swap rate in the option contract simple rate, p.a. $T=$ expiration of swaption i.e. commencement of the swap  
 
-![](images/7e932469d5df5527559f78ed367b87b9a5af6fbdcd20b6302e2d3d73d136a304.jpg)  
+![](7e932469d5df5527559f78ed367b87b9a5af6fbdcd20b6302e2d3d73d136a304.jpg)  
 
 If $s p_{T}>K_{s p}$ at expiry, the payer swaption has positive cash flows every $m$ -periods of $(Q/m)\{s p_{T}-K_{s p}\}$ , until time $T+n$ .  
 

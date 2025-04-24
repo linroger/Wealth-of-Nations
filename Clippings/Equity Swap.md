@@ -1,5 +1,4 @@
----
-title: Equity Swap
+ 
 source: https://www.investopedia.com/terms/e/equityswap.asp
 description: An equity swap is an exchange of cash flows between two parties that
   allows each party to diversify its income while still holding its original assets.

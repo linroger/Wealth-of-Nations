@@ -1,5 +1,4 @@
----
-title: Swaptions - Guide to Swap Options, With Types and Styles
+ 
 source: https://www.investopedia.com/terms/s/swaption.asp
 description: A swaption, also known as a swap option, refers to an option to enter
   into a swap agreement with another party.

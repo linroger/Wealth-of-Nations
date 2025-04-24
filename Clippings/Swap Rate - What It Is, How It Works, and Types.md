@@ -1,5 +1,4 @@
----
-title: Swap Rate - What It Is, How It Works, and Types
+ 
 source: https://www.investopedia.com/terms/s/swaprate.asp
 description: The swap rate is a fixed interest rate that is used to calculate payments
   in a derivative instrument called an interest rate swap.

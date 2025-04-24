@@ -221,7 +221,7 @@ For example, suppose an actual cash fow of $\$1000$ at $t=6$ (Figure 45.1) has t
 
 • Total market value of the cash fows allocated to adjacent vertices (e.g. 5 and 7 years) equals the market value of the original cash fow (i.e. $\$1000$ at $t=6$ years). • The two cash fows at $t=5$ and $t=7$ both have the same sign as the original cash fow. • The volatility of (present) value of the two cash fows at $t=5$ and $t=7$ equal the volatility of the (present) value of the original cash fow at $t=6$ .  
 
-![](images/f1ff8409cacb53172830acf8d772563ffae9b85373db3bd9ab0cbcff49f71736.jpg)  
+![](f1ff8409cacb53172830acf8d772563ffae9b85373db3bd9ab0cbcff49f71736.jpg)  
 FIGURE 45.1 Mapping cash fows  
 
 # 45.2.3 Swaps  

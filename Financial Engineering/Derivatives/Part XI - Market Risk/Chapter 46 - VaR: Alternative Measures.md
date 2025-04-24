@@ -89,7 +89,7 @@ Using the raw historical data on each of the three stock returns, we can calcula
 
 Variance-Covariance Method $=\$950$  
 
-![](images/a6d3a77829b3fbcf9949c393c7a2ab9724a03840b9167a2986d067233d56a951.jpg)  
+![](a6d3a77829b3fbcf9949c393c7a2ab9724a03840b9167a2986d067233d56a951.jpg)  
 Change in value of stock portfolio   
 FIGURE 46.2 Historical Simulation  
 
@@ -173,7 +173,7 @@ Suppose you hold a long call on a stock with $S_{0}=100$ , $K=100$ , $r=0.05$ , 
 
 After 30 days, the simulated stock price is $S_{30}$ and the ‘new’ call premium is given by the Black–Scholes equation $C_{30}^{(1)}=\mathrm{BS}(S_{30},~T-30/252,\ldots)$ , where we have assumed that the other inputs $r=0.05$ and $\sigma=0.6$ remain constant over the 30-day horizon. The dollar change in value for this frst ‘run’ of the MCS is $d C^{(1)}=C_{30}^{(1)}-C_{0}$ . We now repeat the above for say $m=10{,}000$ runs and obtain $d C^{(i)}=C_{30}^{(i)}-C_{0}$ (for $i=1$ to 10,000). Finally we order the values of $\boldsymbol{d C}^{(i)}$ from lowest to highest or plot them in a histogram (Figure 46.3). The 5th (1st) percentile lower cut of point gives the VaR, which here is $\$14.5$ $\$17.9$ , that is about $57\%$ $(70\%)$ of the initial call premium $C_{0}=25.5$ .  
 
-![](images/7dff6f028770de8edd125c1c9edf01d398283df9548a11421c7da2abbbfb1da0.jpg)  
+![](7dff6f028770de8edd125c1c9edf01d398283df9548a11421c7da2abbbfb1da0.jpg)  
 FIGURE 46.3 VaR of one long call option  
 
 Even though stock returns are assumed to be normally distributed, the histogram of the call premium (Figure 46.3) is non-normal because of the curvature of the relationship between the call premium and the stock price. We valued the option using a closed-form solution (Black–Scholes) which is a ‘full valuation method’. We could instead have approximated the change in the option premium using either the linear ‘delta approximation’ or the ‘delta gamma’ approximation. The choice here depends on the degree of accuracy versus the tractability of a particular valuation approach. We discuss this further below.  
@@ -291,7 +291,7 @@ Suppose we have data on actual daily changes in the value of a stock portfolio o
 
 What EVT does is to ft a ‘smooth curve’ through this histogram of extreme values, without imposing any specifc assumptions concerning the rest of the distribution. Having estimated the smooth curve, you can then ‘read of’ the VaR at any percentile in the tail (e.g. VaR at the 1st percentile as in Figure 46.4). There is an art in getting EVT to estimate the ‘true’ distribution for tail losses since the position and shape of the tail depends on how many of our empirical data points we choose to include as ‘extreme’.  
 
-![](images/10bd5a32d19fe68019f871d2a0a32bdfb77bd1b4d3423b65d5165e0122521e44.jpg)  
+![](10bd5a32d19fe68019f871d2a0a32bdfb77bd1b4d3423b65d5165e0122521e44.jpg)  
 
 On the website a MATLAB program estimates the EVT curve in Figure 46.4, and uses this to calculate the VaR at low percentiles $(0.1\%)$ in the extreme tail of the distribution of losses.  
 

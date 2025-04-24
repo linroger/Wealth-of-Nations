@@ -184,7 +184,7 @@ Spot interest rates (yields) refer to borrowing (or lending) money starting toda
 
 Figure 8.1 may help here, in terms of a heuristic argument. The ‘correct’ forward rate is based on the fact that investing $\$1$ over 2 years at $r_{2}$ should give the same dollar amount at the end of year-2 as investing at $r_{1}=9\%$ in the frst year, followed by an investment earning $f_{12}$ between years one and two.  
 
-![](images/e7e20ec59788dd82a9f36ad07684011e2faae2a87acefe1fe731393c41870b64.jpg)  
+![](e7e20ec59788dd82a9f36ad07684011e2faae2a87acefe1fe731393c41870b64.jpg)  
 1- year investment at $\boldsymbol{r}_{1}$ plus a forward investment at $f_{12}$ gives the same dollar amount as a 2-year investment at $r_{2}$   
 FIGURE 8.1 Forward rate, $f_{12}$  
 
@@ -293,10 +293,10 @@ $$
 
 If $r_{n}>r_{m}$ then $f_{m,n}>r_{n}$ (i.e. the forward rate ending at time $n$ is greater than the $n$ -period spot rate).  
 
-![](images/661795dab33550ffae2eab0bc87f271ff65faf5a8c341beb8ab62bb1606d9154.jpg)  
+![](661795dab33550ffae2eab0bc87f271ff65faf5a8c341beb8ab62bb1606d9154.jpg)  
 Upward sloping yield curve  
 
-![](images/c9e93281ea1507a0e1077930db40b3616618859eabcd2420f61e7ccbed376b3d.jpg)  
+![](c9e93281ea1507a0e1077930db40b3616618859eabcd2420f61e7ccbed376b3d.jpg)  
 Downward sloping yield curve   
 FIGURE 8.2 Yield curve  
 

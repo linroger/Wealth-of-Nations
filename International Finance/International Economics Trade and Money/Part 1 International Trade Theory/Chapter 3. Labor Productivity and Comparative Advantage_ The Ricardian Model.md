@@ -64,7 +64,7 @@ Suppose, for example, that the economy’s total labor supply is 1,000 hours and
 
 The line $P F$ shows the maximum amount of cheese Home can produce given any production of wine, and vice versa.  
 
-![](images/000bbe05e2330bb16165dcbcb1259d9fac91309a8eee8a4cc383820792a4b131.jpg)  
+![](000bbe05e2330bb16165dcbcb1259d9fac91309a8eee8a4cc383820792a4b131.jpg)  
 
 When the production possibility frontier is a straight line, the opportunity cost of a pound of cheese in terms of wine is constant. As we saw in the previous section, this opportunity cost is defined as the number of gallons of wine the economy would have to give up in order to produce an extra pound of cheese. In this case, to produce another pound would require $a_{L C}$ person-hours. Each of these person-hours could in turn have been used to produce $1/a_{L W}$ gallons of wine. Thus, the opportunity cost of cheese in terms of wine is $a_{L C}/a_{L W}$ . For example, if it takes one person-hour to make a pound of cheese and two hours to produce a gallon of wine, the opportunity cost of each pound of cheese is half a gallon of wine. As Figure 3-1 shows, this opportunity cost is equal to the absolute value of the slope of the production possibility frontier.  
 
@@ -116,7 +116,7 @@ What we will see in a moment, however, is that we cannot determine the pattern o
 
 Because Foreign’s relative unit labor requirement in cheese is higher than Home’s (it needs to give up many more units of wine to produce one more unit of cheese), its production possibility frontier is steeper.  
 
-![](images/6e3fdf615705eca89a0cf5ddc403e0539a915b677c177e694c5c0748dd26ec85.jpg)  
+![](6e3fdf615705eca89a0cf5ddc403e0539a915b677c177e694c5c0748dd26ec85.jpg)  
 
 Given the labor forces and the unit labor requirements in the two countries, we can draw the production possibility frontier for each country. We have already done this for Home, by drawing $P F$ in Figure 3-1. The production possibility frontier for Foreign is shown as $P^{*}F^{*}$ in Figure 3-2. Since the slope of the production possibility frontier equals the opportunity cost of cheese in terms of wine, Foreign’s frontier is steeper than Home’s. In the absence of trade, the relative prices of cheese and wine in each country would be determined by the relative unit labor requirements. Thus, in Home the relative price of cheese would be $a_{L C}/a_{L W}$ ; in Foreign it would be $a_{L C}^{*}/a_{L W}^{*}$ .  
 
@@ -132,7 +132,7 @@ Prices of internationally traded goods, like other prices, are determined by sup
 
 The $R D$ and $R D^{\prime}$ curves show that the demand for cheese relative to wine is a decreasing function of the price of cheese relative to that of wine, while the RS curve shows that the supply of cheese relative to wine is an increasing function of the same relative price.  
 
-![](images/e1ebb3959efd31937274146c2e8f91880afa1e5ab85087880d32360eede6fb8e.jpg)  
+![](e1ebb3959efd31937274146c2e8f91880afa1e5ab85087880d32360eede6fb8e.jpg)  
 
 One useful way to keep track of two markets at once is to focus not just on the quantities of cheese and wine supplied and demanded but also on the relative supply and demand, that is, on the number of pounds of cheese supplied or demanded divided by the number of gallons of wine supplied or demanded.  
 
@@ -182,7 +182,7 @@ The principles of absolute and comparative advantage were also put to the test d
 
 production of cheese, producing at point $F$ in Figure 3-4a. The fall in the relative price of cheese in Foreign will lead Foreign to specialize in the production of wine, producing at point $F^{*}$ in Figure 3-4b.  
 
-![](images/adc3546ed3c8a28ba35292bfcfa6c9e11b20a8b713a6fea537a0828a7591ce07.jpg)  
+![](adc3546ed3c8a28ba35292bfcfa6c9e11b20a8b713a6fea537a0828a7591ce07.jpg)  
 FIGURE 3-4  
 
 # Trade Expands Consumption Possibilities  
@@ -275,7 +275,7 @@ A country’s wage rate is roughly proportional to the country’s productivity.
 
 Source: International Monetary Fund and The Conference Board.  
 
-![](images/5c710a36383a865dc63e74e7dba87df14a472f93d8e09ff21cbceaade2e7be1c.jpg)  
+![](5c710a36383a865dc63e74e7dba87df14a472f93d8e09ff21cbceaade2e7be1c.jpg)  
 
 Consider, for example, the case of South Korea. In  2015, South Korea’s labor productivity was about half of the U.S. level, and so was its wage rate. But it wasn’t always that way: In the not too distant past, South Korea was a low-productivity, low-wage economy. As recently as 1975, South  
 
@@ -387,7 +387,7 @@ In a many-good Ricardian model, relative wages are determined by the intersectio
 
 The equilibrium relative wage is determined by the intersection of $R D$ and $R S$ . As drawn, the equilibrium relative wage is 3. At this wage, Home produces apples, bananas, and caviar while Foreign produces dates and enchiladas. The outcome depends on the relative size of the countries (which determines the position of $R S$ ) and the relative demand for the goods (which determines the shape and position of $R D$ ).  
 
-![](images/fc609d40affc303580f173ac8888cb8f09181597387834d7d9c077f29bdd8753.jpg)  
+![](fc609d40affc303580f173ac8888cb8f09181597387834d7d9c077f29bdd8753.jpg)  
 
 If the intersection of $R D$ and $R S$ happens to lie on one of the flats, both countries produce the good to which the flat applies.  
 
@@ -431,7 +431,7 @@ Several classic tests of the Ricardian model, performed using data from the earl
 
 A comparative study showed that U.S. exports were high relative to British exports in industries in which the United States had high relative labor productivity. Each dot represents a different industry.  
 
-![](images/0f17891f2ea81237265ad249fbfe76f432466eefea3b0e7f689e7c85170ddf7a.jpg)  
+![](0f17891f2ea81237265ad249fbfe76f432466eefea3b0e7f689e7c85170ddf7a.jpg)  
 Figure 3-6 illustrates the evidence in favor of the Ricardian model, using data presented in a paper by the Hungarian economist Bela Balassa in 1963. The figure compares the ratio of U.S. to British exports in 1951 with the ratio of U.S. to British labor productivity for 26 manufacturing industries. The productivity ratio is measured on the horizontal axis, the export ratio on the vertical axis. Both axes are given a logarithmic scale, which turns out to produce a clearer picture.  
 
 Ricardian theory would lead us broadly to expect that the higher the relative productivity in the U.S. industry, the more likely U.S. rather than U.K. firms would export in that industry. And that is what Figure 3-6 shows. In fact, the scatterplot lies quite close to an upward-sloping line, also shown in the figure. Bearing in mind that the data used for this comparison are, like all economic data, subject to substantial measurement errors, the fit is remarkably close.  

@@ -133,7 +133,7 @@ a Firm's balance sheet (market values (b) Payments to debt and equity holders un
 
 <html><body><table><tr><td></td><td>Scenario1: A>F T</td><td>Scenario2: A<F T</td></tr><tr><td>Debtholders</td><td>F</td><td>A T</td></tr><tr><td>Equityholders</td><td>A_-F T</td><td>0</td></tr></table></body></html>  
 
-![](images/e03b3222fbd24e7ba8c5a2645bc7e1c2836ac12c1019b17a1f0f471290bbcd2a.jpg)  
+![](e03b3222fbd24e7ba8c5a2645bc7e1c2836ac12c1019b17a1f0f471290bbcd2a.jpg)  
 d) Decomposition of payoff to debt holders into short put option position  
 
 <html><body><table><tr><td rowspan="5">Portfolio</td><td></td><td>Scenario 1: A>F T</td><td>Scenario2: A<F</td></tr><tr><td>Debt holders</td><td>F</td><td></td></tr><tr><td>Risklessdebt</td><td>F</td><td>F</td></tr><tr><td>-putoption</td><td>0</td><td>-(A-F）</td></tr></table></body></html>  
@@ -171,7 +171,7 @@ $$
 C_{t}-P_{t}=S_{t}-e^{-r(T-t)}K=A_{t}-{\mathrm{Riskless~Bond}}(t)
 $$  
 
-![](images/72c31cd623c1d2b19424447da2f09cac3060d7eebcf2c25fee92f1519074e565.jpg)  
+![](72c31cd623c1d2b19424447da2f09cac3060d7eebcf2c25fee92f1519074e565.jpg)  
 
 # FIGURE 19.2  
 
@@ -209,7 +209,7 @@ $$
 
 This leads to the following contractual equation:  
 
-![](images/a351a05bab2781eb2cf4cf5e99bce6f1c66bb78fd1c91ee1056dad9a1430737f.jpg)  
+![](a351a05bab2781eb2cf4cf5e99bce6f1c66bb78fd1c91ee1056dad9a1430737f.jpg)  
 
 # 19.4.2.2 Bond and equity value in the Merton model  
 
@@ -291,7 +291,7 @@ The expression in Eq. (19.23) is important and useful since it shows us how base
 
 It is a priori not clear which financial market should price credit risk correctly, but a market participant can take the view that either the equity, the bond, or the CDS market prices credit risk correctly and then take long and short positions in two of these markets to try to exploit potential relative mispricing. We will describe the underlying rationale and examples of such trades in detail in one of the subsequent sections.  
 
-![](images/8de64489bd05ec170604dd7d5f2a694bbf60e47c35a57e84a362bb1444d489b4.jpg)  
+![](8de64489bd05ec170604dd7d5f2a694bbf60e47c35a57e84a362bb1444d489b4.jpg)  
 Goldman Sachs CDS versus share price (2007–2014, weekly frequency)  
 
 # FIGURE 19.3  
@@ -414,10 +414,10 @@ The hedge ratio $\mathrm{d}D_{t}/\mathrm{d}E_{t}$ allows us to calculate how man
 
 Figure 19.4 illustrated a decision rule based on the Merton model that can be used to exploit any potential mispricing between bonds (or CDS) and equity. Now we want to examine the main  
 
-![](images/67ef885d4fc55bb8e047c9e202b7101a8ac26f44498a3d6b72f1cd21297af65c.jpg)  
+![](67ef885d4fc55bb8e047c9e202b7101a8ac26f44498a3d6b72f1cd21297af65c.jpg)  
 (a) lustrative example of relationship between credit spread and share price  
 
-![](images/1f483ff75cf00d234dc07d4a76bfca51789050a4ad0e8e0a906e77e885d66d66.jpg)  
+![](1f483ff75cf00d234dc07d4a76bfca51789050a4ad0e8e0a906e77e885d66d66.jpg)  
 c) Indictator for capital structure arbitrage strategy and decision to go long or short  
 
 # FIGURE 19.4  
@@ -450,10 +450,10 @@ The procedure in Eq. (19.28) illustrates the use of theoretical/Merton model spr
 
 What would happen if we used the procedure in Eq. (19.29) and, together with the other parameters, plugged the share price of $\$25$ and the observed credit spread of $10\%$ corresponding to point $\mathrm{~\bf~P~}$ into the Merton formula to obtain an implied equity volatility? In this case, we would obtain an equity volatility of $\sigma_{E}^{\mathrm{actual}}$ .  
 
-![](images/3b1b4bbd897e91349d24a3264d8d2c2c9cd19bf918ed23b1f1c4ca1a85035d31.jpg)  
+![](3b1b4bbd897e91349d24a3264d8d2c2c9cd19bf918ed23b1f1c4ca1a85035d31.jpg)  
 a) llustrative example of relationship between credit spread and share price  
 
-![](images/fa3e0458a26c0321cec9c5b3c1c0b85a769f35e59ed5a6b02b480ee613525d6e.jpg)  
+![](fa3e0458a26c0321cec9c5b3c1c0b85a769f35e59ed5a6b02b480ee613525d6e.jpg)  
 (b) Model implied relationship versus credit spreads observed in the market  
 
 # FIGURE 19.5  
@@ -506,7 +506,7 @@ Can we say anything about the price of the convertible bond and how high it shou
 
 On the other hand, the convertible bond is worth at least as much as a straight bond since the convertible consists of a straight bond plus a call option. The straight bond value provides a bond floor. Figures 19.6a illustrates the straight bond value. For bond issuers with a strong balance sheet, the straight debt value should be largely independent of the value of the stock since the default risk  
 
-![](images/1418c115d73a56923ec9a9e723b0a1563208b6de8005c13dc8a25d115a55901b.jpg)  
+![](1418c115d73a56923ec9a9e723b0a1563208b6de8005c13dc8a25d115a55901b.jpg)  
 
 # FIGURE 19.6  
 
@@ -520,7 +520,7 @@ We discuss the engineering of such a convertible bond under simplified assumptio
 
 From the above discussion, we can see that a convertible bond can be viewed as a portfolio of a straight bond plus a call option. This leads us to the following contractual equation.  
 
-![](images/44d958b78dc1a97d17d4db3dd4c78aec77d3b571f52a368b775512626ba25611.jpg)  
+![](44d958b78dc1a97d17d4db3dd4c78aec77d3b571f52a368b775512626ba25611.jpg)  
 
 Figure 19.7 shows the composition of a convertible bond’s cash flows into a defaultable bond and a call option.13 There are four potential scenarios depending on whether the bond defaults or not and whether the option is exercised or not.  
 
@@ -528,11 +528,11 @@ As the issuer sells an embedded option to convert its shares, the issuer expects
 
 For a risky bond, we can also build on the discussion from the previous chapter on CDS which showed that a defaultable can be replicated by a portfolio consisting of a receiver interest rate swap, a default-free deposit and selling a CDS. Thus if we replace the straight bond in Eq. (19.31) by a portfolio we obtain the following contractual equation:  
 
-![](images/5f01d35252ddddecec0260bd06b245704461dd2dc1976ceba9d5483c119fbcce.jpg)  
+![](5f01d35252ddddecec0260bd06b245704461dd2dc1976ceba9d5483c119fbcce.jpg)  
 
 This contractual equation provides an interesting insight since it shows that the convertible bond contains default risk that can be hedged by buying a CDS.  
 
-![](images/1a30a2d540f88aae1f255a890c9fd14e730face03bb65e325cf3f825d60b5b33.jpg)  
+![](1a30a2d540f88aae1f255a890c9fd14e730face03bb65e325cf3f825d60b5b33.jpg)  
 
 # FIGURE 19.7  
 
@@ -606,7 +606,7 @@ $$
 
 where $\boldsymbol{e}_{t}$ is an exchange rate denoting the price of USD1 in terms of Thai baht at date $t.$ This is needed since the original conversion price, $K$ , will be in Thai baht, yet, the face value of the bond will be in USD. The bond structure can set a value for $\boldsymbol{e}_{t}$ and include it as a parameter in the contract. Often, this $\boldsymbol{e}_{t}$ will be the current exchange rate.  
 
-![](images/af3c6b31a10dfc5be9916624dbc4faec85ce1b05f4b2a38f5305196210ab8346.jpg)  
+![](af3c6b31a10dfc5be9916624dbc4faec85ce1b05f4b2a38f5305196210ab8346.jpg)  
 
 # FIGURE 19.8  
 

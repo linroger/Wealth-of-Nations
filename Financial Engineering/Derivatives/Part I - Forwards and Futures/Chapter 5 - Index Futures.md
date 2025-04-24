@@ -117,7 +117,7 @@ Conversely, suppose the quoted futures price is $F_{q}=2{,}020<F=2{,}047.2$ . To
 
 In practice, dividend payments are clustered around certain months (particularly February and March in the US) so that the assumption of a constant dividend yield is an approximation.  
 
-![](images/683dc6fac351482e3624d3b8b2669dcd0243ed38b2c2a0591e8443029f0fb15a.jpg)  
+![](683dc6fac351482e3624d3b8b2669dcd0243ed38b2c2a0591e8443029f0fb15a.jpg)  
 FIGURE 5.1 Futures price: dividend paying stock  
 
 However, the arbitrage relationship is similar when dividends are paid in discrete amounts. Assume there are $N\mathrm{.}$ -dividend payments of $D_{j}$ , each of which is paid $t_{j}$ years (or fraction of a year) from today $t=0$ (Figure 5.1).  

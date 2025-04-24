@@ -57,7 +57,7 @@ Index volatility $\approx{\sqrt{\mathrm{correlation}}}\times$ average single sto
 
 This formula shows that correlation is an important driver of index volatility. Historically, more than half of the changes in index volatility are driven by changes in correlation. This shows that correlation exposure is a fundamental component of volatility. Correlation risk is also an important driver of returns on options and other assets such as hedge funds. How can we use the principles of financial engineering applied in previous chapters to correlation? It turns out that it is quite straightforward to back out the level of forward-looking correlation being priced by the market by calculating the relative levels of implied index and implied single-stock volatilities. As with implied index volatility, this implied correlation tends to trade at a premium to that realized correlation. Figure 16.1 shows the realized and implied correlation for the S&P500.  
 
-![](images/0c8c7842d69f116794efeceb807805a625fbc61209dcafeae1ffb9fa11a5eb96.jpg)  
+![](0c8c7842d69f116794efeceb807805a625fbc61209dcafeae1ffb9fa11a5eb96.jpg)  
 
 # FIGURE 16.1  
 
@@ -140,7 +140,7 @@ However, that looks set to change as investors increasingly seek to express view
 
 (Thomson Reuters IFR 1968, January 26, 2013)  
 
-![](images/e9a6236e87fea8431459159d39600731fc6a339e3bbe8df32571233c123f4a49.jpg)  
+![](e9a6236e87fea8431459159d39600731fc6a339e3bbe8df32571233c123f4a49.jpg)  
 
 # FIGURE 16.2  
 
@@ -192,7 +192,7 @@ $$
 E[C(x_{t})]=\ \int_{-\infty}^{\infty}C(x_{t})f(x_{t})\mathrm{d}x_{t}
 $$  
 
-![](images/18d0f37340062e313d14ea357d9a62ed5ef5604870ac541d0a5011ce4354ea29.jpg)  
+![](18d0f37340062e313d14ea357d9a62ed5ef5604870ac541d0a5011ce4354ea29.jpg)  
 
 # FIGURE 16.3  
 
@@ -244,13 +244,13 @@ $$
 
 be the vanilla call option payoff shown in Figure 16.4. The function is not differentiable at $S_{T}=K$ , yet its first-order derivative is like a step function. More interestingly, the second-order derivative can be interpreted as a dirac delta function. These derivatives are shown in Figures 16.4 and 16.5.  
 
-![](images/1a870bc65f8509f9b593efafaa54db9b4dd4ca4a1c4c08846eea664bcf4566bc.jpg)  
+![](1a870bc65f8509f9b593efafaa54db9b4dd4ca4a1c4c08846eea664bcf4566bc.jpg)  
 
 # FIGURE 16.4  
 
 Call option payoff and first derivative.  
 
-![](images/c46a3964e45828f43baf98639400b7fe80ef3f6b309764fafd983377fa144630.jpg)  
+![](c46a3964e45828f43baf98639400b7fe80ef3f6b309764fafd983377fa144630.jpg)  
 
 # FIGURE 16.5  
 
@@ -310,13 +310,13 @@ $$
 
 Clearly the switches at $S_{t}=K$ cannot be done instantaneously at zero cost. The trader is moving with time $\Delta$ while the underlying Wiener process is moving at a faster rate $\sqrt{\Delta}$ . These adjustments are shown in Figures 16.6 and 16.7. The resulting hedging cost is the options value.  
 
-![](images/edbbeea520fbc9f7773c1c62cb23172a1267d40d480af20d25bb1ae143471e26.jpg)  
+![](edbbeea520fbc9f7773c1c62cb23172a1267d40d480af20d25bb1ae143471e26.jpg)  
 
 # FIGURE 16.6  
 
 Hedging strategy adjustment—call option.  
 
-![](images/1d022481d2f83bdaba923cf694843e51708defffeac987cf48c345f48bca26a3.jpg)  
+![](1d022481d2f83bdaba923cf694843e51708defffeac987cf48c345f48bca26a3.jpg)  
 
 # FIGURE 16.7  
 
@@ -360,7 +360,7 @@ $$
 
 The straightforward application of this formula using the probabilities $p^{i}$ gives the following pricing equations, where possible payoffs are weighed by the corresponding probabilities (Figure 16.8).  
 
-![](images/8caa9d17809f63ac08973ac1e982d72bcefc4e6543c20c164288eb6544c4bd51.jpg)  
+![](8caa9d17809f63ac08973ac1e982d72bcefc4e6543c20c164288eb6544c4bd51.jpg)  
 
 # FIGURE 16.8  
 
@@ -638,7 +638,7 @@ $$
 \sigma_{K_{0}}=\sigma_{K_{1}}=\dots=\sigma_{K_{n}}=\sigma
 $$  
 
-![](images/a3c97d7d099c13ce396d587e768ab1db6132520815eda27496b20d60bb2ab198.jpg)  
+![](a3c97d7d099c13ce396d587e768ab1db6132520815eda27496b20d60bb2ab198.jpg)  
 
 # FIGURE 16.9  
 
@@ -662,7 +662,7 @@ Volatility smiles observed in reality seem to have the following characteristics
 
 1. Options written on equity indices yield, in general, a nonsymmetric one-sided “smile” as shown in Figure 16.10a. For this reason, they are often called skews.  
 
-![](images/58081c544f13f0079f843049c4329b50c31dbd050857f39e3b5afffd9a8ca22d.jpg)  
+![](58081c544f13f0079f843049c4329b50c31dbd050857f39e3b5afffd9a8ca22d.jpg)  
 
 # FIGURE 16.10  
 
@@ -689,7 +689,7 @@ were solved for the implied vols of calls $\{\sigma_{i}\}$ and the implied vols 
 
 <html><body><table><tr><td colspan="8">Table 16.1 OEX Options with January 18, 2002, Expiration</td></tr><tr><td>Calls</td><td>Bid</td><td>Ask</td><td>Vol</td><td> Puts</td><td> Bid</td><td>Ask</td><td>Vol</td></tr><tr><td>Jan 550</td><td>39.5</td><td>41.5</td><td>0</td><td> Jan 550</td><td>0.45</td><td>0.75</td><td>0</td></tr><tr><td>Jan 555</td><td>34.8</td><td>36.3</td><td>0</td><td>Jan 555</td><td>0.65</td><td>0.95</td><td>0</td></tr><tr><td>Jan 560</td><td>30</td><td>31.5</td><td>0</td><td>Jan 560</td><td>0.9</td><td>1.2</td><td>0</td></tr><tr><td>Jan 565</td><td>25.2</td><td>26.7</td><td>0</td><td>Jan 565</td><td>1.25</td><td>1.55</td><td>0</td></tr><tr><td>Jan 570</td><td>20.6</td><td>22.1</td><td>0</td><td>Jan 570</td><td>1.8</td><td>2.1</td><td>0</td></tr><tr><td>Jan 575</td><td>16.3</td><td>17.8</td><td>0</td><td>Jan 575</td><td>2.3</td><td>3</td><td>0</td></tr><tr><td>Jan 580</td><td>13</td><td>13.5</td><td>0</td><td>Jan 580</td><td>3.4</td><td>4.1</td><td>2</td></tr><tr><td>Jan 585</td><td>9.1</td><td>9.8</td><td>0</td><td>Jan 585</td><td>5</td><td>5.7</td><td>5</td></tr><tr><td>Jan 590</td><td>6.1</td><td>6.8</td><td>50</td><td>Jan 590</td><td>7.6</td><td>7.9</td><td>5</td></tr><tr><td>Jan 595</td><td>4.1</td><td>4.5</td><td>12</td><td>Jan 595</td><td>10.1</td><td>10.8</td><td>25</td></tr><tr><td>Jan 600</td><td>2.5</td><td>2.8</td><td>3</td><td>Jan 600</td><td>13.1</td><td>14.5</td><td>0</td></tr><tr><td>Jan 605</td><td>1.2</td><td>1.5</td><td>0</td><td>Jan 605</td><td>17.2</td><td>18.7</td><td>0</td></tr><tr><td>Jan 610</td><td>0.55</td><td>0.85</td><td>1</td><td>Jan 610</td><td>21.7</td><td>23.2</td><td>0</td></tr><tr><td>Jan 615</td><td>0.25</td><td>0.55</td><td>0</td><td>Jan 615</td><td>26.6</td><td>28.1</td><td>0</td></tr><tr><td>Jan 620</td><td>0.2</td><td>0.35</td><td>1</td><td>Jan 620</td><td>31.4</td><td>32.9</td><td>0</td></tr><tr><td>Jan 625</td><td>0.05</td><td>0.2</td><td>0</td><td>Jan 625</td><td>36.3</td><td>37.8</td><td>0</td></tr><tr><td>Jan 630</td><td>0</td><td>0.15</td><td>0</td><td>Jan 630</td><td>41</td><td>43</td><td>0</td></tr><tr><td>Jan 635</td><td>0</td><td>0.1</td><td>0</td><td>Jan 635</td><td>46</td><td>48</td><td>0</td></tr><tr><td>Jan 640</td><td>0</td><td>0.1</td><td>0</td><td>Jan 640</td><td>51</td><td>53</td><td>0</td></tr><tr><td>Jan 645</td><td>0</td><td>0.1</td><td>0</td><td>Jan 645</td><td>56.5</td><td>57.5</td><td>0</td></tr><tr><td>Jan 650</td><td>0</td><td>0.1</td><td>0</td><td> Jan 650</td><td>60.5</td><td>63.5</td><td>0</td></tr><tr><td>Jan 660</td><td>0</td><td>0.05</td><td>0</td><td>Jan 660</td><td>70.5</td><td>73.5</td><td>0</td></tr><tr><td>Jan 680</td><td>0</td><td>0.05</td><td>0</td><td>Jan 680</td><td>90.5</td><td>93.5</td><td>0</td></tr></table></body></html>  
 
-![](images/11bafb19d5927d9cd0b0880a7ca5dea33795e1c335f5a4b5e8da7f93dbe52bca.jpg)  
+![](11bafb19d5927d9cd0b0880a7ca5dea33795e1c335f5a4b5e8da7f93dbe52bca.jpg)  
 
 # FIGURE 16.11  
 
@@ -711,11 +711,11 @@ Sometimes the horizontal axis represents the option’s delta. FX traders take t
 
 The reader should note that the smile in Figure 16.9 is a plot of the implied volatility against the strike only. Figures 16.12 and 16.13 are plots of the implied volatility against the delta. These curves  
 
-![](images/fed3cdc57f2e51511aa4cb598900e6d5f8f8ac45b72e747148bbeccfb949735c.jpg)  
+![](fed3cdc57f2e51511aa4cb598900e6d5f8f8ac45b72e747148bbeccfb949735c.jpg)  
 
 # FIGURE 16.12  
 
-![](images/175dfd538ad8b1cb8c5e49e7602679e28dfbe160ea69e6c1bbe0fda770d3fcee.jpg)  
+![](175dfd538ad8b1cb8c5e49e7602679e28dfbe160ea69e6c1bbe0fda770d3fcee.jpg)  
 
 # FIGURE 16.13  
 
@@ -737,7 +737,7 @@ $$
 
 where $\sigma(25\$ -delta $R R$ spread), $\sigma(25$ -delta put), and $\sigma$ (25-delta call) indicate, respectively, the implied volatilities of a risk reversal, a 25-delta put, and a 25-delta call.  
 
-![](images/edac6da314d45b279e1995a62648841a6c10745bbe141a3dd3ac36b8041f3332.jpg)  
+![](edac6da314d45b279e1995a62648841a6c10745bbe141a3dd3ac36b8041f3332.jpg)  
 
 # FIGURE 16.14  
 
@@ -755,7 +755,7 @@ where the $\sigma(25\$ -delta butterfly spread) and $\sigma(\operatorname{ATM})$
 
 Chapter 3 dealt with contractual equations for simple assets. The equalities discussed in the preceding paragraphs now permit considering quite different types of contractual equations. In fact, we can rearrange equalities shown in Eqs. (16.60) and (16.61) to generate some contractual equations for out-of-the-money implied volatilities:  
 
-![](images/215656c0e942499516b574f6bf59f1bedaf40935f6ef5322ad356371fdf62907.jpg)  
+![](215656c0e942499516b574f6bf59f1bedaf40935f6ef5322ad356371fdf62907.jpg)  
 
 These equalities can be used to determine out-of-the-money volatilities in the case of vanilla options. For example, if ATM, RR, and butterfly volatilities are liquid, we can use these equations to “calculate” 25-delta call and put volatilities. However, it has to be noted that for exotic options, adjusting the volatility parameter this way will not work. This issue will be discussed at the end of the chapter.  
 
@@ -896,7 +896,7 @@ and obtain the nine implied volatilities $\sigma_{K_{i}}$ . Using Mathematica, w
 
 This is shown in Figure 16.15. Clearly, as the moneyness of the puts decreases, the volatility increases. Option market makers will conclude that, if in 6 months, US equity markets  
 
-![](images/a6647095e146f87e6cda22953fd174d085bfbd7dc74b871e27151ad3a6616418.jpg)  
+![](a6647095e146f87e6cda22953fd174d085bfbd7dc74b871e27151ad3a6616418.jpg)  
 
 # FIGURE 16.15  
 

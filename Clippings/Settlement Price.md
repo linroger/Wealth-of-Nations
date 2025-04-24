@@ -1,4 +1,19 @@
----
+$$
+\begin{array}{|l|l|}
+\hline
+\multicolumn{2}{|c|}{\text{CME: Settlement Times for Specific Assets}} \\
+\hline
+\text{Asset} & \text{Settlement Time Range} \\
+\hline
+\text{Livestock} & 12:59:30 \text{ CT to } 13:00:00 \text{ CT} \\
+\text{Dairy} & 13:09:30 \text{ CT to } 13:10:00 \text{ CT} \\
+\text{Foreign Exchange} & 13:59:30 \text{ CT to } 14:00:00 \text{ CT} \\
+\text{Interest Rates} & 13:59:00 \text{ CT to } 14:00:00 \text{ CT} \\
+\text{Equities} & 14:59:30 \text{ CT to } 15:00:00 \text{ CT} \\
+\text{Gold} & 13:29:00 \text{ CT to } 13:30:00 \text{ ET} \\
+\hline
+\end{array}
+$$
 title: Settlement Price
 source: https://www.investopedia.com/terms/s/settlementprice.asp
 description: A settlement price, in the derivatives markets, is the price used for

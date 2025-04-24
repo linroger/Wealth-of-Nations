@@ -52,7 +52,7 @@ $$
 
 For an American put option the payo!s at maturity are the same as for the European put. But early exercise may be proftable at nodes $_{U,D}$ and at $t=0$ . To price the American put we see if the intrinsic value $I V=K-S$ (which is the cash received for early exercise) at any of the nodes is greater than the ‘recursive values’1 for the put, $P_{u}$ or $P_{d}$ (that is, the value of the put if you do not exercise it at that node). If $I V>$ ‘recursive value’ then early exercise is proftable and we replace the recursive value, ${}^{\cdot}P_{u}$ or $P_{d}^{\phantom{\dagger}}$ with the $I V$ at that node. Expressed mathematically the payo! to an American put at node- $U$ is:  
 
-![](images/e02996963c9acaa767d8975dcf4fd641ede360c4e0bb4ecee315f4aa9cefef34.jpg)  
+![](e02996963c9acaa767d8975dcf4fd641ede360c4e0bb4ecee315f4aa9cefef34.jpg)  
 FIGURE 23.1 European and American put  
 
 $$
@@ -188,7 +188,7 @@ For a futures option $\delta=r$ so $q=(1-D)/(U-D)=0.4784$ (and hence the option 
 
 In Figure 23.2 the upper cells show the stock price and the lower cells the option value (price). At $n=4$ , the option is exercised at the two upper nodes, only. For $(t,k)=(3,2)$ 3 3 and (2,2), the intrinsic value of the option exceeds its binomial recursive value – hence here the option is assumed to be exercised and the lower cells at these nodes show the option’s intrinsic value $I V=\operatorname*{max}(F-K,0)$ , rather than its binomial recursive value. The $I V\mathrm{{s}}$ at these nodes are then used in calculating the next recursive values as we move backwards through the tree and the American call premium is 6.387. (As we increase the number of nodes in the tree, so that $n>30$ , we obtain a more accurate estimate of the call premium.)  
 
-![](images/9aa89c5eed0544cc0df938cf87c2688b3f6b7d93bc4b4c723d2bb8ab612bd698.jpg)  
+![](9aa89c5eed0544cc0df938cf87c2688b3f6b7d93bc4b4c723d2bb8ab612bd698.jpg)  
 FIGURE 23.2 Binomial tree for American call on index futures Note: Shaded areas indicate intrinsic value, used in the calculations  
 
 For American options on stocks paying continuous dividends at a rate $\delta$ and options on FX, the procedure is the same as above. The tree is constructed using $U=e^{\sigma{\sqrt{d t}}}$ and $D=1/U$ where $\sigma$ is the real world (estimated annual) standard deviation of the stock return or FX return. Also $a=e^{(r-\delta)d t}$ for the option on the stock and $a=e^{(r-r_{f})d t}$ for the FX-option (where $r=$ domestic interest rate and $r_{f}=$ foreign interest rate).  
@@ -217,7 +217,7 @@ $$
 
 where $\delta$ is the known single dividend yield. For example, given a single dividend payment prior to the 2nd node, the binomial tree is shown in Figure 23.3. If there are several known dividend yields $\delta_{i}$ over the life of the option, then the nodes after the ex-dividend dates would be $S(1-\delta_{i})U^{j}D^{i-j}$ .  
 
-![](images/2dd835fa50c131d06b8b3bf5df252c0c685510118560cb537b27e1eaa4f35105.jpg)  
+![](2dd835fa50c131d06b8b3bf5df252c0c685510118560cb537b27e1eaa4f35105.jpg)  
 Ex-dividend date just before 2nd node Single dividend payable with dividend yield known – the tree recombines  
 
 FIGURE 23.3 Single dividend, known dividend yield  

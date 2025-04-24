@@ -1,5 +1,4 @@
----
-title: Swaps
+ 
 source: https://www.investopedia.com/terms/s/swap.asp
 description: A swap is a derivative contract through which two parties exchange the
   cash flows or liabilities of different financial instruments. Interest rate swaps

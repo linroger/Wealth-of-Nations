@@ -49,12 +49,12 @@ The currency swap enables UncleSam to achieve its desired outcome. Let’s see h
 • UncleSam’s revenues from its Euroland subsidiary are used to pay Goldman \$4.46m p.a. ( $4.46\%$ of $\mathsf{\epsilon}_{\mathrm{{l00m}}}\mathrm{{,}}$ ) over the life of the swap.   
 • Goldman pays $\$7.845$ p.a. $5.36\%$ of $\$140\mathrm{m}$ ) in the swap to UncleSam, who then uses this to pay interest on its USD loan to Citibank.  
 
-![](images/4a5fccae58e42449f78e2f4007c3339a0f2632b63b152a16dce5d4d93ea283e2.jpg)  
+![](4a5fccae58e42449f78e2f4007c3339a0f2632b63b152a16dce5d4d93ea283e2.jpg)  
 FIGURE 36.1 Principal cash fows at initiation of currency swap  
 
 The current spot rate is 1.4 USD per Euro.  
 
-![](images/0d208a02e9163ffac856733da0ce7786de8f34ad2e54e04426aaf2016bf267ec.jpg)  
+![](0d208a02e9163ffac856733da0ce7786de8f34ad2e54e04426aaf2016bf267ec.jpg)  
 FIGURE 36.2 Cash fows in a currency swap  
 
 # At maturity of the bank loan/swap  
@@ -125,7 +125,7 @@ Receives \$’ fxed and pays €’ fxed
 
 The swap has zero value at inception. But the value of the swap at some time $t>0$ depends on the value of the two fxed rate bonds. Consider valuing the swap at $t$ before the frst payment  
 
-![](images/905c7de9fd593c27ebfbff77c905dde1105c983c170472bcf549934973ae22e7.jpg)  
+![](905c7de9fd593c27ebfbff77c905dde1105c983c170472bcf549934973ae22e7.jpg)  
 FIGURE 36.3 Value of currency swap at t  
 
 date $(t_{0}<t<t_{1})$ . The value (in USDs) of the ‘receive-fxed USD, pay-fxed Euro’ swap at time $t$ is:  

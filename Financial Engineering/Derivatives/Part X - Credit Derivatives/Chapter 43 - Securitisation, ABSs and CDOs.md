@@ -61,7 +61,7 @@ The second, mezzanine tranche might be liable for the next $10\%$ of losses, fol
 
 Representative promised yields on tranches 4 (least risky) to 1 (most risky) might be $6\%$ , $8\%$ , $16\%$ , and $32\%$ p.a. Cash !ows from the underlying assets are frst paid to tranche-4 (super-senior) until a return of $6\%$ is obtained (on the principal in the tranche) and any remaining cash !ows then go to tranche-3 until it secures its promised return of $8\%$ and so on. So payments from the ABS are structured to be paid out in a known order of seniority (known as a waterfall).  
 
-![](images/b0fc57290247af4db68a92842a24c33dc12b279219fc6a95d8481edaba192eea.jpg)  
+![](b0fc57290247af4db68a92842a24c33dc12b279219fc6a95d8481edaba192eea.jpg)  
 FIGURE 43.1 ABS  
 
 Tranche-4 might be rated AAA by the rating agencies (e.g. Standard & Poor’s, Moody’s or Fitch) since it will not be afected by credit events until the original portfolio has fallen in value by more than $30\%$ . The ratings for the other tranches will depend on their perceived risk, which depends on the default risk for each bond in that tranche and the default correlations between the original issuers of these bonds/loans.  
@@ -86,7 +86,7 @@ The mezzanine tranches of ABSs are often di\$cult to sell to investors. Clearly 
 
 The risk in the mezzanine tranches of an ABS can be overcome to some extent by taking the mezzanine tranches from, say, 20 diferent ABSs (e.g. on mortgages, car loans, credit card receivables etc.) and bundling them up into say, three further tranches (Figure 43.2) – this is an ABS-CDO (or Mezz-CDO or CDO-squared).  
 
-![](images/a792c120e4485f14a7eca96e74c418e6c0b978d0e8047f512fa364dc13f261fe.jpg)  
+![](a792c120e4485f14a7eca96e74c418e6c0b978d0e8047f512fa364dc13f261fe.jpg)  
 FIGURE 43.2 Leveraged losses  
 
 In an ABS-CDO, the equity tranche might take the frst $5\%$ of losses, the mezzanine tranche the next 20 per cent and the senior tranche the fnal 75 per cent of losses. The senior tranche might be given a AAA-rating and the mezzanine tranche a BBB-rating. Once again, payments are structured to be paid out in a known order of seniority (the waterfall) and may result in the creation of highly rated debt from a debt-pool that had an initial overall low credit rating – this is credit enhancement. The di\$culty from the investor’s point of view is in assessing the true underlying risk of the rather complex tranches in an ABS-CDO – this was part of the cause of the sub-prime mortgage crisis in the USA which began in 2007–8.  
@@ -251,7 +251,7 @@ There are variants on the above. For example, cash !ows arising from any change 
 
 A TRS can be used for hedging credit risk, if the TRS-payer already owns the corporate bond. The credit risk is passed on to the TRS-receiver, while the TRS-payer has a net receipt of $\mathrm{LIBOR}+30$ bps, independent of what happens to the bond price due to changes in credit risk. If the TRS-payer does not own the bond, the TRS-payer is efectively ‘short’ the corporate bond.  
 
-![](images/2796799a1cc020c204adcd78ec94d6260f876082e4e9f6fa70746956780de36f.jpg)  
+![](2796799a1cc020c204adcd78ec94d6260f876082e4e9f6fa70746956780de36f.jpg)  
 FIGURE 43.3 Total return swap  
 
 For example, the TRS-payer will have to pay the coupons each period and if the bond price rises by say $10\%$ , the TRS-payer will pay out $10\%$ of the (par) value of the bond (at maturity of the TRS).  

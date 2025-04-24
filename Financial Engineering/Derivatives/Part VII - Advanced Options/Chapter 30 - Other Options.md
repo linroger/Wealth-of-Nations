@@ -34,7 +34,7 @@ In this chapter we show how the debt and equity of a frm can be valued using opt
 
 Merton (1974) and Black–Scholes (1973) noted that the debt and equity of a frm can be valued using options theory. Suppose a corporation has two sources of fnance, debt $D$ and equity $E$ . If the value of the frm’s assets $V_{t}$ at time $t$ , exceeds the face value of debt (bonds) outstanding $K_{B}$ then the equity holders have a positive stake in the frm. On the other hand, if $V_{t}<K_{B}$ the bondholders may put the frm into liquidation. In this case the equity holders receive nothing but they can ‘walk away’, as they have limited liability and any other assets they own cannot be taken by the liquidator. The payo! to equity holders is therefore like a call option with a payo!, max $[V_{t}-K_{B},0]$ . We have:  
 
-![](images/fa48180c279ae6f986495279744258657df3ee347ed22993b8a32a3ae4eec4e7.jpg)  
+![](fa48180c279ae6f986495279744258657df3ee347ed22993b8a32a3ae4eec4e7.jpg)  
 FIGURE 30.1 Payo!s  
 
 $K_{B}=$ face value of zero coupon bonds debt issued, which mature at time $T$   
@@ -148,7 +148,7 @@ $$
 \begin{array}{r}{\mathrm{Net}\mathrm{cost}=P(S_{0},K_{1},\sigma,r,T)-C(S_{0},K_{2},\sigma,r,T)\quad\mathrm{where}K_{2}>K_{1}}\end{array}
 $$  
 
-![](images/c01af33b0d7a5709ad59d674b333da04506ee62e685a3b81f132e58a1d95cfc8.jpg)  
+![](c01af33b0d7a5709ad59d674b333da04506ee62e685a3b81f132e58a1d95cfc8.jpg)  
 
 FIGURE 30.2 Equity collar   
 TABLE 30.1 Equity collar payo!s   

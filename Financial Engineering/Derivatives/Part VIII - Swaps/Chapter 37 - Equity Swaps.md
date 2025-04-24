@@ -169,7 +169,7 @@ $$
 V_{t}=(S_{t}/S_{0})-d(t,t_{1})(1+r_{1}m_{1})
 $$  
 
-![](images/171c3814ec95806f873a719031c1d0b0ac6c556bf03b48efa6852cdd20c1e861.jpg)  
+![](171c3814ec95806f873a719031c1d0b0ac6c556bf03b48efa6852cdd20c1e861.jpg)  
 FIGURE 37.1 Value of equity swap at t  
 
 TABLE 37.3 Equity-for-fxed-interest, cash fows and PV   

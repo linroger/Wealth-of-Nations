@@ -45,7 +45,7 @@ If the contract stipulates cash settlement, an independent calculations agent wi
 
 Consider a CDS starting on 20 June 2019, with a quoted CDS spread of $\dot{\boldsymbol{s}}=80$ bps annually, on a 5-year swap with a notional principal of $\$100$ on a ‘reference asset’ (Figure 42.1). Payments are usually made in arrears either each quarter, each half year or, as in our example, at the end of each year. If there is no credit event, the buyer of the CDS will pay $\$80,000$ on 20 June in each of the years 2021 to 2025. However, if there is a credit event on 20 September 2024, the annual payments by the buyer of protection will cease. But because payments are made in arrears, a fnal payment by the buyer is usually required. In our case, on 15 September the buyer of protection would have to pay approximately one quarter of the annual payment $(=$ $\$20,000$ for protection cover between 20 June and 20 September 2024.  
 
-![](images/be8f0b8ed745a86e797f86385d1a270a347100e6efac2f42b90249cdbc40731e.jpg)  
+![](be8f0b8ed745a86e797f86385d1a270a347100e6efac2f42b90249cdbc40731e.jpg)  
 FIGURE 42.1 Credit default swap (CDS)  
 
 Large universal banks and insurance companies are market makers in the CDS market and, for example, might quote a CDS spread at a bid of 260 bps and ofer at 270 bps, on a new 5-year CDS. This means the swap dealer is prepared either to buy protection by paying 260 bps per year (i.e. $2.6\%$ of the notional principal per year) or to sell protection and hence receive 270 bps per year. The swap dealer therefore makes 10 bps on a round trip transaction of buying and selling a 5-year CDS to two diferent counterparties (on the same notional principal).  

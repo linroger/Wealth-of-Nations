@@ -1,14 +1,14 @@
----
-title: Forward Price
-source: https://www.investopedia.com/terms/f/forwardprice.asp
-description: The predetermined delivery price of a forward contract, as agreed on
-  and calculated by the buyer and seller.
-tags:
-  - carrying_costs
-  - forward_contract
-  - hedging
-  - market_fluctuations
-  - spot_price
+\begin{aligned} &F_0 = S_0 \times e^{rT} \\ \end{aligned}
+\begin{aligned} &F = S \times e ^ { (r \times t) } \\ &\textbf{where:} \\ &F = \text{the contract's forward price} \\ &S = \text{the underlying asset's current spot price} \\ &e = \text{the mathematical irrational constant approximated} \\ &\text{by 2.7183} \\ &r = \text{the risk-free rate that applies to the life of the} \\ &\text{forward contract} \\ &t = \text{the delivery date in years} \\ \end{aligned}
+\begin{aligned} &F = \$100 \times e ^ { (0.06 \times 1) } = \$106.18 \\ \end{aligned}
+\begin{aligned} &F = S \times e ^ { (r + q) \times t } \\ \end{aligned}
+\begin{aligned} &F = ( S - D ) \times e ^ { ( r \times t ) } \\ \end{aligned}
+\begin{aligned} D =& \ \text{PV}(d(1)) + \text{PV}(d(2)) + \cdots + \text{PV}(d(x)) \\ =& \ d(1) \times e ^ {- ( r \times t(1) ) } + d(2) \times e ^ { - ( r \times t(2) ) } + \cdots + \\ \phantom{=}& \ d(x) \times e ^ { - ( r \times t(x) ) } \\ \end{aligned}
+\begin{aligned} &\text{PV}(d(1)) = \$0.5 \times e ^ { - ( 0.06 \times \frac { 3 }{ 12 } ) } = \$0.493 \\ \end{aligned}
+\begin{aligned} &\text{PV}(d(2)) = \$0.5 \times e ^ { - ( 0.06 \times \frac { 6 }{ 12 } ) } = \$0.485 \\ \end{aligned}
+\begin{aligned} &\text{PV}(d(3)) = \$0.5 \times e ^ { - ( 0.06 \times \frac { 9 }{ 12 } ) } = \$0.478 \\ \end{aligned}
+\begin{aligned} &\text{PV}(d(4)) = \$0.5 \times e ^ { - ( 0.06 \times \frac { 12 }{ 12 } ) } = \$0.471 \\ \end{aligned}
+\begin{aligned} &F = ( \$100 - \$1.927 ) \times e ^ { ( 0.06 \times 1 ) } = \$104.14 \\ \end{aligned}
 aliases:
   - Delivery Price
   - Forward Contract Price

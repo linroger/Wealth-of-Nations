@@ -311,7 +311,7 @@ $$
 \begin{array}{c}{d V_{t}=d V_{1}+d V_{2}=(\partial V_{1}/\partial r_{1})d r_{1}+(\partial V_{2}/\partial r_{2})d r_{2}}\\ {(t\ C_{t}e^{-r_{t}t})d r=[t_{1}(C_{1}\ e^{-r_{1}t_{1}})+t_{2}(C_{2}e^{-r_{2}t_{2}})]d r}\end{array}
 $$  
 
-![](images/a4ba4a78fb85e42665f222b70374c4bb39546e73db02088cc16f7cf2e4796e45.jpg)  
+![](a4ba4a78fb85e42665f222b70374c4bb39546e73db02088cc16f7cf2e4796e45.jpg)  
 FIGURE 35.1 Allocation of cash fows  
 
 where $\partial V_{i}/\partial r_{i}=\partial(e^{-r_{i}t_{i}}C_{i})/\partial r_{i}=-t_{i}(e^{-r_{i}t_{i}}C_{i})$ , (for $i=1,2{\it\Psi}$ ) and $d r_{i}=d r$ for a parallel shift in the yield curve.5 Given current spot yields and the actual cash fow $C_{t}$ , Equations (35.18) and (35.19) can be solved for the two unknowns, $(C_{1},\ C_{2})$ – the dollar amounts to allocate to each standard ‘time-bucket’ at $t_{1}$ and $t_{2}$ . The coupons $C_{t}$ include all cash fows in the swaps book which fall on 10 October. This allocation process has to be repeated for each cash fow that falls between any two standard payment dates.  

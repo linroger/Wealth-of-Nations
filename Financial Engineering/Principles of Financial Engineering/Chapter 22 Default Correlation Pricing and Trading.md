@@ -230,7 +230,7 @@ We can extract some general conclusions from the examples in cases 1 and 2 above
 
 Second, we see that as correlation goes from zero to one, the expected loss of equity tranche decreases and the credit spread decreases. The expected loss of the senior tranche and the resulting credit spread, on the other hand, goes up. The mezzanine tranche is somewhere in between: the expected loss and credit spread goes up as correlation increases, but not as much as the senior tranche. In general, the sensitivity of the mezzanine tranche to correlation is dependent on its attachment points and size as well as the current credit spreads.  
 
-![](images/a57fcbeea63c5f8c4c232e15adfd02f91b6b0158551cb0af9f469ac46f0dcfa6.jpg)  
+![](a57fcbeea63c5f8c4c232e15adfd02f91b6b0158551cb0af9f469ac46f0dcfa6.jpg)  
 
 # FIGURE 22.1  
 
@@ -252,16 +252,16 @@ Therefore we will examine the years from 2007 until 2009 in Figure 22.2a and b f
 
 Some commentators have laid partial blame for the severity of the GFC on the Gaussian copula model use in the pricing of CDO backed by MBS. However, it is important to note that the limitations of the model were pointed out by practitioners and academics before the crisis. Moreover, laying blame on the model for mispricing the tranches and CDOs is akin to a trader laying blame for option losses that he or she suffered after using historical implied volatilities to price options before being surprised by an unexpected increase in implied volatility. Option prices and tranche prices  
 
-![](images/ef838956da8de1a70341035e373a7fdd7b148558344dd8f6626673dff94156ec.jpg)  
+![](ef838956da8de1a70341035e373a7fdd7b148558344dd8f6626673dff94156ec.jpg)  
 (a) Equity $(0-3\%)$ tranche in 2007–2009 (in %)  
 
-![](images/11d7b0f7244bbbe6a871e36e77614fe852d874ee90010e9b1228fa3186aea3d5.jpg)  
+![](11d7b0f7244bbbe6a871e36e77614fe852d874ee90010e9b1228fa3186aea3d5.jpg)  
 (c) Equity and mezzaine tranches in 2010–2013 (in %)  
 
-![](images/5ca301396377296cba2d5792f33aaadd4b7a7d82d89adec4e3282bd31e6cfc8b.jpg)  
+![](5ca301396377296cba2d5792f33aaadd4b7a7d82d89adec4e3282bd31e6cfc8b.jpg)  
 (b) Mezzanine and senior tranches in 2007–2009 (in bps)  
 
-![](images/9595074f34116e4e6f7a0bba37e016e205757e5aaacddbaff6c0b1481ff670ad.jpg)  
+![](9595074f34116e4e6f7a0bba37e016e205757e5aaacddbaff6c0b1481ff670ad.jpg)  
 (d) Mezzanine and senior tranches in 2010–2013 (in bps)  
 
 # FIGURE 22.2  
@@ -366,7 +366,7 @@ Repeating this procedure $m$ times will yield $m$ replicas of the random variabl
 
 The valuation of synthetic CDO tranches follows similar principles as the valuation of CDS described in Chapter 18. The break-even spread on a tranche is defined as the spread that sets the present value of the payments equals the present value of the payoffs of the tranche. The present value depends on the cash flows, the probability of receiving the cash flows and a discount factor. This is again analogous to the valuation of the single-name CDS. What is different in CDO tranche valuation is that now we have multiple underlying assets and the probability of cash flows must take into account the correlation structure between cash flows. This is what the standard market model described above achieves by using a Gaussian copula model specification. The standard Gaussian copula market model can be used in a similar way as the Black Scholes model which is the standard market model in option markets. We used the Black Scholes model to either calculate theoretical option prices based on given input parameters or to back out implied volatilities given observed market option prices. In the standard (Gaussian copula) market model, we can use default probabilities as input parameters and determine tranche spreads or we can start with market observed tranche spreads and calculate the implied probabilities.5 Since we are using the standard market model, the default loss distribution will depend on a certain level of default correlation due to the choice of $\rho_{\mathrm{-}}$ . The implied correlation is that level of $\rho$ which yields a calculated tranche spread that equals the observed spread in the markets. The coefficient $\rho$ is the only unknown variable if we observe tranche spreads.  
 
-![](images/bf9212c19d603afadff1f685f966bc001f8849d0ee1135776ebed243e290946b.jpg)  
+![](bf9212c19d603afadff1f685f966bc001f8849d0ee1135776ebed243e290946b.jpg)  
 Compound correlation  
 
 # FIGURE 22.3  
@@ -624,7 +624,7 @@ Look what happened as a result of dynamic delta hedging of the tranche portfolio
 
 The discussion of how to model and value tranche spreads has been a very simplified one. Realworld trading has several complications and also requires further modeling effort. Several additional questions also need to be addressed. We briefly discuss them below.  
 
-![](images/5a974500cec1416750fee9872ce215caf16c84f4bcc0b4efe9b4f4b5602138bf.jpg)  
+![](5a974500cec1416750fee9872ce215caf16c84f4bcc0b4efe9b4f4b5602138bf.jpg)  
 
 # FIGURE 22.4  
 

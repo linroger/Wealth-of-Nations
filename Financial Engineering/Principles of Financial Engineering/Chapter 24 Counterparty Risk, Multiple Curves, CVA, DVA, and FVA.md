@@ -88,9 +88,9 @@ The example in Figure 24.1 illustrates the important insight that it is not just
 
 There are several ways of incorporating counterparty risk into derivatives pricing. CVA is one such adjustment and it is simple and intuitive. The idea behind CVA is that if we enter into a portfolio derivative transaction with a counterparty, that counterparty might default and it might default at a time when we have an exposure, that is the value of the transaction to us is positive and negative to the counterparty. This has to be incorporated into the valuation of the transaction. First, we value the  
 
-![](images/3b96d97faee767f62c3d47694da2dfd9da91c4e2a8ca7abdc1f770d3ef9e64eb.jpg)  
+![](3b96d97faee767f62c3d47694da2dfd9da91c4e2a8ca7abdc1f770d3ef9e64eb.jpg)  
 
-![](images/20a013ab82210633756932e12f27ab7b111ade725db6a0a1eed8a21762c68ece.jpg)  
+![](20a013ab82210633756932e12f27ab7b111ade725db6a0a1eed8a21762c68ece.jpg)  
 
 # FIGURE 24.1  
 
@@ -136,7 +136,7 @@ Equation (24.3) shows that if there is no default, that is $\tau>T$ , then we ob
 
 When counterparty C defaults, close-out proceedings begin. These are governed by the regulations and ISDA rules.6 As part of the close-out process the residual value of the contract to bank B is  
 
-![](images/61a4d4c724018832bf25de7da8ea26b6407e4a1751211780987741ccb789752f.jpg)  
+![](61a4d4c724018832bf25de7da8ea26b6407e4a1751211780987741ccb789752f.jpg)  
 
 # FIGURE 24.2  
 
@@ -214,7 +214,7 @@ Step 4 (Exposure Calculation): Then, for each counterparty we calculate the expo
 
 <html><body><table><tr><td colspan="6"> Table 24.1 Assumed Term Structured of CDS Quotes for Each Counterparty</td></tr><tr><td>Date</td><td>CP1</td><td>CP2</td><td>CP3</td><td>CP4</td><td>CP5</td></tr><tr><td>March 20, 2008</td><td>140</td><td>85</td><td>115</td><td>170</td><td>140</td></tr><tr><td>March 20, 2009</td><td>185</td><td>120</td><td>150</td><td>205</td><td>175</td></tr><tr><td>March 20, 2010</td><td>215</td><td>170</td><td>195</td><td>245</td><td>210</td></tr><tr><td>March 20, 2011</td><td>275</td><td>215</td><td>240</td><td>285</td><td>265</td></tr><tr><td>March 20, 2012</td><td>340</td><td>255</td><td>290</td><td>320</td><td>310</td></tr></table></body></html>  
 
-![](images/aab8f2b1883abf6696d7aaa8c88719bda3b030a71f954e4524d0d10127f115ce.jpg)  
+![](aab8f2b1883abf6696d7aaa8c88719bda3b030a71f954e4524d0d10127f115ce.jpg)  
 
 # FIGURE 24.3  
 
@@ -222,7 +222,7 @@ Default probability curves for each counterparty.
 
 Table 24.1 shows the assumed term structure of CDS quotes for each counterparty (CP1, CP2, . . ., CP5) as of December 2007. Based on the CDS quotes in Table 24.1, we can extract default probabilities which are shown in Figure 24.3. At date $t_{0}$ , each swap in the portfolio has a value close to zero. Figure 24.4 shows the assumed yield curve at settle date $t_{0}$ (December 14, 2007) for maturities of 3 months, 6 months, 1 year, 5 years, 7 years, 10 years,  
 
-![](images/67b54008c457d44d2335c339f49cc462690bbd51cd39719d931bb3817c35a5b1.jpg)  
+![](67b54008c457d44d2335c339f49cc462690bbd51cd39719d931bb3817c35a5b1.jpg)  
 
 # FIGURE 24.4  
 
@@ -239,19 +239,19 @@ If we aggregate across all 30 swap contracts at each point in time for a given s
 
 It is clear from Figure 24.7 that the (discounted) expected exposure changes over time. There are two offsetting effects that determine the exposure profile over time: the diffusion effect and the amortization effect. The longer a simulation path is the greater the resulting  
 
-![](images/b7595ec9af16db95a5cd7b30ab51c16fe7ce441a0c906d21d5461fe235c2a5e9.jpg)  
+![](b7595ec9af16db95a5cd7b30ab51c16fe7ce441a0c906d21d5461fe235c2a5e9.jpg)  
 
 # FIGURE 24.5  
 
 Yield curve evolution for one scenario.  
 
-![](images/a98aa95a8de6a35d9b2464f5a89d123eff3c7eb6ef2d9ae7975841a619c53cef.jpg)  
+![](a98aa95a8de6a35d9b2464f5a89d123eff3c7eb6ef2d9ae7975841a619c53cef.jpg)  
 
 # FIGURE 24.6  
 
 Swap prices for one scenario.  
 
-![](images/bb4d23625ff0cae1e081e5f47c3def897098837498d8eda4173a0c80b4dedd86.jpg)  
+![](bb4d23625ff0cae1e081e5f47c3def897098837498d8eda4173a0c80b4dedd86.jpg)  
 
 # FIGURE 24.7  
 
@@ -363,7 +363,7 @@ With an increasing proportion of interest rate swap trades now being valued usin
 
 (Thomson Reuters IFR 1838, June 19 to June 25, 2010, “LCH adopts OIS discounting”)  
 
-![](images/4c70209a7eb6b56cd233033cc302769c0a69b6b84aa0970622f7d4a19a0b3091.jpg)  
+![](4c70209a7eb6b56cd233033cc302769c0a69b6b84aa0970622f7d4a19a0b3091.jpg)  
 
 # FIGURE 24.8  
 

@@ -58,7 +58,7 @@ This chapter will approach the issues from a practical point of view using swap 
 
 It is worth reviewing the basic principles of swap engineering laid out in Chapter 4. First of all, swaps are almost always designed such that their value at initiation is zero. This is a characteristic of modern swap-type “spread instruments,” and there is no surprise here. Second, what makes the value of the swap equal to zero is a spread or an interest rate that is chosen with the purpose that the initial value of the swap vanishes. Third, swaps encompass more than one settlement date. This means that whatever the value of the swap rate or swap spread, these will in the end be some sort of “average of shorter term floating rates or spreads.” This not only imposes simple arbitrage conditions on relevant market rates but also provides an opportunity to trade the volatility associated with such averages through the use of options on swaps. Since swaps are very liquid, they form an excellent underlying for swaptions. Swaptions, in turn, are related to interest rate volatilities for the underlying subperiods, which will relate to cap/floor volatilities. This structure is conducive to  
 
-![](images/f5787f5bbf4d20515b24c53782c2e3794a89d88baafb9f68cdfefcc99a607f79.jpg)  
+![](f5787f5bbf4d20515b24c53782c2e3794a89d88baafb9f68cdfefcc99a607f79.jpg)  
 
 # FIGURE 14.1  
 
@@ -80,7 +80,7 @@ To simplify the discussion we work with a three-period forward swap, shown in Fi
 1. The notional amount is $N$ , and the tenor of the underlying LIBOR rate is $\delta$ , which represents a proportion of a calendar year. As usual, if a year is denoted by 1, then $\delta$ will be 1/4 in the case of 3-month LIBOR.   
 2. The swap maturity is three periods. The swap ends at time $T=t_{4}$ . The swap contract is signed at time $t_{0}$ but starts at time $t_{1}$ , hence the term forward swap is used.1  
 
-![](images/68d1ffe91229593650aa0b9f193d8e73f9ca01f0df8427f52802c386c42ee7bc.jpg)  
+![](68d1ffe91229593650aa0b9f193d8e73f9ca01f0df8427f52802c386c42ee7bc.jpg)  
 
 # FIGURE 14.2  
 
@@ -97,7 +97,7 @@ $$
 \begin{array}{r}{T_{1}<T_{2}<T_{3}<T_{4}}\end{array}
 $$  
 
-![](images/631c34fe232dc2cd6cb35bd14b79d6bcfdbb127a84e733bcdd9000834a786049.jpg)  
+![](631c34fe232dc2cd6cb35bd14b79d6bcfdbb127a84e733bcdd9000834a786049.jpg)  
 
 # FIGURE 14.3  
 
@@ -727,7 +727,7 @@ To keep the issue as simple as possible, we continue with the basic model in Eq.
 
 Altogether, it is important to realize that during the following discussion we are working with a very simple example involving only four time periods, $t_{0},t_{1},t_{2}$ , and $t_{3}$ . We start with the arbitrage-free  
 
-![](images/c3d400d2955741c4928a34fab802372b72e74bea6ec5519ac55390efb8d36308.jpg)  
+![](c3d400d2955741c4928a34fab802372b72e74bea6ec5519ac55390efb8d36308.jpg)  
 
 # FIGURE 14.4  
 
@@ -1126,7 +1126,7 @@ $$
 N\delta[F(t_{0},t_{i})-L_{t_{i}}]
 $$  
 
-![](images/dd83c9ea6e0f4d30e9028313688f959cef9b10d6ef4c83f28f2cbf8752109d42.jpg)  
+![](dd83c9ea6e0f4d30e9028313688f959cef9b10d6ef4c83f28f2cbf8752109d42.jpg)  
 
 # FIGURE 14.5  
 
@@ -1356,11 +1356,11 @@ But first we need to clarify the terminology. In a vanilla swap, the LIBOR rates
 
 Receive floating $L_{t_{j-1}}\delta N$  
 
-![](images/705c529222407f2433febfbc1d0dfa2a36ba61a10019327fb469c0958d986fe9.jpg)  
+![](705c529222407f2433febfbc1d0dfa2a36ba61a10019327fb469c0958d986fe9.jpg)  
 
 2. LIBOR-in-arrears swap  
 
-![](images/2c713c13d60ebbc7788e72808818ca842c8b572c43af990aebcd7092fdd25506.jpg)  
+![](2c713c13d60ebbc7788e72808818ca842c8b572c43af990aebcd7092fdd25506.jpg)  
 
 # FIGURE 14.6  
 

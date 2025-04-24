@@ -68,7 +68,7 @@ In the traditional textbook approach, options are introduced as directional inst
 
 This chapter intends to show that an option exposure, when fully put in place, is an impure position on the way volatility is expected to change. A market maker with a net long position in options is someone who is “expecting” the volatility to increase. A market maker who is short the option is someone who thinks that the volatility of the underlying is going to decrease. Sometimes such positions are taken as funding vehicles.  
 
-![](images/97bdd74e21136f23751f4f425f0b9f5e9703fecb915a46d56d3209a57d1340d6.jpg)  
+![](97bdd74e21136f23751f4f425f0b9f5e9703fecb915a46d56d3209a57d1340d6.jpg)  
 
 # FIGURE 9.1  
 
@@ -163,7 +163,7 @@ Figure 9.2 shows the expiration date payoffs of plain vanilla put and call optio
 
 We now consider a real-life application of these concepts. The following example looks at Microsoft options traded at the Chicago Board of Options Exchange and discusses various parameters within this context.  
 
-![](images/e2a74ccb316e1acf1c04ad9d948ea5bfeb0baf6906144f17d1953d4b84cb2a57.jpg)  
+![](e2a74ccb316e1acf1c04ad9d948ea5bfeb0baf6906144f17d1953d4b84cb2a57.jpg)  
 
 # FIGURE 9.2  
 
@@ -217,7 +217,7 @@ Hence, we get the typical price diagram for a plain vanilla European call option
 
 Consider point $\overline{{A}}$ in the top part of Figure 9.3. Here, at time $t$ , the option is deep out-of-the money. $S_{t}$ is close to the origin and the time value is close to zero. The tangent at point $A$ has a positive  
 
-![](images/2377f6b300ab52aa9d55c1f9140cead7fb4bcfa62312f10752c29f4de3b1e3e1.jpg)  
+![](2377f6b300ab52aa9d55c1f9140cead7fb4bcfa62312f10752c29f4de3b1e3e1.jpg)  
 
 # FIGURE 9.3  
 
@@ -243,7 +243,7 @@ Consider a market maker who quotes two-way prices for a European vanilla call op
 
 Suppose this market maker buys a call option from a client.8 The initial position of the market maker is shown in the top portion of Figure 9.4. It is a standard long call position. The market maker is not an investor or speculator, and this option is bought with the purpose of keeping it on the books and then selling it to another client. Hence, some mechanical procedures should be followed. First, the market maker needs to fund this position. Second, he or she should hedge the associated risks.  
 
-![](images/84eb34f3ea011e20e3ee2bf1d98b3aed2d16faf90cd73758c2997c98e39f2c20.jpg)  
+![](84eb34f3ea011e20e3ee2bf1d98b3aed2d16faf90cd73758c2997c98e39f2c20.jpg)  
 
 # FIGURE 9.4  
 
@@ -287,7 +287,7 @@ $$
 \Delta V_{t}\cong[C(S_{t}+\Delta S_{t},t)-C(S_{t},t)]-C_{s}\Delta S_{t}
 $$  
 
-![](images/411c0d22ad51819ffc981c4ed435d34aef10102a65443308310e8df7cb72d2c6.jpg)  
+![](411c0d22ad51819ffc981c4ed435d34aef10102a65443308310e8df7cb72d2c6.jpg)  
 
 # FIGURE 9.5  
 
@@ -343,7 +343,7 @@ $$
 t_{i}-t_{i-1}=\Delta
 $$  
 
-![](images/1de5df39d7535e5b2b2c2c81d2ce566acc49ef04e9dda021ab7ea852e4f5c9bc.jpg)  
+![](1de5df39d7535e5b2b2c2c81d2ce566acc49ef04e9dda021ab7ea852e4f5c9bc.jpg)  
 
 # FIGURE 9.6  
 
@@ -357,7 +357,7 @@ $$
 
 With $\Delta S=\sigma S^{0}\sqrt{\Delta}$ , the percentage oscillations will be proportional to $\sqrt{\Delta}$ . The mechanics of maintaining the delta-hedged long call position will be discussed in this simplified setting.  
 
-![](images/eeefe06755b280730f1f21373dd9c19ea535e3aec1c66d1223051bcf12ee8143.jpg)  
+![](eeefe06755b280730f1f21373dd9c19ea535e3aec1c66d1223051bcf12ee8143.jpg)  
 
 # FIGURE 9.7  
 
@@ -820,7 +820,7 @@ $$
 S_{t}=H
 $$  
 
-![](images/8ad4d48fb6135cf90b8031cb664112d67275e8f656fcf6b3a6949235d110eee8.jpg)  
+![](8ad4d48fb6135cf90b8031cb664112d67275e8f656fcf6b3a6949235d110eee8.jpg)  
 
 # FIGURE 9.8  
 
@@ -840,7 +840,7 @@ $$
 
 This characterization of a barrier option as a standard option plus or minus a discount term is very useful from a financial engineering angle. In the next chapter, we will obtain some simple contractual equations for barriers, and the use of discounts will then be useful for obtaining Black Scholes type formulas for other types of barriers.  
 
-![](images/6b4698de01833741692429b2be79aa3c701fae9750557383ae934f562afa8ff5.jpg)  
+![](6b4698de01833741692429b2be79aa3c701fae9750557383ae934f562afa8ff5.jpg)  
 
 # FIGURE 9.8  
 
@@ -886,7 +886,7 @@ To get some intuition on this, remember that the price curve for a long call has
 
 At point $C$ , the slope, and hence, the delta is close to 0, since the curve is approaching the horizontal axis as $S_{t}$ falls. At point $B$ , the delta is close to 1, since the curve is approaching a line with slope $+1$ . At point $A$ , the delta is in the “middle,” and the slope of the tangent is between 0 and 1.  
 
-![](images/82f764022106695086e975e1324c091806c44e60fb0c32b0d40932a57b1b5e0c.jpg)  
+![](82f764022106695086e975e1324c091806c44e60fb0c32b0d40932a57b1b5e0c.jpg)  
 
 # FIGURE 9.9  
 
@@ -926,7 +926,7 @@ $$
 
 decreases the delta. The effect of volatility changes is more ambiguous and depends on the moneyness of the option.  
 
-![](images/ef3af7c772b41c2cf78e196bb4d36ef0349b217803bd8fbfc4876f6032a6367f.jpg)  
+![](ef3af7c772b41c2cf78e196bb4d36ef0349b217803bd8fbfc4876f6032a6367f.jpg)  
 
 # FIGURE 9.10  
 
@@ -972,7 +972,7 @@ We now point out to some questionable assumptions used in our example. First, in
 
 Gamma represents the rate of change of the delta as the underlying risk $S_{t}$ changes. Changes in delta were seen to play a fundamental role in determining the price of a vanilla option. Hence,  
 
-![](images/660b78aca5e843bad7f55e14f8af32c49b97d0d207b8abe20152fc5a1512d263.jpg)  
+![](660b78aca5e843bad7f55e14f8af32c49b97d0d207b8abe20152fc5a1512d263.jpg)  
 
 # FIGURE 9.11  
 
@@ -1072,7 +1072,7 @@ We can make the following comments:
 
 1. ATM options have the largest values of vega. 2. As implied volatility increases, the ATM vega changes marginally, whereas the out-ofthe-money and in-the-money option vegas do change, and in the same direction.  
 
-![](images/4bbbbd2e89f6d2a3698de352129e234fd889e6eea873397e25605ae7b8a32387.jpg)  
+![](4bbbbd2e89f6d2a3698de352129e234fd889e6eea873397e25605ae7b8a32387.jpg)  
 
 # FIGURE 9.12  
 
@@ -1104,7 +1104,7 @@ $$
 {\mathrm{theta}}={\frac{{\hat{\sigma}}C(S_{t},t\mid r,\sigma,T,K}{{\hat{\sigma}}t}}
 $$  
 
-![](images/d2bbfb7bac4427eacc7dfbf2c187ae7e2b94d6f628d13f3cd4104638813f980d.jpg)  
+![](d2bbfb7bac4427eacc7dfbf2c187ae7e2b94d6f628d13f3cd4104638813f980d.jpg)  
 
 # FIGURE 9.13  
 

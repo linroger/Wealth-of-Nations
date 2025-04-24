@@ -1,5 +1,4 @@
----
-title: Over-the-Counter Derivatives
+ 
 source: 
   https://www.investopedia.com/ask/answers/052815/what-overthecounter-derivative.asp
 description: Over-the-counter derivatives are those traded off of major exchanges.

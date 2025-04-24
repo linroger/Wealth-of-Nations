@@ -54,13 +54,13 @@ According to an important theorem in modern finance, if options of all strikes e
 
 Let $x_{t}$ be a random variable representing the time- $\cdot t$ value of a risk factor, and let $f(x_{T})$ be a function that indicates the payoff of an arbitrary instrument at “maturity” date $T_{\cdot}$ , given the value of $x_{T}$ at time $T>t.$ . We call $f(x_{T})$ a payoff function. The functional form of $f\left(.\right)$ is known if the contract is well defined.2 It is customary in textbooks to represent the pair $\{f(x_{T}),x_{T}\}$ as in Figure 11.1 or 11.2. Note that, here, we have a nonlinear upward sloping payoff function that depends on the values assumed by $x_{T}$ only. The payoff diagram in Figure 11.1 is drawn in a completely arbitrary fashion, yet, it illustrates some of the general principles of financial exposures. Let us review these.  
 
-![](images/f8945d12658657cf5d364d0fd8f4f837b6e44df5e505a86699a66036a64ef496.jpg)  
+![](f8945d12658657cf5d364d0fd8f4f837b6e44df5e505a86699a66036a64ef496.jpg)  
 
 # FIGURE 11.1  
 
 Payoff of nonlinear exposure.  
 
-![](images/abe4f339a63db51f7b7b5d8ddd172d1decb31c1b42ab85dcf139e1ed5415c2f9.jpg)  
+![](abe4f339a63db51f7b7b5d8ddd172d1decb31c1b42ab85dcf139e1ed5415c2f9.jpg)  
 
 # FIGURE 11.2  
 
@@ -120,7 +120,7 @@ $$
 C(T)-P(T)=F_{T}-K
 $$  
 
-![](images/506f9271cfd19afe788919e81c49da873bbdf50410491162ad9a790bd75aeae1.jpg)  
+![](506f9271cfd19afe788919e81c49da873bbdf50410491162ad9a790bd75aeae1.jpg)  
 
 # FIGURE 11.3  
 
@@ -140,7 +140,7 @@ $$
 \{1\mathrm{Long}K\mathrm{-Call},1\mathrm{Short}K\mathrm{-Put},e^{-r(T-t)}(K-F_{t})\mathrm{Dollars}\}
 $$  
 
-![](images/c4d824ed94ebe4a752f2b1c97cf026fce4b8b3f03c79d471102711946215bf9b.jpg)  
+![](c4d824ed94ebe4a752f2b1c97cf026fce4b8b3f03c79d471102711946215bf9b.jpg)  
 
 # FIGURE 11.4  
 
@@ -170,7 +170,7 @@ Put-call parity can thus be regarded as another result of the application of con
 
 Option market makers routinely use the put-call parity in exploiting windows of arbitrage opportunities. Using options, market makers construct synthetic futures positions and then trade them  
 
-![](images/f61c7d6ab4476e27deeb8b5f816e8b69b6f0aec4d1eff8fbc72a524e79d0a05a.jpg)  
+![](f61c7d6ab4476e27deeb8b5f816e8b69b6f0aec4d1eff8fbc72a524e79d0a05a.jpg)  
 
 # FIGURE 11.5  
 
@@ -192,11 +192,11 @@ Borrow necessary funds overnight for 30 days, and buy the stock at price $S_{t}$
 
 The position is fully hedged, as any potential gains due to movement in $S_{t}$ will cover the potential losses. This means that the only factors that matter are the transaction costs and any price differentials that may exist between the call and the put. The market maker will monitor the difference between the put and call premiums and take the arbitrage position shown in Figure 11.6 if this difference is bigger than the total cost of the conversion.  
 
-![](images/cf62839c2bebfa0fdd0033be553a87272ef1d2c2ab09ec5291c4bca03b9184d7.jpg)  
+![](cf62839c2bebfa0fdd0033be553a87272ef1d2c2ab09ec5291c4bca03b9184d7.jpg)  
 
 Adding together...If prices are different enough" then there will be arbitrage opportunity.  
 
-![](images/2fd870ffa25ebd2f617a9e69550088b95543d5653694d0a8d8488c3088e518ee.jpg)  
+![](2fd870ffa25ebd2f617a9e69550088b95543d5653694d0a8d8488c3088e518ee.jpg)  
 
 # FIGURE 11.6  
 
@@ -258,7 +258,7 @@ $$
 K_{1}<S_{t}<K_{2}
 $$  
 
-![](images/b76febf566e9d95d6547032cb33b35a25264202206931cd10741253305e914b5.jpg)  
+![](b76febf566e9d95d6547032cb33b35a25264202206931cd10741253305e914b5.jpg)  
 
 # FIGURE 11.7  
 
@@ -294,7 +294,7 @@ The company entered a risk reversal rather than buying a dollar call outright be
 
 Here we have a corporation that has EUR receivables from tourists going abroad but needs to make payments to foreigners in dollars. Euros are received at time $t$ , and dollars will be paid at some future date $T,$ with $t<T$ . The risk reversal is put together as a zero-cost structure, which means that the premium collected from selling the put (on the USD) is equal to the call premium on the USD. For small movements in the exchange rate, the position is neutral, but for large movements it represents a hedge similar to a futures contract.  
 
-![](images/fc7f14f57cc136a376431000bdcacb63dadf033a946a2bf92e28b3dbe5cd47e7.jpg)  
+![](fc7f14f57cc136a376431000bdcacb63dadf033a946a2bf92e28b3dbe5cd47e7.jpg)  
 
 # FIGURE 11.8  
 
@@ -306,7 +306,7 @@ Of course, such a position could also be taken in the futures market. But one im
 
 The class of option strategies that we have studied thus far is intended for creating synthetic short and long futures positions. In this section, we consider option synthetics that are said to lead to yield enhancement for investment portfolios.  
 
-![](images/15c822a9d3da99f73b7c280e0fb6b5f1cefb5ddc27228d7311d92784a5316085.jpg)  
+![](15c822a9d3da99f73b7c280e0fb6b5f1cefb5ddc27228d7311d92784a5316085.jpg)  
 
 # FIGURE 11.9  
 
@@ -322,7 +322,7 @@ $$
 
 where $\hat{P}$ is a subjective conditional probability distribution for the random variable $S_{\mathrm{t+}\Delta}$ . According to the formula, the investor is expecting a gain of $\hat{R_{t}}$ during period $\Delta$ . The question is whether we can provide a yield-enhancing alternative to this investor. The answer depends on what we mean by “yield enhancement.”  
 
-![](images/66e3101694f82acc3f219531a406993861fef34c2b0facd52b662692eac52b16.jpg)  
+![](66e3101694f82acc3f219531a406993861fef34c2b0facd52b662692eac52b16.jpg)  
 
 # FIGURE 11.10  
 
@@ -388,7 +388,7 @@ At the time of the trade, the stock traded at roughly USD1874.6. Volatilities we
 
 (Based on an article in Derivatives Week (now part of GlobalCapital))  
 
-![](images/7f5b568bdbbe0530578aaea5348806b94bef5337a8a776df88d48eebabd7f97d.jpg)  
+![](7f5b568bdbbe0530578aaea5348806b94bef5337a8a776df88d48eebabd7f97d.jpg)  
 
 # FIGURE 11.11  
 
@@ -408,7 +408,7 @@ Note that the breakeven points are set according to $4\%$ movements toward eithe
 
 According to this, the client who takes this position expects the realized volatility to be significantly less than the $7.5\%$ quoted by the market. In fact, the client expects volatility to be somewhat less than $4\%$ .  
 
-![](images/546d9b70a91cd1211859a408e250d2bea11c80c008044f3d6e4097f328281ddc.jpg)  
+![](546d9b70a91cd1211859a408e250d2bea11c80c008044f3d6e4097f328281ddc.jpg)  
 
 # FIGURE 11.12  
 
@@ -454,13 +454,13 @@ It is worthwhile to emphasize that the strangle or straddle positions discussed 
 
 Note a major difference between the static and dynamic approaches. Suppose we take a static straddle position, and $S_{t}$ fluctuates by small amounts very frequently and never leaves the region $[S_{1},S_{2}]$ shown in Figure 11.14. Then, the static position will lose money, while the dynamic deltahedged position may make money, depending on the size and frequency of oscillations in $S_{t}.$ .  
 
-![](images/871a8bc4301fa6b8fdce4f2cfe318aebb7e1acaf42834c55300bb941bfcd7523.jpg)  
+![](871a8bc4301fa6b8fdce4f2cfe318aebb7e1acaf42834c55300bb941bfcd7523.jpg)  
 
 # FIGURE 11.13  
 
 Expiration payoff and time value of a long straddle.  
 
-![](images/b7915e65b498db835a509d4494594bf02962f936a4aa9a774b233871b68e75d5.jpg)  
+![](b7915e65b498db835a509d4494594bf02962f936a4aa9a774b233871b68e75d5.jpg)  
 
 # FIGURE 11.14  
 
@@ -474,7 +474,7 @@ This equation immediately suggests one objective behind butterflies. By selling 
 
 Short butterfly $\b=$ Short ATM straddle $^+$ Long $k\%$ out-of-the-money strangle  
 
-![](images/0a6d1f0c718943beed23bc33921ef7182a3e6314de9eefaf79247c3c3ce1f540.jpg)  
+![](0a6d1f0c718943beed23bc33921ef7182a3e6314de9eefaf79247c3c3ce1f540.jpg)  
 
 # FIGURE 11.15  
 
@@ -500,7 +500,7 @@ The general principle is this. Instead of combining plain vanilla options to cre
 
 To understand binary options, first remember the static strangle and straddle strategies. The idea was to take a long (short) volatility position, and benefit if the underlying moved more (less) than what the implied volatility suggested. Binary options form essential building blocks for similar volatility strategies, which can be implemented in a cheaper and perhaps more efficient way. Also, binary options are excellent examples of option engineering. We begin with a brief description of a European-style binary option.  
 
-![](images/26c51f1c6398db60e089472ef9307acd7d917648befaaee549d75132128d2b7f.jpg)  
+![](26c51f1c6398db60e089472ef9307acd7d917648befaaee549d75132128d2b7f.jpg)  
 
 # FIGURE 11.16  
 
@@ -530,7 +530,7 @@ $$
 S_{t+\Delta}=S_{t}+i h
 $$  
 
-![](images/1b9654af1b05e7995658053d607a1a5f5f7940fe3e5e2a54f2e75cda5d4fa481.jpg)  
+![](1b9654af1b05e7995658053d607a1a5f5f7940fe3e5e2a54f2e75cda5d4fa481.jpg)  
 
 # FIGURE 11.17  
 
@@ -546,7 +546,7 @@ Under these conditions, the payoff of the binary is a step function that shows a
 
 It is fairly easy to find a replicating portfolio for the binary option under these conditions. Suppose the market maker buys one vanilla European call with strike $K$ , and, at the same time, sells one vanilla European call with strike $K+h$ on the $S_{t}$ . Figure 11.17 shows the time- $T$ payoff of this portfolio. The payoff is similar to the step function in Figure 11.16, except that the height is $h$ , and not 1. But this is easy to fix. Instead of buying and selling 1 unit of each call, the market maker can buy and sell $\frac{1}{h}$ units. This implies the approximate contractual equation  
 
-![](images/c16a0be822b3648941fc3f398147947d70f6dbc718398b4f6c5e7aa3e1845bad.jpg)  
+![](c16a0be822b3648941fc3f398147947d70f6dbc718398b4f6c5e7aa3e1845bad.jpg)  
 
 The existence of a minimum tick makes this approximation a true equality, since  
 
@@ -594,7 +594,7 @@ $$
 
 This permits us to draw a graph of the binary price, $C^{\mathrm{{bin}}}(t)$ . Under the Black Scholes assumptions, it is clear that this price will be as indicated by the S-shaped curve in Figure 11.16.  
 
-![](images/dd2ca36f624d414ae6353f91c48d959ceb702f299cbfc0217949c46fa9ca0495.jpg)  
+![](dd2ca36f624d414ae6353f91c48d959ceb702f299cbfc0217949c46fa9ca0495.jpg)  
 
 # FIGURE 11.18  
 
@@ -618,7 +618,7 @@ $$
 
 The time- $T$ payoff of this range option is shown in Figure 11.19. It is clear that we can use binary options to generate other, more complicated, range structures.  
 
-![](images/b8689b6dd5851c01870f35c65bb9670e851f7dfd118aafa36f2773c6393a2c04.jpg)  
+![](b8689b6dd5851c01870f35c65bb9670e851f7dfd118aafa36f2773c6393a2c04.jpg)  
 
 # FIGURE 11.19  
 
@@ -632,7 +632,7 @@ $$
 
 Thus, in this case, the option pays a constant amount $R$ if $S_{u}$ is range-bound during the whole life of the option, otherwise the option pays nothing. The following example illustrates the use of such binaries.  
 
-![](images/a4e84445dea78af7807045f0424ecd1fc64cae36ef2899f2b845577e0644c0b1.jpg)  
+![](a4e84445dea78af7807045f0424ecd1fc64cae36ef2899f2b845577e0644c0b1.jpg)  
 
 Figure 11.19 illustrates the long binary options mentioned in the example. Looked at from the angle of yen, the binary options have similarities to selling dollar strangles.11  
 
@@ -642,7 +642,7 @@ To create a barrier option, we basically take a vanilla counterpart and then add
 
 Let us consider the two most common cases. We start with a European-style plain vanilla option written on the underlying, $S_{t},$ with strike $K.$ , and expiration T. Next, we consider two thresholds  
 
-![](images/8c1b4c374097456d2bf42ce5155ad262b85dc3ba97e41fb5b716250dee3e4d4b.jpg)  
+![](8c1b4c374097456d2bf42ce5155ad262b85dc3ba97e41fb5b716250dee3e4d4b.jpg)  
 
 # FIGURE 11.20  
 
@@ -664,7 +664,7 @@ is observed.
 
 An option can also come into existence after some barrier is hit. We then call it a knock-in option. A knock-in put is shown in Figure 11.21. In this section, we will discuss an $H$ knock-out  
 
-![](images/017c62630346b51c835078902c6bc629b461613f5229da4bba5648f9045c16aa.jpg)  
+![](017c62630346b51c835078902c6bc629b461613f5229da4bba5648f9045c16aa.jpg)  
 
 # FIGURE 11.21  
 
@@ -684,7 +684,7 @@ $$
 
 The knock-out is worthless for this range.  
 
-![](images/00e35b4c847e1a3d295b0f643062724fa685e2026a01e46dff216be449e8e961.jpg)  
+![](00e35b4c847e1a3d295b0f643062724fa685e2026a01e46dff216be449e8e961.jpg)  
 
 # FIGURE 11.22  
 
@@ -698,7 +698,7 @@ $$
 
 Putting these two payoff ranges together, we obtain the contractual equation:  
 
-![](images/6a44528910a80cba657e361c3f20d15408c5a8a5b021a6af41134c8453ad0acd.jpg)  
+![](6a44528910a80cba657e361c3f20d15408c5a8a5b021a6af41134c8453ad0acd.jpg)  
 
 From here, we can obtain the pricing formulas of the knock-in and knock-out barriers. In fact, determining the pricing function of only one of these barriers is sufficient to determine the price of  
 
@@ -801,7 +801,7 @@ The 1-month risk reversal jumped to 0.81 in favor of euro calls Wednesday from 0
 
 It is not straightforward to interpret such statements. We conduct the discussion using the euro/dollar exchange rate as the underlying risk. Consider the dollar calls represented in  
 
-![](images/8994eebe7b17c5796cf8f92e747417e24422f73f5e1bdd036f59af7d69c840ef.jpg)  
+![](8994eebe7b17c5796cf8f92e747417e24422f73f5e1bdd036f59af7d69c840ef.jpg)  
 
 # FIGURE 11.23  
 
@@ -815,7 +815,7 @@ The interpretation of such bid ask spreads is not straightforward. The numbers i
 
 The numbers to the right are related to the sale by the market maker of the 25-delta USD call and simultaneously the purchase of a 25-delta USD put, which, from a client’s point of view is the risk reversal shown in Figure 11.24a. Note that, for the client, this situation is associated with “dollar strength.” If the market maker sells this risk reversal, he will be short this position.  
 
-![](images/8520021d4c5f50058998b03cdaafcc54709b4969d77bfba5a4080275b025fa30.jpg)  
+![](8520021d4c5f50058998b03cdaafcc54709b4969d77bfba5a4080275b025fa30.jpg)  
 
 # FIGURE 11.24  
 

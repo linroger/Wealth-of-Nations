@@ -69,7 +69,7 @@ $$
 \Gamma\equiv\partial^{2}f/\partial S^{2}=\partial\Delta/\partial S
 $$  
 
-![](images/af83619ebab817b79aeee3a86846bfad84c0391e6a064dd91636c5d974944c1e.jpg)  
+![](af83619ebab817b79aeee3a86846bfad84c0391e6a064dd91636c5d974944c1e.jpg)  
 FIGURE 28.1 Delta and gamma – long call  
 
 Gamma is the second derivative of the option price with respect to the stock price.1 Gamma is also the change in the option’s delta as $s$ changes by a small amount $\Gamma\equiv\partial\Delta/\partial S$ , hence:  
@@ -198,7 +198,7 @@ $$
 
 ‘Vega’ is not a Greek letter and ‘vega’ is also referred to as lamda, kappa, or sigma, which are Greek letters. The numerical value of vega is the same for a long call or long put (with same strike, time to maturity, and underlying stock) and has a bell shape with respect to the stock price (Figure 28.2). To obtain a ‘negative vega’ you must sell (write) calls or puts.  
 
-![](images/f0eb11f446cc8a0a28290cad9b747460a81164fd7adc64b38940c1695d6d0463.jpg)  
+![](f0eb11f446cc8a0a28290cad9b747460a81164fd7adc64b38940c1695d6d0463.jpg)  
 FIGURE 28.2 Vega (long call or put)  
 
 If the vega of an option is large this implies the option price is highly sensitive to small changes in volatility $\sigma$ . For a European option on a stock, the vega is large when the option is close to being at-the-money (i.e. $S\approx K,$ ) and is zero for options that are well OTM or well ITM (Figure 28.2). The analytic expression for the vega of a European (call or put) option on a stock (or stock index) paying a continuous dividend yield $\delta$ is:  
@@ -385,7 +385,7 @@ $$
 
 The second way of proceeding is to directly calculate (some of) the Greeks using only the initial tree for $S$ and the tree for the option premium $f$ . Defne the stock price at each node of the tree as $S_{t,i}$ . We designate $i$ as the number of ‘up’ moves in the lattice (e.g. for $U U,i=2{\dot{z}}$ . A ‘down’ move is denoted $\cdot\mathrm{{0^{\cdot}}}$ (which geometrically is represented as a horizontal move – Figure 28.3). Thus at $t=2,S_{u d}$ becomes $S_{21}$ where the ‘1’ represents the number of ‘up’ moves. We also have a similar lattice for the values of the option price $f_{t,i}$ obtained via backward recursion (under RNV). Use of this notation allows the lattice to be represented in computer programs.  
 
-![](images/8b83800905a486a24c3775aaa3f2d32d8c8da19989c762e8b7459ff619318c01.jpg)  
+![](8b83800905a486a24c3775aaa3f2d32d8c8da19989c762e8b7459ff619318c01.jpg)  
 FIGURE 28.3 BOPM lattice  
 
 At $t=0$ we calculate the option’s delta at node $(0,0)$ using:  

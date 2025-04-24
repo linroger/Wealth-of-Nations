@@ -58,7 +58,7 @@ $$
 
 For $S_{0}=\$24$ the downside risk is reduced by the amount of the call premium of $\$3$ to a breakeven of $\$21$ . However, the upside potential is considerably reduced – the maximum proft is $K-S_{0}+C=\S4$ .1  
 
-![](images/1b348ce551dee89b762d4c9979e4cdaf8678827cb5ae2003efb1f2497781e795.jpg)  
+![](1b348ce551dee89b762d4c9979e4cdaf8678827cb5ae2003efb1f2497781e795.jpg)  
 FIGURE 18.1 Covered call  
 
 # 18.1.2 Static Hedge: Protective Put  
@@ -83,7 +83,7 @@ $$
 
 As can be seen in Figure 18.2 the protective put has a lower limit (a ‘foor’) on losses but allows most of the upside capture. The protective put is an insurance contract – in return for the put-premium, a minimum value for the stock is guaranteed at maturity. (Note that for an at-the-money put $K=S_{0}$ , so the ‘foor value’ would be the current value of the stock.)  
 
-![](images/9122d3b3848b14a1ba37c17aa13fb82724f1f566f34e3bf08a81217a786dc83b.jpg)  
+![](9122d3b3848b14a1ba37c17aa13fb82724f1f566f34e3bf08a81217a786dc83b.jpg)  
 FIGURE 18.2 Protective put  
 
 # 18.1.3 Delta Hedging a Stock Portfolio with Puts  

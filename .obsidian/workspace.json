@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Bond Equivalent Yield (BEY) - Definition, Formula, and Example.md",
+                "file": "Financial Engineering/Principles of Financial Engineering/Chapter 1 Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bond Equivalent Yield (BEY) - Definition, Formula, and Example"
+              "title": "Chapter 1 Introduction"
             }
           }
         ],
@@ -336,8 +336,8 @@
             "state": {
               "type": "broken-links-view",
               "state": {},
-              "icon": "unlink",
-              "title": "Broken links"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -379,10 +379,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Clippings/Bond Equivalent Yield (BEY) - Definition, Formula, and Example.md"
+                "file": "Financial Engineering/Principles of Financial Engineering/Chapter 1 Introduction.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Bond Equivalent Yield (BEY) - Definition, Formula, and Example"
+              "title": "File properties for Chapter 1 Introduction"
             }
           },
           {
@@ -429,8 +429,11 @@
   },
   "active": "5c3a4969830f039e",
   "lastOpenFiles": [
-    "Clippings/Clippings.md",
+    "Credit Markets/Credit Markets Session 1.md",
     "Financial Engineering/Principles of Financial Engineering/Chapter 1 Introduction.md",
+    "Financial Engineering/1. DeterministicCashFlows.md",
+    "Clippings/Bond Equivalent Yield (BEY) - Definition, Formula, and Example.md",
+    "Clippings/Clippings.md",
     "Financial Engineering/Principles of Financial Engineering/Chapter 2 Institutional Aspects of Derivative Markets.md",
     "Course Notes/Python/QuantLib-Python/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
     "Course Notes/Python/QuantLib-Python/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
@@ -452,9 +455,6 @@
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 1 - Purpose and Structure of Financial Markets/Chapter 1 - Purpose and Structure of Financial Markets.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 2 - Spot Markets/Chapter 2 - Spot Markets.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/PART II CASH FLOW ENGINEERING.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/PART III THE PLAYERS.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 12 - Hedge Fund Strategies/Chapter 12 - Hedge Fund Strategies.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 13 - Banks Asset-Liability Management/Chapter 13 - Banks Asset-Liability Management.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS",

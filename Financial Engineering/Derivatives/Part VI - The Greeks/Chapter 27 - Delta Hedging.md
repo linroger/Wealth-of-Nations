@@ -41,7 +41,7 @@ Approximate change in call premium $d C=\Delta_{c}\times$ Small change in stock 
 
 Derivatives:TheoryandPractice, First Edition. Keith Cuthbertson, Dirk Nitzsche and Niall O’Sullivan. $\circledcirc$ 2020 John Wiley & Sons Ltd. Published 2020 by John Wiley & Sons, Ltd.  
 
-![](images/2e5ee0919106d4f9b39148c0d1097074665b5663495e27cd6272e54c5c77050a.jpg)  
+![](2e5ee0919106d4f9b39148c0d1097074665b5663495e27cd6272e54c5c77050a.jpg)  
 FIGURE 27.1 Delta of a long call  
 
 The delta of a long call $\Delta_{c}\equiv\partial C/\partial S$ is positive because a rise in the stock price leads to a rise in the call premium (Figure 27.1). Consider delta hedging a position in European call options. The value $V$ of a portfolio consisting of $N_{s}$ stocks and $N_{c}$ calls is:  
@@ -82,7 +82,7 @@ $$
 
 When $s$ is very low (much lower than $K_{\cdot}$ ), the put is ‘well ITM’ and a dollar fall in the stock price gives a dollar rise in the put premium, hence $\Delta_{p}=-1$ (Figure 27.2, point D). When $s$ is  
 
-![](images/7ab38d12e95c5a99d99cf65978bd57c5aff6504aa5b4e9727cd380b453afc616.jpg)  
+![](7ab38d12e95c5a99d99cf65978bd57c5aff6504aa5b4e9727cd380b453afc616.jpg)  
 FIGURE 27.2 Delta of a long put  
 
 very high (much higher than $K_{\iota}$ , the put is ‘well OTM’ and a dollar fall in the stock price has virtually zero efect on the put premium and hence $\Delta_{p}=0$ (Figure 27.2, point C).  
@@ -126,7 +126,7 @@ The Black–Scholes formula (on a non-dividend paying stock) shows that the opti
 
 The current stock price $S_{0}=100$ . Suppose you are a derivatives dealer for Morgan Stanley (Ms Short) and you have just sold (i.e. written) one at-the-money (ATM) call option $\mathrm{\mathit{S}}_{0}=K=100\mathrm{\mathit{)}}$ to a hedge fund client (‘GoldFinger’).2 The call premium is $C_{0}=10.45$ and $\Delta_{0}=0.6368$ with $K=100$ , $\sigma=20\%$ $r=5\%$ , $T=1$ year . Assume each call option delivers one stock at maturity. At $t=0$ to delta hedge the call, Ms Short borrows money to buy $\Delta_{0}$ stocks (Figure 27.3)3:  
 
-![](images/cc2bff4ee395a2b87eb4bd0e803fffdeca7de474a657519c889cd21026d97d85.jpg)  
+![](cc2bff4ee395a2b87eb4bd0e803fffdeca7de474a657519c889cd21026d97d85.jpg)  
 FIGURE 27.3 Delta hedging: rebalancing  
 
 Buy $\Delta_{0}=0.6368$ stocks $@S_{0}=100$ using borrowed funds (e.g. bank loan) of $\$63.68$  

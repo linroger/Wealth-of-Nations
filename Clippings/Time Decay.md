@@ -1,5 +1,4 @@
----
-title: Time Decay
+ 
 source: https://www.investopedia.com/terms/t/timedecay.asp
 description: Time decay is a measure of the rate of decline in the value of an options
   contract due to the passage of time.

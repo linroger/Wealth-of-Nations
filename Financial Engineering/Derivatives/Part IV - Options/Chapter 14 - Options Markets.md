@@ -143,7 +143,7 @@ First consider how the purchases of a call option can provide insurance. Suppose
 
 Clearly, if on 28 October $S_{T}=\mathbb{\S}88>K=\mathbb{\S}80$ then the pension fund will exercise the option in Chicago, take delivery and pay $\$80$ per stock – which is cheaper than purchasing stocks-XYZ on the NYSE at $\$88$ (Figure 14.1). A trader who has an outstanding short position in the October-call is legally bound to deliver the stock to the pension fund and receives $\$80$ .  
 
-![](images/74bd3c863ee71657aa512fbb966f0339698c1c29f3bddd38b23350626fc19dbc.jpg)  
+![](74bd3c863ee71657aa512fbb966f0339698c1c29f3bddd38b23350626fc19dbc.jpg)  
 Payoff depends on stock price at maturity, $S_{T}=88$ .  Cash settled, $\mathsf{P a y o f f}=\mathsf{m a x}(S_{T}-K,0)$   
 FIGURE 14.1 Long call option (payof at maturity)  
 
@@ -164,7 +164,7 @@ TABLE 14.2 Buy (long) call option
 
 <html><body><table><tr><td>Current stock price, S = $78</td></tr><tr><td>Traders' desk (today, 15 July)</td></tr><tr><td>Contract size = 100 stocks</td></tr><tr><td>Strike price, K = $80 Call premium (price), C = $3</td></tr><tr><td>Premiumpaid=100($3)= $300</td></tr><tr><td>Outcome (3 months later on 15 October, time T)</td></tr><tr><td>Stock price at expiry, S = $88</td></tr><tr><td>Cash payoff at expiration: (S - K)100 = ($88 - $80) 100 = $800 Profit (net of call price): (S - K - C) 100 = ($8 - $3) 100 = $500</td></tr></table></body></html>  
 
-![](images/9f879e392a1f3ca5705bf94ffc95360b70a1738251c6998f3051c83c1f1dd5b1.jpg)  
+![](9f879e392a1f3ca5705bf94ffc95360b70a1738251c6998f3051c83c1f1dd5b1.jpg)  
 FIGURE 14.2 Long call option (proft at maturity)  
 
 $$
@@ -237,7 +237,7 @@ Alternatively, if the long call is cash settled then the trader with an outstand
 
 Alternatively, if the actual stock price on 25 October is (say) $S_{T}=\$77$ (i.e. below the strike price of $K=\$80$ ), then the holder of the call option (‘the long’) will not exercise it (in Chicago), since she can purchase the stocks at lower price on the NYSE. Hence, when $S_{T}<K$ , the writer of the call option makes a proft of $\$3$ , which is the option premium she received in July. The payof at maturity from one written call is:  
 
-![](images/5263128ee3da74c35c7b6afc02491a22d78ddda72260539393d799fa07f1c300.jpg)  
+![](5263128ee3da74c35c7b6afc02491a22d78ddda72260539393d799fa07f1c300.jpg)  
 FIGURE 14.3 Short (sell, write) call option  
 
 $$
@@ -303,10 +303,10 @@ There are also opportunities for speculation with put options. On 15 July, suppo
 
 Suppose the price of stock-XYZ on the NYSE on 25 October is $S_{T}=\$65$ $\mathop{\bf{\tilde{\rho}}}\angle K=$ $\$70$ – Figure 14.4. Then on 28 October, Ms Doom could buy 100 stocks-XYZ on the NYSE for $S_{T}=\$65$ per stock, and then exercise the put option by delivering these to Chicago for which she receives $K=\$70$ per stock from the options clearing house. Ms Doom has a positive payof of $\$5$ $(=K-S_{T})$ per stock3 and a net proft of $\$3$ after paying the put premium of $P=\$2$ (Figure 14.5). If one put contract is for delivery of 100 stocks then the outcome is given in Table 14.3.  
 
-![](images/432ad62d67bd5cdcc91ae46dbdf22cddcec31421c4402076895c782175f271b3.jpg)  
+![](432ad62d67bd5cdcc91ae46dbdf22cddcec31421c4402076895c782175f271b3.jpg)  
 Payoff depends on stock price at maturity, $S_{T}=65$ . Cash settled, Payoff $\mathbf{\Sigma}=\mathbf{\Sigma}$ max $(K{-}S_{T},0$ )  
 
-![](images/bdb367e83f71aafd7ebd858402ee5d440aa13b70febc934b86815876787286d4.jpg)  
+![](bdb367e83f71aafd7ebd858402ee5d440aa13b70febc934b86815876787286d4.jpg)  
 FIGURE 14.4 Long put option (payof at maturity)   
 FIGURE 14.5 Long put option (proft at maturity)  
 
@@ -351,7 +351,7 @@ $$
 \begin{array}{l}{\Pi=(-1)[\operatorname*{max}\left(0,K-S_{T}\right)-P]}\\ {\quad=-[K-S_{T}]+\mathrm{P}}\\ {\quad=+P\qquad\quad\mathrm{for}\ S_{T}>K}\end{array}
 $$  
 
-![](images/0183220a958af1f51b9c79e93311741361b6f919c7634e1c2b0e8e268f2694de.jpg)  
+![](0183220a958af1f51b9c79e93311741361b6f919c7634e1c2b0e8e268f2694de.jpg)  
 FIGURE 14.6 Short (sell, write) put option  
 
 The payof to the writer of the put option is just the ‘mirror image’ of the payof for Ms Doom who is long the put (see Equation 14.4).  

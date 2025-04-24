@@ -1,5 +1,4 @@
----
-title: Expectations Theory - Predicting Short-Term Interest Rates
+ 
 source: https://www.investopedia.com/terms/e/expectationstheory.asp
 description: Expectations theory attempts to predict what short-term interest rates
   will be in the future based on current long-term interest rates.

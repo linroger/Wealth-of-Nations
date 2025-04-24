@@ -39,7 +39,7 @@ tags:
   - '#stochastic_calculus'
   - '#volatility'
 ---
-![](images/ab5e6bfc1d3ccc633b6260382b65f007e65d153e41096f600e2ec1cc8cfb1765.jpg)  
+![](ab5e6bfc1d3ccc633b6260382b65f007e65d153e41096f600e2ec1cc8cfb1765.jpg)  
 =======
 ![](ab5e6bfc1d3ccc633b6260382b65f007e65d153e41096f600e2ec1cc8cfb1765.jpg)  
 >>>>>>> 4ba5c8f17aa9210ca5e08168c9ffe5b6dde50485

@@ -155,7 +155,7 @@ It is generally found in empirical studies that for at-the-money options $C_{t}^
 
 An indirect method of showing that the Black–Scholes formula yields biases is to look at implied volatilities for European call and put options on the same underlying asset (e.g. stocks, foreign currency). If the Black–Scholes equation correctly prices all these options, then their implied volatilities should not vary with the strike price (or time to maturity). For foreign currency options (e.g. on USD/GBP) if we take quoted prices of calls and puts with diferent strikes (but the same maturity) and back out the implied volatilities (see Chapter 16) we fnd that a plot of $\sigma^{i m p}$ against $K$ produces a ‘smile’ (Figure 24.1).  
 
-![](images/57196e22eed4e58512cfe34acb5e1b587eb0abf720372330481d2807e894d048.jpg)  
+![](57196e22eed4e58512cfe34acb5e1b587eb0abf720372330481d2807e894d048.jpg)  
 FIGURE 24.1 Volatility smile: USD/GBP  
 
 For options on equity indices (e.g. S&P 500) implied volatilities plotted against diferent strikes produce a volatility skew; implied volatilities for very ‘low’ strikes (e.g. OTM puts) have much higher values of $\sigma^{i m p}$ , than for ATM or ITM puts (Figure 24.2). The above results, qualitatively, also apply to American calls and puts.  
@@ -164,7 +164,7 @@ The positions of the graphs in Figures 24.1 and 24.2 depend on the current price
 
 Implied volatilities can also be calculated for calls and puts with diferent maturities (but on the same underlying and same strike) – this is the term structure of (implied) volatility. Historical implied volatilities for diferent strikes and maturities are shown in Table 24.1 – this represents the volatility surface. In Table 24.1 for short-dated options (1-month), there is a pronounced volatility smile with respect to the strike price but this becomes less pronounced at longer maturities (e.g. for 5-year maturities).  
 
-![](images/c7e2741e494d84ffa4cbdedf6838ec95d9ea66cb241175136cff5ca3ece7b735.jpg)  
+![](c7e2741e494d84ffa4cbdedf6838ec95d9ea66cb241175136cff5ca3ece7b735.jpg)  
 FIGURE 24.2 Volatility skew: equity index  
 
 TABLE 24.1 Volatility surface ( $\%$ p.a.)   

@@ -1,5 +1,4 @@
----
-title: Cash-and-Carry Trade
+ 
 source: https://www.investopedia.com/terms/c/cashandcarry.asp
 description: A cash-and-carry trade is an arbitrage strategy that exploits the mispricing
   between the underlying asset and its corresponding derivative.
