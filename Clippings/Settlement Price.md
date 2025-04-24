@@ -1,19 +1,4 @@
-$$
-\begin{array}{|l|l|}
-\hline
-\multicolumn{2}{|c|}{\text{CME: Settlement Times for Specific Assets}} \\
-\hline
-\text{Asset} & \text{Settlement Time Range} \\
-\hline
-\text{Livestock} & 12:59:30 \text{ CT to } 13:00:00 \text{ CT} \\
-\text{Dairy} & 13:09:30 \text{ CT to } 13:10:00 \text{ CT} \\
-\text{Foreign Exchange} & 13:59:30 \text{ CT to } 14:00:00 \text{ CT} \\
-\text{Interest Rates} & 13:59:00 \text{ CT to } 14:00:00 \text{ CT} \\
-\text{Equities} & 14:59:30 \text{ CT to } 15:00:00 \text{ CT} \\
-\text{Gold} & 13:29:00 \text{ CT to } 13:30:00 \text{ ET} \\
-\hline
-\end{array}
-$$
+
 title: Settlement Price
 source: https://www.investopedia.com/terms/s/settlementprice.asp
 description: A settlement price, in the derivatives markets, is the price used for
@@ -66,7 +51,22 @@ Settlement prices are often based on the average price of the contract over a sp
 ## Settlement Prices for Specific Markets
 
 The settlement price is typically set by determining the [weighted average](https://www.investopedia.com/terms/w/weightedaverage.asp) price over a certain period of trading, typically shortly before the close of the market. For instance, settlement prices are determined at the [Chicago Mercantile Exchange (CME)](https://www.investopedia.com/terms/c/cme.asp) during the range of these settlement periods:
-
+$$
+\begin{array}{|l|l|}
+\hline
+{\text{CME: Settlement Times for Specific Assets}} \\
+\hline
+\text{Asset} & \text{Settlement Time Range} \\
+\hline
+\text{Livestock} & 12:59:30 \text{ CT to } 13:00:00 \text{ CT} \\
+\text{Dairy} & 13:09:30 \text{ CT to } 13:10:00 \text{ CT} \\
+\text{Foreign Exchange} & 13:59:30 \text{ CT to } 14:00:00 \text{ CT} \\
+\text{Interest Rates} & 13:59:00 \text{ CT to } 14:00:00 \text{ CT} \\
+\text{Equities} & 14:59:30 \text{ CT to } 15:00:00 \text{ CT} \\
+\text{Gold} & 13:29:00 \text{ CT to } 13:30:00 \text{ ET} \\
+\hline
+\end{array}
+$$
 <table><thead><tr><th colspan="2">CME: Settlement Times for Specific Assets</th></tr><tr><th>Asset</th><th>Settlement Time Range</th></tr></thead><tbody><tr><td>Livestock</td><td>12:59:30 CT to 13:00:00 CT</td></tr><tr><td>Dairy</td><td>13:09:30 CT to 13:10:00 CT</td></tr><tr><td>Foreign Exchange</td><td>13:59:30 CT to 14:00:00 CT</td></tr><tr><td>Interest Rates</td><td>13:59:00 CT to 14:00:00 CT</td></tr><tr><td>Equities</td><td>14:59:30 CT to 15:00:00 CT</td></tr><tr><td>Gold</td><td>13:29:00 CT to 13:30:00 ET</td></tr></tbody></table>
 
 On the [Moscow Exchange (MOEX)](https://www.investopedia.com/what-is-moex-5219882), settlement prices for the RTS Index and MICEX Index are based on activity between 3:00 p.m. and 4:00 p.m. of the last trading day. The Russian Volatility Index uses a different time, focusing instead on activity between 2:03:15 p.m. and 6:00:00 p.m.
