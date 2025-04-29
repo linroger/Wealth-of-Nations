@@ -1,4 +1,5 @@
 ---
+title: The Ornstein-Uhlenbeck (OU) Process
 tags:
   - brownian_motion
   - interest_rates
@@ -14,9 +15,9 @@ key_concepts:
   - Rate of reversion
   - Stochastic process
   - Wiener process
+
+ 
 ---
-
-
 ## The Ornstein-Uhlenbeck (OU) Process
 
 ### What it is: Deeper Dive

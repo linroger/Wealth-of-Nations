@@ -1,5 +1,4 @@
----
-title: How Countries Go Broke-Chapter Two & Chapter Three
+ 
 source: 
   https://www.linkedin.com/pulse/how-countries-go-broke-chapter-two-three-ray-dalio-w1gue/?trackingId=0E70Atc9TLeYgkOwAdGhHg%3D%3D
 description:

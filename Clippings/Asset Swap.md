@@ -1,5 +1,4 @@
----
-title: Asset Swap
+ 
 source: https://www.investopedia.com/terms/a/assetswap.asp
 description: An asset swap is a derivative contract where two parties exchange fixed
   and floating assets.

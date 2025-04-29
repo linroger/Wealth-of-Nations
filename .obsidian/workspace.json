@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96a5ab0c3e055b14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Synthetic CDO Tranche Pricing and Loss Analysi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Synthetic CDO Tranche Pricing and Loss Analysi"
-            }
-          },
-          {
-            "id": "77be7f4625785689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 3 - Futures Markets/Chapter 3 - Futures Markets.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3 - Futures Markets"
-            }
-          },
-          {
             "id": "f3ff574e577e29ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 4 - Swap Markets/Chapter 4 - Swap Markets.md",
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Six & Chapter Seven.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 4 - Swap Markets"
+              "title": "How Countries Go Broke-Chapter Six & Chapter Seven"
             }
           },
           {
@@ -222,9 +174,32 @@
               "icon": "lucide-file",
               "title": "Chapter 1 Introduction"
             }
+          },
+          {
+            "id": "0b09c5239c5fc03b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter One.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How Countries Go Broke Introduction & Chapter One"
+            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -379,10 +354,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Engineering/Principles of Financial Engineering/Chapter 1 Introduction.md"
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Six & Chapter Seven.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Chapter 1 Introduction"
+              "title": "File properties for How Countries Go Broke-Chapter Six & Chapter Seven"
             }
           },
           {
@@ -427,10 +402,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5c3a4969830f039e",
+  "active": "646b7cfa4cb674fd",
   "lastOpenFiles": [
-    "Credit Markets/Credit Markets Session 1.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Six & Chapter Seven.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five 1.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 15 & Chapter 16.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 12 to Chapter 14.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 8 to Chapter 11.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter One.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 4 - Swap Markets/Chapter 4 - Swap Markets.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke.md",
+    "International Finance/Navigating Big Debt Crises/Black Scholes Derivation.md",
+    "International Finance/Navigating Big Debt Crises/Exchange Rates and the Foreign Exchange Market- An Asset Approach.md",
+    "International Finance/Navigating Big Debt Crises/Economic Principles - Why and How Capitalism Needs To Be Reformed.md",
+    "International Finance/Navigating Big Debt Crises/The Phases of the Classic Deflationary Debt Cycle.md",
+    "Untitled 2.md",
+    "Financial Instruments/Lecture Notes- Financial Instruments/Untitled.md",
     "Financial Engineering/Principles of Financial Engineering/Chapter 1 Introduction.md",
+    "Credit Markets/Credit Markets Session 1.md",
     "Financial Engineering/1. DeterministicCashFlows.md",
     "Clippings/Bond Equivalent Yield (BEY) - Definition, Formula, and Example.md",
     "Clippings/Clippings.md",
@@ -440,21 +430,6 @@
     "Financial Engineering/Pricing Interest Rate Derivatives Under Stochastic Volatility.md",
     "Financial Engineering/Untitled.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/Financial Engineering and Arbitrage in the Financial Markets.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/PART I RELATIVE VALUE BUILDING BLOCKS.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 7 - Default Risk and Credit Derivatives/Chapter 7 - Default Risk and Credit Derivatives.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Chapter 6 Options on Non-Price Variables.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 5 Options on Prices and Hedge-Based Valuation/Chapter 5 Options on Prices and Hedge-Based Valuation.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 4 - Swap Markets/Chapter 4 - Swap Markets.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 3 - Futures Markets/Chapter 3 - Futures Markets.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Synthetic CDO Tranche Pricing and Loss Analysi.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/A Simple Classification of Structured Notes.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 8 - Structured Finance/Chapter 8 - Structured Finance.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 9 - Mortgage-Backed Securities/Chapter 9 - Mortgage-Backed Securities.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives/Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory/Chapter 11 - Individual Investors-A Survey of Modern Investment Theory.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 1 - Purpose and Structure of Financial Markets/Chapter 1 - Purpose and Structure of Financial Markets.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 2 - Spot Markets/Chapter 2 - Spot Markets.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING/PART II CASH FLOW ENGINEERING.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS",

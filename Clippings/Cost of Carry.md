@@ -1,6 +1,4 @@
----
-title: Cost of Carry
-source: https://www.investopedia.com/terms/c/costofcarry.asp
+F = Se ^ ((r + s - c) \u00d7 t)
 description: Cost of carry refers to expenses incurred as a result of an investment
   position, including interest, storage, and opportunity costs.
 tags:

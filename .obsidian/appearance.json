@@ -19,7 +19,10 @@
     "custom_latex_snippets_obsidian",
     "safaritabs",
     "transparent_tab_header",
-    "[ui] Compact Tabs"
+    "[ui] Compact Tabs",
+    "academic-pdf-export",
+    "code-color",
+    "macos-native-chatgpt"
   ],
   "theme": "moonstone",
   "showViewHeader": true

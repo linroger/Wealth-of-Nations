@@ -1,4 +1,5 @@
 ---
+title: Financial Markets And Institutions Lecture Notes
 tags:
   - agency_problems
   - asset_substitution_theory
@@ -15,9 +16,8 @@ key_concepts:
   - Debt capacity impact
   - Implied agency problems
   - Perverse incentive effects
+ 
 ---
-
-
 __MASK_7_17__
 # Financial Markets and Institutions Lecture Notes
 

@@ -1,5 +1,4 @@
----
-title: Cross-Currency Swap
+ 
 source: https://www.investopedia.com/terms/c/cross-currency-swap.asp
 description: A cross-currency swap is an agreement between two parties to exchange
   interest payments and principal denominated in two different currencies. These types

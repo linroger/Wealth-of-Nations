@@ -1,5 +1,4 @@
----
-title: Futures Contract Expiration
+ 
 source: https://www.investopedia.com/understanding-futures-contract-expiration-7972595
 description: The final day on which a futures contract can be bought or sold is its
   expiration date.

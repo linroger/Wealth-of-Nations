@@ -1,5 +1,4 @@
----
-title: Contract for Differences (CFD) - Overview and Examples
+ 
 source: https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp
 description: A contract for differences (CFD) is a type of derivative trade that is
   common in many countries but is banned in the U.S.

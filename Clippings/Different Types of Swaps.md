@@ -1,5 +1,4 @@
----
-title: Different Types of Swaps
+ 
 source: https://www.investopedia.com/articles/investing/052915/different-types-swaps.asp
 description: Identify and explore the most common types of swap contracts. Swaps are
   derivative instruments that represent an agreement between two parties to exchange

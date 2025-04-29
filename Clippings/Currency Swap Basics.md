@@ -1,8 +1,7 @@
 ---
 title: Currency Swap Basics
 source: https://www.investopedia.com/articles/forex/11/introduction-currency-swaps.asp
-description: Find out what makes currency swaps unique and slightly more complicated
-  than other types of swaps.
+description: Find out what makes currency swaps unique and slightly more complicated than other types of swaps.
 tags:
   - currency_swap
   - exchange_rate_risk
@@ -19,6 +18,7 @@ key_concepts:
   - Exchange-rate risk
   - Interest rate arbitrage
   - Offsetting loans
+ 
 ---
 
 

@@ -1,4 +1,19 @@
----
+$$
+\begin{array}{|l|l|l|}
+\hline
+\multicolumn{3}{|c|}{\text{FRAs vs. Interest Rate Futures}} \\
+\hline
+\textbf{Feature} & \textbf{Forward Rate Agreement (FRA)} & \textbf{Interest Rate Futures} \\
+\hline
+\text{Trading Venue} & \text{OTC market. They are privately negotiated between two parties (usually banks or financial institutions).} & \text{They are traded on organized exchanges (e.g., the Chicago Mercantile Exchange).} \\
+\text{Standardization} & \text{Highly customizable.} & \text{Standardized contracts.} \\
+\text{Settlement} & \text{Cash settlement at maturity. The difference between the agreed-upon rate and the prevailing market rate at settlement is exchanged.} & \text{Daily mark-to-market settlement. Gains and losses are settled daily based on the change in the futures price.} \\
+\text{Liquidity} & \text{Generally less liquid than futures. Finding a counterparty for a specific FRA can be more challenging.} & \text{Highly liquid on the exchanges.} \\
+\text{Purpose} & \text{They are primarily used for hedging interest rate risk.} & \text{They are used for both hedging and speculation, where traders look to profit from anticipated changes in interest rates.} \\
+\text{Risks} & \text{Counterparty risk exists since it's an OTC contract.} & \text{Lower risk due to the exchange's clearinghouse acting as a counterparty for all trades.} \\
+\hline
+\end{array}
+$$
 title: Forward Rate Agreement (FRA)
 source: https://www.investopedia.com/terms/f/fra.asp
 description: Forward rate agreements are over-the-counter contracts between parties

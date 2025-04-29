@@ -1,5 +1,4 @@
----
-title: Fixed Income Forward
+ 
 source: https://www.investopedia.com/terms/f/fixed-income-forward.asp
 description: A fixed income forward is a contract between two parties to either buy
   or sell a fixed income security in the future at a preset price.

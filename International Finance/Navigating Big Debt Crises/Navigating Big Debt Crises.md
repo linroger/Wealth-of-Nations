@@ -44,7 +44,6 @@ key_concepts:
 		- [[How Countries Go Broke-Chapter 8 to Chapter 11]]
 		- [[How Countries Go Broke-Chapter 12 to Chapter 14]]
 		- [[How Countries Go Broke-Chapter 15 & Chapter 16]]
-		- [[How Countries Go Broke-Chapter Four & Chapter Five 1]]
 		- [[How Countries Go Broke-Chapter Four & Chapter Five]]
 		- [[How Countries Go Broke-Chapter Six & Chapter Seven]]
 		- [[How Countries Go Broke-Chapter Two & Chapter Three]]

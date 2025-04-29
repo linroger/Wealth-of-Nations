@@ -1,5 +1,4 @@
----
-title: Eurostrip - What It Is, How It Works, Example
+ 
 source: https://www.investopedia.com/terms/e/eurostrip.asp
 description: A eurostrip, short for "eurodollar futures strip," is a derivative transaction
   comprised of a series of consecutive eurodollar futures contracts.
