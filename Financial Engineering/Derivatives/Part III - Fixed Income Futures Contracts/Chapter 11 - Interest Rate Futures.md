@@ -56,7 +56,7 @@ $$
 
 The next issue to consider is the tick size and tick value. The ‘tick size’ for the Eurodollar future contract is 1 basis point (bp; i.e. $0.01\%$ p.a.). If the discount rate changes by 1 basis  
 
-![](images/88311e7a12ccf39b029b047351a598b0a47bb240447e7c1f0f32b674cc9fc4ff.jpg)  
+![](88311e7a12ccf39b029b047351a598b0a47bb240447e7c1f0f32b674cc9fc4ff.jpg)  
 FIGURE 11.1 June Eurodollar futures contract  
 
 point, so does the IMM-index (see Equation 11.1), and the dollar value of one (90-day) futures contract with a contract size of $\$10$ changes by $\$25$ (‘the tick size’):  
@@ -115,7 +115,7 @@ We examine the negative relationship between the forward (interest) rate and the
 
 On 1 July you purchase one September T-bill futures for $F_{0}=\$98$ (and no cash changes hands). You hold the contract to maturity on 25 September and take delivery of one $\$100$ face value T-bill, which matures 90 days later on 24 December. On 1 July what is the interest rate you have ‘locked in’ between 25 September and 24 December?  
 
-![](images/34fff5a15b3159a04a0fa6acf7c2373c58a7a9766e6f088ff122ff799c4a2551.jpg)  
+![](34fff5a15b3159a04a0fa6acf7c2373c58a7a9766e6f088ff122ff799c4a2551.jpg)  
 FIGURE 11.2 September T-bill futures contract  
 
 On 24 December your 90 day T-bill matures, you take it to the US Federal Reserve (i.e. the Central Bank) and receive $\$100$ . Hence, on 1 July, you know that the 90-day forward rate you will earn between 25 September and 24 December is:  
@@ -168,7 +168,7 @@ $m_{i}=$ number of days to delivery (maturity) date of futures contract
 $m_{12}=$ number of days to maturity of the T-Bill underlying the futures contract $m_{2}=m_{1}+m_{12}$ $t_{1}=(m_{1}/365)$ $t_{2}=(m_{2}/365)$ and $t_{12}=(m_{12}/365)$ $r_{1}=\mathrm{spot}$ rate over period $t=0$ to $t=1$ , $r_{2}=$ spot rate over period $t=0$ to $t=2$ $f_{12}=$ forward rate over period $t=1$ to $t=2$   
 $\$100=$ maturity/face value of (cash market) T-bills delivered in the futures contract  
 
-![](images/aa0fa77e258c909112ff704a24c754e911afd20fd21d3dc9621f3b4bceee9a15.jpg)  
+![](aa0fa77e258c909112ff704a24c754e911afd20fd21d3dc9621f3b4bceee9a15.jpg)  
 At $t=1$ , on payment of $F$ , the T-bill futures contract delivers a cash market T-bill with 1-year to maturity and face value $\$100$ .  
 
 # FIGURE 11.3 Pricing T-bill futures  
@@ -372,7 +372,7 @@ It is 25 May. We want to calculate the T-bill futures prices and IMM-index quote
 
 Suppose it is 25 May and we have spot yields on cash-market T-bills with 32, 122, and 212 days to maturity (see Figure 11.A.1). Assume the day-count convention is ‘actual/365’. Note that $122-32=90$ days and $212-122=90$ days. We assume the 32-day spot T-bill matures on exactly the same day that the June-futures contract matures (which delivers a  
 
-![](images/e586b0690c44a5f4b530a60899aea4ae774d4ffcf8644848954ba4a7be6320a7.jpg)  
+![](e586b0690c44a5f4b530a60899aea4ae774d4ffcf8644848954ba4a7be6320a7.jpg)  
 FIGURE 11.A.1 Spot and forward yields (compound rates)  
 
 90-day T-bill). Also, the 122-day cash market T-bill matures on exactly the same day that the September-futures contract matures.  

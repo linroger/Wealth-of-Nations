@@ -79,7 +79,7 @@ Now, if the company is set to receive these three cash flows only, assuming simi
 
 Consider two different ways of packaging the same cash flows. If the company “sells” cash flow 3 and backs a bond issue with this cash flow only, the probability of default will be much  
 
-![](images/b9283bdfce36350bb2686886712169f1219a812779829b4c43c29d86aeb833fc.jpg)  
+![](b9283bdfce36350bb2686886712169f1219a812779829b4c43c29d86aeb833fc.jpg)  
 
 # FIGURE 21.1  
 
@@ -119,7 +119,7 @@ Securitization is neither secured corporate financing, nor the sale of an asset.
 
 We should also compare whole loan sales versus securitization. Securitization is on a serviceretained basis, whereas a loan sale is service released. The buyer of the loan would like to service  
 
-![](images/37b9d6cc80257ff3d634debd7b3aeff67b921d916d31af7e9ccb75ac169dd595.jpg)  
+![](37b9d6cc80257ff3d634debd7b3aeff67b921d916d31af7e9ccb75ac169dd595.jpg)  
 
 # FIGURE 21.2  
 
@@ -147,13 +147,13 @@ ABS securities can be defined by either using other assets such as loans, bonds,
 
 Figure 21.4 shows a “cash” CDO, also called a funded CDO. Again a pool of credit instruments are selected. But they are classified in a very different way. The CDO classes called tranches are formed, not by classifying the underlying securities, but the risk in them. In fact, all CDO tranches will be backed by the same pool of securities. What distinguishes the tranches is the subordination of the default risk. The ABS categorizes the securities themselves. A CDO categorizes the priority  
 
-![](images/acc205089a4e38a937325f485247c05a1efd6bc8c4b50a967c1175890b536d29.jpg)  
+![](acc205089a4e38a937325f485247c05a1efd6bc8c4b50a967c1175890b536d29.jpg)  
 
 # FIGURE 21.3  
 
 ABS structure.  
 
-![](images/bb6c6212998ea1f3524bcfa1b1790c844900cf6668d32e55b2aa1dc3314a5650.jpg)  
+![](bb6c6212998ea1f3524bcfa1b1790c844900cf6668d32e55b2aa1dc3314a5650.jpg)  
 
 Note that these are cash bonds backing the CDO.  
 
@@ -199,7 +199,7 @@ Figure 21.5 shows how the index can be interpreted as a synthetic unfunded CDO. 
 
 A credit index and the implied synthetic CDO.Note that there is no initial cash investment.  
 
-![](images/fecbeb8eec05e2b76e94f863a67559ff04a76dc2ca6cd7cd6046bd64fa9b27ac.jpg)  
+![](fecbeb8eec05e2b76e94f863a67559ff04a76dc2ca6cd7cd6046bd64fa9b27ac.jpg)  
 
 # FIGURE 21.5  
 
@@ -213,7 +213,7 @@ The GFC led to a recession that started in December 2007 and ended in June 2009.
 
 The shrinking of the single-name CDS markets may have been welcomed by some regulators and politicians but it also means that banks and other market participants have fewer hedging tools available. As is clear from Figure 21.5, the creation for synthetic CDOs contributed to the growth of the single-name CDS market before the GFC as CDOs sold credit protection in waves. Demand for CDS protection stemmed from banks that used swaps to offset their loan exposures. At the same time hedge funds were active market participants and “correlation traders” as they arbitraged discrepancies in the prices of CDS or different CDO tranches. The synthetic CDO market is slowly recovering, as Figure 21.6 shows, but under new tougher capital rules banks no longer benefit as much from hedging their loans with CDS. Many remaining correlation traders are now involved in managing legacy synthetic CDOs. Correlation traders were some of the most active users of single-name CDS and with the decline in correlation trading liquidity in the singlename CDS market also shrank. An additional factor that depressed the single-name CDS activity was the EU’s 2012 decision to ban buying naked sovereign CDS protection. One area where activity has been robust has been in the area of CDS on indices as some market participants use them for trading and hedging purposes. Index CDS has been used as hedges against macroeconomic uncertainty and as imperfect hedges against firm specific credit risk.  
 
-![](images/8cfce123cdb8d8e771538b753de352924bc0cee7bb81dc83558f47d6afecf4e8.jpg)  
+![](8cfce123cdb8d8e771538b753de352924bc0cee7bb81dc83558f47d6afecf4e8.jpg)  
 Source: Securities Industry and Financial Markets Association (SIFMA)  
 
 # FIGURE 21.6  
@@ -230,7 +230,7 @@ A credit index is obtained by selecting $n$ such reference entities indexed by $
 
 Let $I_{t}$ represent the spread on the credit index for the preselected $n$ names. The “index” would then trade as a separate security from the underlying single-name CDSs. It should be regarded as a standalone security with a known maturity, coupon, and standardized documentation. Trading the index is equivalent to buying or selling protection on the reference portfolio names with equal weights.7 The spread of this portfolio, i.e., $I_{t}$ , is quoted separately from the underlying CDSs.8  
 
-![](images/412ad218a5e69e6d116c94c8e15687e8f338c59785f9e843618b7da3cd7acd9d.jpg)  
+![](412ad218a5e69e6d116c94c8e15687e8f338c59785f9e843618b7da3cd7acd9d.jpg)  
 
 # FIGURE 21.7  
 
@@ -282,7 +282,7 @@ Essentially, there will be four possibilities or scenarios at the end of the yea
 
 On the other hand, if the position was for more than 1 year the default possibilities would be more complicated for the second year. This is discussed later in this chapter.  
 
-![](images/83d77b03e464ed9cbb406d580dc6f0ef66c0e0d7b57b4e420d2285c7ad0756a7.jpg)  
+![](83d77b03e464ed9cbb406d580dc6f0ef66c0e0d7b57b4e420d2285c7ad0756a7.jpg)  
 
 # FIGURE 21.8  
 
@@ -392,7 +392,7 @@ An investor may not be willing to take such a risk. He or she may want to write 
 
 We can calculate the probability that the mezzanine tranche will lose money as,  
 
-![](images/61c120096357490ac6009e4d959a73521c0f7c79fe401529cab9371e5046a4d8.jpg)  
+![](61c120096357490ac6009e4d959a73521c0f7c79fe401529cab9371e5046a4d8.jpg)  
 
 # FIGURE 21.9  
 
@@ -416,7 +416,7 @@ We use Figure 21.10 to discuss the important relation between the area under the
 
 Consider the $3\%$ mezzanine tranche as an example. The tranche has two attachment points, the lower attachment point is $3\%$ and the upper attachment point is $6\%$ . In heuristic terms, the lower attachment point represents the subordination, i.e., the cushion the investor has. Defaults up  
 
-![](images/e58466e404db8a390a83c9949c6a2fe45738608ad1dae22622b7d15a11320ab4.jpg)  
+![](e58466e404db8a390a83c9949c6a2fe45738608ad1dae22622b7d15a11320ab4.jpg)  
 
 # FIGURE 21.10  
 
@@ -432,7 +432,7 @@ The first implication is that as correlation goes up, the distribution is being 
 
 Second, in terms of defaults this means that as correlation increases the probability of no defaults increases compared to the low correlation case. This is because the probability of credits  
 
-![](images/be791697bb73662f7e2fa77dd915ec010b5bdbfc7b7e560555076cb183cc3669.jpg)  
+![](be791697bb73662f7e2fa77dd915ec010b5bdbfc7b7e560555076cb183cc3669.jpg)  
 
 # FIGURE 21.11  
 
@@ -650,7 +650,7 @@ There is another important difference compared to convertible bonds and reverse 
 
 Figure 21.12 shows the difference in price behavior between a CoCo and a convertible bond. For simplicity here we assume that the underlying debt is riskless. This is reflected in the horizontal line that represents the flat bond floor. This is in contrast to Chapter 19 where convertible bond value for low stock price levels converged to zero. As the share price falls, the convertible bond value approaches the bond floor from above. The CoCo behaves differently. We assume that the  
 
-![](images/c93beceb44172d2f870cdc443a12c1c7ccc57542855b31b37c74a00f504106ca.jpg)  
+![](c93beceb44172d2f870cdc443a12c1c7ccc57542855b31b37c74a00f504106ca.jpg)  
 
 # FIGURE 21.12  
 
@@ -668,7 +668,7 @@ $$
 
 From an equity derivatives perspective, we can apply the principles outlined in Chapter 20 and see the CoCo as a long position in CR shares, where CR is the conversion ratio. The knock-in feature is dependent on the trigger event and barrier option valuation approaches can be used to price it. Third, in Chapter 19 we saw structural models of default and credit valuation. CoCos are just one element of the issuer’s capital structure and therefore we can apply the principles underlying the Merton model and its extensions to value CoCos. For this purpose, we would specify a stochastic process for the firm and model the value of different continent claims, including those of CoCo holders, as a function of the value of the assets and the trigger price. From an equity derivatives one can decompose the $\mathbf{CoCo}$ into a risky bond, a knock-in forward on the underlying share and a short position in a digital down-and-in option, which reflects the fact that the coupons on the bond will only be received as long as the trigger event does not occur. This leads to the following contractual equation:  
 
-![](images/eed5270f97883ef498726f094714b186a5b620cf5f98e46fabd80173c32457ed.jpg)  
+![](eed5270f97883ef498726f094714b186a5b620cf5f98e46fabd80173c32457ed.jpg)  
 
 The end of chapter exercises provide CoCo valuation examples using the credit reduced form approach and the equity derivatives approach. Further details are available in the references listed at the end of the chapter.  
 

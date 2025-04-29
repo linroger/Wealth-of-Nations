@@ -39,7 +39,7 @@ Usually the spot-yield curve is upward sloping and fattens out at long maturitie
 
 So far we have merely described what the yield curve represents. It tells you how much it will cost you (p.a.) to borrow (or lend) money over a fxed horizon, starting immediately (and with no interim payments). But what determines the shape of the yield curve at any point in time? This analysis is known as the term structure of interest rates and broadly speaking the shape of the yield curve today is determined by the market’s expectations about price infation in future years. If today, infation is expected to be higher (lower), in each future year then the yield curve will be upward (downward) sloping (see Cuthbertson and Nitzsche 2008).  
 
-![](images/27ef0878130a9d612dd04ca53f4b2c0a9916119b1a159370bd2e3260cf5a88f0.jpg)  
+![](27ef0878130a9d612dd04ca53f4b2c0a9916119b1a159370bd2e3260cf5a88f0.jpg)  
 FIGURE 10.1 Yield curve  
 
 # 10.1.1 Estimating Yield Curves  
@@ -74,7 +74,7 @@ $$
 
 where (assuming no short-selling) $0<w_{i}<1$ and $\Sigma w_{i}=1$ . For example, if you hold $\$2000$ in bonds, each of which has a duration $D=4$ and $\$4000$ in bonds each with a duration of $D=12$ , then the duration of the bond portfolio is $D_{p}=\left({200}/{600}\right)4+\left({400}/{600}\right)12=9.33$ .  
 
-![](images/4a1414ec27618731f96283a7da06cf84bfa5e12c462737dba9d47a4ea6965c00.jpg)  
+![](4a1414ec27618731f96283a7da06cf84bfa5e12c462737dba9d47a4ea6965c00.jpg)  
 FIGURE 10.2 Duration and price changes  
 
 This implies that if bond yields change by $1\%$ , the value of your bond portfolio will change by (approximately) 9.33 per cent, hence:  

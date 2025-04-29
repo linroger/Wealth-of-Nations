@@ -118,7 +118,7 @@ Go back to the example of EasyFly that capped the price of its future purchases 
 
 If the airline had not sold the put, it would directly bene!t from very low spot prices $S_{T}$ . But if EasyFly has sold a put and if $S_{T}<K_{p}$ on 15 April, it will have to pay out $(K_{p}-S_{T})$ to the holder (buyer) of the put. If $S_{T}<K_{p}$ , the efective cost of fuel for EasyFly is equal to the spot price of fuel plus Easyfy’s cash payout on the put $=S_{T}+(K_{p}-S_{T})=K_{p}$ . Hence if $K_{p}=\$1.6$ , the minimum efective cost of the fuel by the airline will be $\$1.6$ per gallon (even if spot fuel prices are below $\$1.6$ . So if EasyFly has to purchase airline fuel in the future and it also undertakes a collar trade, it will cap its efective cost at an upper level $K_{c}=\$2.2$ , but also set a foor level it will pay for fuel of $K_{p}=\$1.6$ . (Note that for the above to work as described, $K_{p}<K_{c}$ .)  
 
-![](images/e0bc7ef6c82326da082099b850364ab134696043ba1d8d02f8518793109eb796.jpg)  
+![](e0bc7ef6c82326da082099b850364ab134696043ba1d8d02f8518793109eb796.jpg)  
 FIGURE 32.1 Collar trade by airline  
 
 The efective cost (ignoring the cost of the call and the put) of the jet fuel to EasyFly is given in Figure 32.1. If the spot price turns out to be between $K_{p}=\$1.6$ and $K_{c}=\$2.2$ , say $S_{T}=\$1.8$ then neither of the options is in-the-money and EasyFly purchases fuel at the spot price of $\$1.8$ .  
@@ -135,7 +135,7 @@ $$
 {\mathrm{gas}}=S_{T}(f l o a t)-\{S_{T}(f l o a t)-X\}=X
 $$  
 
-![](images/8bfa35c275d647db6bf19c6c861c3b14ecc1233e1c6925633c90b00155a54135.jpg)  
+![](8bfa35c275d647db6bf19c6c861c3b14ecc1233e1c6925633c90b00155a54135.jpg)  
 FIGURE 32.2 Natural gas – !xed for foating swap  
 
 Only the LHS of this diagram is the swap. Centrica must ensure that $S(\mathfrak{f i x})>X$ before taking on the swap  
@@ -156,7 +156,7 @@ The foating index $S(f l o a t)$ will have to be decided upon and this spot pric
 
 The !xed price $X$ for NG (say) quoted in the swap is the ‘swap rate’ and will vary depending on the maturity of the swap deal – so diferent swap rates will be quoted for 1-year, 2-year, . . etc. swaps. Broadly speaking, the swap rate $X$ is an average of the forward prices for NG over the life of the swap – in terms of jargon, ‘the swap is priced of the forward curve’ (i.e. forward prices of NG at diferent maturities – see Figure 32.3).  
 
-![](images/f789c08c3ea16ad9a0672b6e3c1d1663d2c4c33760f83ee765307d3e5e8692d9.jpg)  
+![](f789c08c3ea16ad9a0672b6e3c1d1663d2c4c33760f83ee765307d3e5e8692d9.jpg)  
 FIGURE 32.3 Pricing a commodity swap  
 
 The foating cash fows in the swap depend on future spot prices and our best guess (at $t=0$ ) of these prices are the current quoted forward prices, $F_{k}$ . The notional volume in the swap contract $V o l_{k}$ can be diferent in diferent months. The risk-free discount rate is $d_{k}=e^{-r_{k}t_{k}}$ – using continuously compounded rates. The swap is priced at inception so that it has zero value to both parties:  

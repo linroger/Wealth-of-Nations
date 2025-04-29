@@ -72,7 +72,7 @@ We can repeat this say $n=200$ times, to obtain 200 data points for the stock pr
 
 We have created a ‘parallel universe’ where the initial value $S_{0}$ , the mean return and standard deviation are fxed but we introduce random ‘frm specifc’ events $\varepsilon_{t}$ into our stock price series. We are replaying history but at each point pricing a European call in time we ‘roll the dice’ to simulate the positive or negative random variable $\varepsilon_{t}$ , which represents random events that might afect the frm’s stock price. The simulated possible paths for the stock price over the 2-year horizon are shown in Figure 26.1.  
 
-![](images/b97aa255b3d0210914a25b1e932b313179f083083869a76281392b7ffaec99d1.jpg)  
+![](b97aa255b3d0210914a25b1e932b313179f083083869a76281392b7ffaec99d1.jpg)  
 FIGURE 26.1 Brownian motion  
 
 Along any single realised path the stock price will not grow at exactly $15\%$ p.a. because of the ‘randomness’ in the price series. For example, if the frst few random shocks $\varepsilon_{t}$ are relatively large negative numbers, then the stock price after the frst few periods will be very low. Hence even after 2 years the fnal stock price $S_{200}$ may sometimes end up below its initial value of $S_{0}=100$ (Figure 26.1). On average, across all the simulated stock price series, the stock price grows at $15\%$ p.a. but there is substantial variation around this mean value, because the standard deviation of stock returns, $\sigma=20\%$ is quite large.  
@@ -166,7 +166,7 @@ Figure 26.2 shows how the MCS values for the call and put premia change as we in
 
 Excel and MATLAB fles to calculate European call and put premia can be found on the website.  
 
-![](images/897dc52e1bc15f317e161dcf8d3f120068ba133c7e20cb836c51059d12755f5f.jpg)  
+![](897dc52e1bc15f317e161dcf8d3f120068ba133c7e20cb836c51059d12755f5f.jpg)  
 FIGURE 26.2 Call and put premia using MCS  
 
 # 26.3 VARIANCE REDUCTION METHODS  

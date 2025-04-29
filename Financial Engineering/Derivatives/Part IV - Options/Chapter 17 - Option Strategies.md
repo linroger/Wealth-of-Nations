@@ -47,16 +47,16 @@ A long put (Figure 17.2) involves a zero payo! if the stock price at maturity is
 
 Prior to expiration, the payo! profle of a long put is the dashed line in Figure 17.2. At ‘reasonably high’ stock prices the long put loses time value represented by the curved line moving towards the ‘kinked’ line. However, at ‘very low’ stock prices a long (European) put may increase in value as the time to maturity approaches.2 The payo! for a short put is the mirror image of the long put (see Figure 17.2).  
 
-![](images/4da6d0a3bbbcc95dec6c835c864cee746fe859d0c00275473922eb6e98c33541.jpg)  
+![](4da6d0a3bbbcc95dec6c835c864cee746fe859d0c00275473922eb6e98c33541.jpg)  
 
-![](images/44ecd78350c19933d1415f98ce2d3ba822a81ecd23bf3aaeefde324f61757d3b.jpg)  
+![](44ecd78350c19933d1415f98ce2d3ba822a81ecd23bf3aaeefde324f61757d3b.jpg)  
 FIGURE 17.2 Payo! for puts  
 
 The payo! profle from being long stocks is $\{+1,+1\}$ . If you are long stocks and the stock price increases then there is a positive payo!, as your stocks are worth more (Figure 17.3). The payo! profle if you short-sell stocks is $\{-1,-1\}$ . If you short-sell stocks and the stock price increases then your position has fallen in value – since you would have to close out at a higher price and you make a loss – this is a negative relationship between the stock price and the payo! (Figure 17.3). If we assume the futures price moves dollar-for-dollar with the stock price, then the payo! profle for a futures contract is the same as for the stock. We could therefore use the futures price in place of the stock price.  
 
 Suppose we have three assets: stocks, calls, and puts (with the same underlying, maturity dates and strike price, $K,$ . Taking any two of these three assets we can replicate the payo! profle of the remaining one. Put another way we can create a ‘synthetic’ or ‘replication portfolio’ to mimic the outcome for a call, put, or position in the stock.  
 
-![](images/8240dfb784aa5ce58591780719c73919221a40a4d749d2be335e678d8222c916.jpg)  
+![](8240dfb784aa5ce58591780719c73919221a40a4d749d2be335e678d8222c916.jpg)  
 FIGURE 17.3 Payo! for futures/stocks  
 
 # 17.1.1 Synthetic Long Call  
@@ -75,10 +75,10 @@ $$
 \begin{array}{l l}{{\mathrm{Short~put}}}&{{=\{+1,0\}}}\\ {{\mathrm{}}}&{{={\mathrm{Long~stock}}=\{+1,+1\}}}\\ {{\mathrm{}}}&{{+{\mathrm{Short~call}}}}&{{=\{0,-1\}}}\end{array}
 $$  
 
-![](images/f45b6ef7093cf5712ef30e23d95df10bb490428acd089c814db5f80c9475b2c5.jpg)  
+![](f45b6ef7093cf5712ef30e23d95df10bb490428acd089c814db5f80c9475b2c5.jpg)  
 FIGURE 17.4 Synthetic long call  
 
-![](images/fbdf7f22e5816e4a26484814c19931c39f2e73749f55abe484e5a348479693c4.jpg)  
+![](fbdf7f22e5816e4a26484814c19931c39f2e73749f55abe484e5a348479693c4.jpg)  
 FIGURE 17.5 Synthetic short put  
 
 # 17.1.3 Synthetic Long Forward  
@@ -89,7 +89,7 @@ $$
 \begin{array}{l l}{{\mathrm{Long~stock~(futures)}=\{+1,+1\}}}\\ {{\mathrm{~}}}\\ {{\mathrm{~}}}\\ {{\mathrm{~}}}\\ {{\mathrm{~\Tort~put~}}}\\ {{\mathrm{~}}}\\ {{\mathrm{~}}}\end{array}\qquad{\Longrightarrow}{\mathrm{~}}\{+1,\ 0\}}\\ {{\mathrm{~}}}\\ {{\mathrm{~}}}\\ {{\mathrm{~}}}\end{array}
 $$  
 
-![](images/abc339df9e1867cd85e9b411355e98fff14c6b6543ece59ab171d4a5c00c3cc1.jpg)  
+![](abc339df9e1867cd85e9b411355e98fff14c6b6543ece59ab171d4a5c00c3cc1.jpg)  
 FIGURE 17.6 Synthetic long futures  
 
 # 17.1.4 Spreads and Straddles  
@@ -124,7 +124,7 @@ Bull spread payo! 0 1 0 $\mathbf{\beta}=B u y$ call with strike price K1 0 1 1 a
 
 There is a ‘trick’ to producing these results, which may be useful. Start with the bull spread payo! $\{0,+1,0\}$ – this payo! profle is what we are aiming for (line-1 above). Start producing this payo! by working from the left. First you ‘fx’ the $\cdot\mathrm{0^{\cdot}}$ and $^{\cdot}{+}1^{\cdot}$ but then you must continue with another $^{\circ}+1^{\circ}-\mathsf{a s}$ an option only has one ‘kink’ in its payo! profle (line-2 above). When deciding on the entries in line-3 you make sure you do not alter your original $\cdot_{0,+1},$ (in line-2), by putting $\cdot\mathrm{0},0^{\cdot}$ as the frst two elements on the left (line-3) and then include $\cdot_{-1}\cdot$ so that the sum of the third column for lines 2 and 3 is 0 – as required to reproduce line-1. Practise this, it can be useful.  
 
-![](images/db8d5515418599a1b2951ca6647aa7d5eaa87e209c498d43afcb00e1a883565b.jpg)  
+![](db8d5515418599a1b2951ca6647aa7d5eaa87e209c498d43afcb00e1a883565b.jpg)  
 FIGURE 17.7 Bull spread with calls  
 
 A bull spread is a money spread since the options have the same expiration date but different strike prices. So, for example, setting up this position in January, both calls could be for expiration in October (say). Compared with holding a naked long-call, there is a lower breakeven and a reduction in cost because of the premium received from the sold (written) call. However, there is also the loss of some upside potential, compared with holding just the long call.  
@@ -177,7 +177,7 @@ $$
 {\begin{array}{l l l}{{\mathrm{Bull~spread~with~payoff}}}&{{\underline{{{\{0,-1,}}}}}}&{{0};}\\ {\ =S e l l\ a\ p u t{\mathrm{~with~}}K_{1}}&{{\{0,-1,-1\}}}\\ {a n d b u y\ a\ p u t{\mathrm{~with~}}K_{2}\ (>K_{1})}&{{\{0,}}}&{{0,+1\}}\end{array}}
 $$  
 
-![](images/377ff3b189cde096ecc339436c97613fccbee5761b5bf1c899b0bf77fa930b2c.jpg)  
+![](377ff3b189cde096ecc339436c97613fccbee5761b5bf1c899b0bf77fa930b2c.jpg)  
 FIGURE 17.8 Bear spread with calls  
 
 # 17.2.4 Bear Spread with Puts  
@@ -198,7 +198,7 @@ There is favourable payo! to the long straddle if the stock price moves up or do
 
 For example, a long straddle might be a sensible investment strategy if there is going to be a ‘yes/no’ decision on a contract bid by a particular frm, or when awaiting a decision on whether a merger with another frm will be allowed to go ahead, or awaiting the outcome of a pharmaceutical company’s licence application to manufacture a new drug. All of these straddles have a positive payo! if there is a subsequent large rise or fall in the stock price, depending on the outcome of these ‘yes/no’ decisions.  
 
-![](images/5a2298de7117f44e562e1fa190795892c1f79813d0b986eba71ac8759171e782.jpg)  
+![](5a2298de7117f44e562e1fa190795892c1f79813d0b986eba71ac8759171e782.jpg)  
 FIGURE 17.9 Payo!, volatility strategies  
 
 The strangle (Figure 17.9, panel B) has a large payo! if the underlying price moves in either direction by an even larger amount than for the strangle, and the downside risk is limited as indicated by the ‘fat bottom’ – it is a volatility strategy. The short butterfy (Figure 17.9, panel C) and the short condor (Figure 17.9, panel D) limit the upside potential compared with a long straddle or strangle. The short butterfy and short condor each have a positive outcome if stock prices move up or down by a ‘large’ amount, but after a certain point the proft does not increase with further movements in the stock price. Because the payo! to a short butterfy and short condor limit the upside compared with the straddle, they will cost less to set up (in terms of the option premia paid) than the straddle. The above strategies are often undertaken by the trading desks of large institutional investors or by foor traders on the exchange.  
@@ -217,7 +217,7 @@ $$
 \Pi=\operatorname*{max}(0,S_{T}-K)-C+\operatorname*{max}(0,K-S_{T})-P
 $$  
 
-![](images/6b47cec3b89b1be4decf710a324ea77d36701723f8cd2f9b4dab3472f65ffa79.jpg)  
+![](6b47cec3b89b1be4decf710a324ea77d36701723f8cd2f9b4dab3472f65ffa79.jpg)  
 
 Long call $(C=5)$ ) plus   
 Long put $(P=3)$ equals   
@@ -251,7 +251,7 @@ By the end of 1994 Nick Leeson, working for Barings Bank (London) but trading fr
 
 The Nikkei at the end of 1994 had been trading in the range 19,000–20,000. If the Nikkei 225 had remained in its ‘historic range’ then Leeson’s short straddles would earn a proft at maturity. Leeson’s receipts from selling the calls and puts would more than cover any ‘small’ payo!s at maturity to investors holding either the long calls or long puts. This is obvious from the inverted-V payo! for Leeson who held the short straddle. For example, if Figure 17.10 represents a long straddle, then Leeson’s short straddle would be proftable at expiration, providing the stock index does not move more than 8 points in either direction, but the maximum gain to Leeson at expiration is the sum of the call and put premia $C+P$ (if $S_{T}\approx K)$ . However, if the options are held to maturity, and the Nikkei moves in either direction by a large amount, the potential losses to Leeson could be very high since either the calls $(S_{T}>K)$ or the puts $(S_{T}<K)$ could be exercised by the ‘long’.  
 
-![](images/987c2b4742acfc9d3b31809b39b24b8b63ffc77a0cffb961132c3193148dd236.jpg)  
+![](987c2b4742acfc9d3b31809b39b24b8b63ffc77a0cffb961132c3193148dd236.jpg)  
 FIGURE 17.11 Leeson’s short straddle  
 
 Leeson’s short straddle positions change in value day-by-day as the Nikkei 225 stock market index and its volatility change over time, as shown in Figure 17.11.  
@@ -304,7 +304,7 @@ The ‘gap’ between the breakeven points for the strangle is $S_{B E}^{+}-S_{B
 
 The strangle has one positive feature relative to the straddle. It can be shown that the strangle increases in value by the same amount as the straddle, as implied volatility $\sigma$ increases, but the strangle costs less at the outset. The strangle is therefore ‘better value’ than the straddle if you are speculating on an increase in volatility.  
 
-![](images/66b1b25132f3986a12fbbf84c8ba8ffcb6f0ceec0d48fb58375afdc4441d7738.jpg)  
+![](66b1b25132f3986a12fbbf84c8ba8ffcb6f0ceec0d48fb58375afdc4441d7738.jpg)  
 FIGURE 17.12 Long strangle  
 
 # 17.3.4 Short Butterfly  
@@ -329,7 +329,7 @@ Sell 1 call at $K_{3}$
 
 Short butterfly  
 
-![](images/4647267bc1fa3c786778cde7fd43dd4f599855d13f8902b5ef053007885075e9.jpg)  
+![](4647267bc1fa3c786778cde7fd43dd4f599855d13f8902b5ef053007885075e9.jpg)  
 FIGURE 17.13 Short butterfy  
 
 The payo! profle when the options are not close to expiration is the almost fat dashed line at the bottom of Figure 17.13 – hence the butterfy spread does not change in value by much, when the stock price changes (that is, the delta of the butterfy is close to zero). When the options are close to the expiration date, the short butterfy loses time value rather quickly.  
@@ -356,7 +356,7 @@ long call bear spread $\mathbf{\tau}=$ buy $K_{3}$ -call and sell $K_{2}–c a l
 equals   
 long butterfy $\{0,+1,-1,0\}$  
 
-![](images/6b04dd3b00e84637e8a11e5faea6c5f1539981fa6d7c8392d69f3d9def58b082.jpg)  
+![](6b04dd3b00e84637e8a11e5faea6c5f1539981fa6d7c8392d69f3d9def58b082.jpg)  
 FIGURE 17.14 Long butterfy  
 
 # 17.3.6 Short Condor  
@@ -383,7 +383,7 @@ At maturity of the short-dated option, the long-dated option still has 180 days 
 
 To summarise. In a relatively static market (i.e. stock price does not change $S_{t}\approx S_{0}\approx K)$ the horizontal call-spread will make money from time decay. However, it will lose money if the stock price moves substantially either side of its initial value, $S_{0}$ (Figure 17.15). Calendar spreads can be created with put options and buying a long-maturity put and selling a short-maturity put gives a proft profle similar to that when using calls.  
 
-![](images/54a3ab4022775d07c775db2bebd472f1db8f4c2e8e4f3af5042ce64cf5b91b7e.jpg)  
+![](54a3ab4022775d07c775db2bebd472f1db8f4c2e8e4f3af5042ce64cf5b91b7e.jpg)  
 Calendar Spread: A long position in a 360-day option and a short position in a 180-day option, both at-the-money.   
 FIGURE 17.15 Calendar spread (proft profle)  
 

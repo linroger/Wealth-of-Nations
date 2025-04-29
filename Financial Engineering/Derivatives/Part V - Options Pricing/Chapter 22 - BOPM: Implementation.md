@@ -55,7 +55,7 @@ $$
 
 Note that the call premium for the option with two periods to maturity has a higher value than our ‘identical’ option with one period to maturity, where we found $C=7.143$  
 
-![](images/4d37f3ce241223dfc0f37d0243b61fd9beb868b101bcf3b1c5351232c0c8b101.jpg)  
+![](4d37f3ce241223dfc0f37d0243b61fd9beb868b101bcf3b1c5351232c0c8b101.jpg)  
 
 (see Chapter 21). Backward recursion (under RNV) is the easiest way of obtaining the option price. If we just consider European options, (where only the payof at maturity determines the value of the option), then RNV provides a general formula for pricing calls and puts.  
 
@@ -132,7 +132,7 @@ The option price will change as the stock price, stock return volatility, intere
 
 In our original example, we priced the (one-period) call option by establishing a risk-free portfolio consisting of a written call and a long position in ‘delta’ stocks. We can also price the call by establishing a synthetic call or a replication portfolio for the call, using stocks and the risk-free asset. We combine stocks and the risk-free asset at $t=0$ into a ‘replication portfolio’ which gives exactly the same payofs as the call $C_{u}$ , $C_{d}$ at $t=1$ . Because our ‘replication portfolio’ has the same payof as the call (at $t=1\dot{}$ ), then the price of the call must equal the cost of setting up the ‘replication portfolio’ (at $t=0$ ) – otherwise risk-free arbitrage profts are possible.  
 
-![](images/8cba7d54ff4ed835591b3976324e23c89acde3a10068a7e406769ba93f52c5e4.jpg)  
+![](8cba7d54ff4ed835591b3976324e23c89acde3a10068a7e406769ba93f52c5e4.jpg)  
 FIGURE 22.2 Replication portfolio  
 
 Consider purchasing $N_{0}$ stocks at a price $S_{0}$ and buying $\$8$ of risk-free (zero-coupon) bonds with a return $R=(1+r)$ – see Figure 22.2. When $B_{0}>0$ this implies a bond purchase (lending money) and $B_{0}<0$ implies issuing bonds (borrowing money). Hence, $B_{0}<0$ could just as easily be the amount borrowed in the form of a bank loan and $B_{0}>0$ , represents the amount placed in a bank deposit.  
@@ -233,7 +233,7 @@ $$
 \begin{array}{l l}{{d t=T/n=0.3/1=0.3~}}&{{R=e^{r d t}=1.0304}}\\ {{U=e^{0.20\sqrt{0.3}}=1.0618~}}&{{D=e^{-0.20\sqrt{0.3}}=0.9418}}\end{array}
 $$  
 
-![](images/12231a08c30791e2407ca846dc9e65555f7a8e07f0f26ebc4ef6f768b5edba33.jpg)  
+![](12231a08c30791e2407ca846dc9e65555f7a8e07f0f26ebc4ef6f768b5edba33.jpg)  
 FIGURE 22.3 Call premium – BOPM and Black–Scholes  
 
 The call premium given by the BOPM using only one time-step is:  

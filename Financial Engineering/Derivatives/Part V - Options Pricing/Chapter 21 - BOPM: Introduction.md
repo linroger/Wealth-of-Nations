@@ -42,7 +42,7 @@ The payofs when holding either one stock or one long call are given in Figure 21
 
 Below, we see that if today $(t=0)$ Ms Arb sells one call and buys $^1/_{2}$ stock (or alternatively if Ms Arb sells 100 calls and buys 50 stocks) then she has set up a risk-free portfolio (over a small interval of time). To be ‘risk-free’ this portfolio must have a known value at $t=1$ no matter what the values of the stock price and call premium are at $t=1$ . To set up this ‘hedge portfolio’ involves a cash outlay at time $t=0$ but because the payof at $t=1$ is known, Ms Arb’s hedge portfolio must have a return equal to the risk-free rate – or proftable arbitrage opportunities are possible. Consider the payof to portfolio-A where Ms Arb is long $1/2$ -stock and short 1-call.  
 
-![](images/1ae91ac67892ebef35a6c011b6bbf2f3d2f220c03dbb09749df26a0ccb2ab5b4.jpg)  
+![](1ae91ac67892ebef35a6c011b6bbf2f3d2f220c03dbb09749df26a0ccb2ab5b4.jpg)  
 
 Payof to Portfolio-A: long 1/2 stock, short 1-call  
 
@@ -209,7 +209,7 @@ We can price a one-period put option by constructing a similar risk-free portfol
 
 The hedge ratio is $h_{p}=-(P_{u}-P_{d})/(S_{u}-S_{d})={}^{1}/2$ . For each long put option a delta hedge requires the purchase of $\%$ stock. The cost of setting up the delta hedge at $t=0$ is $(1/2)S+P$ and the payof at $t=1$ is:  
 
-![](images/1268225356b19991e3b34c496a8a28ef0f5a8c62e73803030786cf5b04055b17.jpg)  
+![](1268225356b19991e3b34c496a8a28ef0f5a8c62e73803030786cf5b04055b17.jpg)  
 
 Payof to Portfolio-B: long 1/2-stock $^+$ long 1-put  
 

@@ -38,7 +38,7 @@ In Chapter 40 we noted that Black’s model is widely used to price some fxed in
 
 The BOPM can be used to price interest rate derivatives in much the same way as we demonstrated for stocks, but there are also some key diferences. First, we require a lattice for the sequence of one-period spot rates (Figure 41.1) but this lattice must not allow any arbitrage profts to be made along the yield curve. This means that, given our chosen sequence of one-period spot rates, it must not be possible to sell a (zero-coupon) bond and use the proceeds to purchase other (zero-coupon) bonds and make risk-free profts.  
 
-![](images/fbe9d23f71d964b765d83f7ac0baa865e27a368b20a8e35934909c55da0fd4b7.jpg)  
+![](fbe9d23f71d964b765d83f7ac0baa865e27a368b20a8e35934909c55da0fd4b7.jpg)  
 FIGURE 41.1 Short-rate lattice  
 
 The lattice in Figure 41.1 shows the possible one-period rates over four time periods and $q$ is the risk neutral probability of an ‘up’ move. As noted in an earlier chapter, when pricing options, under risk-neutral valuation (RNV) we can assign a value $q={}^{1}/_{2}$ . The size of the ‘up’ and ‘down’ movements in the one-period rates are then derived to be consistent both with the current observed term structure of 1-year, 2-year etc. spot rates and with empirical estimates of the term structure of volatilities of these spot rates. This is directly analogous to the calculation of $U$ and $D$ in the BOPM for stock options. However, for interest rates, the details of how to calculate the ‘up’ and ‘down’ movements are a little more complex. Assume for the moment that all the one-period rates in the lattice have been calculated and do not allow any risk-free arbitrage opportunities.  
@@ -63,7 +63,7 @@ Given the short-rate lattice in Figure 41.2, we can:
 
 At each node $(t,i)$ we have a short-rate $r_{t,i}\geq0$ which is the one-period rate applicable from $t$ to $t+1$ (Figure 41.2). At time $t$ there are a total of $t+1$ nodes indexed by $i=0$ to $t$ . We do not assign real world probabilities for a transition to ‘up’ (or ‘fat’) for the short-rate. Because we are pricing an option, we assume RNV and assign risk-neutral probabilities for an ‘up’ move of $^1/_{2}$ .  
 
-![](images/012cc5dbb987b22689c20ddbaa3537bdd28c1f4ee921c248047cceadd2fd65a7.jpg)  
+![](012cc5dbb987b22689c20ddbaa3537bdd28c1f4ee921c248047cceadd2fd65a7.jpg)  
 FIGURE 41.2 Short-rate lattice, rt,i  
 
 Consider any interest rate security (e.g. 3-year zero-coupon bond) which has a value $V_{t,i}$ at node $(t,i)$ somewhere in the middle of the lattice. Under RNV:  
@@ -462,7 +462,7 @@ Short-rates in the BDT model do not exhibit mean reversion, so if interest rates
 
 A trinomial lattice for $t=2$ periods and with each period equal to 1 year is shown in Figure 41.3. The (continuously compounded) short-rate is given at each node and the probabilities of an ‘up’, ‘fat’ and ‘down’ move are assumed to be $q_{i}=(0.25,0.50,0.25)$ respectively. Broadly speaking, these probabilities are chosen so that the lattice exhibits mean reversion and it matches the ‘real world’ variance of the short-rate.  
 
-![](images/acdd5340928460be4dfbec27be3ed8ff4929baedbd659c9323bdd0e97d4897f9.jpg)  
+![](acdd5340928460be4dfbec27be3ed8ff4929baedbd659c9323bdd0e97d4897f9.jpg)  
 FIGURE 41.3 Trinomial-rate lattice  
 
 The trinomial lattice is used in exactly the same way as the binomial lattice. Consider pricing a 2-year European caplet (on 1-year LIBOR) with notional principal $Q=\$10$ and $K=4\%$ . For simplicity assume the cash payouts actually occur at $t=2$ .3 The cash payouts at the fve nodes at $t=2$ are $V_{2,i}=\operatorname*{max}(r_{2,i}-K,0)$ and are shown in parentheses in Figure 41.3. The value of the caplet at node B is:  

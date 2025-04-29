@@ -54,7 +54,7 @@ Note that losing ‘less than’ $\$1000$ also means you might make gains on you
 
 Note that the risk o#cer is not saying you will lose less than $\$1000$ , only that there is a 95 out of 100 chance that you will lose less than $\$1000$ . So, as a concept VaR involves a speci!c probability or con!dence level and a speci!c time horizon over which we measure risk. We cannot predict exactly how much you will lose (or gain) over any 24-hour period – since the world is risky – we can only provide a ‘best guess’ with a certain probability. This is not the only way we can express the daily VaR and an equivalent statement is:  
 
-![](images/9c99cc8797845579d923a4f65ef5017a8def885505b2edaae6696ae73fe80f2d.jpg)  
+![](9c99cc8797845579d923a4f65ef5017a8def885505b2edaae6696ae73fe80f2d.jpg)  
 FIGURE 44.1 Normal distribution  
 
 Given your current stock portfolio then you expect to lose less than \$100m (over any 24-hour period), in 19 out of the next 20 days.  
@@ -69,10 +69,10 @@ Note that even though the VaR concept is concerned with potential losses it is u
 
 The riskiness of a single asset is summarised in the probability distribution of its returns. For daily stock returns the outcomes can take on many values and a convenient !rst assumption is that these outcomes are normally distributed. There is no single acceptable measure of the riskiness inherent in a particular statistical distribution, but for the normal distribution the standard deviation (or variance) is widely accepted as a measure of risk.  
 
-![](images/6702daf684228df2bcb8a05adcee90c30b42ddb5313f704c7fef3d039754b765.jpg)  
+![](6702daf684228df2bcb8a05adcee90c30b42ddb5313f704c7fef3d039754b765.jpg)  
 FIGURE 44.2 Normal distribution  
 
-![](images/a97879183d435bcf316aaf90fd807a9933ee606d8cbb24a0c84271c85c651f51.jpg)  
+![](a97879183d435bcf316aaf90fd807a9933ee606d8cbb24a0c84271c85c651f51.jpg)  
 FIGURE 44.3 Daily returns S&P 500 (January 1990–March 2019)  
 
 For normally distributed returns we can be $90\%$ certain that the actual return will equal the expected return $\mu$ plus or minus $1.65\sigma$ (see Figure 44.2) where $\sigma$ is the standard deviation of the returns. Put another way, we expect the actual return to be less than $\mu-1.65\sigma$ on $5\%$ of occasions or greater than $\mu+1.65\sigma$ , also on $5\%$ of occasions (e.g. 1 time in 20).  
@@ -274,7 +274,7 @@ $$
 
 The forecast $\sigma_{31}^{2}$ can then be updated daily until we get to day-100 after which the future values of %1201, %1202 etc. are independent of the initial value we used for %30. As we have 250 days of historical data then we can continue the recursive forecast up to day-250. As additional information on daily returns becomes available our forecast of the variance (or standard deviation) changes as we move forward through time. It has been found that the EWMA forecasting equation gives better predictions than the SMA (based on the mean squared forecast errors).  
 
-![](images/bb282311474594fe0d600ca4d58498ff0be7d205e28e8bf1217d2f9eb63a5a90.jpg)  
+![](bb282311474594fe0d600ca4d58498ff0be7d205e28e8bf1217d2f9eb63a5a90.jpg)  
 FIGURE 44.4 EWMA forecast – daily FX returns (Eurodollar)  
 
 The above EWMA formula when applied to daily changes in the spot exchange rate is shown in Figure 44.4 and you can see how the EWMA forecasts move by quite substantial amounts and this will directly in\$uence our changing daily forecasts of the VaR of a portfolio of foreign assets, which depends on the exchange rate.  
@@ -313,7 +313,7 @@ $$
 
 Forecasts of daily standard deviations and correlations for each stock and hence for the daily VaR will change from day to day (even when asset holdings remain unchanged). We want to assess whether our forecasts of daily portfolio-VaR are accurate at the 1st percentile. From the standard normal distribution the 1st percentile ‘cut of’ point is $-2.33$ . The (changing) daily forecast of portfolio VaR at the 1st percentile is therefore $V a R_{p,t+1}=V_{p}(2.33)\sigma_{p,t+1}$ .  
 
-![](images/b91b7a059d06a26cac8a45e7459ff158c3411b7bc1e8961aaaeb1fea6bcb949d.jpg)  
+![](b91b7a059d06a26cac8a45e7459ff158c3411b7bc1e8961aaaeb1fea6bcb949d.jpg)  
 FIGURE 44.5 Backtesting  
 
 The historical out-turn for the actual daily (overnight) pro!t or loss $\scriptstyle({\mathrm{P/L}})$ on the portfolio is $d V_{p}=\sum_{i=1}^{n}V_{i}R_{i}$ where $R_{i}$ are actual returns on successive days.5  

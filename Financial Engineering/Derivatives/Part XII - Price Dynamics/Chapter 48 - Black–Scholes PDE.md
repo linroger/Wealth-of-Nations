@@ -168,7 +168,7 @@ $$
 \mathbf{\Phi}_{0,}\quad\Delta t,\quad2\Delta t,\quad3\Delta t,\quad\quad\dots\quad T
 $$  
 
-![](images/040072f9a4a82aa5a2486a6825ec15f216dae8186a4d8e01c3962dc36382b68b.jpg)  
+![](040072f9a4a82aa5a2486a6825ec15f216dae8186a4d8e01c3962dc36382b68b.jpg)  
 FIGURE 48.1 Finite diference  
 
 We now set the maximum value for $s$ on the grid so that the put (with a strike of $K$ ) will have virtually zero value (this is an upper boundary for $s$ ) – for example, if $K=50$ then an upper boundary might be $S_{\mathrm{max}}=100\$ . Now consider $M$ equally spaced time intervals for $s$ so that $\Delta S=S_{\mathrm{max}}/M$ so the $M+1$ stock prices in the grid are:  
@@ -181,10 +181,10 @@ $$
 
 The other derivatives are (Figure 48.3):  
 
-![](images/8526d7b830a3da5cfc8fe3a604acb36ebf8aeedd2702bac94aad87ee0a0c755d.jpg)  
+![](8526d7b830a3da5cfc8fe3a604acb36ebf8aeedd2702bac94aad87ee0a0c755d.jpg)  
 FIGURE 48.2 Use of grid points  
 
-![](images/0375197ef70de8d7796450c108a98feb06586aa49607b42b1bdb73f272fdf2bd.jpg)  
+![](0375197ef70de8d7796450c108a98feb06586aa49607b42b1bdb73f272fdf2bd.jpg)  
 FIGURE 48.3 Approximations for $\partial f/\partial\mathrm{S}$  
 
 It is only the derivative $\partial f/\partial t$ that involves time. The explicit fnite diference method simplifes the solution method by assuming that $\partial f/\partial S$ and $\partial^{2}f/\partial S^{2}$ at the point $(i,j)$ on the grid are the same as at point $(i+1,j)$ so the central diference equation [16c] and equation [17a] become:  

@@ -39,7 +39,7 @@ If you have a ‘receive-foat, pay-fxed’ swap, on a nominal principal $Q=\$100
 
 The replication portfolio of being long an FRN and short a fxed rate bond (both with maturity value $Q$ ) gives exactly the same (net) cash fows as the swap. You would not enter the swap unless the present value of foating payments $V_{F L}$ equals the present value of the  
 
-![](images/bfdd5078518ee9524d9f2178fbe571ac6165c6cebec55fc6e50ffbe8ec1f28cb.jpg)  
+![](bfdd5078518ee9524d9f2178fbe571ac6165c6cebec55fc6e50ffbe8ec1f28cb.jpg)  
 
 $t=0$ is outset of swap (when sp is determined) and all cash flows are paid with 6 month lag.   
 The first floating cash flow is determined by the known interest rate at $\scriptstyle t=0$ .  
@@ -76,10 +76,10 @@ A semi-intuitive way of showing that the (present) value of an FRN equals $Q$ at
 
 For simplicity consider a 3-period FRN, which pays annual coupons (and we use compound rates). The forward rates are all known at $t=0$ . (They are calculated from the known spot rates at $t=0$ ). The expected fnal foating payment is $C_{F L,3}=(1+f_{23})Q$ but this has an expected present value at $t=2$ of $P V_{2}=(1+f_{23})Q/(1+f_{23})=Q$ . Hence at $t=2$ , the present value of the cash fow at $t=3$ plus the cash fow at $t=2$ is $P V_{2}+C_{F L,2}=Q(1+f_{12})$ – the latter has a present value at $t=1$ of $P V_{1}=(1+f_{12})Q/(1+f_{12})=Q$ . We have now shown that at $t=1$ , the present value of both the future cash fows at $t=2$ and $t=3$ are worth $Q$ in total. At $t=1$ we also receive a cash fow $C_{F L,1}=r_{1}Q$ , so at $t=1$ all (current and future) cash fows are worth $Q+r_{1}Q$ – but these have a present value at $t=0$ of $(Q+r_{1}Q)/(1+r_{1})=Q.$ . Hence the value of all the future cash fows $t=1,2,3$ from the FRN have a value today (at $t=0$ ) of Q. Also note from the above that just after the foating rate payment dates at $t=1$ and $t=2$ , the (present) value of any remaining future cash fows, is also equal to Q. (See Appendix 34 for a formal proof of this using arbitrage arguments.)  
 
-![](images/c4dd16f6cccae3de19465174a09a108fcc01836c9eb53d9f3db3952a5f4eeadb.jpg)  
+![](c4dd16f6cccae3de19465174a09a108fcc01836c9eb53d9f3db3952a5f4eeadb.jpg)  
 FIGURE 34.3 FRN, expected cash fows  
 
-![](images/2d3032eb9cbe90561a4acbbca6c14dd7eca38f74b1a979a5decad03a93efe242.jpg)  
+![](2d3032eb9cbe90561a4acbbca6c14dd7eca38f74b1a979a5decad03a93efe242.jpg)  
 FIGURE 34.2 Value of a FRN over time  
 
 # 34.3 PRICING A SWAP: SHORT METHOD  
@@ -197,7 +197,7 @@ $$
 
 Using proposition 2, the value of all future LIBOR cash fows accruing after $t_{1}$ (that is $C_{F L,2},C_{F L,3},\dots C_{F L,n}$ plus the fnal payment of $Q$ at $t_{n}$ ), have a PV at $t=1$ of $Q$ . Hence the  
 
-![](images/e868def553c3f126656728313d47c12e034f20962d0d6609420f0cd138678dcc.jpg)  
+![](e868def553c3f126656728313d47c12e034f20962d0d6609420f0cd138678dcc.jpg)  
 FIGURE 34.4 Value of swap at $t$ , receive-foat, pay-fxed  
 
 value of the FRN at $t$ depends only on the present value of the next foating LIBOR payment $C_{F L,1}$ plus Q. The new spot rate applicable from 15 June to 15 September (92 days) is $r_{1}^{*}=6.15\%$ , so the new discount rate $d_{1}^{*}=1/(1+0.0615(92/360))=0.984526525$ (Table 34.2).  

@@ -159,7 +159,7 @@ In practice, many futures contracts are not as straightforward as the one descri
 
 Consider implementing cash-and-carry arbitrage. For example, on 25 June, Ms Arb borrows cash, buys stock-ABC and holds the stock for 3 months. This is the ‘synthetic future’. The actual quoted price for the September-futures must equal the cost of creating this ‘synthetic future’ (on stock-ABC) – if there are to be no arbitrage profts possible. We repeat our initial example (see above) but in this case Ms Arb borrows funds from the bank over two diferent time horizons: using 1-month and 3-month interest rates (which are both $4\%$ p.a.).  
 
-![](images/27fb3bc8c28ac28db5bcc9ebb4f95d39224e5eaf88e8bdb350619c506c53e8b6.jpg)  
+![](27fb3bc8c28ac28db5bcc9ebb4f95d39224e5eaf88e8bdb350619c506c53e8b6.jpg)  
 FIGURE 3.2 Futures price on dividend paying stock  
 
 There is a single known dividend payment after 1 month (1/12th year) of $D_{1}=\$1$ , on 25 July. We have a fat yield curve with $r=4\%$ p.a. so the present value of this future dividend payment is $P V(D_{1})=\S1/\left[\left(1+0.04(1/12)\right]=\S0.9967.$ Hence Ms Arb can borrow $\$0.9967$ on 25 June from bank-A at the one-month interest rate and know that she can pay back the $\$1$ (owed to bank-A) from the (known) dividend payment on stock-ABC, on 25 July. For Ms Arb there are zero net cash fows on 25 July – the dividend received on the stock will be used to pay of the bank loan outstanding of $\$1$ .  
@@ -326,7 +326,7 @@ $$
 \begin{array}{r}{V_{t}(\mathrm{`Old'forwardcontract})=P V[\mathrm{`New'forwardprice\at\}t-\mathrm{`Old}}\\ {=[F_{t}-F_{0}]e^{-r(T-t)}=S_{t}-F_{0}e^{-r(T-t)}}\end{array}
 $$  
 
-![](images/fcad115f828448b0b0dd7387bab3d6c2aa227f2372d29d2ccb845b6f04a0085e.jpg)  
+![](fcad115f828448b0b0dd7387bab3d6c2aa227f2372d29d2ccb845b6f04a0085e.jpg)  
 FIGURE 3.3 Value of forward contract  
 
 where we have used $F_{t}=S_{t}e^{r(T-t)}$ . The above expression for the value of the ‘old’ contract follows from arbitrage arguments.  

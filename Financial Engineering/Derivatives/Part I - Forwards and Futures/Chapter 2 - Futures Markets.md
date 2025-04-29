@@ -148,7 +148,7 @@ Although most futures are closed out before maturity it is important to understa
 
 The decision on when to deliver is made by the party with the short position. So, a person holding a short September wheat-futures can issue a notice of intention to deliver, to the clearing house. For commodities, the notice will contain the number of contracts to be delivered, the grade, delivery point and specifc delivery date. The clearing house then selects someone with a long position in September wheat-futures and lets them know that they must accept delivery within the next few days. Selection of the long may be done randomly or by taking the ‘traders’ with the oldest outstanding long position. The long must accept the delivery notice but if the notice is ‘transferable’, she has about 30 minutes to fnd another person with a long position to accept the notice from them.
 
-![](images/2323b17e03794e7dbde4db9b1149004c921a74f4d9575e6ac1fead2b3a1ce9c0.jpg)
+![](2323b17e03794e7dbde4db9b1149004c921a74f4d9575e6ac1fead2b3a1ce9c0.jpg)
 FIGURE 2.1 Speculation with futures
 
 For ‘commodities’, delivery is usually in the form of a warehouse receipt and ‘the long’ then pays the most recent settlement price. The precise time and place for delivery is determined by the party with the short position. The long is then responsible for any ‘warehousing costs’ (e.g. for wheat, silver, gold) or in the case of livestock futures, care of the animals. Delivery of oil and natural gas is at a specifc point along the ‘pipeline’ – for example, in the US at Cushing, Oklahoma for oil and at Henry Hub in Louisiana for natural gas.

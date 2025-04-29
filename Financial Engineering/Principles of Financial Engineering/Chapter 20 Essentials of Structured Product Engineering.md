@@ -81,7 +81,7 @@ into a discount bond with a 5-year maturity. The rest of the principal would be 
 
 At the simplest level, the guaranteed product consists of a zero-coupon bond and one or more options.2 Suppose $S_{t}$ denotes the value of an underlying security. This security can essentially be anything from stocks to credit index tranches or the value of some hedge fund investment. We can then write the following contractual equation:  
 
-![](images/a9ee095d1014e20e25d31a091fc4f4c5718e96e444e4af6e04225cd624c4e16f.jpg)  
+![](a9ee095d1014e20e25d31a091fc4f4c5718e96e444e4af6e04225cd624c4e16f.jpg)  
 
 Suppose an investor invests the amount $N=100$ directly to a basket of options over a $T_{\mathbf{\delta}}$ -year maturity. Then, options being risk investments and investors having limited risk management capabilities, part of the principal may be lost if these options expire out-of-the-money. On the other hand, if the yield on a $T_{\mathbf{\delta}}$ -maturity zero-coupon bond is $r\%$ and if the same investor invests, at time $t_{0}$ , a carefully chosen amount $P V_{t_{0}}$ in this bond, the security will be worth 100 in 5 years:  
 
@@ -93,15 +93,15 @@ The payoff of the zero-coupon bond is illustrated in Figure 20.1a as a function 
 
 (a Payoff of a zero-coupon bond as a function of the share price  
 
-![](images/b1a0cbe3259365a45fb1d5e3027f471cf038d31e7217a38b584a0a05e1232ee1.jpg)  
+![](b1a0cbe3259365a45fb1d5e3027f471cf038d31e7217a38b584a0a05e1232ee1.jpg)  
 
 b Payoff of a long call option position  
 
-![](images/def399faf7e4daf7b0d30c7af6cb6377726808fe87d85b9d3e889dcff88f4b37.jpg)  
+![](def399faf7e4daf7b0d30c7af6cb6377726808fe87d85b9d3e889dcff88f4b37.jpg)  
 
 (c)Payoff of a long zero-coupon bond and long call option position  
 
-![](images/d43b967e817e427574a56c2c694857856dc19efa1915a966d5836ff486077d5b.jpg)  
+![](d43b967e817e427574a56c2c694857856dc19efa1915a966d5836ff486077d5b.jpg)  
 
 # FIGURE 20.1  
 
@@ -181,7 +181,7 @@ Equity structured products are manufactured using a relatively small set of tool
 
 a)Payoff of a zero-coupon bond with face value 100  
 
-![](images/5e1e0473024923f868a3b5c12387e37737f29b89b1d716b369fa2e144e4a9d71.jpg)  
+![](5e1e0473024923f868a3b5c12387e37737f29b89b1d716b369fa2e144e4a9d71.jpg)  
 
 # FIGURE 20.2  
 
@@ -193,7 +193,7 @@ Touch or digital options are essentially used to provide payoffs (of cash or an 
 
 The fourth tool is new; it is the so-called rainbow options. These are options written on the maximum or minimum of a basket of stocks. They are useful since almost all equity structured products involve payoffs that depend on more than one stock. The fifth tool is the cliquet. These options are important prototypes and are used in buying and selling forward starting options. Note that an equity structured product would naturally span over several years. Often the investor is offered returns of an index during a future year, but the initial index value during these future years  
 
-![](images/1ec505aa43800dfd5872758e2f2787f0abcdebfe29e53d2df886f87c5ecc9178.jpg)  
+![](1ec505aa43800dfd5872758e2f2787f0abcdebfe29e53d2df886f87c5ecc9178.jpg)  
 
 # FIGURE 20.3  
 
@@ -250,7 +250,7 @@ Often the embedded option is not a simple option, but a knock-in option. This im
 
 When are reverse convertibles typically bought by investors? In a low interest rate and high market volatility environment reverse convertibles are popular since they provide a way for investors to receive an enhanced yield. However, the products’ popularity does not mean that investors fully understand the price of the embedded put option that they are writing to the issuer of the product. If market volatility is high it is possible that the embedded put is very valuable and that the structure does not pass all of its value onto the buyer in the form of a coupon. In this case, the buyer takes on a large downside risk and may be surprised that in an equity market downturn the product leads to losses. Thus, investors should carefully compare the yield offered by the  
 
-![](images/1afe9349759e4a353e2bb892b9f06019575e77b278bff0914a762d6486bcbced.jpg)  
+![](1afe9349759e4a353e2bb892b9f06019575e77b278bff0914a762d6486bcbced.jpg)  
 
 # FIGURE 20.4  
 
@@ -296,7 +296,7 @@ A five-year cliquet call on the S&P with annual resets is shown in Figure 20.5. 
 
 The initial strike is set at, say, 1419, the observed value of the underlying at the purchase date. If at the end of the first year, the S&P closes at 1450, the first call matures in-themoney and the payout is paid to the buyer. Next, the call strike for the second year is reset at 1450 and so on.  
 
-![](images/61affda5fc069129731d72b42e408aebb28a2a76f0b1dbfa3ceec694e141a669.jpg)  
+![](61affda5fc069129731d72b42e408aebb28a2a76f0b1dbfa3ceec694e141a669.jpg)  
 
 # FIGURE 20.5  
 
@@ -402,7 +402,7 @@ The examples of major equity structured products below are selected so that we c
 
 We first begin with a structure that imbeds a cliquet. The idea here is to benefit from fluctuations in forward equity prices. Forward volatility becomes the main issue. Next we move to structures that contain rainbow options. Here the issue is to benefit from the maxima or minima of stocks in a basket. The structures will have exposure to correlation between these stocks and the investor will be long or short correlation. Third, we consider Napoleon-type products where the main issue becomes hedging the forward volatility movements. With these structures, the volatility exposure will be convex and there will be a volatility gamma. If these dynamic hedging costs involving volatility purchases and sales are not taken into account at the time of initiation, the structure will be mispriced. Such dynamic hedging costs involving volatility exposures is another important dimension in equity structured products.  
 
-![](images/5cdaf60903bd73a3d50e403186fea56d817d1a7fee75e91910b89e19af0777c0.jpg)  
+![](5cdaf60903bd73a3d50e403186fea56d817d1a7fee75e91910b89e19af0777c0.jpg)  
 
 # FIGURE 20.6  
 
@@ -468,7 +468,7 @@ $\mathrm{Coupon}=0.5\%$ if more than one stock settles below the limit.
 
 Figure 20.7 shows how we can engineer such a product. Essentially, the investor has purchased a zero-coupon bond and then sold five digital puts. The coupons are a function of the premia for the digitals. Figure 20.7a shows the zero-coupon bond and Figure 20.7b shows the payoff and profit of the short digital put position. The put option premium can be used to enhance the coupon. Clearly this product can offer higher coupons if the components of the reference portfolio have higher volatility.  
 
-![](images/57fdcf95e5f9119a23d095271c3eacf55f80e40b7c4a2b05610089896ab81b4e.jpg)  
+![](57fdcf95e5f9119a23d095271c3eacf55f80e40b7c4a2b05610089896ab81b4e.jpg)  
 
 # FIGURE 20.7  
 
@@ -596,13 +596,13 @@ This is true regardless of whether we have observed $L_{t_{i}}$ or not. For this
 
 Suppose an investor desires an enhanced return or a corporation wants a hedging solution at a lower cost. The general principle behind putting together such structured products is similar to equity products and is illustrated in the following contractual equation:  
 
-![](images/5fd9bc0cbf6ba576ee427d678343c4c585cfab1c5203824cb5248e552da3879a.jpg)  
+![](5fd9bc0cbf6ba576ee427d678343c4c585cfab1c5203824cb5248e552da3879a.jpg)  
 
 As in equity structured products, in order to offer a return higher than the one offered by straight bonds, make the client sell one or more options. In fact, as long as the client properly understands the risks and is willing to bear them, the more expensive and more numerous the options are, the higher will be the return. If the client is a corporation and is looking for a cheaper hedge, selling an option would again lower the associated costs.  
 
 In structured fixed income products, there are at least two standard ways one can enhance yields.  
 
-![](images/b3724f7c4b21e7d52bb430e072b6010176c19ec45edbd238a9331ae977d5733f.jpg)  
+![](b3724f7c4b21e7d52bb430e072b6010176c19ec45edbd238a9331ae977d5733f.jpg)  
 
 # FIGURE 20.8  
 
@@ -735,7 +735,7 @@ What would $\alpha_{t_{i}}$ represent then? Calculate the premium of a 5-year Be
 
 Premium $C_{t_{0}}$ from 5-year Bermudan option used to enhance coupon  
 
-![](images/07f662174561c483cf19d6e18e4e20003c9b65810946fa02d2b1f06bca8d067c.jpg)  
+![](07f662174561c483cf19d6e18e4e20003c9b65810946fa02d2b1f06bca8d067c.jpg)  
 
 # FIGURE 20.9  
 
@@ -755,7 +755,7 @@ The replication is complete. The structurer buys a receiver a 5-year CMS on the 
 
 The cash flows of this portfolio are shown in Figure 20.9. These cash flows are identical to the ones promised by the note. The structurer is essentially buying the portfolio, repackaging it, and then selling it to the client as a structured CMS-linked note. We can summarize such CMS-linked structures using contractual equations. For this particular CMS-linked note we have  
 
-![](images/d3643ffb9adf26323d5ad59c7cd1071648935383b77f7181fd3f299bae23e2c6.jpg)  
+![](d3643ffb9adf26323d5ad59c7cd1071648935383b77f7181fd3f299bae23e2c6.jpg)  
 
 Note that the replicating portfolio presents further opportunities to the structurer. The structurer may be in need to sell swaption volatility to other clients. Through this CMS-linked note the structurer is buying swaption volatility from retail clients. Hence, the note may be a good way of generating a needed supply of swaption volatility at an attractive price. The structurer will naturally sell the swaption at a higher (offer) price than the price of the swaption implicitly bought from the retail client.  
 
@@ -815,7 +815,7 @@ $$
 \mathrm{cms}_{t_{i}}^{2}=s_{t_{0},t_{i}}^{5}+s p_{t_{0}}^{2,5}
 $$  
 
-![](images/2ea59b1a9907c3c18c4bf7e530c649c91e4cf38b0a098ec5633c23390d772f92.jpg)  
+![](2ea59b1a9907c3c18c4bf7e530c649c91e4cf38b0a098ec5633c23390d772f92.jpg)  
 
 # FIGURE 20.10  
 
@@ -861,7 +861,7 @@ $$
 
 This explains the high participation rates. Even if the curve steepens by a small $30~\mathrm{bp}$ , the investor can receive a coupon over $10\%$ : $\alpha_{t_{i}}$ plus the 450 bp.  
 
-![](images/ffcac2d1c8632c0d3953ff451b2d1547764f74d926746f92e4eb9d1279e5f6c1.jpg)  
+![](ffcac2d1c8632c0d3953ff451b2d1547764f74d926746f92e4eb9d1279e5f6c1.jpg)  
 
 # FIGURE 20.11  
 
@@ -871,7 +871,7 @@ The structurer has determined all the unknown parameters. Essentially the struct
 
 This characterization is shown in the contractual equation below.  
 
-![](images/e281d136f1584c326e9f400bf6010ef3f630afae3a13bf6d262d84ec504d5a46.jpg)  
+![](e281d136f1584c326e9f400bf6010ef3f630afae3a13bf6d262d84ec504d5a46.jpg)  
 
 As in the previous case, the synthetic structure can open several possibilities for the structurer. The structurer can buy swaption volatility, sell cap/floor volatility at advantageous rates from the retail client, and market them at better rates in the interbank market or to other clients. Again, as before, the structurer may in fact have some of the components of the synthetic on his books and the CMS spread note would be a good way of passing them along to other customers and removing them from the balance sheet.  
 

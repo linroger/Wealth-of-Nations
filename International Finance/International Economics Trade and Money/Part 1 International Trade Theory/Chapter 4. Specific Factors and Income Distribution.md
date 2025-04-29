@@ -66,7 +66,7 @@ Figure 4-1 illustrates the relationship between labor input and output of cloth.
 
 The more labor employed in the production of cloth, the larger the output. As a result of diminishing returns, however, each successive person-hour increases output by less than the previous one; this is shown by the fact that the curve relating labor input to output gets flatter at higher levels of employment.  
 
-![](images/519471ed2418dcb65d716f0c99103c48e3bbe5df9763a68a061c8a40d9622a00.jpg)  
+![](519471ed2418dcb65d716f0c99103c48e3bbe5df9763a68a061c8a40d9622a00.jpg)  
 
 # FIGURE 4-2  
 
@@ -74,7 +74,7 @@ The more labor employed in the production of cloth, the larger the output. As a 
 
 The marginal product of labor in the cloth sector, equal to the slope of the production function shown in Figure 4-1, is lower the more labor the sector employs.  
 
-![](images/237d467d9f23ee406c769d2cd705a332193ba0e450526b88916eaf580c0b1b01.jpg)  
+![](237d467d9f23ee406c769d2cd705a332193ba0e450526b88916eaf580c0b1b01.jpg)  
 Figure 4-2 shows the same information a different way. In this figure, we directly plot the marginal product of labor as a function of the labor employed. (In the appendix to this chapter, we show that the area under the marginal product curve represents the total output of cloth.)  
 
 A similar pair of diagrams can represent the production function for food. These diagrams can then be combined to derive the production possibility frontier for the economy, as illustrated in Figure 4-3. As we saw in Chapter 3, the production possibility frontier shows what the economy is capable of producing; in this case, it shows how much food it can produce for any given output of cloth and vice versa.  
@@ -83,7 +83,7 @@ Figure 4-3 is a four-quadrant diagram. In the lower-right quadrant, we show the 
 
 The lower-left quadrant represents the economy’s allocation of labor. Both quantities are measured in the reverse of the usual direction. A downward movement along the vertical axis indicates an increase in the labor employed in cloth; a leftward movement along the horizontal axis indicates an increase in labor employed in food. Since an increase in employment in one sector must mean that less labor is available for the other, the possible allocations are indicated by a downward-sloping line. This line, labeled $A A$ , slopes downward at a 45-degree angle; that is, it has a slope of $^{-1}$ . To see why this line represents the possible labor allocations, notice that if all labor were employed in food production, $L_{F}$ would equal $L$ , while $L_{C}$ would equal 0. If one were then to move labor gradually into the cloth sector, each person-hour moved would increase $L_{C}$ by one unit while reducing $L_{F}$ by one unit, tracing a line with a slope  
 
-![](images/70ed5e028c2a6ef300fb73fd03040fd61967400e8d36f1bb33246f046a9bd28d.jpg)  
+![](70ed5e028c2a6ef300fb73fd03040fd61967400e8d36f1bb33246f046a9bd28d.jpg)  
 FIGURE 4-3 The Production Possibility Frontier in the Specific Factors Model  
 
 Production of cloth and food is determined by the allocation of labor. In the lower-left quadrant, the allocation of labor between sectors can be illustrated by a point on line $A A,$ which represents all combinations of labor input to cloth and food that sum up to the total labor supply $\iota$ . Corresponding to any particular point on $\ A A,$ , such as point 2, is a labor input to cloth $(L_{C}^{2})$ and a labor input to food $(L_{F}^{2})$ . The curves in the lower-right and upper-left quadrants represent the production functions for cloth and food, respectively; these allow determination of output $(Q_{C}^{2},Q_{F}^{2})$ given labor input. Then in the upper-right quadrant, the curve $P P$ shows how the output of the two goods varies as the allocation of labor is shifted from food to cloth, with the output points ${\sf1^{\prime},2^{\prime},3^{\prime}}$ corresponding to the labor allocations 1, 2, 3. Because of diminishing returns, $P P$ is a bowed-out curve instead of a straight line.  
@@ -132,7 +132,7 @@ By representing these two labor demand curves in a diagram (Figure 4-4), we can 
 
 Labor is allocated so that the value of its marginal product $(P\times M P L)$ is the same in the cloth and food sectors. In equilibrium, the wage rate is equal to the value of labor’s marginal product.  
 
-![](images/8282aaa58a6f235dc09df34d93e72ed9f258f936500d158ddc63bd36c626822e.jpg)  
+![](8282aaa58a6f235dc09df34d93e72ed9f258f936500d158ddc63bd36c626822e.jpg)  
 
 represented by point 1. At the wage rate $w^{1}$ , the sum of labor demanded in the cloth $(L_{C}^{1})$ and food $(L_{F}^{1})$ sectors just equals the total labor supply $L.$ .  
 
@@ -158,7 +158,7 @@ What happens to the allocation of labor and the distribution of income when the 
 
 The economy produces at the point on its production possibility frontier $(P P)$ where the slope of that frontier equals minus the relative price of cloth.  
 
-![](images/e17430478f367346c23d71bf44773ae77fe3fea77e78e56977366cd6b77f2ff0.jpg)  
+![](e17430478f367346c23d71bf44773ae77fe3fea77e78e56977366cd6b77f2ff0.jpg)  
 
 An Equal-Proportional Change in Prices  Figure 4-6 shows the effect of an equalproportional increase in $P_{C}$ and $P_{F}.$ $P_{C}$ rises from $P_{C}^{1}$ to $P_{C}^{2}$ ; $P_{F}$ rises from $P_{F}^{1}$ to ${\bar{P_{F}^{2}}}.$ If the prices of both goods increase by 10 percent, the labor demand curves will also shift up by 10 percent. As you can see from the diagram, these shifts lead to a 10 percent increase in the wage rate from $w^{1}$ (point 1) to $\Bar{w^{2}}$ (point 2). However, the allocation of labor between the sectors and the outputs of the two goods does not change.  
 
@@ -172,9 +172,9 @@ A Change in Relative Prices  Consider the effect of a price change that does a
 
 The labor demand curves in cloth and food both shift up in proportion to the rise in $P_{C}$ from $P_{C}^{1}$ to $P_{C}^{2}$ and the rise in $P_{F}$ from $P_{F}^{1}$ to $P_{F}^{2}$ The wage rate rises in the same proportion, from $w^{1}$ to $w^{2}$ , but the allocation of labor between the two sectors does not change.  
 
-![](images/599bce56c74d4bffbc6c1a0cfab76a3517259bab4bfc085e7825969485b3ccf6.jpg)  
+![](599bce56c74d4bffbc6c1a0cfab76a3517259bab4bfc085e7825969485b3ccf6.jpg)  
 
-![](images/bc1b1b91aeb9a22261d985f617c0063bdc8fa55d812c14d3da894fecae39177b.jpg)  
+![](bc1b1b91aeb9a22261d985f617c0063bdc8fa55d812c14d3da894fecae39177b.jpg)  
 FIGURE 4-7  
 
 # A Rise in the Price of Cloth  
@@ -197,7 +197,7 @@ So far, we have examined the following aspects of the specific factors model: (1
 
 The economy always produces at the point on its production possibility frontier $(P P)$ where the slope of $P P$ equals minus the relative price of cloth. Thus, an increase in $P_{C}/P_{F}$ causes production to move down and to the right along the production possibility frontier corresponding to higher output of cloth and lower output of food.  
 
-![](images/7c3b0457fc8b230d6b4db94fe18d858591c54a97d28b7bf3d3ddf3df6ff7cb16.jpg)  
+![](7c3b0457fc8b230d6b4db94fe18d858591c54a97d28b7bf3d3ddf3df6ff7cb16.jpg)  
 
 # FIGURE 4-9  
 
@@ -205,7 +205,7 @@ The economy always produces at the point on its production possibility frontier 
 
 In the specific factors model, a higher relative price of cloth will lead to an increase in the output of cloth relative to that of food. Thus, the relative supply curve RS is upward sloping. Equilibrium relative quantities and prices are determined by the intersection of $R S$ with the relative demand curve $R D$ .  
 
-![](images/35fe9d8ee417d451789674ed94fea93be4c7160a5226e4c7822ce061b0c2fa3b.jpg)  
+![](35fe9d8ee417d451789674ed94fea93be4c7160a5226e4c7822ce061b0c2fa3b.jpg)  
 
 market economy. Before turning to the effects of international trade, we must consider the effect of changes in relative prices on the distribution of income.  
 
@@ -237,7 +237,7 @@ The change in relative price is shown in Figure 4-10. When the economy is open t
 
 The figure shows the relative supply curve for the specific factors economy along with the world relative supply curve. The differences between the two relative supply curves can be due to either technology or resource differences across countries. There are no differences in relative demand across countries. Opening up to trade induces an increase in the relative price from $(P_{C}/P_{F})^{1}$ to $(P_{C}/P_{F})^{2}$ .  
 
-![](images/d5477507a5f7901471976207b83d82c23e3ac6aa4ea5e290cb6375527a81b5c1.jpg)  
+![](d5477507a5f7901471976207b83d82c23e3ac6aa4ea5e290cb6375527a81b5c1.jpg)  
 
 trade, then the relative price would be lower, at $(P_{C}/P_{F})^{1}$ .6 The increase in the relative price from $(P_{C}/P_{F})^{1}$ to $\bar{(P_{C}/P_{F})}^{2}$ induces the economy to produce relatively more cloth. (This is also shown as the move from point 1 to point 2 along the economy’s production possibility frontier in Figure 4-8.) At the same time, consumers respond to the higher relative price of cloth by demanding relatively more food. At the higher relative price $(P_{C}/P_{F})^{2}$ , the economy thus exports cloth and imports food.  
 
@@ -275,7 +275,7 @@ Figure 4-11 illustrates two important features of the budget constraint for a tr
 
 Point 2 represents the economy’s production. The economy can choose its consumption point along its budget constraint (a line that passes through point 2 and has a slope equal to minus the relative price of cloth). Before trade, the economy must consume what it produces, such as point 1 on the production possibility frontier (PP). The portion of the budget constraint in the colored region consists of feasible post-trade consumption choices, with consumption of both goods higher than at pretrade point 1.  
 
-![](images/11e5780aed966bacee45b10eabfa32b71c492d6e09074688bf61f258a33f6bab.jpg)  
+![](11e5780aed966bacee45b10eabfa32b71c492d6e09074688bf61f258a33f6bab.jpg)  
 
 To illustrate that trade is a source of potential gain for everyone, we proceed in three steps:  
 
@@ -325,7 +325,7 @@ In our theoretical model of trade in the short run, job losses in the import-com
 
 Figure 4-12 shows that, over the past 60 years in the United States, there is no evidence of a positive correlation between the unemployment rate and imports (relative to U.S. GDP).12 (In fact, the correlation between changes in unemployment and imports is negative.) On the other hand, the figure clearly shows how unemployment is a macroeconomic phenomenon that responds to overall economic conditions: Unemployment peaks during the highlighted recession years (and imports sharply drop during the recent recessions). Thus, economists recommend the use of macroeconomic policy, rather than trade policy, to address concerns regarding unemployment.  
 
-![](images/e2f511212302b4abc67a61b462743809918e076210e5bc7c3cc45ed350343cdf.jpg)  
+![](e2f511212302b4abc67a61b462743809918e076210e5bc7c3cc45ed350343cdf.jpg)  
 FIGURE 4-12  
 
 # Unemployment and Import Penetration in the United States  
@@ -342,7 +342,7 @@ As we discussed, these job losses are mitigated by increases in employment in ex
 
 Figure 4-13 shows that this manufacturing employment share has been steadily decreasing since 1960s, though it has stabilized between 8.5 and  
 
-![](images/a6fcb3926c713a64327a9ebb514b5e155694de959a86570f2e95c9477f692ce5.jpg)  
+![](a6fcb3926c713a64327a9ebb514b5e155694de959a86570f2e95c9477f692ce5.jpg)  
 
 # FIGURE 4-13  
 
@@ -374,7 +374,7 @@ In the previous sections, we saw how workers move between the cloth and food sec
 
 Initially, $O L^{1}$ workers are employed in Home, while $L^{1}O^{*}$ workers are employed in Foreign. Labor migrates from Home to Foreign until $O L^{2}$ workers are employed in Home, ${L^{2}O^{*}}$ in Foreign, and wages are equalized.  
 
-![](images/4243914a2441b994a31244677c2852598def870d500f4084635ae5fa5bd9b023.jpg)  
+![](4243914a2441b994a31244677c2852598def870d500f4084635ae5fa5bd9b023.jpg)  
 
 assume that two countries produce a single good with labor and an immobile factor, land. Since there is only a single good, there is no reason to trade it; however, there will be “trade” in labor services when workers move in search of higher wages. In the absence of migration, wage differences across countries can be driven by technology differences or, alternatively, by differences in the availability of land relative to labor.  
 
@@ -399,7 +399,7 @@ However, by the turn of the millennium, China’s rapid modernization and intern
 
 Has this process been associated with wage convergence as predicted by our model of labor mobility? Indeed, it has. Figure 4-15 plots the relative wage between migrants and urban workers between 1990 and 2014. We can see a clear trend of convergence in spite of the income inequality that occurred after the economy opened up in 1992. The wages of migrant workers increased sixfold and the wage gap differential (the ratio of urban to migrant wages in the figure) closed by more than 50 percent.  
 
-![](images/777301bb0f4b97438ec7f5ea4dd89b62948f26435e68551a67538d11f193b598.jpg)  
+![](777301bb0f4b97438ec7f5ea4dd89b62948f26435e68551a67538d11f193b598.jpg)  
 FIGURE 4-15 Average Urban Workers and Migrants Wages  
 
 (Monthly wages in RMB (LHS) and Ratio (RHS))  
@@ -416,7 +416,7 @@ How has this new wave of immigration affected the U.S. economy? The most direct 
 
 Other things equal, we would expect this increase in the workforce to reduce wages. One widely cited estimate is that average wages in the United States are 3 percent lower than they would be in the absence of immigration.19 However, comparisons of average wages can be misleading because immigrants to the United States have a very different education profile relative to the overall U.S. population.  
 
-![](images/4a899bda7f260c9e5bd04457200138a5af0a717e6a4baf3e83fdfbd65adca295.jpg)  
+![](4a899bda7f260c9e5bd04457200138a5af0a717e6a4baf3e83fdfbd65adca295.jpg)  
 FIGURE 4-16  
 
 # Foreign-Born Population as a Percentage of the U.S. Population  
@@ -425,7 +425,7 @@ Restrictions on immigration in the $1920\mathrm{s}\ \mathrm{led}$ to a sharp dec
 
 Source: U.S. Census Bureau.  
 
-![](images/47046f5485c674e39cce5aea403b0b1460efd4e1adc657157783a67415364b0a.jpg)  
+![](47046f5485c674e39cce5aea403b0b1460efd4e1adc657157783a67415364b0a.jpg)  
 FIGURE 4-17  
 
 # Foreign-Born and Total U.S. Population Over 25 Years Old by Educational Attainment  
@@ -530,7 +530,7 @@ $$
 
 By approximating the marginal product curve with a series of thin rectangles, one can show that the total output of cloth is equal to the area under the curve.  
 
-![](images/396386b44f66ceb0972a0ccfcf227e1f420bd4eab6188582f191bfd13b9dc129.jpg)  
+![](396386b44f66ceb0972a0ccfcf227e1f420bd4eab6188582f191bfd13b9dc129.jpg)  
 
 that is, the reduction in the workforce times the marginal product of labor at the initial level of employment. This reduction in output is represented by the area of the rectangle in Figure 4A-1. Now subtract another few person-hours; the output loss will be another rectangle. This time the rectangle will be taller because the marginal product of labor rises as the quantity of labor falls. If we continue this process until all the labor is gone, our approximation of the total output loss will be the sum of all the rectangles shown in the figure. When no labor is employed, however, output will fall to zero. So we can approximate the total output of the cloth sector by the sum of the areas of all the rectangles under the marginal product curve.  
 
@@ -546,7 +546,7 @@ Figure 4A-2 uses the result we just found to show the distribution of income wit
 
 Labor income is equal to the real wage times employment. The rest of output accrues as income to the owners of capital.  
 
-![](images/661dad52ea97cf81657956af445091e83d0b5f8468de2dea6b4e8a54a6b1f2a9.jpg)  
+![](661dad52ea97cf81657956af445091e83d0b5f8468de2dea6b4e8a54a6b1f2a9.jpg)  
 
 Suppose the relative price of cloth now rises. We saw in Figure 4-7 that a rise in ${{P}_{C}}/{{P}_{F}}$ lowers the real wage in terms of cloth (because the wage rises by less than $P_{C})$ while raising it in terms of food. The effects of this on the income of capitalists and landowners can be seen in Figures 4A-3 and 4A-4. In the cloth sector, the real wage falls from $(w/P_{C})^{1}$ to $(w/P_{C})^{2}$ ; as a result, capitalists receive increased real income in terms of cloth. In the food sector, the real wage rises from $(w/P_{F})^{1}$ to $(w/P_{F})^{2}$ , and landowners receive less real income in terms of food.  
 
@@ -558,7 +558,7 @@ This effect on real income is reinforced by the change in ${{P}_{C}}/{{P}_{F}}$ 
 
 The real wage in terms of cloth falls, leading to a rise in the income of capital owners.  
 
-![](images/c1d63124ec4df21a5ec299f6494f5dc0d2a130124eb35946cab4ea35f2e4996d.jpg)  
+![](c1d63124ec4df21a5ec299f6494f5dc0d2a130124eb35946cab4ea35f2e4996d.jpg)  
 
 # FIGURE 4A-4  
 
@@ -566,4 +566,4 @@ The real wage in terms of cloth falls, leading to a rise in the income of capita
 
 The real wage in terms of food rises, reducing the income of land.  
 
-![](images/3228f15364ac3b3c14f881bd6074baf726a92f12445722653efb77ef1bbdbf3c.jpg)  
+![](3228f15364ac3b3c14f881bd6074baf726a92f12445722653efb77ef1bbdbf3c.jpg)  

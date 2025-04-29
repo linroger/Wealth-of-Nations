@@ -53,7 +53,7 @@ Below we will explore the details and different types of repos further. In the a
 
 # On the start date:  
 
-![](images/434f73b27faa90600cda070ec7d6a030b9d5e9db165bf6ea9d6c8fe3a25afa93.jpg)  
+![](434f73b27faa90600cda070ec7d6a030b9d5e9db165bf6ea9d6c8fe3a25afa93.jpg)  
 
 # FIGURE 5.1  
 
@@ -156,7 +156,7 @@ Thus, by lending 47,607,000 of nominal bonds (DBRs), the investor borrows EUR 50
 
 The difference between the nominal and $50\mathrm{m}$ is due to the existence of accrued interest. Accrued interest needs to be added to the nominal. That is to say, the calculations are done using bond’s dirty price.4  
 
-![](images/8c7624e305d5c482053d66d6f8eeddb4ec22275c1768c8d278e9084fd23f78f5.jpg)  
+![](8c7624e305d5c482053d66d6f8eeddb4ec22275c1768c8d278e9084fd23f78f5.jpg)  
 
 # FIGURE 5.2  
 
@@ -185,7 +185,7 @@ Repo interest earned: EUR $50000322.91\times0.0405\times7/360=39,375$ .
 
 In this case, the investor’s interest cost is the difference between the purchase price and selling price. The interest earned is exactly the same as in classic repo, but the way interest rate is characterized is different. We show the deal in Figure 5.3.  
 
-![](images/449fb9543ffa68422de2d49c83efcb71880efd8af2712cbcd6286d1adea263e0.jpg)  
+![](449fb9543ffa68422de2d49c83efcb71880efd8af2712cbcd6286d1adea263e0.jpg)  
 
 # FIGURE 5.3  
 
@@ -197,7 +197,7 @@ The major difference between the two repo types lies not in the mechanics, or in
 
 Securities lending is older than repo as a transaction. It is also somewhat less practical than repo. However, the mechanics of the operation are similar. The main difference is that one of the parties  
 
-![](images/4525be77c0c8987361189fb4a163ad5d060eed320ea92d56edfad34dbe96083a.jpg)  
+![](4525be77c0c8987361189fb4a163ad5d060eed320ea92d56edfad34dbe96083a.jpg)  
 
 # FIGURE 5.4  
 
@@ -221,7 +221,7 @@ Obviously, the market value of the collateral will be at least equal to the valu
 
 There are two main types of repos: bilateral and tri-party repos. At the beginning of the repo market, there was only the bilateral repo. The bilateral repo market allows for the exchange of cash  
 
-![](images/025a219bf9f7b02bc96f86952924d996cb0f5a85d65a8a5443b06dfb77f02a6f.jpg)  
+![](025a219bf9f7b02bc96f86952924d996cb0f5a85d65a8a5443b06dfb77f02a6f.jpg)  
 
 # FIGURE 5.5  
 
@@ -318,7 +318,7 @@ $$
 R_{t_{0}}=2.05\%
 $$  
 
-![](images/3944d14a6fd43c82d52567b6b4f389d06cdf74e5739737195278af428eeab7f5.jpg)  
+![](3944d14a6fd43c82d52567b6b4f389d06cdf74e5739737195278af428eeab7f5.jpg)  
 
 # FIGURE 5.6  
 
@@ -334,7 +334,7 @@ $$
 
 That is to say, if the spread between future repo rates and SIBOR tightens below $13.5\mathrm{bp}$ , the position will be losing money. This is one of the risks implied by the overall position. The lower part  
 
-![](images/f8b9e606bd34d31670534af636ab61922f4d3c10a6f1783f814223d6b0bcbb1a.jpg)  
+![](f8b9e606bd34d31670534af636ab61922f4d3c10a6f1783f814223d6b0bcbb1a.jpg)  
 
 # FIGURE 5.7  
 
@@ -457,7 +457,7 @@ We will now analyze repo strategies by using contractual equations that we intro
 
 Let $F_{t}$ be the forward price observed at time $t$ , for a Treasury bond to be delivered at a future date $T_{\mathrm{{:}}}$ , with $t<T.$ . Suppose the bond to be delivered at time $T$ needs to have a maturity of $U$ years. Then, at time $t.$ , we can (i) buy a $(T-t)+U$ year Treasury bond, (ii) repo it out to get the necessary cash to pay for it, and (iii) hold this repo position until $T.$ At time $T_{\cdot}$ , cash plus the repo interest has to be returned to the repo dealer and the bond is received. The bond will have a maturity of $U$ years. As seen above, these steps will result in exactly the same outcome as a bond forward. We express these steps using a contractual equation. This equation provides a synthetic forward.  
 
-![](images/490df720bb4dc515ebd33de6c21ec50b34e234b068a3629059f7bd63c6f37c83.jpg)  
+![](490df720bb4dc515ebd33de6c21ec50b34e234b068a3629059f7bd63c6f37c83.jpg)  
 
 According to this, futures positions can be fully hedged by transactions shown on the right-hand side of the equation. This contractual equation can be used in several interesting applications of repo transactions. We discuss two examples.  
 
@@ -465,7 +465,7 @@ According to this, futures positions can be fully hedged by transactions shown o
 
 Now rearrange the preceding contractual equation so that repo is on the left-hand side:  
 
-![](images/5a672bcda146935fdbc68304b8a019cdd31b13d61286f094dbad4cf9124e50e3.jpg)  
+![](5a672bcda146935fdbc68304b8a019cdd31b13d61286f094dbad4cf9124e50e3.jpg)  
 
 Thus, we can easily create a synthetic repo transaction by using a spot sale along with a forward purchase of the underlying asset.11  
 
@@ -473,7 +473,7 @@ Thus, we can easily create a synthetic repo transaction by using a spot sale alo
 
 Suppose for some reason we don’t want to buy the underlying asset directly. We can use the contractual equation to create a spot purchase synthetically. Moving the spot operation to the left-hand side,  
 
-![](images/3a260efe07c9ec0c0132ebc79c109e384fe6f3be2f4e19ce529078c1e3a725a8.jpg)  
+![](3a260efe07c9ec0c0132ebc79c109e384fe6f3be2f4e19ce529078c1e3a725a8.jpg)  
 
 The right-hand side operations are equivalent to the outright purchase of the security.  
 

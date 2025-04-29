@@ -353,7 +353,7 @@ $$
 
 where $r$ is the interest rate over the period $(t,T)$ . Considering the additional complexities of the conversion factor, accrued interest etc., the futures price for a contract which matures at $T$  
 
-![](images/87203bda2f76897c8e52b1d96258a445c37fd30796dbad6b04a542b80b5b9db9.jpg)  
+![](87203bda2f76897c8e52b1d96258a445c37fd30796dbad6b04a542b80b5b9db9.jpg)  
 Deliverable bond has a $10\%$ coupon and matures 15 February 2038 Deliverable bond pays semi-annual coupons of $\$5$ on 15 February and 15 August   
 FIGURE 13.1 Pricing a T-bond futures contract  
 
@@ -445,7 +445,7 @@ First, let us examine how an arbitrage ‘June-September’ T-bond futures sprea
 (b) sell a T-bond futures which matures at $T_{2}$ (1 September 2017) and   
 (c) you borrow money at the forward repo rate $f=4.16\%$ (applicable between June and September) by selling the June-Eurodollar futures on 1 April.  
 
-![](images/1325ecf90fcdf883d242fc4c0dbfd987236dae1105a1902608e785b547b6047d.jpg)  
+![](1325ecf90fcdf883d242fc4c0dbfd987236dae1105a1902608e785b547b6047d.jpg)  
 
 1 April: Futures spread $\mathbf{\Sigma}=\mathbf{\Sigma}$ long June-contract at ${{F}_{T1}}$ and short September-contract at $F_{T2}$  
 

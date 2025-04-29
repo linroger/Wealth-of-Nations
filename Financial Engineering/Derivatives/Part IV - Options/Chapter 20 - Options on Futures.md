@@ -143,7 +143,7 @@ $$
 
 If $F_{T}\leq K$ , then the call expires worthless and with $C=7$ , the invoice cost per contract is $\$1,750$ .  
 
-![](images/edc8e6f1d5a9345cca04ef530918b5c206790885969645229530c8845717c772.jpg)  
+![](edc8e6f1d5a9345cca04ef530918b5c206790885969645229530c8845717c772.jpg)  
 FIGURE 20.1 Call on stock index futures contract  
 
 # 20.3.2 Long Put  
@@ -158,7 +158,7 @@ and the breakeven futures price is $F_{B E}=K-P$ . If $P=5$ then the invoice pri
 
 Note that if the underlying futures contract matures at the same time as the (European) option then $F_{T}=S_{T}$ and the European futures option and the European option on the spot asset (with the same strike) are equivalent – and they both have the same (call and put) premia.  
 
-![](images/9f58a0f39621892c2b3544872caca691eef81c8599f057d714954e7985eebc59.jpg)  
+![](9f58a0f39621892c2b3544872caca691eef81c8599f057d714954e7985eebc59.jpg)  
 FIGURE 20.2 Put on stock index futures contract  
 
 # 20.3.3 Covered Call  
@@ -177,7 +177,7 @@ $$
 \begin{array}{r l}{\Pi=F_{T}-F_{0}-\operatorname*{max}\left(F_{T}-K,0\right)+C}&{}\\ {=K-F_{0}+C}&{\mathrm{if}F_{T}>K(\mathrm{independent}\mathrm{of}F_{T})}\\ {=F_{T}-F_{0}+C}&{\mathrm{if}F_{T}\leq K(\mathrm{depends}\mathrm{on}F_{T})}\end{array}
 $$  
 
-![](images/610828636de1259c04d902739c2731fb081323a13d424e47ee4891af1fa128e6.jpg)  
+![](610828636de1259c04d902739c2731fb081323a13d424e47ee4891af1fa128e6.jpg)  
 FIGURE 20.3 Covered call  
 
 Note that the outcome for the futures price $F_{T}$ only afects the covered call payof when $F_{T}\leq K$ . The breakeven futures price (for $F_{T}\leq K)$ is $F_{B E}=F_{0}-C.$ . Figure 20.3 gives the proft profle on the covered call for Example 20.2.  

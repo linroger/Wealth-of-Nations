@@ -103,7 +103,7 @@ To work out the exact functional form for the Black–Scholes equation is rather
 
 Figure 16.1 shows how we can speculate over short horizons, using call options. Suppose a speculator purchases a call option (on a stock) at $C_{0}=\$3.1$ , and the stock price then increases from $S_{1}=\$100$ to $S_{2}=\$100.5$ . According to the Black–Scholes formula the call price rises to $C_{1}=\$3.3$ . If the speculator paid the $\$3.1$ to the clearing house at $t=0$ , then at $t=1$ when she closes out her initial (long) position by selling the call at $\$3.3$ (to another trader), the clearing house in Chicago credits the speculator’s (margin) account with a proft of $\$0.2$ , which is a percentage return3 of $6.45\%=(\S0.2/\S3.1)\times100\%$ .  
 
-![](images/e699d295c3c333a25b520a78d882b9a01700d3f6b990d4e30a635c31fd098aad.jpg)  
+![](e699d295c3c333a25b520a78d882b9a01700d3f6b990d4e30a635c31fd098aad.jpg)  
 FIGURE 16.1 Black–Scholes  
 
 The ratio of the dollar change in the call premium $(\$0.2)$ to the dollar change in the stock price $(\$0.5)$ is known as the call option’s delta, which here is $\Delta_{c}=0.4(=\mathbb{5}0.2/\mathbb{5}0.5)$ .4 The delta of a call always lies between 0 and $+1$ . But note that although the dollar change in the call premium is usually less than the dollar change in the stock price, the option still provides ‘leverage’ compared to speculating with the stock – because leverage refers to percentage changes. To see this, note that in the above example, the option gives a return (per dollar invested) of $6.45\%$ . Had you invested your ‘own money’ in the stock you would have earned a considerably smaller percentage return on your capital invested – you would have paid $\$100$ for the stock and sold it for $\$100.5$ – a return on your ‘own capital’ of $0.5\%$ .5  
@@ -191,7 +191,7 @@ $\begin{array}{r l}{N(-\infty)=0,\quad}&{N(-2.33)=0.01,\quad N(-1.96)=0.025,\qua
 
 8The simplest forecast of daily volatility is the sample standard deviation $\widehat{\sigma}=\sqrt{\sum_{t=1}^{n}(R_{c c,t}-\overline{{R}}_{c c})^{2}/(n-1)}$ where $R_{c c,t}=\ln(P_{t}/P_{t-1})$ is the continuously compounded daily return on the stock. When pricing options, daily (continuously compounded) returns are usually used to estimate daily volatility and the annual volatility is then taken to be $\widehat{\sigma}\sqrt{252}$ – based on 252 trading days in the year.  
 
-![](images/c5abaef020e2aef352b75c7358ff5027b679541c66a238f30264be61d310394a.jpg)  
+![](c5abaef020e2aef352b75c7358ff5027b679541c66a238f30264be61d310394a.jpg)  
 FIGURE 16.2 Standard normal distribution, $N(0,1)$  
 
 For negative values of $d_{1}$ we proceed as follows. We know, for example, that $\mathrm{N}(+1.96)=0.975$ . Because the normal distribution is symmetric, $N(-d_{1})=1-N(d_{1})$ and therefore $N(-1.96)=0.025$ . In Example 16.1 we calculate the Black–Scholes price for a European call and put option (on a non-dividend paying stock).  
@@ -306,9 +306,9 @@ The put premium you pay today ensures that the minimum future value of your stoc
 
 The price of a put option increases with the time-to-maturity and with the volatility of the stock return. For example, suppose $S_{0}=K=\S100$ , $\sigma=0.20$ and the strike price in the put increases with the risk-free rate, $K(T)=S_{0}e^{r T}=(\mathbb{S}100)e^{r T}$ . Then a put option with maturities $T=\{1,5,10,20,30,70,100\}$ years will today cost $P=\{\mathbb{S}8,\mathbb{S}17.7,\mathbb{S}24.8$ , $\$34.5,41.43,459.7,4568.3\}$ – this is shown in the lower graph of Figure 16.3.11  
 
-![](images/e2823954ecd354f5c566fe9d33a368c642b20dbabc48ce84262493b2877fb86b.jpg)  
+![](e2823954ecd354f5c566fe9d33a368c642b20dbabc48ce84262493b2877fb86b.jpg)  
 
-![](images/15ef4062ce75b9881dab64e4299c4c04a2a31b921f4d65ead4047d02808085c1.jpg)  
+![](15ef4062ce75b9881dab64e4299c4c04a2a31b921f4d65ead4047d02808085c1.jpg)  
 FIGURE 16.3 Cost of put versus maturity, $T\colon K(T)=S_{0}\:e^{r T}$  
 
 The put option may cost you quite a proportion of the value of your initial investment – depending on the horizon over which you want to insure your stock portfolio. For example, for a horizon of 30 years the cost of the put is $\$41.43$ . For a horizon of 100 years the put premium is $\$68.3$ . If current stock return volatility is high $\sigma=0.40$ (i.e. $40\%$ p.a. say) then the put premium (for each horizon, $T$ ) is substantially higher than for $\sigma=0.20$ (upper curve in Figure 16.3) – this is because the higher stock market risk, implies a higher insurance premium.  
@@ -337,7 +337,7 @@ Suppose Ms Short works for a large investment bank on the options desk and she h
 
 If the stock price rises by $\$1$ , the call premium rises by (approximately) $\$0.4$ so that $C_{1}=$ $\$10.4$ . Mr Long who holds one long call gains $\$0.4$ since he bought each call for $\$10$ and could now sell it for $\$10.4$ . The options trader Ms Short has a (mark-to-market) loss of $\$0.4$ – since she sold each call at $\$10$ and to close out her position she would have to buy back the call at $\$10.4$ .  
 
-![](images/9613c3cb65ea417174a8d6bf54dd5d73f4644e306f4d677762aee0ccc9f000ce.jpg)  
+![](9613c3cb65ea417174a8d6bf54dd5d73f4644e306f4d677762aee0ccc9f000ce.jpg)  
 FIGURE 16.4 Delta of a call  
 
 Ms Short has a loss of $\$40$ $\mathit{\Omega}^{\prime}=\Phi0.4\times100\$ calls on her 100 written calls, but this is ofset by the $\$40$ gain on her long position in stocks $(=40\mathrm{stocks}\times\$1)$ – she is delta-hedged. There is no loss on Ms Short’s portfolio consisting of $^{\cdot}0.4$ stocks for each call she has sold’ or equivalently ‘holding 40 stocks and selling 100 calls’. Ms Short’s portfolio is delta neutral – as long as the change in stock prices is small.  
@@ -393,7 +393,7 @@ You can see how the market’s view of volatility has changed over time using th
 
 Delta hedging can also be used to create a risk-free portfolio so that you can proft from any mispriced options. Suppose Ms Short thinks a European call option is currently overpriced at $c$ $=\$10.1$ because she thinks other traders are using a forecast of volatility in the Black–Scholes formula that is too high. Today, writing (selling) 100 options for $\$10.1$ will result in a proft for Ms Short if the option price falls towards its true (fair) value – as other option traders recognise they have used too high a fgure for volatility. Ms Short will then be able to close out her options positions, by buying the options at their new lower market price of say $\$9.8$ . Ms Short has been using options to ‘trade volatility’.14  
 
-![](images/1f062ad7230560ed7dd0888dbf96c71a30ad1874461d6992d30868d045d71cd4.jpg)  
+![](1f062ad7230560ed7dd0888dbf96c71a30ad1874461d6992d30868d045d71cd4.jpg)  
 FIGURE 16.5 Implied volatility, S&P 500  
 
 However, this is a highly risky strategy by Ms Short since the mispriced option could increase in price if stock prices increased, before market participants correct their forecast of volatility. Can Ms Short proft from mispricing in the options (due to a miscalculation of volatility by other traders) but hedge any price risk on the options, due to changes in stock prices? Yes, by delta hedging.  

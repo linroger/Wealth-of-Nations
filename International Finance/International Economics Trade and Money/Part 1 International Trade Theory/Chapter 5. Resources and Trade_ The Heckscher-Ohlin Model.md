@@ -53,7 +53,7 @@ Figure 5-1 shows the implications of (5-1) and (5-2) for the production possibil
 
 The important feature of this production possibility frontier is that the opportunity cost of producing an extra yard of cloth in terms of food is not constant. When the economy is producing mostly food (to the left of point 3), then there is spare labor capacity. Producing two fewer units of food releases six machine-hours that can be  
 
-![](images/ea95b305600eeb9b9e829b43d48010aa68d7cd476e125c0c68459c06b6b8f409.jpg)  
+![](ea95b305600eeb9b9e829b43d48010aa68d7cd476e125c0c68459c06b6b8f409.jpg)  
 FIGURE 5-1  
 
 # The Production Possibility Frontier without Factor Substitution: Numerical Example  
@@ -68,7 +68,7 @@ Where on the production possibility frontier does the economy produce? It depend
 
 Quantity of food,  
 
-![](images/aeddaa107587d9406fc857692be00506f94ff7c3e1344acce144e74cc670090a.jpg)  
+![](aeddaa107587d9406fc857692be00506f94ff7c3e1344acce144e74cc670090a.jpg)  
 FIGURE 5-2  
 
 # The Production Possibility Frontier with Factor Substitution  
@@ -91,7 +91,7 @@ What input choice will producers actually make? It depends on the relative costs
 
 Quantity of food,  
 
-![](images/7a4c3e3a8cc42cff640e0959cdd7d81394545c376323c50959edff28572355b8.jpg)  
+![](7a4c3e3a8cc42cff640e0959cdd7d81394545c376323c50959edff28572355b8.jpg)  
 FIGURE 5-3 Prices and Production  
 
 The economy produces at the point that maximizes the value of production given the prices it faces; this is the point on the highest possible isovalue line. At that point, the opportunity cost of cloth in terms of food is equal to the ­relative price of cloth, $P_{C}/P_{F}$ .  
@@ -100,7 +100,7 @@ The economy produces at the point that maximizes the value of production given t
 
 A farmer can produce a calorie of food with less capital if he or she uses more labor, and vice versa.  
 
-![](images/a47e6efc6278aa4ac349b4047da5ea0257e5fe1670015d33d79a17d2dc6c8cff.jpg)  
+![](a47e6efc6278aa4ac349b4047da5ea0257e5fe1670015d33d79a17d2dc6c8cff.jpg)  
 
 # FIGURE 5-5  
 
@@ -108,7 +108,7 @@ A farmer can produce a calorie of food with less capital if he or she uses more 
 
 In each sector, the ratio of labor to capital used in production depends on the cost of labor relative to the cost of capital, $w/r$ . The curve $F F$ shows the labor-capital ratio choices in food production, while the curve CC shows the corresponding choices in cloth production. At any given wagerental ratio, cloth production uses a higher laborcapital ratio; when this is the case, we say that cloth production is labor-intensive and that food production is capital-intensive.  
 
-![](images/dcc3fa5c58c6373de309cb18ccd2fbc79349bf4fe519b5532bcd162491e970b2.jpg)  
+![](dcc3fa5c58c6373de309cb18ccd2fbc79349bf4fe519b5532bcd162491e970b2.jpg)  
 
 rental rates are low and wages high, they will save on labor and use a lot more capital. If $w$ is the wage rate and $r$ the rental cost of capital, then the input choice will depend on the ratio of these two factor prices, $w/r$ .2 The relationship between factor prices and the ratio of labor to capital use in production of food is shown in Figure 5-5 as the curve $F F$ .  
 
@@ -130,9 +130,9 @@ Let’s look at Figures 5-5 and 5-6 together. In Figure 5-7, the left panel is F
 
 Because cloth production is labor-intensive while food production is capital-intensive, there is a oneto-one relationship between the factor price ratio $w/r$ and the relative price of cloth $P_{C}/P_{F};$ the higher the relative cost of labor, the higher must be the relative price of the labor-intensive good. The relationship is illustrated by the curve $S S$ .  
 
-![](images/5f127a0c7ce295a6cadb302aa4462d4d44268e824d031654610d93261791def0.jpg)  
+![](5f127a0c7ce295a6cadb302aa4462d4d44268e824d031654610d93261791def0.jpg)  
 
-![](images/ca3a581327a7b450e259ade6aeaadfdaf5cea0444b01d06db5ff35aa9142441c.jpg)  
+![](ca3a581327a7b450e259ade6aeaadfdaf5cea0444b01d06db5ff35aa9142441c.jpg)  
 FIGURE 5-7  
 
 # From Goods Prices to Input Choices  
@@ -163,7 +163,7 @@ The biased effect of increases in resources on production possibilities is the k
 
 An increase in the supply of labor shifts the economy’s production ­possibility frontier outward from $T T^{1}$ to $T T^{2}$ but does so disproportionately in the direction of cloth production. The result is that at an unchanged relative price of cloth (indicated by the slope $-P_{C}/P_{F}),$ food production ­actually declines from $\boldsymbol{Q}_{F}^{1}$ to $\textstyle Q_{F}^{2}$ .  
 
-![](images/480028fe5751bea4bd4910587ba5653f54cbdf4d476827595d87f40f5064e729.jpg)  
+![](480028fe5751bea4bd4910587ba5653f54cbdf4d476827595d87f40f5064e729.jpg)  
 
 in the supply of labor expands production possibilities disproportionately in the direction of cloth production, while an increase in the supply of capital expands them disproportionately in the direction of food production. Thus, an economy with a high relative supply of labor to capital will be relatively better at producing cloth than an economy with a low relative supply of labor to capital. Generally, an economy will tend to be relatively effective at producing goods that are intensive in the factors with which the country is relatively well endowed.  
 
@@ -191,7 +191,7 @@ When Home and Foreign trade with each other, their relative prices converge. The
 
 In the absence of trade, Home’s equilibrium would be at point 1, where domestic ­relative supply RS intersects the relative demand curve $R D$ . Similarly, Foreign’s equilibrium would be at point 3. Trade leads to a world relative price that lies between the pretrade prices $(P_{C}/P_{F})^{1}$ and $(P_{C}/P_{F})^{3},$ such as $(P_{C}/P_{F})^{2}$ at point 2.  
 
-![](images/028fb44a65c0b848dc144bb60dba5e39a90aeae95d70d453a5ba9199374cdb04.jpg)  
+![](028fb44a65c0b848dc144bb60dba5e39a90aeae95d70d453a5ba9199374cdb04.jpg)  
 
 say at $(P_{C}/P_{F})^{2}$ . In Chapter 4, we discussed how an economy responds to trade based on the direction of the change in the relative price of the goods: The economy exports the good whose relative price increases. Thus, Home will export cloth (the relative price of cloth rises in Home), while Foreign will export food. (The relative price of cloth declines in Foreign, which means that the relative price of food rises there.)  
 
@@ -241,7 +241,7 @@ Consider the variant of our two-good, two-factor model where skilled and unskill
 
 We have assumed that production of high-tech goods is skilled-labor intensive, so the HH curve is shifted out relative to the LL curve. In the background, an SS curve (see Figures 5-6 and 5-7) determines the skilled-unskilled wage ratio as an increasing function of the relative price of high-tech goods (with respect to low-tech goods).  
 
-![](images/39edc911a7bc907dd5ff79641160c353df7a9150eb7aa5d6758318c880d5a24e.jpg)  
+![](39edc911a7bc907dd5ff79641160c353df7a9150eb7aa5d6758318c880d5a24e.jpg)  
 FIGURE 5-10   
 Increased Wage Inequality: Trade- or Skill-Biased Technological Change?  
 
@@ -255,7 +255,7 @@ We can now examine the relative merits of the trade versus skill-biased technolo
 
 In Figure 5-11, sectors are separated into four groups based on their skill intensity. U.S. firms do not report their employment in terms of skill but use a related categorization of production and non-production workers. With a few exceptions, non-production positions require higher levels of education—and so we measure the skilled-unskilled employment ratio in a sector as the ratio of non-production employment to production employment.10 Sectors with the highest non-production  
 
-![](images/1275cde90650d1d60f6abee72643d70921282fb9e350cc6c0cdc1ef60965763f.jpg)  
+![](1275cde90650d1d60f6abee72643d70921282fb9e350cc6c0cdc1ef60965763f.jpg)  
 FIGURE 5-11   
 Evolution of U.S. Non-production–Production Employment Ratios in Four Groups of Sectors  
 
@@ -277,7 +277,7 @@ n the previous Case Study, we documented the divergence in wages for American wo
 
 One possible explanation for this trend— just as it was for the increasing compensation of skilled workers—is increased trade with the labor-­abundant newly industrializing economies (NIEs). This would induce a move toward factorprice equalization for the compensation of capital and labor: The compensation of capital would increase for capital-abundant United States, while it would decrease for the labor-abundant NIEs. Once again, the evidence strongly contradicts this prediction. Figure 5-12 also shows the average world trend for the labor share based on a wide sample of 59 ­countries (with available data from 1975 to 2012). The trend toward lower labor income share (and higher capital shares) is a worldwide phenomenon that has been experienced in labor-abundant countries (including China, India, and Mexico) to the same extent as it has been for capital-­abundant countries such as the United States. Thus, once again, the evidence  
 
-![](images/ce713d7a96cab6731109cc00c9f588958c2b12b0bb3ee869ac9964666ce7bbf5.jpg)  
+![](ce713d7a96cab6731109cc00c9f588958c2b12b0bb3ee869ac9964666ce7bbf5.jpg)  
 FIGURE 5-12  
 
 # U.S. and Average World Corporate Labor Share  
@@ -356,14 +356,14 @@ Another way to see how differences in factor proportions shape empirical trade p
 
 Figure 5-13 contrasts the exports of three developing countries (Bangladesh, ­Cambodia, and Haiti) at the lower end of the skill-abundance spectrum with the three largest European economics (Germany, France, and the United Kingdom) at the upper end of the skill-abundance spectrum. The countries’ exports to the United States by sector are partitioned into four groups in increasing order of skill intensity. These are the same four sector groups used in Figure 5-11.17 Figure 5-13 clearly shows how the exports of the three developing countries to the United States are overwhelmingly concentrated in sectors with the lowest skill-intensity. Their exports in high skill-intensity  
 
-![](images/8aad7a41eccc8bba6dd1d3a72c1e672f449fa9a797cee2fda1d469682f0c57c1.jpg)  
+![](8aad7a41eccc8bba6dd1d3a72c1e672f449fa9a797cee2fda1d469682f0c57c1.jpg)  
 FIGURE 5-13  
 
 # Export Patterns for a Few Developed and Developing Countries, 2008–2012  
 
 Source: NBER-CES U.S. Manufacturing Productivity Database, U.S. Census Bureau, and Peter K. Schott, “The Relative Sophistication of Chinese Exports,” Economic Policy (2008), pp. 5–49.  
 
-![](images/3b069ce80ce49f18239923946eff0a46b0766220782f949fb2da7cf12eee4bec.jpg)  
+![](3b069ce80ce49f18239923946eff0a46b0766220782f949fb2da7cf12eee4bec.jpg)  
 FIGURE 5-14 Changing Pattern of Chinese Exports over Time  
 
 Source: NBER-CES U.S. Manufacturing Productivity Database, U.S. Census Bureau, and Peter K. Schott, “The Relative Sophistication of Chinese Exports,” Economic Policy (2008), pp. 5–49.  
@@ -442,7 +442,7 @@ An isocost line may be constructed as follows: The cost of purchasing a given am
 
 To minimize costs, a producer must get to the lowest possible isocost line; this means choosing the point on the unit isoquant (curve II) where the slope is equal to minus the wage-rental ratio $w/r$ .  
 
-![](images/bd6c314839db1b3bb6538e0227dac2dc0575f93907506b72344725d516c5d5d0.jpg)  
+![](bd6c314839db1b3bb6538e0227dac2dc0575f93907506b72344725d516c5d5d0.jpg)  
 
 one is able to produce a unit of food using units of labor and units of capital, the total cost of producing that unit, $c$ , is  
 
@@ -472,7 +472,7 @@ We now turn to the relationship between goods prices and factor prices. There ar
 
 A rise in w/r shifts the lowest-cost input choice from point 1 to point 2; that is, it leads to the choice of a lower labor-capital ratio.  
 
-![](images/ee00e254d8deb386b539008f9abf3f1e0d9f040843023733f9e4deeffaaa8d08.jpg)  
+![](ee00e254d8deb386b539008f9abf3f1e0d9f040843023733f9e4deeffaaa8d08.jpg)  
 
 # FIGURE 5A-3  
 
@@ -480,7 +480,7 @@ A rise in w/r shifts the lowest-cost input choice from point 1 to point 2; that 
 
 The two isoquants $C C$ and $F F$ show the inputs necessary to produce one dollar’s worth of cloth and food, respectively. Since price must equal the cost of production, the inputs into each good must also cost one dollar. This means that the wage-rental ratio must equal minus the slope of a line tangent to both isoquants.  
 
-![](images/31717b2785bcfde666f146d0eedbe4151bd57f216eafb0f110e0f288685d75cb.jpg)  
+![](31717b2785bcfde666f146d0eedbe4151bd57f216eafb0f110e0f288685d75cb.jpg)  
 
 Figure 5A-3 shows capital and labor inputs into both cloth and food production. In previous figures, we have shown the inputs required to produce one unit of a good. In this figure, however, we show the inputs required to produce one dollar’s worth of each good. (Actually, any dollar amount will do as long as it is the same for both goods.) Thus, the isoquant for cloth, $C C$ , shows the possible input combinations for producing $1/P_{C}$ units of cloth; the isoquant for food, $F F_{\astrosun}$ , shows the possible combinations for producing $1/P_{F}$ units of food. Notice that as drawn, cloth production is labor-intensive (and food production is capital-intensive): For any given $w/r$ , cloth production will always use a higher labor-capital ratio than food production.  
 
@@ -504,7 +504,7 @@ $$
 
 If the price of cloth rises, a smaller output is now worth one dollar, so $C C^{1}$ is replaced by $C C^{2}$ . The implied wage-rental ratio must therefore rise from $(w/r)^{1}$ to $(w/r)^{2}$ .  
 
-![](images/e3a973ef2d48d00c5160e05ce14a980e76a898250d52bd500b242cc4c82d88c6.jpg)  
+![](e3a973ef2d48d00c5160e05ce14a980e76a898250d52bd500b242cc4c82d88c6.jpg)  
 
 Note that the weights in this average, $K_{C}/K$ and $K_{F}/K_{\sun}$ , add up to 1 and are the proportions of capital employed in the cloth and food sectors. We have seen that a given relative price of cloth is associated with a given wage-rental ratio (so long as the economy produces both cloth and food), which in turn is associated with given labor-capital employment levels in both sectors $(L_{C}/K_{C}$ and $L_{F}/K_{F})$ . Now consider the effects of an increase in the economy’s labor supply $L$ at a given relative price of cloth: $L/K$ increases while $L_{C}/K_{C}$ and $L_{F}/K_{F}$ both remain constant. For equation (5A-1) to hold, the weight on the higher labor-capital ratio, $L_{C}/K_{C},$ must increase. This implies an increase in the weight $K_{C}/K$ and a corresponding decrease in the weight $K_{F}/K$ . Thus, capital moves from the food sector to the cloth sector (since the total capital supply $K$ remains constant in this example). Furthermore, since $L_{F}/K_{F}$ remains constant, the decrease in $K_{F}$ must also be associated with a decrease in labor employment $L_{F}$ in the food sector. This shows that the increase in the labor supply, at a given relative price of cloth, must be associated with movements of both labor and capital from the food sector to the cloth sector. The expansion of the economy’s production ­possibility ­frontier is so biased toward cloth that—at a constant relative price of cloth—the ­economy produces less food.  
 

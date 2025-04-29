@@ -57,7 +57,7 @@ We consider the following setup. A balloon mortgage is issued at time $t_{0}$ .5
 
 The home buyer makes four interest payments and then pays the $N$ at time $t_{4}$ if he or she does not prepay during the life of the mortgage. On the other hand, if the mortgage rate $c_{t}$ falls below a  
 
-![](images/1ca4cfb078802f6252a9ca73dfee64ad7d271db558adfb38372230c58eb106bc.jpg)  
+![](1ca4cfb078802f6252a9ca73dfee64ad7d271db558adfb38372230c58eb106bc.jpg)  
 
 # FIGURE 17.1  
 
@@ -69,7 +69,7 @@ The bank borrows at the floating LIBOR rate, $L_{t_{i}}$ , and lends at the fixe
 
 The interesting position is that of the agency that ends up with the mortgage. The agency buys the mortgage and puts it on its books. This forms the asset side of its balance sheet. The issue is how these secondary market purchases are funded. In reality, there is more than one way. Some of the mortgages bought in the secondary market are kept on the books, and funded by issuing agency securities to investors. Other mortgages are packaged as MBS, and resold to end investors.  
 
-![](images/0c1cd4e11844361fc7104abfcbd5eda9494bce7b3ed9a77bddd4fc06182d4c42.jpg)  
+![](0c1cd4e11844361fc7104abfcbd5eda9494bce7b3ed9a77bddd4fc06182d4c42.jpg)  
 
 # FIGURE 17.2  
 
@@ -79,7 +79,7 @@ Suppose in our case the agency uses a 4-year fixed coupon note to secure funding
 
 If the home buyer does not refinance, the agency receives four interest payments of size $c_{t_{0}}N$ each, then, at time $t_{4}$ receives the principal. We assume that the home buyer never defaults.9 If, on the other hand, the home buyer pays the “last” interest payment $c_{t_{0}}N$ and prepays the principal earlier at time $t_{2}$ , the agency places these funds in a floating rate money market account until time $t_{4}$ . The rate would be $L_{t_{i}}$ . Alternatively, the agency can get into a fixed receiver swap and receive the  
 
-![](images/ffa783e5f9e03ac50176b99d4fd7e389bebbd84b8af0e9a01efc19a41a32e77a.jpg)  
+![](ffa783e5f9e03ac50176b99d4fd7e389bebbd84b8af0e9a01efc19a41a32e77a.jpg)  
 
 # FIGURE 17.3  
 
@@ -219,7 +219,7 @@ $$
 t_{i}-t_{i-1}=\delta
 $$  
 
-![](images/76a82b8f5ddd2c56bab5162623d056a78cdec24a16838643462d1a1d673724e7.jpg)  
+![](76a82b8f5ddd2c56bab5162623d056a78cdec24a16838643462d1a1d673724e7.jpg)  
 
 # FIGURE 17.4  
 
@@ -247,7 +247,7 @@ In this representation, the right-hand side default-free bond prices are state d
 
 Suppose two-period interest rate swaps trade actively. A spot swap that will be initiated at time $t_{2}$ is shown in Figure 17.5. The spot swap rate $s_{t_{2}}^{i}$ for this instrument is unknown at time $t_{0}.$ , and this is implied by the $i$ superscript. As of time $t_{0}$ , markets are assumed to trade a forward swap, with a rate denoted by $f_{t_{0}}$ that corresponds to $s_{t_{2}}^{i}$ .  
 
-![](images/bd38169676a601229d810cd97895a43e4a49cb21dd0003cade145c7cdd1ca544.jpg)  
+![](bd38169676a601229d810cd97895a43e4a49cb21dd0003cade145c7cdd1ca544.jpg)  
 
 # FIGURE 17.5  
 
@@ -507,7 +507,7 @@ where $L_{t_{i}},f_{t_{0}}$ , and $N$ are the relevant LIBOR rate, forward swap 
 
 We now consider a particular decomposition of this forward swap. First, note that depending on whether $L_{t_{1}}>f_{t_{0}}$ or not, the swap party either receives a payment at time $t_{2}$ , or makes a payment. Thus, the first cash flow to be settled at time $t_{2}$ can be decomposed into two contingent cash flows  
 
-![](images/5e7fe7490b181fd67069ca357f9b01489b200ab174c81d118171a21c5f0c27c8.jpg)  
+![](5e7fe7490b181fd67069ca357f9b01489b200ab174c81d118171a21c5f0c27c8.jpg)  
 
 # FIGURE 17.6  
 
@@ -541,7 +541,7 @@ These forward caps and floors can be extended to $n$ periods by putting together
 
 Figure 17.6 shows that we obtained a contractual equation. By adding Figures 17.6b and c vertically, we get back the original forward swap. Thus, we can write the contractual equation:  
 
-![](images/4afea9545caaf7258684e8305dce9c822e7ee0a8e62fdfb27ffc5d851a3faf22.jpg)  
+![](4afea9545caaf7258684e8305dce9c822e7ee0a8e62fdfb27ffc5d851a3faf22.jpg)  
 
 This contractual equation shows that caps, floors, and swaps are closely related instruments.  
 

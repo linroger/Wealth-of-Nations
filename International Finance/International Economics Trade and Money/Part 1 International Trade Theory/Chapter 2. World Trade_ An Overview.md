@@ -24,7 +24,7 @@ Explain how the mix of goods and services that are traded internationally has ch
 
 Figure 2-1 shows the total value of trade in goods—exports plus imports—between the United States and its top 15 trading partners in 2019. (Data on trade in services are less well broken down by trading partner; we’ll talk about the rising importance of trade in services, and the issues raised by that trade, later in this chapter.) Taken together, these 15 countries accounted for 75 percent of the value of U.S. trade in that year.  
 
-![](images/8ecfa9af948aa138871bbf5ecf1af6841c4eb46a0e8415d14e24aeb3b3ba54d4.jpg)  
+![](8ecfa9af948aa138871bbf5ecf1af6841c4eb46a0e8415d14e24aeb3b3ba54d4.jpg)  
 
 # FIGURE 2-1  
 
@@ -42,7 +42,7 @@ Three of the top 15 U.S. trading partners are European nations: Germany, the Uni
 
 Figure 2-2 illustrates this relationship by showing the correspondence between the size of different European economies—specifically, America’s 10 most important Western European trading partners in 2019—and those countries’ trade with the United States in that year. On the horizontal axis is each country’s GDP, expressed as a percentage of the total GDP of the European Union; on the vertical axis is each country’s  
 
-![](images/e9cf5828425bc64ae27c58c7c24feefa0d5c7cb90e7fb295b33e9dc0c7ae9f65.jpg)  
+![](e9cf5828425bc64ae27c58c7c24feefa0d5c7cb90e7fb295b33e9dc0c7ae9f65.jpg)  
 FIGURE 2-2 The Size of European Economies and the Value of Their Trade with the United States  
 
 Source: U.S. Department of Commerce, European Commission.  
@@ -93,7 +93,7 @@ In addition to being U.S. neighbors, Canada and Mexico have long been part of a 
 
 The United States does markedly more trade with its neighbors than it does with European economies of the same size.  
 
-![](images/0d85d951c3f7049f7ce483de79ff41bdd08daf6d5dc3d1fab4799203d11106b1.jpg)  
+![](0d85d951c3f7049f7ce483de79ff41bdd08daf6d5dc3d1fab4799203d11106b1.jpg)  
 FIGURE 2-3 Economic Size and Trade with the United States   
 Source: U.S. Department of Commerce, European Commission.  
 
@@ -109,7 +109,7 @@ Why do borders have such a large negative effect on trade? That is a topic of on
 
 <html><body><table><tr><td>TABLE 2-1</td><td colspan="3">Trade with British Columbia, as Percent of GDP, 2009</td></tr><tr><td>Canadian Province</td><td>Trade as Percent of GDP</td><td>Trade as Percent of GDP</td><td>U.S. State at Similar Distance from British Columbia</td></tr><tr><td>Alberta</td><td>6.9</td><td>2.6</td><td>Washington</td></tr><tr><td>Saskatchewan</td><td>2.4</td><td>1.0</td><td>Montana</td></tr><tr><td>Manitoba</td><td>2.0</td><td>0.3</td><td>California</td></tr><tr><td>Ontario</td><td>1.9</td><td>0.2</td><td>Ohio</td></tr><tr><td>Quebec</td><td>1.4</td><td>0.1</td><td>New York</td></tr><tr><td>NewBrunswick</td><td>2.3</td><td>0.2</td><td>Maine</td></tr><tr><td colspan="4">Source: Statistics Canada, U.S. Department of Commerce.</td></tr></table></body></html>  
 
-![](images/8928bac57bb165f723cf259ce691d9cffd163ea085fc374e8c787a401c35804c.jpg)  
+![](8928bac57bb165f723cf259ce691d9cffd163ea085fc374e8c787a401c35804c.jpg)  
 FIGURE 2-4 Canadian Provinces and U.S. States That Trade with British Columbia  
 
 Source: Statistics Canada, U.S. Department of Commerce.  
@@ -130,7 +130,7 @@ What an extraordinary episode in the economic progress of man that age was which
 
 Notice, however, Keynes’s statement that the age “came to an end” in 1914. In fact, two subsequent world wars, the Great Depression of the 1930s and widespread protectionism did a great deal to depress world trade. Figure 2-5 shows one measure of international trade: the ratio of world exports to world GDP. World trade grew rapidly  
 
-![](images/0542783946a3adb7dd91393340076a783fb723c10cb64301be22ec7895147220.jpg)  
+![](0542783946a3adb7dd91393340076a783fb723c10cb64301be22ec7895147220.jpg)  
 FIGURE 2-5  
 
 # The Fall and Rise of World Trade  
@@ -159,7 +159,7 @@ Most world trade is in manufactured goods, but minerals—mainly oil—remain im
 
 Source: World Trade Organization.  
 
-![](images/91a8817ec292d6015a0ea0c1f3a53b7d01f86b231a09371b1a2f8cfe6813e3f3.jpg)  
+![](91a8817ec292d6015a0ea0c1f3a53b7d01f86b231a09371b1a2f8cfe6813e3f3.jpg)  
 
 information or technical help, the person on the other end of the line may well be in a distant country. (The Indian city of Bangalore is a particularly popular location.) So far, these exotic new forms of trade are still a relatively small part of the overall trade picture, but as explained later, that may change in the years ahead.  
 
@@ -177,7 +177,7 @@ Over the past 50 years, the exports of developing countries have shifted toward 
 
 Source: United Nations Council on Trade and Development.  
 
-![](images/b1bb107828a10e6c54c85281a0156a3f2ddb2a8b1ac4b7dec38d23c9e498c4b2.jpg)  
+![](b1bb107828a10e6c54c85281a0156a3f2ddb2a8b1ac4b7dec38d23c9e498c4b2.jpg)  
 
 shares of agricultural products and manufactured goods in developing-country exports from 1960 to 2001. There has been an almost complete reversal of relative importance. For example, more than 90 percent of the exports of China, the largest developing economy and a rapidly growing force in world trade, consists of manufactured goods.  
 

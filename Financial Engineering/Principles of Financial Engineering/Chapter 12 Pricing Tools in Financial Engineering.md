@@ -124,7 +124,7 @@ $$
 
 This situation is shown in Figure 12.1.  
 
-![](images/48fbbc19f6ec626ecaa49e16afbf07a23001564ad062731acf78f2b72ef6d211.jpg)  
+![](48fbbc19f6ec626ecaa49e16afbf07a23001564ad062731acf78f2b72ef6d211.jpg)  
 
 # FIGURE 12.1  
 
@@ -327,7 +327,7 @@ $$
 \overline{{\boldsymbol{S}}}^{1}=75\boldsymbol{0}
 $$  
 
-![](images/8cabb2920b55b45aa01ab28c3389370a2db8c1147032dc87645e37503b4c1e4a.jpg)  
+![](8cabb2920b55b45aa01ab28c3389370a2db8c1147032dc87645e37503b4c1e4a.jpg)  
 
 # FIGURE 12.2  
 
@@ -817,7 +817,7 @@ $$
 
 where $S_{i}$ is the shortcut notation for $S_{t+i\Delta}$ .  
 
-![](images/aca4a13cefdd06b088218930b6e5e6a47b8b4fe678dc6212edc8de9efd3f2af5.jpg)  
+![](aca4a13cefdd06b088218930b6e5e6a47b8b4fe678dc6212edc8de9efd3f2af5.jpg)  
 
 # FIGURE 12.3  
 

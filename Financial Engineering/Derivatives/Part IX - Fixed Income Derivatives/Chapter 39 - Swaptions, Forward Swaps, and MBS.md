@@ -55,7 +55,7 @@ If the payer swaption is in-the-money, $s p_{T}>K_{s p}$ and is cash settled the
 
 It should be obvious from the above that swaptions (either European or American) can also be used for speculation on the future value of the swap rate. You would buy a payer (receiver) swaption if you thought swap rates would rise (fall) in the future, relative to $K_{s p}$ .  
 
-![](images/0b9328d9c3554848134f8d9e3ad2bb2a8aba5178075b6d39fbb205367426dac8.jpg)  
+![](0b9328d9c3554848134f8d9e3ad2bb2a8aba5178075b6d39fbb205367426dac8.jpg)  
 FIGURE 39.1 Payof to European 3-year payer swaption  
 
 # 39.2 FORWARD SWAPS  
@@ -76,7 +76,7 @@ $$
 \begin{array}{r c l}{{}}&{{}}&{{Q=C_{X}(d_{23}^{f}+d_{24}^{f}+d_{25}^{f})+Q~d_{25}^{f}}}\\ {{}}&{{}}&{{=s p^{f}Q(d_{23}^{f}+d_{24}^{f}+d_{25}^{f})+Q~d_{25}^{f}}}\end{array}
 $$  
 
-![](images/8ab1710983e07f12119b61d53e93af4da921da83be4a807bf96110c3c7d385f8.jpg)  
+![](8ab1710983e07f12119b61d53e93af4da921da83be4a807bf96110c3c7d385f8.jpg)  
 FIGURE 39.2 Two-year forward contract on a 3-year swap  
 
 where $d_{2i}^{f}=1/(1+f_{2i}t_{2i})$ and $f_{2i}\left(i=3,4,5\right)$ are the (simple) forward rates quoted at $t=0$ which apply to periods from $t=2$ to $t=t_{2i}$ . Hence the forward swap rate quoted today, for a swap with a maturity of $n=3$ years, beginning in $T=2$ years’ time is:  

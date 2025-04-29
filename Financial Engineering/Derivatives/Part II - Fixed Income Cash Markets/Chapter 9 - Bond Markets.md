@@ -84,7 +84,7 @@ Coupon paying bonds provide a known stream of cash fows called coupons, C, payab
 
 Bond prices quoted in the fnancial press and on electronic trading screens are known as ‘clean prices’. The pricing formulas below all refer to the clean price. However, the actual price paid by an investor is known as the ‘invoice price’ and includes accrued or ‘rebate’ interest (see Cuthbertson and Nitzsche 2008).  
 
-![](images/286b5e7c85fae80ef5a663bc29f90e2a73aec94eabb181c9d7cdbce16d4b8ae0.jpg)  
+![](286b5e7c85fae80ef5a663bc29f90e2a73aec94eabb181c9d7cdbce16d4b8ae0.jpg)  
 FIGURE 9.1 Coupon paying bond  
 
 9.1.3 Coupon-yield (Interest-yield, Flat-yield, ‘Current-yield’ in USA)  
@@ -174,7 +174,7 @@ It is clear from Equation (9.4) that the YTM and the market price of a bond are 
 
 The Excel fle on the website calculates the prices of two diferent bonds for diferent values of the YTM and then graphs the ‘convex’ (non-linear) bond price-yield relationship for each of the two bonds. Duration and Modifed duration are also calculated using the Excel functions $\mathbf{\dot{\bar{\rho}}}=\mathbf{\Phi}$ DURATION’ and $\mathbf{\epsilon}^{\bullet}=$ MDURATION’.  
 
-![](images/4fd138ca1f36fac3dc412fdf01f4a1e31d8da749950a55b58d26b1fed9c69693.jpg)  
+![](4fd138ca1f36fac3dc412fdf01f4a1e31d8da749950a55b58d26b1fed9c69693.jpg)  
 FIGURE 9.2 Bond price and yield  
 
 # 9.1.5 YTM and Coupon Rate  

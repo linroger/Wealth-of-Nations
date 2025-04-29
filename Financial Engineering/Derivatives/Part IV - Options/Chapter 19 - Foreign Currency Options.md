@@ -49,7 +49,7 @@ On the other hand if a US company has to convert sterling into USD in the future
 
 Foreign currency options can be used for speculation. Long positions have limited downside risk (the option premium) yet provide the possibility of large speculative profts by exploiting  
 
-![](images/f57683e1c14c0bb3cecd57ffd5d25e89e634d08729da4a734d06ba2e3c4aa7c3.jpg)  
+![](f57683e1c14c0bb3cecd57ffd5d25e89e634d08729da4a734d06ba2e3c4aa7c3.jpg)  
 FIGURE 19.1 Foreign currency call option  
 
 leverage. We demonstrate the payofs from a long position in either a (European) call or put. If held to maturity, a long call gives a proft (Figure 19.1):  
@@ -110,7 +110,7 @@ The proft profle is given in Figure 19.2 for $K=1.44\left({\Phi/£}\right)$ and 
 
 Invoice price contract $=P z=\left(0.025(\Phi/£)\right)£31,250=\mathfrak{F}781.25$  
 
-![](images/ca785d78eabd46c8f0a8825ecc9c405d2ffa7bb02d753b68d3c6339a5b15cfb0.jpg)  
+![](ca785d78eabd46c8f0a8825ecc9c405d2ffa7bb02d753b68d3c6339a5b15cfb0.jpg)  
 FIGURE 19.2 Foreign currency put option  
 
 $$

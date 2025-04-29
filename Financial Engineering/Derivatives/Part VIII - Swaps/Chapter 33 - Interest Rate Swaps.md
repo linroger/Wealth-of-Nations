@@ -38,7 +38,7 @@ Why are swaps so popular? The frst reason is that swaps can be used to reduce th
 
 Microsoft currently has floating rate loan from Citibank at LIBOR $+0.5\%$ with principal $\$100m$ , to run for a further 5 years. Interest rate resets are annual.  
 
-![](images/6f3c3932511b56ce58471bf79f431549126090d02216857a67945aa42826aba0.jpg)  
+![](6f3c3932511b56ce58471bf79f431549126090d02216857a67945aa42826aba0.jpg)  
 FIGURE 33.1 Interest rate swap  
 
 Microsoft has a ‘receive floating – pay fixed swap’ After the swap: Net payment for Microsoft $=0.5\%+6\%=6.5\%$ $[=$ fixed)  
@@ -69,7 +69,7 @@ If the deposit rate is LIBOR- $1\%$ and LIBOR currently equals $11\%$ the bank p
 
 As LIBOR increases the spread (profit) earned by Silverado, falls. Without the swap, if LIBOR $>13\%$ , Silverado makes a loss  
 
-![](images/351ea7671eaf6f46f62d90edab18177e059a134a5bcf60b7d487f6ce4e702f0b.jpg)  
+![](351ea7671eaf6f46f62d90edab18177e059a134a5bcf60b7d487f6ce4e702f0b.jpg)  
 
 FIGURE 33.2 Interest rate risk of Silverado Bank  
 
@@ -236,7 +236,7 @@ B’s total fxed interest payments $\mathbf{\tau}=\mathbf{\tau}$ ‘Direct cost 
 
 5. Hence in ‘leg $2^{\circ}$ of the swap B must pay fxed at $10.95\%-1\%=9.95\%$ .  
 
-![](images/c7a578bfdc02d2867dd47fb73a6c4df7432842dc1caaa0a130137858da1f3644.jpg)  
+![](c7a578bfdc02d2867dd47fb73a6c4df7432842dc1caaa0a130137858da1f3644.jpg)  
 
 Swap: B is floating rate receiver and fixed rate payer A is floating rate payer and fixed rate receiver  
 
@@ -288,7 +288,7 @@ TABLE 33.A.1 Bank borrowing rates facing A and B
 
 Assume swap dealer makes $0.1\%$ and A and B each gain $0.2\%$ Swap dealer makes no profit on the floating rate leg  
 
-![](images/968d1eced56ff5f5141520f50353c6feee4bdc5a950f8bcca357dc3ac70f8aae.jpg)  
+![](968d1eced56ff5f5141520f50353c6feee4bdc5a950f8bcca357dc3ac70f8aae.jpg)  
 
 # FIGURE 33.A.1 Swap dealer  
 
