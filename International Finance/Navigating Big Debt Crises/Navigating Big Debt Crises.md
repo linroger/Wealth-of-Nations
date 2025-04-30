@@ -26,7 +26,6 @@ key_concepts:
 
 %% Begin Waypoint %%
 - **[[Navigating Big Debt Crises]]**
-	- [[-*coding utf-8 -*import math.md .gitFinderDeleted]]
 	- [[Black Scholes Derivation]]
 	- [[Capital Wars from 1600 to the Present.]]
 	- **[[Chapters]]**
@@ -59,7 +58,6 @@ key_concepts:
 	- [[Navigating Big Debt Crises]]
 	- [[Principles Part I]]
 	- [[Principles Part II]]
-	- [[Securitization]]
 	- [[The Archetypal Big Debt Cycle]]
 	- [[The Dynamics of Inflationary Debt Cycles and Currency Crises]]
 	- [[The Effects of Tariffs How the Machine Works]]
