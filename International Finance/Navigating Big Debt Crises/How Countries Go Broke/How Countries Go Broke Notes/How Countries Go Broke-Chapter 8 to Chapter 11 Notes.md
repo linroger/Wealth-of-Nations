@@ -261,29 +261,39 @@ Observing the US central bank's dwindling gold reserves, French President Charle
 
 **From 1971 through 1981, the Federal Reserve doubled the money supply, while broader measures including certain bank accounts and cash instruments (M2) increased by 180%. Consequently, prices for a) goods and services (CPI), b) stocks, and c) gold rose by a) approximately 140%, b) around 30%, and c) roughly 10-fold respectively. Stock prices declined 45% in real terms. Naturally, debtors benefited by repaying obligations with increasingly available, cheaper dollars, while creditors suffered as promised monetary value diminished. During this decade, 10-year Treasury bondholders lost approximately 40% in inflation-adjusted terms, and Baa corporate bondholders experienced slightly negative real returns. In other words, beginning in 1971 and continuing through subsequent years, the Fed addressed the debt crisis by creating substantially more money and credit, providing significant debt relief for debtors while imposing substantial purchasing power losses on creditors, encouraging borrowing and discouraging lending.** This period of debt monetization significantly influenced my perspective, teaching invaluable lessons about generating returns across diverse market environments. I believe current investors who have only experienced environments where equity-like assets delivered positive real returns approach investing solely through purchasing equity-like investments for superior real returns, which represents a fundamental misconception.
 
-  -  graph TD A[Nixon Ends Gold Standard 1971] --> B[Unrestricted Money Creation] B --> C[Money Supply Doubles 1971-1981] B --> D[M2 Increases 180%]
 
-```
-C & D --> E[Price Inflation Effects]
-E --> F[Consumer Prices +140%]
-E --> G[Stock Prices +30% Nominal]
-E --> H[Gold Prices Increase 10x]
-E --> I[Stock Prices -45% Real Terms]
+```mermaid
+graph TD
+    A[Nixon Ends Gold Standard 1971] --> B[Unrestricted Money Creation]
+    B --> C[Money Supply Doubles 1971–1981]
+    B --> D[M2 Increases 180%]
 
-C & D --> J[Impact on Debt Dynamics]
-J --> K[Debtors Benefit: Cheaper Repayment]
-J --> L[Creditors Suffer: Loss of Value]
-J --> M[Treasury Bonds -40% Real Return]
-J --> N[Corporate Bonds Negative Real Returns]
+    C --> E[Price Inflation Effects]
+    D --> E
 
-C & D --> O[Economic Consequences]
-O --> P[Stagflation]
-O --> Q[Rising Unemployment]
-O --> R[Economic Stagnation + Inflation]
+    E --> F[Consumer Prices +140%]
+    E --> G[Stock Prices +30% Nominal]
+    E --> H[Gold Prices Increase 10x]
+    E --> I[Stock Prices -45% Real Terms]
 
-O --> S[Political Consequences]
-S --> T[Move from Political Left to Right]
-T --> U[Reagan, Thatcher, Kohl Elections]
+    C --> J[Impact on Debt Dynamics]
+    D --> J
+
+    J --> K[Debtors Benefit: Cheaper Repayment]
+    J --> L[Creditors Suffer: Loss of Value]
+    J --> M[Treasury Bonds -40% Real Return]
+    J --> N[Corporate Bonds Negative Real Returns]
+
+    C --> O[Economic Consequences]
+    D --> O
+
+    O --> P[Stagflation]
+    O --> Q[Rising Unemployment]
+    O --> R[Economic Stagnation + Inflation]
+
+    O --> S[Political Consequences]
+    S --> T[Move from Political Left to Right]
+    T --> U[Reagan, Thatcher, Kohl Elections]
 ```
 
   - 
@@ -358,29 +368,37 @@ Throughout this period, I remained deeply engaged with these markets and the cir
 
 **Throughout the 1980s, the previously described tight monetary conditions and short dollar (debt) position drove the dollar higher until the 1985 "Plaza Accord"—an agreement to devalue the dollar, which would have occurred naturally as the substantial current account deficit and high dollar demand had become unsustainable.** During these years, interest rates and inflation exhibited significant fluctuations that seemed monumental while experiencing them. However, the overall dynamic remains clear (as shown in previous charts): during the 1980s, inflation declined following the monetary tightening of 1980-82, then interest rates also fell, tracking inflation while maintaining relatively high real interest rates. **These elevated real rates benefited lender-creditors and disadvantaged borrower-debtors. When nominal interest rates declined after inflation began falling, bonds and stocks appreciated significantly because future cash flow discount rates decreased, making borrowing more affordable. These conditions stimulated economic activity, creating ideal circumstances for US markets and the economy.**
 
-  -  graph TD A[Volcker's Monetary Tightening 1979-82] --> B[Initial Economic Pain] B --> C[Disinflation Begins] C --> D[High Real Interest Rates]
 
-```
-D --> E1[Positive Effects]
-E1 --> F1[Increased Capital Flows to US]
-E1 --> F2[Strengthened US Dollar]
-E1 --> F3[Improved Investment Climate]
-E1 --> F4[Declining Nominal Rates After Inflation Control]
 
-D --> E2[Negative Effects]
-E2 --> G1[Emerging Market Debt Crises]
-E2 --> G2[Dollar-Denominated Debt Burden Increases]
-E2 --> G3[Capital Flight from Developing Nations]
+```mermaid
+graph TD
+    A[Volcker's Monetary Tightening 1979–82] --> B[Initial Economic Pain]
+    B --> C[Disinflation Begins]
+    C --> D[High Real Interest Rates]
 
-F4 --> H[Lower Discount Rates for Future Cash Flows]
-H --> I[Rising Stock and Bond Valuations]
+    D --> E1[Positive Effects]
+    E1 --> F1[Increased Capital Flows to US]
+    E1 --> F2[Strengthened US Dollar]
+    E1 --> F3[Improved Investment Climate]
+    E1 --> F4[Declining Nominal Rates After Inflation Control]
 
-G1 & G2 & G3 --> J[Emerging Market "Lost Decade"]
+    D --> E2[Negative Effects]
+    E2 --> G1[Emerging Market Debt Crises]
+    E2 --> G2[Dollar-Denominated Debt Burden Increases]
+    E2 --> G3[Capital Flight from Developing Nations]
 
-I --> K[Wealth Transfer]
-J --> K
-K --> L1[Beneficiaries: US Lender-Creditors]
-K --> L2[Disadvantaged: Emerging Market Borrower-Debtors]
+    F4 --> H[Lower Discount Rates for Future Cash Flows]
+    H --> I[Rising Stock and Bond Valuations]
+
+    G1 --> J[Emerging Market 'Lost Decade']
+    G2 --> J
+    G3 --> J
+
+    I --> K[Wealth Transfer]
+    J --> K
+
+    K --> L1[Beneficiaries: US Lender-Creditors]
+    K --> L2[Disadvantaged: Emerging Market Borrower-Debtors]
 ```
 
   - 
@@ -475,30 +493,39 @@ Having studied the major cycles from 1918 to 1945 (from World War I's conclusion
 - **Continued increases in Chinese and other foreign-produced imports eliminated American jobs while technological advancement simultaneously displaced workers. These forces contributed to middle-class erosion, intensifying tensions between "elites/capitalists" and the working class. China accumulated significant US debt assets while the US sacrificed numerous jobs in uncompetitive industries, widening wealth and values disparities in the US, fueling anti-China sentiment, and exacerbating political and social polarization. Economically disadvantaged individuals believed that establishment "elites" and the system prioritized profit maximization at American workers' expense. This perspective, combined with the 2008 debt/economic crisis and the perception that government bailouts of financial institutions primarily benefited financial asset holders rather than average citizens, significantly influenced domestic discord. Consequently, the financial crisis catalyzed both right-wing populism (Tea Party movement) and left-wing populism (Occupy Wall Street).**
     
 
-  -  graph TD A[Interest Rates Hit 0% in 2008] -->|Traditional Tools Exhausted| B[Monetary Policy 2 No Longer Effective] B --> C[Transition to Monetary Policy 3]
+```mermaid
+graph TD
+    A[Interest Rates Hit 0% in 2008] -->|Traditional Tools Exhausted| B[Monetary Policy 2 No Longer Effective]
+    B --> C[Transition to Monetary Policy 3]
 
-```
-C --> D[Central Bank Balance Sheet Expansion]
-C --> E[Direct Debt Monetization]
-C --> F[Quantitative Easing]
+    C --> D[Central Bank Balance Sheet Expansion]
+    C --> E[Direct Debt Monetization]
+    C --> F[Quantitative Easing]
 
-D & E & F --> G[Effects on Financial Markets]
-G --> G1[Financial Asset Price Inflation]
-G --> G2[Reduced Yields for Lenders]
-G --> G3[Cheap Capital for Borrowers]
-G --> G4[Wealth Concentration]
+    D --> G[Effects on Financial Markets]
+    E --> G
+    F --> G
 
-D & E & F --> H[Economic Effects]
-H --> H1[Private Debt Problem Management]
-H --> H2[Rising Public Debt Burden]
-H --> H3[Economic Recovery Without Deleveraging]
+    G --> G1[Financial Asset Price Inflation]
+    G --> G2[Reduced Yields for Lenders]
+    G --> G3[Cheap Capital for Borrowers]
+    G --> G4[Wealth Concentration]
 
-G4 --> I[Social and Political Consequences]
-H2 --> I
-I --> I1[Growing Wealth Inequality]
-I --> I2[Rising Political Polarization]
-I --> I3[Populism on Left and Right]
-I --> I4[Institutional Distrust]
+    D --> H[Economic Effects]
+    E --> H
+    F --> H
+
+    H --> H1[Private Debt Problem Management]
+    H --> H2[Rising Public Debt Burden]
+    H --> H3[Economic Recovery Without Deleveraging]
+
+    G4 --> I[Social and Political Consequences]
+    H2 --> I
+
+    I --> I1[Growing Wealth Inequality]
+    I --> I2[Rising Political Polarization]
+    I --> I3[Populism on Left and Right]
+    I --> I4[Institutional Distrust]
 ```
 
   - 
@@ -543,27 +570,38 @@ These developments and outcomes (detailed further in my book _Principles for Dea
 - **Regarding technological innovation, computer processing power advanced dramatically, cryptocurrencies emerged, autonomous vehicle features began implementation, streaming media became ubiquitous, 4G and 5G wireless networks deployed, reusable spacecraft entered service, and countless other innovations appeared—too numerous to detail comprehensively.**
     
 
-  -  flowchart TD A[Major Forces 2008-2020] --> B[Climate Change Recognition] A --> C[Technological Revolution]
 
-```
-B --> B1[2015 Paris Climate Agreement]
-B --> B2[Economic Adaptation Costs]
-B --> B3[New Investment Opportunities]
-B --> B4[Resource Allocation Shifts]
 
-C --> C1[Computing Power Expansion]
-C --> C2[Cryptocurrency Innovation]
-C --> C3[Mobility Revolution]
-C --> C4[Communication Infrastructure]
-C --> C5[Space Technology Advancement]
+```mermaid
+flowchart TD
+    A[Major Forces 2008-2020] --> B[Climate Change Recognition]
+    A --> C[Technological Revolution]
 
-B1 & B2 & B3 & B4 --> D[Reshaping Economic Landscapes]
-C1 & C2 & C3 & C4 & C5 --> D
+    B --> B1[2015 Paris Climate Agreement]
+    B --> B2[Economic Adaptation Costs]
+    B --> B3[New Investment Opportunities]
+    B --> B4[Resource Allocation Shifts]
 
-D --> E[New Markets]
-D --> F[Wealth Creation/Destruction Dynamics]
-D --> G[Labor Market Transformation]
-D --> H[Global Competitive Repositioning]
+    C --> C1[Computing Power Expansion]
+    C --> C2[Cryptocurrency Innovation]
+    C --> C3[Mobility Revolution]
+    C --> C4[Communication Infrastructure]
+    C --> C5[Space Technology Advancement]
+
+    B1 --> D[Reshaping Economic Landscapes]
+    B2 --> D
+    B3 --> D
+    B4 --> D
+    C1 --> D
+    C2 --> D
+    C3 --> D
+    C4 --> D
+    C5 --> D
+
+    D --> E[New Markets]
+    D --> F[Wealth Creation/Destruction Dynamics]
+    D --> G[Labor Market Transformation]
+    D --> H[Global Competitive Repositioning]
 ```
 
   - 
@@ -587,9 +625,11 @@ This inflation surge initiated the first significant global tightening cycle in 
 
 **These developments represent classic manifestations of the Big Debt Cycle template I described earlier. The central bank approached its limits in using MP3 (money printing and debt purchases), as it had already substantially expanded its balance sheet. This required the central government to increase deficit spending significantly, creating more money and delivering it directly to citizens via "helicopter money"—stimulus checks and various benefits—a pattern reminiscent of previous late-stage debt cycles throughout history. This approach involved direct fiscal transfers rather than mere reliance on trickling stimulus through the financial system.**
 
-  -  graph TD A[COVID-19 Pandemic 2020] --> B[Initial Economic Shock]
 
-```
+
+```mermaid
+graph TD 
+A[COVID-19 Pandemic 2020] --> B[Initial Economic Shock]
 B --> C[Demand Collapse]
 B --> D[Market Crash]
 B --> E[Business Closures]
@@ -645,9 +685,12 @@ O --> Q[Traditional Portfolio Construction Challenged]
 
 **Nevertheless, the dollar maintained its dominant position as competing currencies faced structural limitations and the sheer scale, liquidity, and institutional framework supporting dollar markets remained unmatched. The dollar's resilience, despite significant pressures, demonstrates the extraordinary stability and persistence of established monetary orders even amid significant stresses.**
 
-  -  graph TD A[Dollar Reserve Currency Status Challenges] --> B[Domestic Factors] A --> C[International Factors]
+  -  
 
-```
+```mermaid
+graph TD 
+A[Dollar Reserve Currency Status Challenges] --> B[Domestic Factors] 
+A --> C[International Factors]
 B --> B1[Rising US Government Debt]
 B --> B2[Growing Debt Service Burden]
 B --> B3[Political Polarization]
