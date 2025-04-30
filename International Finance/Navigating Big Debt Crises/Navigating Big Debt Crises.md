@@ -51,7 +51,6 @@ key_concepts:
 		- **[[How Countries Go Broke Notes]]**
 			- [[How Countries Go Broke - Chapter 2 & Chapter 3 Notes]]
 			- [[How Countries Go Broke - Chapter 4 & Chapter 5 Notes]]
-			- [[How Countries Go Broke - Chapter 6 & Chapter 7 Notes]]
 			- [[How Countries Go Broke Notes]]
 			- [[How Countries Go Broke-Chapter 6 & Chapter 7 Notes]]
 			- [[How Countries Go Broke-Chapter 8 to Chapter 11 Notes]]
