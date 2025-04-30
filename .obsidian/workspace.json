@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financial Instruments/Assignments/Solutions/PSET 3 Solution-Financial Instruments.md",
+                "file": "Credit Markets/Credit Markets Session 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PSET 3 Solution-Financial Instruments"
+              "title": "Credit Markets Session 3"
             }
           },
           {
@@ -241,7 +241,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\quad",
+                "query": "\\tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -355,10 +355,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Instruments/Assignments/Solutions/PSET 3 Solution-Financial Instruments.md"
+                "file": "Credit Markets/Credit Markets Session 3.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for PSET 3 Solution-Financial Instruments"
+              "title": "File properties for Credit Markets Session 3"
             }
           },
           {
@@ -406,6 +406,10 @@
   },
   "active": "f3ff574e577e29ec",
   "lastOpenFiles": [
+    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 ESOs and Valuation.md",
+    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Vasicek Short Rate Model.md",
+    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 16/Swaption Skew.md",
+    "Financial Instruments/Assignments/Solutions/PSET 3 Solution-Financial Instruments.md",
     "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Options.md",
     "Financial Engineering/Mathematics of the Financial Markets.md",
     "International Finance/Lecture Notes on International Finance.md",
@@ -428,10 +432,6 @@
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke - Chapter 6 & Chapter 7 Notes.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke - Chapter 4 & Chapter 5 Notes.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/Part 3 - Looking Back Chapter 8 -11 Notes.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke - Chapter 2 & Chapter 3.md",
-    "International Finance/Navigating Big Debt Crises/Chapters/War Economies.md",
-    "International Finance/Navigating Big Debt Crises/Chapters/US Debt Crisis and Adjustment (2007–2011).md",
-    "International Finance/Navigating Big Debt Crises/Chapters/US Debt Crisis and Adjustment 1928-1937.md",
     "International Finance/Navigating Big Debt Crises/Bridgewater Articles",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",

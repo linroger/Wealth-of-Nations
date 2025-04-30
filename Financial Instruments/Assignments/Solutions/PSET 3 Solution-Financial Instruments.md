@@ -89,7 +89,11 @@ $$N^{opt}=-\frac{Payoff^{fuel}(\triangle P^{Oil})}{Payoff^{option}(\triangle P^{
 (1. B) From now on,  let's keep the $100\%$ hedge for simplicity. Using equation (3),  simply note that
 $$Payoff^{fuel}(\triangle P^{Oil})=Payoff^{fuel}(\triangle P^{fuel}=1)\cdot\triangle P^{fuel}(\triangle P^{Oil})$$
 so the payoff on our fuel position from a change in oil price per barrel equal to $\Delta P^{Oil}$ USD is equal to the payoff on fuel position arising from a 1 USD change in fuel price (per barrel) times the fuel price (per barrel) change due to a change in oil price (per barrel) equal to $\Delta P^{Oil}$. Moreover,  we can write $\triangle P^{fuel}(\triangle P^{Oil})=\triangle P^{fuel}(\triangle P^{Oil}=$ $1)\cdot\triangle P^{Oil}$. Plugging numbers,  we get:
-$$\begin{aligned}Payoff^{fuel}(\triangle P^{Oil})&=\quad Payoff^{fuel}(\triangle P^{fuel}=1)\cdot\triangle P^{fuel}(\triangle P^{Oil}=1)\cdot\triangle P^{Oil}=\\&=\quad-8,  944,  000\cdot1.1964\cdot\triangle P^{Oil}\end{aligned}$$
+$$\begin{aligned}
+\text{Payoff}^{\text{fuel}}(\Delta P^{\text{Oil}}) 
+&= \text{Payoff}^{\text{fuel}}(\Delta P^{\text{fuel}} = 1) \cdot \frac{\Delta P^{\text{fuel}}}{\Delta P^{\text{Oil}}} \cdot \Delta P^{\text{Oil}} \\
+&= -8,\!944,\!000 \cdot 1.1964 \cdot \Delta P^{\text{Oil}}
+\end{aligned}$$
 And therefore
 $$N^{opt}=-\frac{Payoff^{fuel}(\triangle P^{Oil})}{Payoff^{option}(\triangle P^{Oil})}=-\frac{-8,  944,  000\cdot1.1964\cdot\triangle P^{Oil}}{1,  000\cdot\triangle P^{Oil}}=10,  760$$
 (1. C) Let's compare the case for $100\%$ hedging. From point (1. A),  we would have bought 8.994 options,  while from point (1. B),  we would have bought 10,  760 options. Now we would have paid less in point (1. A),  but we would have had a lower payoff.
