@@ -21,8 +21,7 @@ key_concepts:
   - Limits to country debt?
   - Reserve currency and debt
 ---
-
-## Introduction
+[[Introduction to How Countries Go Broke]]
 
 **Are there limits to a country’s’ debt and debt growth?**
 

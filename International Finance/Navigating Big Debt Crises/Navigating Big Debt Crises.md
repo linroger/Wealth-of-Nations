@@ -48,6 +48,7 @@ key_concepts:
 		- [[How Countries Go Broke-Chapter Six & Chapter Seven]]
 		- [[How Countries Go Broke-Chapter Two & Chapter Three]]
 		- [[How Countries Go Broke]]
+		- [[Introduction to How Countries Go Broke]]
 		- [[Securitization]]
 		- [[The Crisis Spills over to the Central Bank (Stages 5-6)]]
 	- [[Inflationary Debt Crisis Lecture Notes]]
