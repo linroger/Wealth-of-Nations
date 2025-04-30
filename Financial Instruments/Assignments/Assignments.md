@@ -25,7 +25,6 @@ key_concepts:
 
 %% Begin Waypoint %%
 - **[[Assignments]]**
-	- [[1. Exploiting an Apparent Arbitrage Opportunity]]
 	- [[1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY]]
 	- [[Assignments]]
 	- [[Financial Instruments Midterm 2022 Solutions]]
@@ -43,10 +42,6 @@ key_concepts:
 		- [[PSET 3 Solution-Financial Instruments]]
 		- [[PSET 4 Solution-Financial Instruments]]
 		- **[[PSET 5 Solution-Financial Instruments (attachments)]]**
-			- [[CleanShot 2024-09-19 -002780@2x.png]]
-			- [[Finder 2024-09-19 09.37.16.png]]
-			- [[Finder 2024-09-19 09.39.56.pngFinder 2024-09-19 09.39 1]]
-			- [[Finder 2024-09-19 09.39.56.pngFinder 2024-09-19 09.39]]
 			- [[PSET 5 Solution-Financial Instruments (attachments)]]
 		- [[PSET 5 Solution-Financial Instruments]]
 		- [[PSET 6 Solution-Financial Instruments]]
