@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 8 to Chapter 11 Notes.md",
+                "file": "Financial Instruments/Assignments/Solutions/PSET 3 Solution-Financial Instruments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How Countries Go Broke-Chapter 8 to Chapter 11 Notes"
+              "title": "PSET 3 Solution-Financial Instruments"
             }
           },
           {
@@ -241,7 +241,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latex",
+                "query": "\\quad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,7 +252,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -354,10 +355,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 8 to Chapter 11 Notes.md"
+                "file": "Financial Instruments/Assignments/Solutions/PSET 3 Solution-Financial Instruments.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for How Countries Go Broke-Chapter 8 to Chapter 11 Notes"
+              "title": "File properties for PSET 3 Solution-Financial Instruments"
             }
           },
           {
@@ -405,8 +406,13 @@
   },
   "active": "f3ff574e577e29ec",
   "lastOpenFiles": [
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 6 & Chapter 7 Notes.md",
+    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Options.md",
+    "Financial Engineering/Mathematics of the Financial Markets.md",
+    "International Finance/Lecture Notes on International Finance.md",
+    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing/4. Elementary Review of Probability for Finance.md",
+    "Financial Instruments/Assignments/1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 8 to Chapter 11 Notes.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 6 & Chapter 7 Notes.md",
     "International Finance/Navigating Big Debt Crises/Chapters/Part 1 The Archetypal Big Debt Cycle.md",
     "International Finance/Navigating Big Debt Crises/Chapters/Inflationary Depressions and Currency Crises.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 15 & Chapter 16 Notes.md",
@@ -426,11 +432,6 @@
     "International Finance/Navigating Big Debt Crises/Chapters/War Economies.md",
     "International Finance/Navigating Big Debt Crises/Chapters/US Debt Crisis and Adjustment (2007–2011).md",
     "International Finance/Navigating Big Debt Crises/Chapters/US Debt Crisis and Adjustment 1928-1937.md",
-    "International Finance/Navigating Big Debt Crises/Chapters/The Phases of the Classic Deflationary Debt Cycle.md",
-    "International Finance/Navigating Big Debt Crises/War Economies An Overview.md",
-    "International Finance/Navigating Big Debt Crises/War Economies and Hyperinflation.md",
-    "International Finance/Navigating Big Debt Crises/Bridgewater Articles/What’s Coming The Changing Domestic and World Orders Under the Trump Administration.md",
-    "International Finance/Navigating Big Debt Crises/Bridgewater Articles/Why and How Capitalism Needs to Be Reformed.md",
     "International Finance/Navigating Big Debt Crises/Bridgewater Articles",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",
