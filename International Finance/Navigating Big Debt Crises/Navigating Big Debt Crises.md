@@ -40,9 +40,9 @@ key_concepts:
 	- [[Economic Principles - Why and How Capitalism Needs To Be Reformed]]
 	- [[Exchange Rates and the Foreign Exchange Market- An Asset Approach]]
 	- **[[How Countries Go Broke]]**
-		- [[Chapter 2 - The Mechanics in Words and Concepts Notes]]
 		- [[How Countries Go Broke Introduction & Chapter 1]]
 		- **[[How Countries Go Broke Notes]]**
+			- [[Chapter 2 - The Mechanics in Words and Concepts Notes]]
 			- [[How Countries Go Broke Notes]]
 			- [[Introduction to How Countries Go Broke]]
 			- [[The Crisis Spills over to the Central Bank (Stages 5-6)]]
