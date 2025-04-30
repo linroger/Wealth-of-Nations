@@ -1,4 +1,4 @@
-# Introduction  
+# Introduction
 
 Financial intermediation has been in service of civilized mankind for centuries. Financial contracts, including financial securities (e.g., shares, bonds, and derivatives), and the markets in which they are traded have mitigated and repositioned risks to their most cost-effective venues and advantageously redistributed cash flows through time. Insurance, equity, swaps, futures, and options contracts redistribute risks from those for whom they are onerous or unacceptable to those for whom they are bearable, at a price. Credit contracts transport wealth and income through time, again for a price, facilitating (dis)saving and investments. Agents can thereby consume (invest) more (less) than they earn or possess, providing a valuable flexibility thereby benefiting individuals as well as society. Financial intermediaries play an important role in this process of risk redistribution and intertemporal adjustment of consumption. Together with financial contracts, securities and markets, financial intermediaries constitute the financial system.  
 

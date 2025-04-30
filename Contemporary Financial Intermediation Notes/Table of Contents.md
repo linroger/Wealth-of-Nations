@@ -1,7 +1,7 @@
 # Contemporary Financial Intermediation - Table of Contents
 
 ## Introduction
-- [Introduction](Introduction/Introduction.md)
+- [Introduction](Contemporary%20Financial%20Intermediation%20Notes/Introduction/Introduction.md)
 
 ## Part I: The Background
 - [Part I Introduction](Part I - The Background/Part I Introduction.md)

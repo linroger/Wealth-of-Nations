@@ -20,7 +20,7 @@ key_concepts:
   - Transaction costs, economic growth
 ---
 
-# Contemporary Financial Intermediation
+# Contemporary Financial Intermediation Notes
 
 ## INTRODUCTION
 - Financial markets and financial service firms channel money from savers to those with investment ideas,  helping individuals and businesses raise capital
@@ -419,14 +419,14 @@ successfully |
 	- To the extent banks charge higher rates to less capitalized borrowers,  they may also earn greater profit margins on these borrowers
 	- Can make prospect of lending to highly leveraged (low equity) borrowers enticing despite higher risk
 - Banks can add highly leveraged loans to portfolios by lending for:
-	- [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|leveraged buyouts]] ([[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]])
+	- [[Note On LBO Capital Structure Module Note|Note On LBO Capital Structure|leveraged buyouts]] ([[Note On LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]])
 	- Acquisitions
 	- Recapitalizations
 - Yields on highly leveraged transactions (HLTs) are higher than other commercial loans
 	- Higher yields compensate for higher risks,  so not necessarily implying higher expected profits
 	- But borrowers often have few alternative credit sources,  allowing banks to extract higher risk-adjusted profits
 	- Banks usually receive fees of 1-2% of principal committed
-- Reverse [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|leveraged buyouts]]: firms reduce debt/equity ratios by issuing equity to retire LBO debt
+- Reverse [[Note On LBO Capital Structure Module Note|Note On LBO Capital Structure|leveraged buyouts]]: firms reduce debt/equity ratios by issuing equity to retire LBO debt
 
 ## COLLATERAL
 - Most commercial and consumer lending is secured with collateral
@@ -1022,7 +1022,7 @@ successfully |
 - Most business loans made under loan commitments
 - Loans made under commitments include:
 	- Construction and land-development loans
-	- Loans to finance [[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|leveraged buyouts]] ([[Note on LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]]) and mergers and acquisitions (M&A)
+	- Loans to finance [[Note On LBO Capital Structure Module Note|Note On LBO Capital Structure|leveraged buyouts]] ([[Note On LBO Capital Structure Module Note|Note On LBO Capital Structure|LBOs]]) and mergers and acquisitions (M&A)
 	- Backup lines of credit on [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]] (bank agrees to lend as alternative to issuing paper)
 	- Note issuance facilities (NIF) (bank agrees to buy borrower's short-term notes if borrower unable to sell them in markets)
 

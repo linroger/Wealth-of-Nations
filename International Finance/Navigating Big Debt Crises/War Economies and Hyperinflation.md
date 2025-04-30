@@ -24,8 +24,6 @@ key_concepts:
 
 # War Economies and Hyperinflation
 
-Here is my analysis of the text,  presented as a nested markdown set of lecture notes:
-
 1. **The Nature of War Economies and Their Aftermath:**
 
 	- War economies differ drastically from peacetime economies,  impacting production,  consumption,  and financial metrics.

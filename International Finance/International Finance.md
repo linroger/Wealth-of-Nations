@@ -24,7 +24,6 @@ key_concepts:
 - **[[International Finance]]**
 	- [[Characteristics of the Eurodollar Market]]
 	- **[[China Foreign Exchange Reserves]]**
-	- [[Contemporary Financial Intermediation]]
 	- [[Covered and Uncovered Interest Parity]]
 	- **[[Economic Stabilization Notes]]**
 	- [[Foreign Exchange Markets and Exchange Rate Determination]]

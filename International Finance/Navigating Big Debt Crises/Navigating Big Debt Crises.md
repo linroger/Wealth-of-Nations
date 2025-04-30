@@ -27,7 +27,14 @@ key_concepts:
 %% Begin Waypoint %%
 - **[[Navigating Big Debt Crises]]**
 	- [[Black Scholes Derivation]]
-	- [[Capital Wars from 1600 to the Present.]]
+	- **[[Bridgewater Articles]]**
+		- [[Bridgewater Articles]]
+		- [[Capital Wars from 1600 to the Present.]]
+		- [[Economic Principles - Why and How Capitalism Needs To Be Reformed]]
+		- [[Largest Events Driving Changes to Life Expectancy Through Time]]
+		- [[The Risks of US-China Military War Have Declined and a New Type of War Has Begun]]
+		- [[What’s Coming The Changing Domestic and World Orders Under the Trump Administration]]
+		- [[Why and How Capitalism Needs to Be Reformed]]
 	- **[[Chapters]]**
 		- [[Chapters]]
 		- [[Inflationary Depressions and Currency Crises]]
@@ -36,7 +43,6 @@ key_concepts:
 		- [[US Debt Crisis and Adjustment (2007–2011)]]
 		- [[US Debt Crisis and Adjustment 1928-1937]]
 		- [[War Economies]]
-	- [[Economic Principles - Why and How Capitalism Needs To Be Reformed]]
 	- [[Exchange Rates and the Foreign Exchange Market- An Asset Approach]]
 	- **[[How Countries Go Broke]]**
 		- [[How Countries Go Broke Introduction & Chapter 1]]
@@ -54,7 +60,6 @@ key_concepts:
 		- [[How Countries Go Broke]]
 	- [[Inflationary Debt Crisis Lecture Notes]]
 	- [[Inflationary Depressions and Currency Crises]]
-	- [[Largest Events Driving Changes to Life Expectancy Through Time]]
 	- [[Navigating Big Debt Crises]]
 	- [[Principles Part I]]
 	- [[Principles Part II]]
@@ -63,12 +68,9 @@ key_concepts:
 	- [[The Effects of Tariffs How the Machine Works]]
 	- [[The Mechanics of the Deflationary Debt Cycle]]
 	- [[The Phases of the Classic Deflationary Debt Cycle]]
-	- [[The Risks of US-China Military War Have Declined and a New Type of War Has Begun]]
 	- [[The US-China Tit-For-Tat Escalations Are Very Dangerous  LinkedIn]]
 	- [[Understanding Debt Crises and Their Management]]
 	- [[War Economies An Overview]]
 	- [[War Economies and Hyperinflation]]
-	- [[What’s Coming The Changing Domestic and World Orders Under the Trump Administration]]
-	- [[Why and How Capitalism Needs to Be Reformed]]
 
 %% End Waypoint %%
