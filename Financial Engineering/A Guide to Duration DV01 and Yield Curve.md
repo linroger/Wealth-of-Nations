@@ -38,7 +38,7 @@ JEL Classifications: G10, G12, E43
 Duration and Dv01 provide the basic measures for evaluating the risk or sensitivity of fixed income instruments and are both used throughout the financial industry. The Dv01 (dollar value of an 01) is just the derivative of price with respect to yield:.  
 
 $$
-P r i c e=P V(\mathrm{\boldmath~y~})D V O I=-\frac{d P V}{d\mathrm{\boldmath~y~}}
+P r i c e=P V(\mathrm{y})D V O I=-\frac{d P V}{d\mathrm{y}}
 $$  
 
 Modified or adjusted duration, the derivative in percentage instead of dollar terms, is just the Dv01 expressed in different units:  
@@ -104,7 +104,7 @@ We can even take the idea one step further. The process above assumes the same n
 
 To do this requires building a new curve with a reduced set of market instruments, and then two auxiliary risk calculations - a set of instruments using the old curve and the same set of instruments using the new curve. Once again, this is computationally inexpensive since the original portfolio does not need to be revalued using the new curve.  
 
-# Review of Durationand DV01  
+# Review of Duration and DV01  
 
 Duration and Dv01 are the foundation for virtually all fixed income risk analysis. The ideas are well-known but it will prove useful to review the basic concepts. The duration we are concerned with is modified duration, the semi-elasticity, percentage price sensitivity or logarithmic derivative of price with respect to yield:  
 
@@ -194,7 +194,7 @@ A good way to visualize the Macaulay duration is to imagine PVs of cash flows as
 Figure 1 - Macaulay Duration for Two Year Annuity   
 This shows the Macaulay duration as the fulcrum or balance point on a balance beam, with weights representing the present value ofcash flows. "PV' is the present value ofthe cash flow. Time" is the maturity ofthe cash flow. The Macaulay Duration is shown at the fulcrum.  
 
-The equality (or near-equality) in the values of modified and Macaulay duration can be a valuable aid to intuition. Macaulay duration will always be less than the maximum maturity (equal only for a single cash flow, i.e. a zero-coupon bond, as seen in table 1 and the definition in equation 2). This means we can often make a rough guess at the Macaulay duration and from that infer a rough value for the modified duration. For example a ten year bond will have Macaulay duration somewhat but not dramatically less than 10 years, and so the modified duration will be somewhat less than. $10\%$ . In table 1 we can see that the ten year bond has a Macaulay duration of 8.5 years and a modified duration of. $8.4\%$  
+The equality (or near-equality) in the values of modified and Macaulay duration can be a valuable aid to intuition. Macaulay duration will always be less than the maximum maturity (equal only for a single cash flow, i.e. a zero-coupon bond, as seen in table 1 and the definition in equation 2). This means we can often make a rough guess at the Macaulay duration and from that infer a rough value for the modified duration. For example a ten year bond will have Macaulay duration somewhat but not dramatically less than 10 years, and so the modified duration will be somewhat less than $10\%$ . In table 1 we can see that the ten year bond has a Macaulay duration of 8.5 years and a modified duration of $8.4\%$  
 
 Macaulay duration is useful as an aide for intuition but in measuring price sensitivity we must use either modified duration or DV01. In many cases one can use either, converting between them using equation (5) depending on the needs of the problem. Generally, managers of real-money long-only portfolios use modified duration while managers of trading and derivatives portfolios tend to use Dvo1. Modified duration is well-suited for long-only portfolios, where risk and return can be. measured as a percent of portfolio value, while Dv01 is more suited to portfolios where the present value of the portfolio may be zero and measuring risk in dollar or absolute terms is more convenient..  
 
