@@ -21,7 +21,7 @@ key_concepts:
 
  #Economics #Debt_Cycles #Deleveraging #Financial_Crises
 
-# The Phases of the Classic Deflationary Debt Cycle
+# The Phases of the Classic Deflationary Debt Cycle Lecture Notes
 
 ## Overview
 - The classic deflationary debt cycle is characterized by seven stages.

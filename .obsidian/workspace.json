@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "c8d54e1b1b62ae3e",
+            "id": "d7eed63cb8c7f8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Inflationary Depressions and Currency Crises/Inflationary Depressions and Currency Crises.md",
+                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part III - Compendium of 48 Case Studies/Appendix.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,107 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inflationary Depressions and Currency Crises"
+              "title": "Appendix"
             }
           },
           {
-            "id": "700e38de82459f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 5 Options on Prices and Hedge-Based Valuation/Chapter 5 Options on Prices and Hedge-Based Valuation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 5 Options on Prices and Hedge-Based Valuation"
-            }
-          },
-          {
-            "id": "19f6f5c37c7f6305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Chapter 6 Options on Non-Price Variables.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 6 Options on Non-Price Variables"
-            }
-          },
-          {
-            "id": "e3bdcda32073cb77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 7 - Default Risk and Credit Derivatives/Chapter 7 - Default Risk and Credit Derivatives.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 7 - Default Risk and Credit Derivatives"
-            }
-          },
-          {
-            "id": "3a63f064724013c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/PART I RELATIVE VALUE BUILDING BLOCKS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PART I RELATIVE VALUE BUILDING BLOCKS"
-            }
-          },
-          {
-            "id": "647d2f850f3bc39b",
+            "id": "ce3d42e24c69223d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -224,12 +128,12 @@
             }
           },
           {
-            "id": "9dc27de9eb83985a",
+            "id": "656e5161b0678a9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part II Detailed Case Studies/German Debt Crisis andHyperinflation (1918–1924)/German Debt Crisis andHyperinflation (1918–1924).md",
+                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Inflationary Depressions and Currency Crises/Inflationary Depressions and Currency Crises.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,11 +148,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "German Debt Crisis andHyperinflation (1918–1924)"
+              "title": "Inflationary Depressions and Currency Crises"
+            }
+          },
+          {
+            "id": "8624871721d53680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Inflationary Depressions and Currency Crises/Inflationary Debt Crisis Lecture Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inflationary Debt Crisis Lecture Notes"
+            }
+          },
+          {
+            "id": "1573a291c2675aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Part 1 - The Archetypal Big Debt Cycle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Part 1 - The Archetypal Big Debt Cycle"
+            }
+          },
+          {
+            "id": "6e9ea7424efba578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Instruments/Assignments/Solutions/PSET 5 Solution-Financial Instruments (attachments)/CleanShot 2024-09-19 -002780@2x.png.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CleanShot 2024-09-19 -002780@2x.png"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -403,10 +379,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part II Detailed Case Studies/German Debt Crisis andHyperinflation (1918–1924)/German Debt Crisis andHyperinflation (1918–1924).md"
+                "file": "International Finance/Bridgewater/Bridgewater.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for German Debt Crisis andHyperinflation (1918–1924)"
+              "title": "File properties for Bridgewater"
             }
           },
           {
@@ -452,34 +428,34 @@
       "interactivity:Run Interactivity": false
     }
   },
-  "active": "9dc27de9eb83985a",
+  "active": "6e9ea7424efba578",
   "lastOpenFiles": [
-    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Principles For Navigating Big Debt Cycles.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/PART I RELATIVE VALUE BUILDING BLOCKS.md",
-    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 5 Options on Prices and Hedge-Based Valuation/Chapter 5 Options on Prices and Hedge-Based Valuation.md",
-    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Inflationary Depressions and Currency Crises/Inflationary Depressions and Currency Crises.md",
+    "Financial Instruments/Black Scholes Derivation.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Principles Part I.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Understanding Debt Crises and Their Management.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part II Detailed Case Studies/German Debt Crisis andHyperinflation (1918–1924)/War Economies and Hyperinflation.md",
     "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part III - Compendium of 48 Case Studies/Typically Inflationary Deleveragings.md",
-    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part II Detailed Case Studies/US Debt Crisis and Adjustment(2007–2011)/US Debt Crisis and Adjustment(2007–2011).md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part III - Compendium of 48 Case Studies/Primarily Domestic Currency Debt Crises.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/The Phases of the Classic Deflationary Debt Cycle/The Phases of the Classic Deflationary Debt Cycle Lecture Notes.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Inflationary Depressions and Currency Crises/The Dynamics of Inflationary Debt Cycles and Currency Crises.md",
     "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/The Phases of the Classic Deflationary Debt Cycle/The Phases of the Classic Deflationary Debt Cycle.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Part 1 - The Archetypal Big Debt Cycle.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Inflationary Depressions and Currency Crises/Inflationary Debt Crisis Lecture Notes.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Inflationary Depressions and Currency Crises/Inflationary Depressions and Currency Crises 1.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Inflationary Depressions and Currency Crises/Inflationary Depressions and Currency Crises.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Principles For Navigating Big Debt Cycles.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part III - Compendium of 48 Case Studies/Appendix.md",
+    "International Finance/Characteristics of the Eurodollar Market.md",
+    "International Finance/International Economics Trade and Money/International Economics Trade and Money.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 5 Options on Prices and Hedge-Based Valuation/Chapter 5 Options on Prices and Hedge-Based Valuation.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 6 Options on Non-Price Variables/Chapter 6 Options on Non-Price Variables.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 7 - Default Risk and Credit Derivatives/Chapter 7 - Default Risk and Credit Derivatives.md",
+    "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/PART I RELATIVE VALUE BUILDING BLOCKS.md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part II Detailed Case Studies/German Debt Crisis andHyperinflation (1918–1924)/German Debt Crisis andHyperinflation (1918–1924).md",
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part II Detailed Case Studies/US Debt Crisis and Adjustment(2007–2011)/US Debt Crisis and Adjustment(2007–2011).md",
     "International Finance/Bridgewater/Inflationary Depressions and Currency Crises.md",
     "International Finance/Bridgewater/Bridgewater.md",
     "Financial Engineering/A Guide to Duration DV01 and Yield Curve.md",
-    "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers.md",
-    "International Finance/China Foreign Exchange Reserves/Foreign Exchange Sterilization.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 6 Mortgage Backed Securities.md",
-    "Financial Markets and Institutions/III. Liquidity of Assets/Class 9- Bailouts and Bank Failures/Squam Lake Group Introduction.md",
-    "Fixed Income Asset Pricing/Fixed Income Asset Pricing Midterm.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 15/Other MBS.md",
-    "Credit Markets/Credit Markets Session 3.md",
-    "Advanced Financial Analysis and Valuation/Lecture Notes Advanced Financial Analysis and Valuation/Week 4 Advanced Financial Analysis and Valuation/Week 4 ESOs and Valuation.md",
-    "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Vasicek Short Rate Model.md",
-    "Financial Markets/Fixed Income Securities Tools for Today's Markets/Chapter 16/Swaption Skew.md",
-    "Financial Instruments/Assignments/Solutions/PSET 3 Solution-Financial Instruments.md",
-    "Financial Markets/Financial Asset Pricing Theory Overview/Chapter 12 - Derivatives/Options.md",
-    "Financial Engineering/Mathematics of the Financial Markets.md",
-    "International Finance/Lecture Notes on International Finance.md",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing/4. Elementary Review of Probability for Finance.md",
-    "Financial Instruments/Assignments/1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY.md",
     "International Finance/Bridgewater/Bridgewater Articles",
     "International Finance/Bridgewater/How Countries Go Broke/How Countries Go Broke Notes",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",

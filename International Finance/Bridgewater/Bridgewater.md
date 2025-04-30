@@ -26,17 +26,33 @@ key_concepts:
 
 %% Begin Waypoint %%
 - **[[Bridgewater]]**
-	- [[Black Scholes Derivation]]
 	- **[[Bridgewater Articles]]**
 		- [[Bridgewater Articles]]
 		- [[Capital Wars from 1600 to the Present.]]
 		- [[Economic Principles - Why and How Capitalism Needs To Be Reformed]]
 		- [[Largest Events Driving Changes to Life Expectancy Through Time]]
+		- [[The Effects of Tariffs How the Machine Works]]
 		- [[The Risks of US-China Military War Have Declined and a New Type of War Has Begun]]
 		- [[The US-China Tit-For-Tat Escalations Are Very Dangerous  LinkedIn]]
+		- [[War Economies An Overview]]
 		- [[What’s Coming The Changing Domestic and World Orders Under the Trump Administration]]
 		- [[Why and How Capitalism Needs to Be Reformed]]
 	- [[Bridgewater]]
+	- **Changing World Order**
+		- **[[Chapter 1 The Big Cycles in a Tiny Nutshell]]**
+			- [[Chapter 1 The Big Cycles in a Tiny Nutshell]]
+		- **[[Chapter 2 The Big Cycle of Money, Credit, Debt, and Economic Activity]]**
+			- [[Chapter 2 The Big Cycle of Money, Credit, Debt, and Economic Activity]]
+		- **[[Chapter 3 The Changing Value of Money]]**
+			- [[Chapter 3 The Changing Value of Money]]
+		- **[[Chapter 4 The Last 500 Years Part 1 The Big Cycles of the Dutch and British Empires and Their Currencies]]**
+			- [[Chapter 4 The Last 500 Years Part 1 The Big Cycles of the Dutch and British Empires and Their Currencies]]
+		- **[[Chapter 5 The Last 500 Years Part 2 The Big Cycle of the United States and the Dollar]]**
+			- [[Chapter 5 The Last 500 Years Part 2 The Big Cycle of the United States and the Dollar]]
+		- **[[Chapter 6 The Last 500 Years Part 3 The Big Cycle of China and Its Currency]]**
+			- [[Chapter 6 The Last 500 Years Part 3 The Big Cycle of China and Its Currency]]
+		- [[Table of Contents]]
+		- [[The Changing World Order]]
 	- **[[Chapters]]**
 		- [[Chapters]]
 		- [[Inflationary Depressions and Currency Crises]]
@@ -64,18 +80,6 @@ key_concepts:
 		- [[How Countries Go Broke-Chapter 12 to Chapter 14]]
 		- [[How Countries Go Broke-Chapter 15 & Chapter 16]]
 		- [[How Countries Go Broke]]
-	- [[Inflationary Debt Crisis Lecture Notes]]
-	- [[Inflationary Depressions and Currency Crises]]
 	- **[[Principles For Navigating Big Debt Cycles]]**
-	- [[Principles Part I]]
-	- [[Principles Part II]]
-	- [[The Archetypal Big Debt Cycle]]
-	- [[The Dynamics of Inflationary Debt Cycles and Currency Crises]]
-	- [[The Effects of Tariffs How the Machine Works]]
-	- [[The Mechanics of the Deflationary Debt Cycle]]
-	- [[The Phases of the Classic Deflationary Debt Cycle]]
-	- [[Understanding Debt Crises and Their Management]]
-	- [[War Economies An Overview]]
-	- [[War Economies and Hyperinflation]]
 
 %% End Waypoint %%

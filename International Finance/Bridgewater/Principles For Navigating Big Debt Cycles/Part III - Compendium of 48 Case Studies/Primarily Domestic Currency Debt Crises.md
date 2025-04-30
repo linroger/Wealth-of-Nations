@@ -1,13 +1,8 @@
-![](Attachments/BigDebtCycles_page_0_Picture_1.jpeg)
-
-# **BIG DEBT Principles For Navigating**
+## Principles For Navigating Big Debt Crises**
 
 ### **Part 3: Compendium of 48 Case Studies**
 
 # Table of Contents
-
-## Glossary
-- Glossary of Key Economic Terms
 
 ## Primarily Domestic Currency Debt Crises
 _Typically Deflationary Deleveragings_
@@ -65,7 +60,8 @@ _Typically Inflationary Deleveragings_
 
 ## Appendix
 - Macroprudential Policies
-
+## Glossary
+- Glossary of Key Economic Terms
 
 # **48 Debt Crises**
 

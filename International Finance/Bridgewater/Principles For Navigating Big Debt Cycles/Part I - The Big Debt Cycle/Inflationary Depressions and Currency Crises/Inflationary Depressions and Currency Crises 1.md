@@ -32,7 +32,7 @@ key_concepts:
   - Weimar Republic case study
 ---
 
-# Inflationary Depressions and Currency Crises
+# Inflationary Depressions and Currency Crises 1
 
 ## Introduction
 - **Previous Section Recap**
