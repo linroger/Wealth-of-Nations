@@ -22,6 +22,7 @@ key_concepts:
 
 %% Begin Waypoint %%
 - **[[International Finance]]**
+	- **[[Bridgewater]]**
 	- [[Characteristics of the Eurodollar Market]]
 	- **[[China Foreign Exchange Reserves]]**
 	- [[Covered and Uncovered Interest Parity]]
@@ -64,7 +65,6 @@ key_concepts:
 			- [[Chapter 22. Developing Countries_ Growth, Crisis, and Reform]]
 	- [[International Finance]]
 	- [[Lecture Notes on International Finance]]
-	- **[[Navigating Big Debt Crises]]**
 	- [[The Balance of Payments]]
 	- [[The Eurocurrency and Eurobond Markets Annotations]]
 	- [[The Foreign Exchange Market Annotations]]

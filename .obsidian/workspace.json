@@ -32,6 +32,78 @@
             }
           },
           {
+            "id": "cdcab31b5d3cfb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/Inflationary Depressions and Currency Crises/Inflationary Depressions and Currency Crises.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inflationary Depressions and Currency Crises"
+            }
+          },
+          {
+            "id": "9d4bae714a62799d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Principles For Navigating Big Debt Cycles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Principles For Navigating Big Debt Cycles"
+            }
+          },
+          {
+            "id": "2f202fbe3578e43d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/The Phases of the Classic Deflationary Debt Cycle/The Phases of the Classic Deflationary Debt Cycle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Phases of the Classic Deflationary Debt Cycle"
+            }
+          },
+          {
             "id": "700e38de82459f21",
             "type": "leaf",
             "state": {
@@ -174,32 +246,9 @@
               "icon": "lucide-file",
               "title": "Chapter 1 Introduction"
             }
-          },
-          {
-            "id": "0b09c5239c5fc03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How Countries Go Broke Introduction & Chapter 1"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -354,10 +403,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Financial Engineering/A Guide to Duration DV01 and Yield Curve.md"
+                "file": "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Part I - The Big Debt Cycle/The Phases of the Classic Deflationary Debt Cycle/The Phases of the Classic Deflationary Debt Cycle.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for A Guide to Duration DV01 and Yield Curve"
+              "title": "File properties for The Phases of the Classic Deflationary Debt Cycle"
             }
           },
           {
@@ -403,8 +452,12 @@
       "interactivity:Run Interactivity": false
     }
   },
-  "active": "f3ff574e577e29ec",
+  "active": "2f202fbe3578e43d",
   "lastOpenFiles": [
+    "International Finance/Bridgewater/Principles For Navigating Big Debt Cycles/Principles For Navigating Big Debt Cycles.md",
+    "International Finance/Bridgewater/Inflationary Depressions and Currency Crises.md",
+    "International Finance/Bridgewater/Bridgewater.md",
+    "Financial Engineering/A Guide to Duration DV01 and Yield Curve.md",
     "Financial Markets and Institutions/II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts/Class 4- Restructuring Public Debt/Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers.md",
     "International Finance/China Foreign Exchange Reserves/Foreign Exchange Sterilization.md",
     "Fixed Income Asset Pricing/Fixed Income Lecture Notes/Teaching Note 6 Mortgage Backed Securities.md",
@@ -421,18 +474,14 @@
     "International Finance/Lecture Notes on International Finance.md",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part I Basic Foundations for Derivative Pricing/4. Elementary Review of Probability for Finance.md",
     "Financial Instruments/Assignments/1. EXPLOITING AN APPARENT ARBITRAGE OPPORTUNITY.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 8 to Chapter 11 Notes.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 6 & Chapter 7 Notes.md",
-    "International Finance/Navigating Big Debt Crises/Chapters/Part 1 The Archetypal Big Debt Cycle.md",
-    "International Finance/Navigating Big Debt Crises/Chapters/Inflationary Depressions and Currency Crises.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 15 & Chapter 16 Notes.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/Introduction to How Countries Go Broke.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 15 & Chapter 16.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 12 to Chapter 14.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 12 to Chapter 14 Notes.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 8 to Chapter 11.md",
-    "International Finance/Navigating Big Debt Crises/Bridgewater Articles",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes",
+    "International Finance/Bridgewater/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 8 to Chapter 11 Notes.md",
+    "International Finance/Bridgewater/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 6 & Chapter 7 Notes.md",
+    "International Finance/Bridgewater/Chapters/Part 1 The Archetypal Big Debt Cycle.md",
+    "International Finance/Bridgewater/Chapters/Inflationary Depressions and Currency Crises.md",
+    "International Finance/Bridgewater/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke-Chapter 15 & Chapter 16 Notes.md",
+    "International Finance/Bridgewater/How Countries Go Broke/How Countries Go Broke Notes/Introduction to How Countries Go Broke.md",
+    "International Finance/Bridgewater/Bridgewater Articles",
+    "International Finance/Bridgewater/How Countries Go Broke/How Countries Go Broke Notes",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS",

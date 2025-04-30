@@ -22,10 +22,10 @@ key_concepts:
   - Risk mitigation strategies
 ---
 
-# Navigating Big Debt Crises
+# Bridgewater
 
 %% Begin Waypoint %%
-- **[[Navigating Big Debt Crises]]**
+- **[[Bridgewater]]**
 	- [[Black Scholes Derivation]]
 	- **[[Bridgewater Articles]]**
 		- [[Bridgewater Articles]]
@@ -33,8 +33,10 @@ key_concepts:
 		- [[Economic Principles - Why and How Capitalism Needs To Be Reformed]]
 		- [[Largest Events Driving Changes to Life Expectancy Through Time]]
 		- [[The Risks of US-China Military War Have Declined and a New Type of War Has Begun]]
+		- [[The US-China Tit-For-Tat Escalations Are Very Dangerous  LinkedIn]]
 		- [[What’s Coming The Changing Domestic and World Orders Under the Trump Administration]]
 		- [[Why and How Capitalism Needs to Be Reformed]]
+	- [[Bridgewater]]
 	- **[[Chapters]]**
 		- [[Chapters]]
 		- [[Inflationary Depressions and Currency Crises]]
@@ -64,7 +66,7 @@ key_concepts:
 		- [[How Countries Go Broke]]
 	- [[Inflationary Debt Crisis Lecture Notes]]
 	- [[Inflationary Depressions and Currency Crises]]
-	- [[Navigating Big Debt Crises]]
+	- **[[Principles For Navigating Big Debt Cycles]]**
 	- [[Principles Part I]]
 	- [[Principles Part II]]
 	- [[The Archetypal Big Debt Cycle]]
@@ -72,7 +74,6 @@ key_concepts:
 	- [[The Effects of Tariffs How the Machine Works]]
 	- [[The Mechanics of the Deflationary Debt Cycle]]
 	- [[The Phases of the Classic Deflationary Debt Cycle]]
-	- [[The US-China Tit-For-Tat Escalations Are Very Dangerous  LinkedIn]]
 	- [[Understanding Debt Crises and Their Management]]
 	- [[War Economies An Overview]]
 	- [[War Economies and Hyperinflation]]
