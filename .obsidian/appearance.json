@@ -22,7 +22,8 @@
     "[ui] Compact Tabs",
     "academic-pdf-export",
     "code-color",
-    "macos-native-chatgpt"
+    "macos-native-chatgpt",
+    "jpmorgan_mermaid"
   ],
   "theme": "moonstone",
   "showViewHeader": true
