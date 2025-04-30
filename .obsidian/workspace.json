@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/The Crisis Spills over to the Central Bank (Stages 5-6).md",
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter One.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Crisis Spills over to the Central Bank (Stages 5-6)"
+              "title": "How Countries Go Broke Introduction & Chapter One"
             }
           },
           {
@@ -354,10 +354,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/The Crisis Spills over to the Central Bank (Stages 5-6).md"
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter One.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for The Crisis Spills over to the Central Bank (Stages 5-6)"
+              "title": "File properties for How Countries Go Broke Introduction & Chapter One"
             }
           },
           {
@@ -404,11 +404,12 @@
   },
   "active": "f3ff574e577e29ec",
   "lastOpenFiles": [
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Two & Chapter Three.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Six & Chapter Seven.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/The Crisis Spills over to the Central Bank (Stages 5-6).md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five 1.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 15 & Chapter 16.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/The Crisis Spills over to the Central Bank (Stages 5-6).md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five 1.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 12 to Chapter 14.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 8 to Chapter 11.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter One.md",
@@ -429,7 +430,6 @@
     "Course Notes/Python/QuantLib-Python/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
     "Course Notes/Python/QuantLib-Python/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
     "Financial Engineering/Pricing Interest Rate Derivatives Under Stochastic Volatility.md",
-    "Financial Engineering/Untitled.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS",
