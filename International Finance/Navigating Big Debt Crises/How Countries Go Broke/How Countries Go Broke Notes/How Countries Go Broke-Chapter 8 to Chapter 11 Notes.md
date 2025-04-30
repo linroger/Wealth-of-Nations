@@ -29,7 +29,20 @@ _**While in Part 1 I laid out the mechanics of money-credit-debt-markets-economi
 
 **During these periods, debt assets (bonds) typically become undesirable holdings compared to alternative stores of value like equities and gold, which better preserve purchasing power when monetary value deteriorates.**
 
-  -  graph TD A[Excessive Creation of Debt Assets/Liabilities] -->|Exceeds Real Economy Capacity| B[Unsustainable Debt-to-Income Ratios] B --> C[Debt Asset Holders Seek Conversion to Real Money] C --> D[Financial Institution Faces 'Run'] D --> E{Central Bank Response} E -->|Option 1| F[Default on Obligations] E -->|Option 2: For Central Banks| G[Create New Money/Monetize Debt] G --> H[Devaluation of Money and Debt] H --> I[Reduced Real Debt Burden] I --> J[New Economic Equilibrium] H --> K[Shift from Debt Assets to Real Assets] K --> L[Increased Demand for Equities/Gold]   - 
+```mermaid
+graph TD
+    A[Excessive Creation of Debt Assets/Liabilities] -->|Exceeds Real Economy Capacity| B[Unsustainable Debt-to-Income Ratios]
+    B --> C[Debt Asset Holders Seek Conversion to Real Money]
+    C --> D[Financial Institution Faces 'Run']
+    D --> E{Central Bank Response}
+    E -->|Option 1| F[Default on Obligations]
+    E -->|Option 2: For Central Banks| G[Create New Money / Monetize Debt]
+    G --> H[Devaluation of Money and Debt]
+    H --> I[Reduced Real Debt Burden]
+    I --> J[New Economic Equilibrium]
+    H --> K[Shift from Debt Assets to Real Assets]
+    K --> L[Increased Demand for Equities / Gold]
+```
 
 You could overlook this fundamental pattern if you focus too narrowly on the specific mechanisms of banking systems, especially without considering their evolution across time and geography. While modern central banks differ from historical financial institutions, they operate on similar principles—with the crucial distinction that central banks can create money. During debt crises, this capacity becomes their defining advantage.
 
@@ -92,20 +105,26 @@ The following chart shows the real 10-year bond yield. For post-1997 years, I us
 ![](https://media.licdn.com/dms/image/v2/D4E12AQGlkRkKZIsBGA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738242396220?e=1749686400&v=beta&t=fRBWo9VpduZUCVlVcPFOZvIvuUyIDc-FAVu9X98M)
 
 
-```
-  -  graph TD A[Real Interest Rates] -->|Key Economic Indicator| B{Economic Environment} B -->|When Significantly Negative| C[Advantageous for Borrowers] B -->|Around Historical 2% Average| D[Balanced Economy] B -->|When Significantly Positive| E[Advantageous for Lenders]
-C --> F[Encourages Debt Expansion]
-F --> G[Asset Price Inflation]
-F --> H[Economic Stimulus]
-F --> I[Potential Debt Bubbles]
-
-E --> J[Restricts Credit Creation]
-J --> K[Debt Servicing Challenges]
-J --> L[Economic Contraction]
-J --> M[Deleveraging Pressure]
-
-D --> N[Sustainable Economic Growth]
-D --> O[Balanced Credit Markets]
+```mermaid
+graph TD
+    A[Real Interest Rates] -->|Key Economic Indicator| B{Economic Environment}
+    
+    B -->|When Significantly Negative| C[Advantageous for Borrowers]
+    B -->|Around Historical 2% Average| D[Balanced Economy]
+    B -->|When Significantly Positive| E[Advantageous for Lenders]
+    
+    C --> F[Encourages Debt Expansion]
+    F --> G[Asset Price Inflation]
+    F --> H[Economic Stimulus]
+    F --> I[Potential Debt Bubbles]
+    
+    E --> J[Restricts Credit Creation]
+    J --> K[Debt Servicing Challenges]
+    J --> L[Economic Contraction]
+    J --> M[Deleveraging Pressure]
+    
+    D --> N[Sustainable Economic Growth]
+    D --> O[Balanced Credit Markets]
 ```
 
   - 
@@ -136,28 +155,32 @@ I've used dots to indicate projected growth based on Congressional Budget Office
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQFU5j2jhrk6Jw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1738242523456?e=1749686400&v=beta&t=hT0O-ilRzqwsOICoSQIoMGjro20fjSo3Olvgf7-K8UA)
 
-  -  graph TD A[Government Debt Service Ratio] --> B[Historical Stability 1950-2000] A --> C[Current Situation: ~100% of Revenue] A --> D[Projected Growth to ~150% in 15 Years]
 
-```
-B --> B1[Stable/Declining Government Debt]
-B --> B2[Manageable Principal Payments]
-B --> B3[Fluctuating Interest Payments]
-
-C --> E[Current Major Creditors]
-E --> E1[Central Bank: ~33%]
-E --> E2[Commercial Banks]
-E --> E3[Foreign Investors: ~33%]
-
-D --> F[Drivers of Projected Increase]
-F --> F1[Rising Debt Levels]
-F --> F2[Rising Interest Rates]
-F --> F3[Combined Multiplicative Effect]
-
-D --> G[Potential Consequences]
-G --> G1[Spending Constraints]
-G --> G2[Additional Borrowing Requirements]
-G --> G3[Increased Central Bank Financing]
-G --> G4[Currency Devaluation Pressure]
+```mermaid
+  graph TD
+      A[Government Debt Service Ratio] --> B[Historical Stability 1950–2000]
+      A --> C[Current Situation: ~100% of Revenue]
+      A --> D[Projected Growth to ~150% in 15 Years]
+  
+      B --> B1[Stable / Declining Government Debt]
+      B --> B2[Manageable Principal Payments]
+      B --> B3[Fluctuating Interest Payments]
+  
+      C --> E[Current Major Creditors]
+      E --> E1[Central Bank: ~33%]
+      E --> E2[Commercial Banks]
+      E --> E3[Foreign Investors: ~33%]
+  
+      D --> F[Drivers of Projected Increase]
+      F --> F1[Rising Debt Levels]
+      F --> F2[Rising Interest Rates]
+      F --> F3[Combined Multiplicative Effect]
+  
+      D --> G[Potential Consequences]
+      G --> G1[Spending Constraints]
+      G --> G2[Additional Borrowing Requirements]
+      G --> G3[Increased Central Bank Financing]
+      G --> G4[Currency Devaluation Pressure]
 ```
 
   - 
@@ -206,7 +229,19 @@ World War II ended the previous world order and initiated the transition to our 
 
 **In the early 1960s, the US experienced an expansionary short-term money and credit cycle, benefiting American markets and economy until 1965-66, when inflation reached 3.8% and the Federal Reserve tightened monetary policy, inverting the yield curve for the first time since 1929 and triggering a 1969-70 recession. This produced the 1968 inflation-adjusted peak in the S&P 500, which would not be surpassed for 25 years, with the extended underperformance stemming from the significant cycle influences described earlier in this analysis.** This prolonged period of dismal stock and bond market performance—contrasted with exceptional returns from gold and inflation-hedge assets—primarily resulted from necessary money creation and devaluation to address excessive debts (i.e., obligations to deliver money) relative to actual money in circulation. This paradigm significantly shaped my understanding of navigating diverse market environments and developing requisite skills. It also places me in a fundamentally different mindset than most investors who lack comparable experiences and base their perspectives solely on personal observations, leading them to believe that maintaining long positions exclusively in equity-like assets while disregarding major cycles represents optimal investment strategy.
 
-  -  graph TD A[MP1: Gold-Linked System 1944-1971] -->|Excessive Debt Creation| B[Imbalance: More Dollar Claims Than Gold Reserves] B --> C[Increasing Pressure on Gold Window] C --> D[Nixon Closes Gold Window 1971] D --> E[MP2: Fiat Money Interest Rate System 1971-2008] E -->|Repeated Credit Cycles| F[Rising Overall Debt/GDP] F --> G[Interest Rates Hit 0% in 2008] G --> H[MP3: Quantitative Easing/Debt Monetization 2008-Present] H -->|Expansion of Central Bank Balance Sheets| I[Central Banks Become Major Debt Holders] I --> J[Current Challenge: Rising Debt Service/Revenue Ratios] J -->|Projected to Reach 150% in 15 Years| K[Potential Future Debt Crisis]   - 
+```mermaid
+graph TD
+    A[MP1: Gold-Linked System 1944–1971] -->|Excessive Debt Creation| B[Imbalance: More Dollar Claims Than Gold Reserves]
+    B --> C[Increasing Pressure on Gold Window]
+    C --> D[Nixon Closes Gold Window 1971]
+    D --> E[MP2: Fiat Money Interest Rate System 1971–2008]
+    E -->|Repeated Credit Cycles| F[Rising Overall Debt / GDP]
+    F --> G[Interest Rates Hit 0% in 2008]
+    G --> H[MP3: Quantitative Easing / Debt Monetization 2008–Present]
+    H -->|Expansion of Central Bank Balance Sheets| I[Central Banks Become Major Debt Holders]
+    I --> J[Current Challenge: Rising Debt Service / Revenue Ratios]
+    J -->|Projected to Reach 150% in 15 Years| K[Potential Future Debt Crisis]
+```
 
 **The 1960s witnessed several nerve-wracking political and geopolitical conflicts that profoundly impacted me, most notably the 1962 Cuban Missile Crisis, which brought the world's most powerful nations to the brink of nuclear war.** As a 13-year-old, I vividly recall watching John F. Kennedy's address explaining the situation and wondering whether nuclear war would erupt or which country would back down. Cuba's leader, Fidel Castro, advocated for war, potentially nuclear. Surprisingly, financial markets reacted less severely than I anticipated. Eventually, the Soviet Union withdrew its US-targeted missiles from Cuba, while the United States removed its Soviet-targeted missiles from Turkey. This arrangement allowed both nations to claim victory without disclosing their concessions, providing my first lesson in brinkmanship diplomacy's mechanics and market behavior during such crises (when potential conflict damages would be unacceptably high). November 1963 brought JFK's assassination, which similarly produced only brief market and economic disruptions; the civil rights movement advanced; and substantial spending occurred on both "guns" (Vietnam War) and "butter" (domestic social programs). These and numerous seemingly monumental events with limited market impact helped me understand why markets remained resilient and distinguish between consequential and inconsequential developments for market pricing and economic activity. Without exploring everything that matters, I'll note that markets primarily respond to investment cash flows, so major political events like war threats have minimal impact until they affect these cash flows. From an investment perspective, I recommend disregarding today's headline-grabbing but inconsequential events, as I do. Moreover, I've learned that most global threats appear more ominous than they ultimately prove, as leaders typically retreat from brinkmanship rather than cross critical thresholds. However, international conflicts occasionally impact supply chains and currency values, and in rare instances, leaders miscalculate, leading to genuine crises with significant consequences. I view protection against such events as insurance against improbable but unacceptable losses, seeking coverage despite not expecting their occurrence.
 
