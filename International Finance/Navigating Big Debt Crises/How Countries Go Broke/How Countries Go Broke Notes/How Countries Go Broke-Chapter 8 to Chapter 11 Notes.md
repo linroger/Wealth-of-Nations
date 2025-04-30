@@ -743,9 +743,12 @@ F --> F3[Abrupt Reserve Status Shift]
 
 **Deng Xiaoping's ascension following Mao's death initiated China's extraordinary economic transformation. While maintaining Communist Party political control, Deng implemented market-oriented reforms, opened China to international trade and investment, and established special economic zones to attract foreign capital and expertise. Deng's approach embodied pragmatism over ideology, famously stating, "It doesn't matter whether a cat is black or white, as long as it catches mice."**
 
-  -  flowchart TD A[China's Economic Evolution 1949-Present] --> B[Mao Era 1949-1976] A --> C[Reform Era 1978-Present]
+  -  
 
-```
+```mermaid
+flowchart TD 
+A[China's Economic Evolution 1949-Present] --> B[Mao Era 1949-1976] 
+A --> C[Reform Era 1978-Present]
 B --> B1[Closed Communist System]
 B --> B2[Eliminated Private Property]
 B --> B3[Central Economic Planning]
@@ -809,9 +812,13 @@ E --> E5[Middle Income Transition]
 
 **The 1980s represented Japan's economic zenith. Japanese manufacturing dominated numerous sectors, companies initiated global expansion through foreign acquisitions, and the country appeared positioned to potentially surpass the United States economically. This economic strength generated immense national confidence, manifesting in rapidly appreciating asset prices—particularly equities and real estate. Between 1985 and 1989, Japanese stock markets approximately tripled while urban land prices more than doubled.**
 
-  -  flowchart TD A[Japan's Economic Trajectory] --> B[Post-War Economic Miracle] A --> C[1980s Bubble Economy] A --> D[1990s-Present Debt Deflation Struggle]
 
-```
+
+```mermaid
+flowchart TD 
+A[Japan's Economic Trajectory] --> B[Post-War Economic Miracle] 
+A --> C[1980s Bubble Economy] 
+A --> D[1990s-Present Debt Deflation Struggle]
 B --> B1[Manufacturing Prowess]
 B --> B2[Export Success]
 B --> B3[High Savings Rate]
@@ -883,9 +890,12 @@ D1 & D2 & D3 & D4 --> F[Economic Stagnation]
 - **Technological innovation operates independently from debt cycles but can either alleviate or exacerbate economic challenges depending on timing and implementation**
     
 
-  -  flowchart TD A[Current Debt Cycle Position] --> B[Advanced Economies] A --> C[Emerging Economies]
 
-```
+
+```mermaid
+flowchart TD 
+A[Current Debt Cycle Position] --> B[Advanced Economies] 
+A --> C[Emerging Economies]
 B --> B1[High Government Debt Levels]
 B --> B2[Substantial Central Bank Balance Sheets]
 B --> B3[Elevated Interest Rates Post-Inflation]
