@@ -2,7 +2,7 @@
 
 The chart below illustrates the seven stages of an archetypal long-term debt cycle, by tracking the total debt of the economy as a percentage of the total income of the economy (GDP) and the total amount of debt service payments relative to GDP over a period of 12 years.
 
-![](Attachments/_page_0_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_0_Figure_2.jpeg)
 
 
 Throughout this section, I'll include similar "archetype" charts that are built by averaging the deflationary deleveraging cases.3
@@ -35,7 +35,7 @@ As new speculators and lenders enter the market and confidence increases, credit
 
 The lenders and the speculators make a lot of fast, easy money, which reinforces the bubble by increasing the speculators' equity, giving them the collateral they need to secure new loans. At the time, most people don't think that is a problem; to the contrary, they think that what is happening is a reflection and confirmation of the boom. This phase of the cycle typically feeds on itself. Taking stocks as an example, rising stock prices lead to more spending and investment, which raises earnings, which raises stock prices, which lowers credit spreads and encourages increased lending (based on the increased value of collateral and higher earnings), which affects spending and investment rates, etc. During such times, most people think the assets are a fabulous treasure to own—and consider anyone who doesn't own them to be missing out. As a result of this dynamic, all sorts of entities build up long positions. Large asset-liability mismatches increase in the forms of a) borrowing short-term to lend long-term, b) taking on liquid liabilities to invest in illiquid assets, and c) investing in riskier debt or other risky assets with money borrowed from others, and/or d) borrowing in one currency and lending in another, all to pick up a perceived spread. All the while, debts rise fast and debt service costs rise even faster. The charts below paint the picture.
 
-![](Attachments/_page_2_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_2_Figure_0.jpeg)
 
 In markets, when there's a consensus, it gets priced in. This consensus is also typically believed to be a good rough picture of what's to come, even though history has shown that the future is likely to turn out differently than expected. In other words, humans by nature (like most species) tend to move in crowds and weigh recent experience more heavily than is appropriate. In these ways, and because the consensus view is reflected in the price, extrapolation tends to occur.
 
@@ -43,7 +43,7 @@ At such times, increases in debt-to-income ratios are very rapid. The above char
 
 ### amount of income.
 
-![](Attachments/_page_3_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_3_Figure_0.jpeg)
 
 Bubbles are most likely to occur at the tops in the business cycle, balance of payments cycle, and/or long-term debt cycle. As a bubble nears its top, the economy is most vulnerable, but people are feeling the wealthiest and the most bullish. In the cases we studied, total debt-to-income levels averaged around 300 percent of GDP. To convey a few rough average numbers, below we show some key indications of what the archetypal bubble looks like:
 
@@ -69,7 +69,7 @@ While central banks typically do tighten money somewhat and short rates rise on 
 
 All this reverses when the bubble pops and the same linkages that inflated the bubble make the downturn self-reinforcing. Falling asset prices decrease both the equity and collateral values of leveraged speculators, which causes lenders to pull back. This forces speculators to sell, driving down prices even more. Also, lenders and investors "run" (i.e., withdraw their money) from risky financial intermediaries and risky investments, causing them to have liquidity problems. Typically, the affected market or markets are big enough and leveraged enough that the losses on the accumulated debt are systemically threatening, which is to say that they threaten to topple the entire economy.
 
-![](Attachments/_page_4_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_4_Figure_3.jpeg)
 
 ## **Spotting Bubbles**
 
@@ -119,11 +119,11 @@ Typically, in the early stages of the top, the rise in short rates narrows or el
 
 at their lowest relative to short-term interest rates), people are incentivized to move to cash just before the bubble pops, slowing credit growth and causing the previously described dynamic.
 
-![](Attachments/_page_6_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_6_Figure_1.jpeg)
 
 Early on in the top, some parts of the credit system suffer, but others remain robust, so it isn't clear that the economy is weakening. So while the central bank is still raising interest rates and tightening credit, the seeds of the recession are being sown. The fastest rate of tightening typically comes about five months prior to the top of the stock market. The economy is then operating at a high rate, with demand pressing up against the capacity to produce. Unemployment is normally at cyclical lows and inflation rates are rising. The increase in short-term interest rates makes holding cash more attractive, and it raises the interest rate used to discount the future cash flows of assets, weakening riskier asset prices and slowing lending. It also makes items bought on credit de facto more expensive, slowing demand. Short rates typically peak just a few months before the top in the stock market.
 
-![](Attachments/_page_6_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_6_Figure_3.jpeg)
 
 The more leverage that exists and the higher the prices, the less tightening it takes to prick the bubble and the bigger the bust that follows. To understand the magnitude of the downturn that is likely to occur, it is less important to understand the magnitude of the tightening than it is to understand each particular sector's sensitivity to tightening and how losses will cascade. These pictures are best seen by looking at each of the important sectors of the economy and each of the big players in these sectors rather than at economy-wide averages.
 
@@ -133,17 +133,17 @@ to be a buying opportunity and find stocks cheap in relation to both past earnin
 
 # **4) The "Depression"**
 
-![](Attachments/_page_7_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_7_Figure_3.jpeg)
 
 In normal recessions (when monetary policy is still effective), the imbalance between the amount of money and the need for it to service debt can be rectified by cutting interest rates enough to 1) produce a positive wealth effect, 2) stimulate economic activity, and 3) ease debt-service burdens. This can't happen in depressions, because interest rates can't be cut materially because they have either already reached close to 0 percent or, in cases where currency outflows and currency weaknesses are great, the floor on interest rates is higher because of credit or currency risk considerations.
 
 This is precisely the formula for a depression. As shown, this happened in the early stage of both the 1930–32 depression and the 2008–09 depression. In well managed cases, like the US in 2007–08, the Fed lowered rates very quickly and then, when that didn't work, moved on to alternative means of stimulating, having learned from its mistakes in the 1930s when the Fed was slower to ease and even tightened at times to defend the dollar's peg to gold.
 
-![](Attachments/_page_7_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_7_Figure_6.jpeg)
 
 The chart below shows the sharp lowering of interest rates toward 0 percent for the average of the 21 deflationary debt crises that we looked at.
 
-![](Attachments/_page_8_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_1.jpeg)
 
 As the depression begins, debt defaults and restructurings hit the various players, especially leveraged lenders (e.g., banks), like an avalanche. Both lenders' and depositors' justified fears feed on themselves, leading to runs on financial institutions that typically don't have the cash to meet them unless they are under the umbrella of government protections. Cutting interest rates doesn't work adequately because the floors on risk-free rates have already been hit and because as credit spreads rise, the interest rates on risky loans go up, making it difficult for those debts to be serviced. Interest rate cuts also don't do much to help lending institutions that have liquidity problems and are suffering from runs. At this phase of the cycle, debt defaults and austerity (i.e., the forces of deflation) dominate, and are not sufficiently balanced with the stimulative and inflationary forces of printing money to cover debts (i.e., debt monetization).
 
@@ -173,7 +173,7 @@ Even as debts are written down, debt burdens rise as spending and incomes fall. 
 
 **Household Debt as a % of Net Worth**
 
-![](Attachments/_page_10_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_10_Figure_4.jpeg)
 
 The capitalists/investors class experiences a tremendous loss of "real" wealth during depressions because the value of their investment portfolios collapses (declines in equity prices are typically around 50 percent), their earned incomes fall, and they typically face higher tax rates. As a result, they become extremely defensive. Quite often, they are motivated to move their money out of the country (which contributes to currency weakness), dodge taxes, and seek safety in liquid, noncredit-dependent investments (e.g., low-risk government bonds, gold, or cash).
 
@@ -217,7 +217,7 @@ Typically, though not necessarily, these moves come in progressively larger dose
 
 deleveraging" phase to its expansion/"beautiful deleveraging" phase. The chart below shows how this "money printing" happened in the US in the 1930s and again after 2008.
 
-![](Attachments/_page_12_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_5.jpeg)
 
 While highly stimulative monetary policy is a critical part of a deleveraging, it is typically not sufficient. When risks emerge that systemically important institutions will fail, policy makers must take steps to keep these entities running. They must act immediately to:
 
@@ -288,7 +288,7 @@ The table below shows how frequently the previously described policy moves were 
 
 Wealth gaps increase during bubbles and they become particularly galling for the less privileged during hard times. As a general rule, if rich people share a budget with poor people and there is an economic downturn, there will be economic and political conflict. It is during such times that populism on both the left and the right tends to emerge. How well the people and the political system handle this is key to how well the economy and the society weather the period. As shown below, both inequality and populism are on the rise in the US today, much as they were in the 1930s. In both cases, the net worth of the top 0.1 percent of the population equaled approximately that of the bottom 90 percent combined.
 
-![](Attachments/_page_15_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_15_Figure_9.jpeg)
 
 ### 1900 1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2010 2020
 
@@ -318,11 +318,11 @@ hyperinflation of the 1920s, or those in Argentina and Brazil in the 1980s). The
 
 Printing money/debt monetization and government guarantees are inevitable in depressions in which interest rate cuts won't work, though these tools are of little value in countries that are constrained from printing or don't have assets to back printing up and can't easily negotiate the redistributions of the debt burdens. All of the deleveragings that we have studied (which is most of those that occurred over the past hundred years) eventually led to big waves of money creation, fiscal deficits, and currency devaluations (against gold, commodities, and stocks). In different cases, policy makers have varied which exact combination of the levers they used, typically as a function of the nature of their monetary systems. The chart below conveys the archetypal path of money printing in deflationary deleveragings over the 21 cases. The money printing occurs in two classic waves—central banks first provide liquidity to stressed institutions, and then they conduct large-scale asset purchases to broadly stimulate the economy.
 
-![](Attachments/_page_17_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_17_Figure_3.jpeg)
 
 Below we show the average real exchange rate versus trade partners, which reflects the strength/weakness of a currency relative to the country's trade partners.
 
-![](Attachments/_page_17_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_17_Figure_5.jpeg)
 
 | Early Part<br>of the Cycle<br>(1) |     |     | Bubble<br>(2) | Top<br>(3) |   |    | Depression<br>(4) |    |    | Beautiful<br>Deleveraging<br>(5) |    | Pushing on a String/<br>Normalization<br>(6)/(7) |
 |-----------------------------------|-----|-----|---------------|------------|---|----|-------------------|----|----|----------------------------------|----|--------------------------------------------------|
@@ -331,7 +331,7 @@ Below we show the average real exchange rate versus trade partners, which reflec
 
 Typically, governments with gold-, commodity-, or foreign-currency-pegged money systems are forced to have tighter monetary policies to protect the value of their currency than governments with fiat monetary systems. But eventually the debt contractions become so painful that they relent, break the link, and print (i.e., either they abandon these systems or change the amount/pricing of the commodity that they will exchange for a unit of money). For example, when the value of the dollar (and therefore the amount of money) was tied to gold during the Great Depression, suspending the promise to convert dollars into gold so that the currency could be devalued and more money created was key to creating the bottoms in the stock and commodity markets and the economy. Printing money, making asset purchases, and providing guarantees were much easier to do in the 2008 financial crisis, as they didn't require a legalized and official change in the currency regime. The chart below shows the archetypal path of gold prices. In the US Great Depression, gold rose overnight when Roosevelt broke the gold peg, and during the more recent financial crisis, Fed moves helped push down the value of the dollar versus all currencies, including gold.
 
-![](Attachments/_page_18_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_18_Figure_1.jpeg)
 
 Gold Price (Local FX, Indexed)
 

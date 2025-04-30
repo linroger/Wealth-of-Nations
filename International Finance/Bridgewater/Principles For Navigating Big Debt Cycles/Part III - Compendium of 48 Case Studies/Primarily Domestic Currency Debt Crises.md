@@ -1,4 +1,4 @@
-![](Attachments/_page_0_Picture_1.jpeg)
+![](Attachments/BigDebtCycles_page_0_Picture_1.jpeg)
 
 # **BIG DEBT Principles For Navigating**
 
@@ -85,11 +85,11 @@ Between 1926 and 1929, the United States experienced a bubble that was driven by
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 1929 to 1933. High debt levels left the United States vulnerable to a shock which came in the form of the 1929 stock market crash. The United States suffered from self-reinforcing declines in GDP (falling by 26%), in stock prices (falling by 84%) and in home prices (falling by 24%). Unemployment rates increased by 23%. The United States's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though the United States needed a deleveraging, its debt as a % GDP went up by 98% (26% annualized), driven by a mix of falling real incomes, deflation, and interest payments financed with new debt.
 
-![](Attachments/_page_6_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_6_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_6_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_6_Figure_5.jpeg)
 
 ### **United States 1926–1936 Case Auto-Summary (cont.)**
 
@@ -97,7 +97,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a slightly longer than average bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 1933. In terms of monetary policy, the government broke the peg to gold, M0 increased by 6% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -5% during the stimulative phase. Over the cycle, the United States was very aggressive in managing its financial institutions and bad debts, pulling 8 out of 9 classic policy levers. In particular, it provided liquidity and directly purchased troubled assets. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 8% during this period and sovereign long rates falling to 3%). During this phase, unemployment rates declined by 14% and debt as a % of GDP fell by 70% (21% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios was driven primarily by rising real incomes and to a lesser extent by inflation. It took 7 years before real GDP reached its prior peak and equity prices in USD terms recovered within 25 years.
 
-![](Attachments/_page_7_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_7_Figure_3.jpeg)
 
 The crisis had a notable impact on the politics of the United States, as it helped set the stage for FDR, whom many people consider a populist leader, to take power.
 
@@ -105,23 +105,23 @@ The crisis had a notable impact on the politics of the United States, as it help
 
 #### **Indebtedness**
 
-![](Attachments/_page_8_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_2.jpeg)
 
 #### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_8_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_4.jpeg)
 
-![](Attachments/_page_8_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_6.jpeg)
 
 # **United States 1926–1936 Chart Deck Appendix (cont.)**
 
-![](Attachments/_page_9_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_9_Figure_1.jpeg)
 
-![](Attachments/_page_9_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_9_Figure_2.jpeg)
 
-![](Attachments/_page_9_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_9_Figure_4.jpeg)
 
-![](Attachments/_page_9_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_9_Figure_5.jpeg)
 
 # **United Kingdom 1927–1936 Case Auto-Summary**
 
@@ -137,9 +137,9 @@ Eventually the cycle turned, producing a self-reinforcing bust and an "ugly dele
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_10_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_10_Figure_7.jpeg)
 
-![](Attachments/_page_10_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_10_Figure_8.jpeg)
 
 ## **United Kingdom 1927–1936 Case Auto-Summary (cont.)**
 
@@ -147,27 +147,27 @@ Eventually the cycle turned, producing a self-reinforcing bust and an "ugly dele
 
 After a slightly shorter than average bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 1931. In terms of monetary policy, the government broke the peg to gold, M0 increased by 2% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -8% during the stimulative phase. Over the cycle, the United Kingdom was not aggressive in managing its financial institutions and bad debts, pulling 1 out of 9 classic policy levers. This and other stimulative measures helped bring nominal growth well above nominal interest rates (with growth averaging 4% during this period and sovereign long rates falling to 3%). During this phase, unemployment rates declined by 8% and debt as a % of GDP fell by 29% (5% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios was driven primarily by paying down existing debt and to a lesser extent by rising real incomes. This was partially offset by interest payments financed with new debt. It took 5 years before real GDP reached its prior peak and equity prices in USD terms recovered within 8 years.
 
-![](Attachments/_page_11_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_11_Figure_3.jpeg)
 
 # **United Kingdom 1927–1936 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_12_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_12_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_4.jpeg)
 
-![](Attachments/_page_12_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_6.jpeg)
 
 # **United Kingdom 1927–1936 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_13_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_13_Figure_2.jpeg)
 
-![](Attachments/_page_13_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_13_Figure_4.jpeg)
 
 # **Japan 1925–1936 Case Auto-Summary**
 
@@ -183,7 +183,7 @@ Eventually the cycle turned, producing a self-reinforcing bust and an "ugly dele
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_14_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_14_Figure_7.jpeg)
 
 # **Japan 1925–1936 Case Auto-Summary (cont.)**
 
@@ -193,31 +193,31 @@ After a slightly longer than average bust phase, policy makers were able to prov
 
 The crisis had a notable impact on the politics of Japan, as it helped set the stage for Hideki Tojo, whom many people consider a populist leader, to take power.
 
-![](Attachments/_page_15_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_15_Figure_6.jpeg)
 
-![](Attachments/_page_15_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_15_Figure_7.jpeg)
 
 ### **Japan 1925–1936 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_16_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_16_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_16_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_16_Figure_4.jpeg)
 
-![](Attachments/_page_16_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_16_Figure_6.jpeg)
 
 # **Japan 1925–1936 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_17_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_17_Figure_2.jpeg)
 
-![](Attachments/_page_17_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_17_Figure_3.jpeg)
 
-![](Attachments/_page_17_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_17_Figure_5.jpeg)
 
 ### **France 1926–1938 Case Auto-Summary**
 
@@ -231,13 +231,13 @@ Between 1926 and 1929, France experienced a bubble that was driven by a self-rei
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 1929 to 1936. High debt levels left France vulnerable to a shock—which came in the form of ripples from a stock crash in the US and the early Great Depression. France suffered from self-reinforcing declines in GDP (falling by 17%), and in stock prices (falling by 57%). France's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though France needed a deleveraging, its debt as a % GDP was roughly flat through this period.
 
-![](Attachments/_page_18_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_18_Figure_9.jpeg)
 
-![](Attachments/_page_18_Figure_10.jpeg)
+![](Attachments/BigDebtCycles_page_18_Figure_10.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_18_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_18_Figure_5.jpeg)
 
 ### **France 1926–1938 Case Auto-Summary (cont.)**
 
@@ -245,7 +245,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively long bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 1936. In terms of monetary policy, the government broke the peg to gold, interest rates were ultimately pushed down to 2%, and real FX averaged -4% during the stimulative phase. Importantly, policy makers allowed inflation to run high (averaging 10% during this period), which boosted nominal growth and helped reduce the domestic debt burden. Over the cycle, France was somewhat aggressive in managing its financial institutions and bad debts, pulling 3 out of 9 classic policy levers. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 15% during this period and sovereign long rates falling to 4%). During this phase, debt as a % of GDP fell by 37% (15% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher inflation. It took 21 years before real GDP reached its prior peak.
 
-![](Attachments/_page_19_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_19_Figure_4.jpeg)
 
 The crisis had a notable impact on the politics of France, as it helped set the stage for Leon Blum, whom many people consider a populist leader, to take power in 1936.
 
@@ -253,23 +253,23 @@ The crisis had a notable impact on the politics of France, as it helped set the 
 
 ### **Indebtedness**
 
-![](Attachments/_page_20_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_20_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_20_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_20_Figure_4.jpeg)
 
-![](Attachments/_page_20_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_20_Figure_6.jpeg)
 
 # **France 1926–1938 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_21_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_21_Figure_2.jpeg)
 
-![](Attachments/_page_21_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_21_Figure_3.jpeg)
 
-![](Attachments/_page_21_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_21_Figure_5.jpeg)
 
 # **United Kingdom 1941–1967 Case Auto-Summary**
 
@@ -283,11 +283,11 @@ Unlike the typical case that entails a bubble, this debt crisis had its roots in
 
 As the war neared an end, the United Kingdom entered a postwar recession, which ran from 1943 to 1947. Since the United Kingdom won the war, its post-war slump was less bad than it was for the losers. Nevertheless, the United Kingdom suffered from self-reinforcing declines in GDP (falling by 15%). As shown in the attribution chart to the right, even though the United Kingdom needed a deleveraging, its debt as a % GDP went up by 102% (25% annualized) as incomes declined and as the government continued to shoulder war-related costs (with a peak fiscal deficit of 31% of GDP during the ugly period).
 
-![](Attachments/_page_22_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_22_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_22_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_22_Figure_5.jpeg)
 
 ## **United Kingdom 1941–1967 Case Auto-Summary (cont.)**
 
@@ -295,35 +295,35 @@ As the war neared an end, the United Kingdom entered a postwar recession, which 
 
 After a slightly longer than average bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 1947. In terms of monetary policy, the government devalued the currency versus gold by 30%, M0 actually decreased by 8% of GDP, interest rates were ultimately pushed down to 1%, and real FX averaged -10% during the stimulative phase. Importantly, policy makers allowed inflation to run high (averaging 4% during this period), which boosted nominal growth and helped reduce the domestic debt burden. This and other stimulative measures helped bring nominal growth well above nominal interest rates (with growth averaging 7% during this period and sovereign long rates falling to 2%). During this phase, unemployment rates were flat and debt as a % of GDP fell by 139% (7% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher inflation. It took 10 years before real GDP reached its prior peak.
 
-![](Attachments/_page_23_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_23_Figure_4.jpeg)
 
 ## **United Kingdom 1941–1967 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_24_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_24_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_24_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_24_Figure_4.jpeg)
 
-![](Attachments/_page_24_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_24_Figure_6.jpeg)
 
 # **United Kingdom 1941–1967 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_25_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_25_Figure_2.jpeg)
 
-![](Attachments/_page_25_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_25_Figure_3.jpeg)
 
-![](Attachments/_page_25_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_25_Figure_5.jpeg)
 
 ## **United Kingdom 1941–1967 Chart Deck Appendix (cont.)**
 
 ### **Government and Military**
 
-![](Attachments/_page_26_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_26_Figure_2.jpeg)
 
 ### **United States 1943–1951 Case Auto-Summary**
 
@@ -339,7 +339,7 @@ When the fighting ended, the United States entered a postwar recession, which ra
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_28_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_28_Figure_5.jpeg)
 
 ## **United States 1943–1951 Case Auto-Summary (cont.)**
 
@@ -347,35 +347,35 @@ When the fighting ended, the United States entered a postwar recession, which ra
 
 After a relatively long bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 1950. In terms of monetary policy, M0 actually decreased by 0.9% of GDP and interest rates were ultimately pushed down to 1% during the stimulative phase. The central bank's choice to stay easy even as activity picked up sharply helped bring nominal growth well above nominal interest rates (with growth averaging 11% during this period and sovereign long rates averaging 2%). During this phase, unemployment rates declined by 2% and debt as a % of GDP fell by 22% (14% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher real growth. It took 6 years before real GDP reached its prior peak.
 
-![](Attachments/_page_29_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_29_Figure_4.jpeg)
 
 ### **United States 1943–1951 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_30_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_30_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_30_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_30_Figure_4.jpeg)
 
-![](Attachments/_page_30_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_30_Figure_6.jpeg)
 
 # **United States 1943–1951 Chart Deck Appendix (cont.)**
 
 #### **Markets**
 
-![](Attachments/_page_31_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_31_Figure_2.jpeg)
 
-![](Attachments/_page_31_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_31_Figure_3.jpeg)
 
-![](Attachments/_page_31_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_31_Figure_5.jpeg)
 
 ### **United States 1943–1951 Chart Deck Appendix (cont.)**
 
 ### **Government and Military**
 
-![](Attachments/_page_32_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_32_Figure_2.jpeg)
 
 ### **Norway 1984–1996 Case Auto-Summary**
 
@@ -389,11 +389,11 @@ Between 1984 and 1987, Norway experienced a bubble that was driven by a self-rei
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 1987 to 1992. At its pre-crisis peak, debt service reached 58% of GDP, making Norway vulnerable to a shock—which came in the form of ripples from commodity price declines. Norway suffered from self-reinforcing declines in GDP (falling by 4%) and in home prices (falling by 38%). Norway's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Norway needed a deleveraging, its debt as a % GDP was roughly flat through this period.
 
-![](Attachments/_page_34_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_34_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_34_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_34_Figure_5.jpeg)
 
 ### **Norway 1984–1996 Case Auto-Summary (cont.)**
 
@@ -401,29 +401,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively long bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 1992. In terms of monetary policy, M0 increased by 2% of GDP, interest rates were ultimately pushed down to 4%, and real FX averaged 3% during the stimulative phase. Over the cycle, Norway was aggressive in managing its financial institutions and bad debts, pulling 4 out of 9 classic policy levers. In particular, it nationalized banks and provided liquidity. It also enacted structural reforms designed to increase labor market flexibility. This stimulation helped bring nominal growth close to nominal interest rates (with growth averaging 6.1% during this period and sovereign long rates falling to 5.5%). During this phase, unemployment rates declined by 4% and debt as a % of GDP fell by 35% (7% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher real growth. It took 5 years before real GDP reached its prior peak.
 
-![](Attachments/_page_35_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_35_Figure_3.jpeg)
 
 ### **Norway 1984–1996 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_36_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_36_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_36_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_36_Figure_4.jpeg)
 
-![](Attachments/_page_36_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_36_Figure_6.jpeg)
 
 # **Norway 1984–1996 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_37_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_37_Figure_2.jpeg)
 
-![](Attachments/_page_37_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_37_Figure_3.jpeg)
 
-![](Attachments/_page_37_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_37_Figure_5.jpeg)
 
 # **Finland 1987–2001 Case Auto-Summary**
 
@@ -437,11 +437,11 @@ Between 1987 and 1989, Finland experienced a bubble that was driven by a self-re
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 1989 to 1993. High debt levels left Finland vulnerable to a shock—which came in the form of asset price declines hitting bank solvency. Finland suffered from self-reinforcing declines in GDP (falling by 12%), in stock prices (falling by 36%) and in home prices (falling by 32%). Unemployment rates increased by 13%. Finland's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Finland needed a deleveraging, its debt as a % GDP went up by 32% (9% annualized) as incomes declined.
 
-![](Attachments/_page_38_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_38_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_38_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_38_Figure_5.jpeg)
 
 ## **Finland 1987–2001 Case Auto-Summary (cont.)**
 
@@ -449,31 +449,31 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a slightly longer than average bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 1993. In terms of monetary policy, M0 increased by 7% of GDP, interest rates were ultimately pushed down to 3%, and real FX averaged -10% during the stimulative phase. Over the cycle, Finland was very aggressive in managing its financial institutions and bad debts, pulling 7 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 6% during this period and sovereign long rates falling to 4%). During this phase, unemployment rates declined by 6% and debt as a % of GDP fell by 72% (8% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher real growth. It took 7 years before real GDP reached its prior peak and equity prices in USD terms recovered within 5 years.
 
-![](Attachments/_page_39_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_39_Figure_3.jpeg)
 
-![](Attachments/_page_39_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_39_Figure_4.jpeg)
 
 ## **Finland 1987–2001 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_40_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_40_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_40_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_40_Figure_4.jpeg)
 
-![](Attachments/_page_40_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_40_Figure_6.jpeg)
 
 # **Finland 1987–2001 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_41_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_41_Figure_2.jpeg)
 
-![](Attachments/_page_41_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_41_Figure_3.jpeg)
 
-![](Attachments/_page_41_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_41_Figure_5.jpeg)
 
 ### **Sweden 1987–2000 Case Auto-Summary**
 
@@ -487,11 +487,11 @@ Between 1987 and 1990, Sweden experienced a bubble that was driven by a self-rei
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 1990 to 1993. At its pre-crisis peak, debt service reached 65% of GDP, making Sweden vulnerable to a shock—which came in the form of housing price declines hitting bank solvency. Sweden suffered from self-reinforcing declines in GDP (falling by 6%), in stock prices (falling by 34%) and in home prices (falling by 7%). Unemployment rates increased by 9%. Sweden's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Sweden needed a deleveraging, its debt as a % GDP went up by 40% (12% annualized) as incomes declined and as the government had to borrow more in response to the crisis (with a peak fiscal deficit of 10% of GDP during the ugly period).
 
-![](Attachments/_page_42_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_42_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_42_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_42_Figure_5.jpeg)
 
 ### **Sweden 1987–2000 Case Auto-Summary (cont.)**
 
@@ -499,29 +499,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively short bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 1993. In terms of monetary policy, M0 increased by 5% of GDP, interest rates were ultimately pushed down to 3%, and real FX averaged -5% during the stimulative phase. Over the cycle, Sweden was very aggressive in managing its financial institutions and bad debts, pulling 7 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also enacted structural reforms designed to increase labor market flexibility. This stimulation helped bring nominal growth above nominal interest rates (with growth averaging 5% during this period and sovereign long rates falling to 4%). During this phase, unemployment rates declined by 1% and debt as a % of GDP fell by 28% (4% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher real growth. It took 3 years before real GDP reached its prior peak and equity prices in USD terms recovered within 4 years.
 
-![](Attachments/_page_43_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_43_Figure_3.jpeg)
 
 ### **Sweden 1987–2000 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_44_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_44_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_44_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_44_Figure_4.jpeg)
 
-![](Attachments/_page_44_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_44_Figure_6.jpeg)
 
 # **Sweden 1987–2000 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_45_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_45_Figure_2.jpeg)
 
-![](Attachments/_page_45_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_45_Figure_3.jpeg)
 
-![](Attachments/_page_45_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_45_Figure_5.jpeg)
 
 ## **Japan 1987–2017 Case Auto-Summary**
 
@@ -535,11 +535,11 @@ Between 1987 and 1989, Japan experienced a bubble that was driven by a self-rein
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 1989 to 2013. At its pre-crisis peak, debt service reached 78% of GDP, making Japan vulnerable to a shock—which came in the form of real estate and stock market busts. Japan suffered from self-reinforcing declines in stock prices (falling by 67%) and in home prices (falling by 43%). Unemployment rates increased by 3%. Japan's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Japan needed a deleveraging, its debt as a % GDP went up by 59% (3% annualized), driven primarily by interest payments financed with new debt.
 
-![](Attachments/_page_46_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_46_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_46_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_46_Figure_5.jpeg)
 
 ## **Japan 1987–2017 Case Auto-Summary (cont.)**
 
@@ -547,29 +547,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 In this case, the resolution of the debt problems was very slow, as monetary policy was not sufficiently easy to push nominal GDP growth above nominal interest rates for quite some time. Eventually, however, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2013. In terms of monetary policy, M0 increased by 58% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -10% during the stimulative phase. Over the cycle, Japan was very aggressive in managing its financial institutions and bad debts, pulling 7 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also enacted structural reforms designed to increase labor market flexibility. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 2% during this period and sovereign long rates falling to 0%). During this phase, unemployment rates were flat and debt as a % of GDP fell by 43% (9% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios was driven primarily by monetization and to a lesser extent by rising real incomes.
 
-![](Attachments/_page_47_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_47_Figure_4.jpeg)
 
 ### **Japan 1987–2017 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_48_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_48_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_48_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_48_Figure_4.jpeg)
 
-![](Attachments/_page_48_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_48_Figure_6.jpeg)
 
-![](Attachments/_page_48_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_48_Figure_8.jpeg)
 
 ### **Japan 1987–2017 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_49_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_49_Figure_2.jpeg)
 
-![](Attachments/_page_49_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_49_Figure_4.jpeg)
 
 ### **United States 2004–2014 Case Auto-Summary**
 
@@ -585,7 +585,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_50_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_50_Figure_5.jpeg)
 
 ### **United States 2004–2014 Case Auto-Summary (cont.)**
 
@@ -593,29 +593,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a slightly shorter than average bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2009. In terms of monetary policy, M0 increased by 16% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -10% during the stimulative phase. Over the cycle, the United States was very aggressive in managing its financial institutions and bad debts, pulling 6 out of 9 classic policy levers. In particular, it recapitalized banks, provided liquidity, and directly purchased troubled assets. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 3% during this period and sovereign long rates falling to 2%). During this phase, unemployment rates declined by 3% and debt as a % of GDP fell by 59% (11% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios was driven by a mix of rising real incomes, inflation, and paying down existing debt. This was partially offset by interest payments financed with new debt. It took 4 years before real GDP reached its prior peak and equity prices in USD terms recovered within 5 years.
 
-![](Attachments/_page_51_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_51_Figure_3.jpeg)
 
 ### **United States 2004–2014 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_52_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_52_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_52_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_52_Figure_4.jpeg)
 
-![](Attachments/_page_52_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_52_Figure_6.jpeg)
 
 ## **United States 2004–2014 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_53_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_53_Figure_2.jpeg)
 
-![](Attachments/_page_53_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_53_Figure_3.jpeg)
 
-![](Attachments/_page_53_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_53_Figure_5.jpeg)
 
 ### **Austria 2005–2017 Case Auto-Summary**
 
@@ -631,7 +631,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_54_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_54_Figure_5.jpeg)
 
 ### **Austria 2005–2017 Case Auto-Summary (cont.)**
 
@@ -639,29 +639,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively short bust phase, ECB policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2009. In terms of monetary policy, M0 increased by 19% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -2% during the stimulative phase. Over the cycle, Austria was aggressive in managing its financial institutions and bad debts, pulling 5 out of 9 classic policy levers. In particular, it recapitalized banks and provided liquidity. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 3% during this period and sovereign long rates falling to 0%). During this phase, unemployment rates were flat and debt as a % of GDP fell by 74% (9% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher inflation. It took 3 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_55_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_55_Figure_3.jpeg)
 
 ### **Austria 2005–2017 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_56_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_56_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_56_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_56_Figure_4.jpeg)
 
-![](Attachments/_page_56_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_56_Figure_6.jpeg)
 
 ## **Austria 2005–2017 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_57_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_57_Figure_2.jpeg)
 
-![](Attachments/_page_57_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_57_Figure_3.jpeg)
 
-![](Attachments/_page_57_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_57_Figure_5.jpeg)
 
 # **Germany 2006–2017 Case Auto-Summary**
 
@@ -677,9 +677,9 @@ Eventually the cycle turned, producing a self-reinforcing bust and an "ugly dele
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_58_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_58_Figure_7.jpeg)
 
-![](Attachments/_page_58_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_58_Figure_8.jpeg)
 
 ### **Germany 2006–2017 Case Auto-Summary (cont.)**
 
@@ -687,29 +687,29 @@ Eventually the cycle turned, producing a self-reinforcing bust and an "ugly dele
 
 After a slightly shorter than average bust phase, ECB policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2009. In terms of monetary policy, M0 increased by 14% of GDP, interest rates were ultimately pushed down to -1%, and real FX averaged -4% during the stimulative phase. Over the cycle, Germany was very aggressive in managing its financial institutions and bad debts, pulling 6 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 3% during this period and sovereign long rates falling to 0%). During this phase, unemployment rates declined by 4% and debt as a % of GDP fell by 56% (7% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher real growth. It took 3 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_59_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_59_Figure_4.jpeg)
 
 ## **Germany 2006–2017 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_60_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_60_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_60_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_60_Figure_4.jpeg)
 
-![](Attachments/_page_60_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_60_Figure_6.jpeg)
 
 ## **Germany 2006–2017 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_61_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_61_Figure_2.jpeg)
 
-![](Attachments/_page_61_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_61_Figure_3.jpeg)
 
-![](Attachments/_page_61_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_61_Figure_5.jpeg)
 
 ### **Greece 2005–2018 Case Auto-Summary**
 
@@ -723,11 +723,11 @@ Between 2005 and 2008, Greece experienced a bubble that was driven by a self-rei
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 2008 to 2017. At its pre-crisis peak, debt service reached 42% of GDP, making Greece vulnerable to a shock—which came in the form of the 2008 global financial crisis. Greece suffered a fall in foreign funding (with capital inflows falling by 34% of GDP), leading to a tightening (short rates increased by 86%)—which in turn led to self-reinforcing declines in GDP (falling by 27%), in stock prices (falling by 91%) and in home prices (falling by 42%). Unemployment rates increased by 15%. Greece's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Greece needed a deleveraging, its debt as a % GDP went up by 101% (11% annualized), driven primarily by falling real incomes and to a lesser extent by interest payments financed with new debt.
 
-![](Attachments/_page_62_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_62_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_62_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_62_Figure_5.jpeg)
 
 # **Greece 2005–2018 Case Auto-Summary (cont.)**
 
@@ -737,27 +737,27 @@ So far, Greece hasn't transitioned into much of a "beautiful" phase, as the nomi
 
 The crisis had a notable impact on the politics of Greece, as it helped set the stage for Alexis Tsipras, whom many people consider a populist leader, to take power.
 
-![](Attachments/_page_63_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_63_Figure_4.jpeg)
 
 ### **Greece 2005–2018 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_64_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_64_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_64_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_64_Figure_4.jpeg)
 
-![](Attachments/_page_64_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_64_Figure_6.jpeg)
 
 ### **Greece 2005–2018 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_65_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_65_Figure_2.jpeg)
 
-![](Attachments/_page_65_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_65_Figure_4.jpeg)
 
 # **Hungary 2005–2017 Case Auto-Summary**
 
@@ -771,11 +771,11 @@ Between 2005 and 2008, Hungary experienced a bubble that was driven by a self-re
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 2008 to 2013. At its pre-crisis peak, debt service reached 31% of GDP, making Hungary vulnerable to a shock—which came in the form of the 2008 global financial crisis. Hungary suffered a fall in foreign funding (with portfolio inflows falling by 12% of GDP), leading to a tightening (policy makers hiked short rates by 5%)—which in turn led to self-reinforcing declines in GDP (falling by 7%), in stock prices (falling by 73%) and in home prices (falling by 16%). Unemployment rates increased by 3%. Hungary's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Hungary needed a deleveraging, its debt as a % GDP went up by 37% (7% annualized) as incomes declined and as the government had to borrow more in response to the crisis (with a peak fiscal deficit of 5% of GDP during the ugly period).
 
-![](Attachments/_page_66_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_66_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_66_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_66_Figure_5.jpeg)
 
 # **Hungary 2005–2017 Case Auto-Summary (cont.)**
 
@@ -783,31 +783,31 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively long bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2013. In terms of monetary policy, M0 increased by 4% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -6% during the stimulative phase. Over the cycle, Hungary was aggressive in managing its financial institutions and bad debts, pulling 4 out of 9 classic policy levers. It also benefited from an IMF assistance program. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 5% during this period and sovereign long rates falling to 2%). During this phase, unemployment rates declined by 7% and debt as a % of GDP fell by 51% (12% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher real growth. It took 6 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_67_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_67_Figure_3.jpeg)
 
 The crisis had a notable impact on the politics of Hungary, as it helped set the stage for Viktor Orban, whom many people consider a populist leader, to take power.
 
-![](Attachments/_page_67_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_67_Figure_5.jpeg)
 
 ### **Hungary 2005–2017 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_68_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_68_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_68_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_68_Figure_4.jpeg)
 
-![](Attachments/_page_68_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_68_Figure_6.jpeg)
 
 # **Hungary 2005–2017 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_69_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_69_Figure_2.jpeg)
 
-![](Attachments/_page_69_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_69_Figure_4.jpeg)
 
 ## **Ireland 2005–2017 Case Auto-Summary**
 
@@ -823,7 +823,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_70_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_70_Figure_5.jpeg)
 
 ### **Ireland 2005–2017 Case Auto-Summary (cont.)**
 
@@ -831,29 +831,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively long bust phase, ECB policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2013. In terms of monetary policy, M0 increased by 14% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -19% during the stimulative phase. Over the cycle, Ireland was very aggressive in managing its financial institutions and bad debts, pulling 7 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 6% during this period and sovereign long rates falling to 0%). During this phase, unemployment rates declined by 8% and debt as a % of GDP fell by 116% (25% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios was driven by a mix of rising real incomes and paying down existing debt. It took 6 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_71_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_71_Figure_3.jpeg)
 
 ### **Ireland 2005–2017 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_72_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_72_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_72_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_72_Figure_4.jpeg)
 
-![](Attachments/_page_72_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_72_Figure_6.jpeg)
 
 ## **Ireland 2005–2017 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_73_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_73_Figure_2.jpeg)
 
-![](Attachments/_page_73_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_73_Figure_3.jpeg)
 
-![](Attachments/_page_73_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_73_Figure_5.jpeg)
 
 # **Italy 2005–2017 Case Auto-Summary**
 
@@ -867,11 +867,11 @@ Between 2005 and 2008, Italy experienced a bubble that was driven by a self-rein
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 2008 to 2015. At its pre-crisis peak, debt service reached 58% of GDP, making Italy vulnerable to a shock—which came in the form of the European debt crisis. Italy suffered a fall in foreign funding (with portfolio inflows falling by 14% of GDP)—which in turn led to self-reinforcing declines in GDP (falling by 9%), in stock prices (falling by 67%) and in home prices (falling by 15%). Unemployment rates increased by 6%. Italy's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Italy needed a deleveraging, its debt as a % GDP went up by 48% (7% annualized), driven primarily by interest payments financed with new debt and to a lesser extent by falling real incomes.
 
-![](Attachments/_page_74_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_74_Figure_8.jpeg)
 
 **<sup>\*</sup>The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_74_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_74_Figure_5.jpeg)
 
 ### **Italy 2005–2017 Case Auto-Summary (cont.)**
 
@@ -879,7 +879,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively long bust phase, ECB policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2015. In terms of monetary policy, M0 increased by 16% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -1% during the stimulative phase. Over the cycle, Italy was aggressive in managing its financial institutions and bad debts, pulling 4 out of 9 classic policy levers. It also enacted structural reforms designed to increase labor market flexibility. This stimulation helped bring nominal growth above nominal interest rates (with growth averaging 1.8% during this period and sovereign long rates falling to 1.2%). During this phase, unemployment rates declined by 1% and debt as a % of GDP fell by 36% (14% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios was driven by a mix of monetization and paying down existing debt. Real GDP has not yet reached its prior peak and equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_75_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_75_Figure_3.jpeg)
 
 The crisis had a notable impact on the politics of Italy, as it helped set the stage for Giuseppe Conte, whom many people consider a populist leader, to take power in 2018.
 
@@ -887,23 +887,23 @@ The crisis had a notable impact on the politics of Italy, as it helped set the s
 
 ### **Indebtedness**
 
-![](Attachments/_page_76_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_76_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_76_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_76_Figure_4.jpeg)
 
-![](Attachments/_page_76_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_76_Figure_6.jpeg)
 
 # **Italy 2005–2017 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_77_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_77_Figure_2.jpeg)
 
-![](Attachments/_page_77_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_77_Figure_3.jpeg)
 
-![](Attachments/_page_77_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_77_Figure_5.jpeg)
 
 ### **Netherlands 2006–2017 Case Auto-Summary**
 
@@ -917,15 +917,15 @@ Between 2006 and 2008, the Netherlands experienced a bubble that was driven by a
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 2008 to 2014. At its pre-crisis peak, debt service reached 68% of GDP, making the Netherlands vulnerable to a shock—which came in the form of the 2008 global financial crisis. The Netherlands suffered from self-reinforcing declines in GDP (falling by 4%), in stock prices (falling by 57%) and in home prices (falling by 20%). Unemployment rates increased by 4%. The Netherlands's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though the Netherlands needed a deleveraging, its debt as a % GDP went up by 74% (12% annualized) as incomes declined.
 
-![](Attachments/_page_78_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_78_Figure_8.jpeg)
 
-![](Attachments/_page_78_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_78_Figure_9.jpeg)
 
-![](Attachments/_page_78_Figure_10.jpeg)
+![](Attachments/BigDebtCycles_page_78_Figure_10.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_78_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_78_Figure_5.jpeg)
 
 ### **Netherlands 2006–2017 Case Auto-Summary (cont.)**
 
@@ -933,29 +933,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively long bust phase, ECB policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2014. In terms of monetary policy, M0 increased by 16% of GDP, interest rates were ultimately pushed down to -1%, and real FX averaged -2% during the stimulative phase. Over the cycle, the Netherlands was aggressive in managing its financial institutions and bad debts, pulling 5 out of 9 classic policy levers. In particular, it nationalized banks and provided liquidity. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 3% during this period and sovereign long rates falling to 0%). During this phase, unemployment rates declined by 3% and debt as a % of GDP fell by 46% (12% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher real growth. It took 7 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_79_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_79_Figure_4.jpeg)
 
 ### **Netherlands 2006–2017 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_80_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_80_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_80_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_80_Figure_4.jpeg)
 
-![](Attachments/_page_80_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_80_Figure_6.jpeg)
 
 ## **Netherlands 2006–2017 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_81_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_81_Figure_2.jpeg)
 
-![](Attachments/_page_81_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_81_Figure_3.jpeg)
 
-![](Attachments/_page_81_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_81_Figure_5.jpeg)
 
 ## **Portugal 2007–2017 Case Auto-Summary**
 
@@ -969,13 +969,13 @@ Between 2007 and 2008, Portugal experienced a bubble that was driven by a self-r
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 2008 to 2013. At its pre-crisis peak, debt service reached 48% of GDP, making Portugal vulnerable to a shock—which came in the form of the European debt crisis. Portugal suffered a fall in foreign funding (with portfolio inflows falling by 40% of GDP)—which in turn led to self-reinforcing declines in GDP (falling by 10%), in stock prices (falling by 65%) and in home prices (falling by 18%). Unemployment rates increased by 9%. Portugal's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Portugal needed a deleveraging, its debt as a % GDP went up by 105% (21% annualized), driven by a mix of falling real incomes, interest payments financed with new debt, and net new borrowing. Those new debts came in part because the government had to borrow more in response to the crisis (with a peak fiscal deficit of 8% of GDP during the ugly period).
 
-![](Attachments/_page_82_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_82_Figure_8.jpeg)
 
-![](Attachments/_page_82_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_82_Figure_9.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_82_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_82_Figure_5.jpeg)
 
 ## **Portugal 2007–2017 Case Auto-Summary (cont.)**
 
@@ -983,29 +983,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively long bust phase, ECB policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2013. In terms of monetary policy, M0 increased by 15% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -1% during the stimulative phase. Over the cycle, Portugal was aggressive in managing its financial institutions and bad debts, pulling 4 out of 9 classic policy levers. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. This stimulation helped bring nominal growth above nominal interest rates (with growth averaging 2.0% during this period and sovereign long rates falling to 1.7%). During this phase, unemployment rates declined by 9% and debt as a % of GDP fell by 77% (16% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios was driven by a mix of defaults and paying down existing debt. It took 9 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_83_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_83_Figure_3.jpeg)
 
 ### **Portugal 2007–2017 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_84_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_84_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_84_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_84_Figure_4.jpeg)
 
-![](Attachments/_page_84_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_84_Figure_6.jpeg)
 
 # **Portugal 2007–2017 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_85_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_85_Figure_2.jpeg)
 
-![](Attachments/_page_85_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_85_Figure_3.jpeg)
 
-![](Attachments/_page_85_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_85_Figure_5.jpeg)
 
 # **Spain 2005–2017 Case Auto-Summary**
 
@@ -1019,13 +1019,13 @@ Between 2005 and 2008, Spain experienced a bubble that was driven by a self-rein
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 2008 to 2013. At its pre-crisis peak, debt service reached 64% of GDP, making Spain vulnerable to a shock—which came in the form of the European debt crisis. Spain suffered a fall in foreign funding (with capital inflows falling by 16% of GDP)—which in turn led to self-reinforcing declines in GDP (falling by 9%), in stock prices (falling by 60%) and in home prices (falling by 31%). Unemployment rates increased by 17%. Spain's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Spain needed a deleveraging, its debt as a % GDP went up by 86% (17% annualized), driven primarily by interest payments financed with new debt and to a lesser extent by falling real incomes.
 
-![](Attachments/_page_86_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_86_Figure_8.jpeg)
 
-![](Attachments/_page_86_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_86_Figure_9.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_86_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_86_Figure_5.jpeg)
 
 ### **Spain 2005–2017 Case Auto-Summary (cont.)**
 
@@ -1033,29 +1033,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a relatively long bust phase, ECB policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2013. In terms of monetary policy, M0 increased by 15% of GDP, interest rates were ultimately pushed down to -1%, and real FX averaged 0% during the stimulative phase. Over the cycle, Spain was aggressive in managing its financial institutions and bad debts, pulling 5 out of 9 classic policy levers. In particular, it provided liquidity and directly purchased troubled assets. It also enacted structural reforms designed to increase labor market flexibility. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 2% during this period and sovereign long rates falling to 1%). During this phase, unemployment rates declined by 10% and debt as a % of GDP fell by 112% (23% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios was driven primarily by paying down existing debt and to a lesser extent by rising real incomes. It took 9 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_87_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_87_Figure_3.jpeg)
 
 ### **Spain 2005–2017 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_88_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_88_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_88_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_88_Figure_4.jpeg)
 
-![](Attachments/_page_88_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_88_Figure_6.jpeg)
 
 # **Spain 2005–2017 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_89_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_89_Figure_2.jpeg)
 
-![](Attachments/_page_89_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_89_Figure_3.jpeg)
 
-![](Attachments/_page_89_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_89_Figure_5.jpeg)
 
 # **United Kingdom 2005–2015 Case Auto-Summary**
 
@@ -1069,11 +1069,11 @@ Between 2005 and 2008, the United Kingdom experienced a bubble that was driven b
 
 Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly deleveraging," which ran from 2008 to 2009. At its pre-crisis peak, debt service reached 82% of GDP, making the United Kingdom vulnerable to a shock—which came in the form of the 2008 global financial crisis. The United Kingdom suffered from self-reinforcing declines in GDP (falling by 6%), in stock prices (falling by 52%) and in home prices (falling by 19%). Unemployment rates increased by 3%. The United Kingdom's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though the United Kingdom needed a deleveraging, its debt as a % GDP went up by 34% (24% annualized), driven primarily by interest payments financed with new debt and to a lesser extent by falling real incomes.
 
-![](Attachments/_page_90_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_90_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_90_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_90_Figure_5.jpeg)
 
 # **United Kingdom 2005–2015 Case Auto-Summary (cont.)**
 
@@ -1081,29 +1081,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and an "ugly de
 
 After a slightly shorter than average bust phase, policy makers were able to provide enough stimulation to turn the deleveraging into a beautiful one and create a period of reflation, which began in 2009. In terms of monetary policy, M0 increased by 10% of GDP, interest rates were ultimately pushed down to 0%, and real FX averaged -5% during the stimulative phase. Over the cycle, the United Kingdom was very aggressive in managing its financial institutions and bad debts, pulling 6 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. This stimulation helped bring nominal growth well above nominal interest rates (with growth averaging 4% during this period and sovereign long rates falling to 1%). During this phase, unemployment rates declined by 2% and debt as a % of GDP fell by 73% (12% annualized), as shown in the attribution chart to the right. Throughout this "beautiful" period, the reduction in debt-to-income ratios was driven by a mix of rising real incomes and inflation. This was partially offset by interest payments financed with new debt. It took 5 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_91_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_91_Figure_3.jpeg)
 
 # **United Kingdom 2005–2015 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_92_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_92_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_92_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_92_Figure_4.jpeg)
 
-![](Attachments/_page_92_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_92_Figure_5.jpeg)
 
-![](Attachments/_page_92_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_92_Figure_7.jpeg)
 
 # **United Kingdom 2005–2015 Chart Deck Appendix (cont.)**
 
 #### **Markets**
 
-![](Attachments/_page_93_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_93_Figure_2.jpeg)
 
-![](Attachments/_page_93_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_93_Figure_3.jpeg)
 
-![](Attachments/_page_93_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_93_Figure_5.jpeg)
 

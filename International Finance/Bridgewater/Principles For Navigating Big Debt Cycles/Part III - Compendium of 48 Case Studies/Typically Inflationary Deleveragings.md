@@ -13,11 +13,11 @@ Unlike the typical case that entails a bubble, this debt crisis had its roots in
 
 When the fighting ended, Germany entered a postwar depression and balance of payments crisis, which ran from 1918 to 1923. Since Germany lost the war and was saddled with very large foreign currency debts, its post-war depression was far worse than it was for the winners. Germany suffered from self-reinforcing declines in GDP (falling by 5%), and in stock prices (falling by 97%). Unemployment rates increased by 16%. Germany's financial institutions also came under considerable pressure. As shown in the attribution chart to the right, even though Germany needed a deleveraging, its debt as a % GDP went up by 165% (31% annualized) as incomes declined and as the government continued to shoulder war-related costs (with a peak fiscal deficit of 11% of GDP during the ugly period).
 
-![](Attachments/_page_94_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_94_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_94_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_94_Figure_5.jpeg)
 
 ### **Germany 1918–1925 Case Auto-Summary (cont.)**
 
@@ -25,7 +25,7 @@ When the fighting ended, Germany entered a postwar depression and balance of pay
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, the tightening wasn't enough to produce the needed adjustments before the country fell into a spiral of declining exchange rates and hyperinflation. Inflation peaked at over 10,000%. That makes sense given that Germany had most of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being their fiscal deficit). Germany was aggressive in managing its financial institutions and bad debts, pulling 5 out of 9 typical policy levers. But, as is classic, stopping the inflationary spiral ultimately required Germany to make more significant structural changes, including abandoning the hyperinflated papiermark and adopting the reichsmark in 1924. It took 15 years before real GDP reached its prior
 
-![](Attachments/_page_95_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_95_Figure_3.jpeg)
 
 peak.
 
@@ -33,29 +33,29 @@ peak.
 
 ### **Indebtedness**
 
-![](Attachments/_page_96_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_96_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_96_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_96_Figure_4.jpeg)
 
-![](Attachments/_page_96_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_96_Figure_6.jpeg)
 
 # **Germany 1918–1925 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_97_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_97_Figure_2.jpeg)
 
-![](Attachments/_page_97_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_97_Figure_3.jpeg)
 
-![](Attachments/_page_97_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_97_Figure_5.jpeg)
 
 ### **Germany 1918–1925 Chart Deck Appendix (cont.)**
 
 ### **Government and Military**
 
-![](Attachments/_page_98_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_98_Figure_2.jpeg)
 
 ## **Argentina 1977–1988 Case Auto-Summary**
 
@@ -69,11 +69,11 @@ Between 1977 and 1980, Argentina experienced a bubble that was driven by a self-
 
 Eventually the dynamic turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1980 to 1985. High debt levels left Argentina vulnerable to a shock—which came in the form of the 1980s Latin American Debt Crisis. Argentina suffered a fall in foreign funding (with capital inflows falling by 9% of GDP), leading to a tightening (policy makers hiked short rates by more than 250%) and a meaningful decline in the currency (real FX fell by 93%) which coincided with self-reinforcing declines in GDP (falling by 14%), and in stock prices (falling by 91%). Unemployment rates increased by 3%, while currency weakness contributed to very high and rising inflation. Argentina's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 83%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though Argentina needed a deleveraging, its debt as a % GDP went up by 33% (7% annualized), in part because the currency fell (which increased the burden of foreign-denominated debts) and in part because the government had to borrow more in response to the crisis (with a peak fiscal deficit of 5% of GDP).
 
-![](Attachments/_page_100_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_100_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_100_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_100_Figure_5.jpeg)
 
 # **Argentina 1977–1988 Case Auto-Summary (cont.)**
 
@@ -81,29 +81,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, the tightening wasn't enough to produce the needed adjustments before the country fell into a spiral of declining exchange rates and hyperinflation. Real FX bottomed at -138% and inflation peaked at over 1,000%. That makes sense given that Argentina had around half of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being low real short rates). Argentina was somewhat aggressive in managing its financial institutions and bad debts, pulling 3 out of 9 typical policy levers. In particular, it nationalized banks and provided liquidity. It also benefited from an IMF assistance program. But, as is classic, stopping the inflationary spiral ultimately required Argentina to make more significant structural changes, including abandoning the hyperinflated peso ley and adopting the peso argentino in 1983. It took 7 years before real GDP reached its prior peak.
 
-![](Attachments/_page_101_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_101_Figure_3.jpeg)
 
 ## **Argentina 1977–1988 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_102_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_102_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_102_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_102_Figure_4.jpeg)
 
-![](Attachments/_page_102_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_102_Figure_6.jpeg)
 
 # **Argentina 1977–1988 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_103_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_103_Figure_2.jpeg)
 
-![](Attachments/_page_103_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_103_Figure_3.jpeg)
 
-![](Attachments/_page_103_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_103_Figure_5.jpeg)
 
 # **Brazil 1977–1987 Case Auto-Summary**
 
@@ -117,11 +117,11 @@ Unlike many other cases, Brazil didn't experience a broadbased bubble in the yea
 
 Eventually the cycle turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1980 to 1983. High debt levels left Brazil vulnerable to a shock which came in the form of the 1980s Latin American Debt Crisis. Brazil suffered a fall in foreign funding (with capital inflows falling by 5% of GDP), leading to a tightening (policy makers hiked short rates by 234%) and a meaningful decline in the currency (real FX fell by 20%)—which coincided with self-reinforcing declines in GDP (falling by 6%), and in stock prices (falling by 51%). In addition, currency weakness contributed to very high and rising inflation, peaking at 124% during the depression phase, which is high compared to other similar cases. That makes sense given that Brazil had most of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being low real short rates). Brazil's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 70%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though Brazil needed a deleveraging, its debt as a % GDP went up by 54% (18% annualized), in part because the currency fell (which increased the burden of foreign-denominated debts) and in part because the government had to borrow more in response to the crisis (with a peak fiscal deficit of 11% of GDP).
 
-![](Attachments/_page_104_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_104_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_104_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_104_Figure_5.jpeg)
 
 ## **Brazil 1977–1987 Case Auto-Summary (cont.)**
 
@@ -129,29 +129,29 @@ Eventually the cycle turned, producing a self-reinforcing bust and a balance of 
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly longer than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 3% of GDP), and make the currency more attractive to hold. Brazil was aggressive in managing its financial institutions and bad debts, pulling 4 out of 9 classic policy levers. In particular, it nationalized banks and provided liquidity. It also benefited from an IMF assistance program. As shown in the attribution chart to the right, debt as a % of GDP fell by 121% (27% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Brazil's now lower currency (with real FX bottoming at -33% during the beautiful period) set up the country for renewed competitiveness. It took 4 years before real GDP reached its prior peak and equity prices in USD terms recovered within 1.9 years.
 
-![](Attachments/_page_105_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_105_Figure_3.jpeg)
 
 # **Brazil 1977–1987 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_106_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_106_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_106_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_106_Figure_4.jpeg)
 
-![](Attachments/_page_106_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_106_Figure_6.jpeg)
 
 # **Brazil 1977–1987 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_107_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_107_Figure_2.jpeg)
 
-![](Attachments/_page_107_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_107_Figure_3.jpeg)
 
-![](Attachments/_page_107_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_107_Figure_5.jpeg)
 
 # **Chile 1978–1995 Case Auto-Summary**
 
@@ -167,7 +167,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_108_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_108_Figure_5.jpeg)
 
 ## **Chile 1978–1995 Case Auto-Summary (cont.)**
 
@@ -175,29 +175,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly longer than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 11% of GDP), and make the currency more attractive to hold. Chile was aggressive in managing its financial institutions and bad debts, pulling 5 out of 9 classic policy levers. In particular, it provided liquidity and directly purchased troubled assets. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 129% (13% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Chile's now much lower currency (with real FX bottoming at -32% during the beautiful period) set up the country for renewed competitiveness. It took 5 years before real GDP reached its prior peak and equity prices in USD terms recovered within 9 years.
 
-![](Attachments/_page_109_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_109_Figure_3.jpeg)
 
 ## **Chile 1978–1995 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_110_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_110_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_110_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_110_Figure_4.jpeg)
 
-![](Attachments/_page_110_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_110_Figure_6.jpeg)
 
 # **Chile 1978–1995 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_111_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_111_Figure_2.jpeg)
 
-![](Attachments/_page_111_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_111_Figure_3.jpeg)
 
-![](Attachments/_page_111_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_111_Figure_5.jpeg)
 
 # **Mexico 1979–1991 Case Auto-Summary**
 
@@ -215,7 +215,7 @@ and in part because the government had to borrow more in response to the crisis 
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_112_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_112_Figure_5.jpeg)
 
 # **Mexico 1979–1991 Case Auto-Summary (cont.)**
 
@@ -223,27 +223,27 @@ and in part because the government had to borrow more in response to the crisis 
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a relatively long "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 10% of GDP), and make the currency more attractive to hold. Mexico was not aggressive in managing its financial institutions and bad debts, pulling 2 out of 9 classic policy levers. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 31% (8% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Mexico's now much lower currency (with real FX bottoming at -44% during the beautiful period) set up the country for renewed competitiveness. It took 7 years before real GDP reached its prior peak and equity prices in USD terms recovered within 6 years.
 
-![](Attachments/_page_113_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_113_Figure_3.jpeg)
 
 # **Mexico 1979–1991 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_114_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_114_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_114_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_114_Figure_4.jpeg)
 
-![](Attachments/_page_114_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_114_Figure_6.jpeg)
 
 ## **Mexico 1979–1991 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_115_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_115_Figure_2.jpeg)
 
-![](Attachments/_page_115_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_115_Figure_4.jpeg)
 
 # **Peru 1980–1986 Case Auto-Summary**
 
@@ -257,11 +257,11 @@ Unlike many other cases, Peru didn't experience a broad-based bubble in the year
 
 Eventually the cycle turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1982 to 1985. High debt levels left Peru vulnerable to a shock which came in the form of the 1980s Latin American Debt Crisis. Peru suffered from self-reinforcing declines in GDP (falling by 13%), and in stock prices (falling by 56%). Unemployment rates increased by 5%, while currency weakness contributed to very high and rising inflation, peaking at 190% during the depression phase, which is high compared to other similar cases. That makes sense given that Peru had most of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being low real short rates). Peru's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 44%), though by the end policy makers had abandoned their currency defense and the currency had fallen by 53%. As shown in the attribution chart to the right, even though Peru needed a deleveraging, its debt as a % GDP went up by 163% (42% annualized), in part because the currency fell (which increased the burden of foreign-denominated debts) and in part because the government had to borrow more in response to the crisis (with a peak fiscal deficit of 5% of GDP).
 
-![](Attachments/_page_116_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_116_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_116_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_116_Figure_6.jpeg)
 
 ### **Peru 1980–1986 Case Auto-Summary (cont.)**
 
@@ -275,21 +275,21 @@ The crisis had a notable impact on the politics of Peru, as it helped set the st
 
 ### **Indebtedness**
 
-![](Attachments/_page_118_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_118_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_118_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_118_Figure_4.jpeg)
 
-![](Attachments/_page_118_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_118_Figure_6.jpeg)
 
 # **Peru 1980–1986 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_119_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_119_Figure_2.jpeg)
 
-![](Attachments/_page_119_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_119_Figure_4.jpeg)
 
 # **Philippines 1979–1992 Case Auto-Summary**
 
@@ -303,11 +303,11 @@ Between 1979 and 1982, the Philippines experienced a bubble that was most charac
 
 Eventually the dynamic turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1982 to 1984. High debt levels left the Philippines vulnerable to a shock—which came in the form of rapidly declining commodity prices and political violence. The Philippines suffered a fall in foreign funding (with capital inflows falling by 9% of GDP), leading to a tightening (policy makers hiked short rates by 34%) and a meaningful decline in the currency (real FX fell by 16%)—which coincided with self-reinforcing declines in GDP (falling by 11%), and in stock prices (falling by 71%). In addition, currency weakness contributed to high and rising inflation, peaking at 58% during the depression phase, which is normal compared to other similar cases. That makes sense given that the Philippines had around half of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being high foreign-denominated debts). The Philippines's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 100%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though the Philippines needed a deleveraging, its debt as a % GDP was roughly flat through this period.
 
-![](Attachments/_page_120_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_120_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_120_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_120_Figure_5.jpeg)
 
 # **Philippines 1979–1992 Case Auto-Summary (cont.)**
 
@@ -315,27 +315,27 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly shorter than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 7% of GDP), and make the currency more attractive to hold. The Philippines was very aggressive in managing its financial institutions and bad debts, pulling 7 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 9% (1% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, the Philippines's now lower currency (with real FX bottoming at -19% during the beautiful period) set up the country for renewed competitiveness. It took 6 years before real GDP reached its prior peak and equity prices in USD terms recovered within 5 years.
 
-![](Attachments/_page_121_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_121_Figure_3.jpeg)
 
 # **Philippines 1979–1992 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_122_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_122_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_122_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_122_Figure_4.jpeg)
 
-![](Attachments/_page_122_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_122_Figure_6.jpeg)
 
 # **Philippines 1979–1992 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_123_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_123_Figure_2.jpeg)
 
-![](Attachments/_page_123_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_123_Figure_4.jpeg)
 
 # **Malaysia 1981–1990 Case Auto-Summary**
 
@@ -351,7 +351,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_124_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_124_Figure_5.jpeg)
 
 # **Malaysia 1981–1990 Case Auto-Summary (cont.)**
 
@@ -359,29 +359,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly shorter than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 9% of GDP), and make the currency more attractive to hold. Malaysia was aggressive in managing its financial institutions and bad debts, pulling 5 out of 9 classic policy levers. In particular, it nationalized banks and provided liquidity. As shown in the attribution chart to the right, debt as a % of GDP fell by 74% (21% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising, driven primarily by higher real growth. Meanwhile, Malaysia's now lower currency (with real FX bottoming at -12% during the beautiful period) set up the country for renewed competitiveness. It took 1.8 years before real GDP reached its prior peak and equity prices in USD terms recovered within 6 years.
 
-![](Attachments/_page_125_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_125_Figure_3.jpeg)
 
 # **Malaysia 1981–1990 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_126_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_126_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_126_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_126_Figure_4.jpeg)
 
-![](Attachments/_page_126_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_126_Figure_6.jpeg)
 
 # **Malaysia 1981–1990 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_127_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_127_Figure_2.jpeg)
 
-![](Attachments/_page_127_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_127_Figure_3.jpeg)
 
-![](Attachments/_page_127_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_127_Figure_5.jpeg)
 
 ## **Peru 1986–1995 Case Auto-Summary**
 
@@ -395,11 +395,11 @@ Between 1986 and 1987, Peru experienced a bubble that was driven by a self-reinf
 
 Eventually the dynamic turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1987 to 1990. High debt levels left Peru vulnerable to a shock—which came in the form of Peru's leadership not being willing to cooperate with international creditors. Peru suffered from self-reinforcing declines in GDP (falling by 30%), and in stock prices (falling by 91%). Peru's financial institutions also came under considerable pressure. Though it was caught in an ugly deleveraging, Peru nevertheless managed to reduce its debt as a %GDP by 106% (30% annualized) through this period (as shown in the attribution chart to the right). The reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher inflation.
 
-![](Attachments/_page_128_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_128_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_128_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_128_Figure_5.jpeg)
 
 ### **Peru 1986–1995 Case Auto-Summary (cont.)**
 
@@ -407,27 +407,27 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, the tightening wasn't enough to produce the needed adjustments before the country fell into a spiral of declining exchange rates and hyperinflation. Real FX bottomed at -115% and inflation peaked at over 10,000%. That makes sense given that Peru had most of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being low real short rates). Peru was somewhat aggressive in managing its financial institutions and bad debts, pulling 3 out of 9 typical policy levers. In particular, it nationalized banks and provided liquidity. It also enacted structural reforms designed to increase labor market flexibility. But, as is classic, stopping the inflationary spiral ultimately required Peru to make more significant structural changes, including abandoning the hyperinflated inti and adopting the sol in 1991. It took 9 years before real GDP reached its prior peak.
 
-![](Attachments/_page_129_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_129_Figure_3.jpeg)
 
 ### **Peru 1986–1995 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_130_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_130_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_130_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_130_Figure_4.jpeg)
 
-![](Attachments/_page_130_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_130_Figure_6.jpeg)
 
 # **Peru 1986–1995 Chart Deck Appendix (cont.)**
 
 #### **Markets**
 
-![](Attachments/_page_131_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_131_Figure_2.jpeg)
 
-![](Attachments/_page_131_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_131_Figure_4.jpeg)
 
 # **Argentina 1987–1993 Case Auto-Summary**
 
@@ -441,13 +441,13 @@ Unlike many other cases, Argentina didn't experience a broad-based bubble in the
 
 Eventually the cycle turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1987 to 1990. High debt levels left Argentina vulnerable to a shock—which came in the form of commodity price declines hitting exports. Argentina suffered a fall in foreign funding (with capital inflows falling by 4% of GDP), leading to a tightening (policy makers hiked short rates by more than 250%) and a meaningful decline in the currency (real FX fell by 60%)—which coincided with self-reinforcing declines in GDP (falling by 16%), and in stock prices (falling by 33%). Unemployment rates increased by 3%, while currency weakness contributed to very high and rising inflation. Argentina's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 26%), though it eventually abandoned its currency defense. Though it was caught in an ugly deleveraging, Argentina nevertheless managed to reduce its debt as a %GDP by 30% (11% annualized) through this period (as shown in the attribution chart to the right). The reduction in debt-to-income ratios came mostly from income rising, driven primarily by higher inflation.
 
-![](Attachments/_page_132_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_132_Figure_8.jpeg)
 
-![](Attachments/_page_132_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_132_Figure_9.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_132_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_132_Figure_6.jpeg)
 
 # **Argentina 1987–1993 Case Auto-Summary (cont.)**
 
@@ -455,7 +455,7 @@ Eventually the cycle turned, producing a self-reinforcing bust and a balance of 
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, the tightening wasn't enough to produce the needed adjustments before the country fell into a spiral of declining exchange rates and hyperinflation. Real FX bottomed at -135% and inflation peaked at over 10,000%. That makes sense given that Argentina had around half of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being a long history of poorly-controlled inflation). Argentina was somewhat aggressive in managing its financial institutions and bad debts, pulling 3 out of 9 typical policy levers. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. But, as is classic, stopping the inflationary spiral ultimately required Argentina to make more significant structural changes, including abandoning the hyperinflated austral and adopting the current Argentine peso, which was initially pegged to the US dollar. It took 4 years before real GDP reached its prior peak and equity prices in USD terms recovered within 2 years.
 
-![](Attachments/_page_133_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_133_Figure_5.jpeg)
 
 The crisis had a notable impact on the politics of Argentina, as it helped set the stage for Carlos Menem, whom many people consider a populist leader, to take power.
 
@@ -463,21 +463,21 @@ The crisis had a notable impact on the politics of Argentina, as it helped set t
 
 ### **Indebtedness**
 
-![](Attachments/_page_134_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_134_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_134_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_134_Figure_4.jpeg)
 
-![](Attachments/_page_134_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_134_Figure_6.jpeg)
 
 # **Argentina 1987–1993 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_135_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_135_Figure_2.jpeg)
 
-![](Attachments/_page_135_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_135_Figure_4.jpeg)
 
 # **Brazil 1987–1995 Case Auto-Summary**
 
@@ -491,11 +491,11 @@ Between 1987 and 1990, Brazil experienced a bubble that was driven by a self-rei
 
 Eventually the dynamic turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1990 to 1991. High debt levels left Brazil vulnerable to a shock—which came in the form of a collapse of price control regulations and an inflation shock. Brazil suffered from self-reinforcing declines in GDP (falling by 7%), and in stock prices (falling by 70%). Unemployment rates increased by 4%, while currency weakness contributed to very high inflation. Brazil's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 28%), though by the end policy makers had abandoned their currency defense and the currency had fallen by 19%. As shown in the attribution chart to the right, even though Brazil needed a deleveraging, its debt as a % GDP went up by 40% (37% annualized), in part because the currency fell (which increased the burden of foreign-denominated debts) and in part because the government had to borrow more in response to the crisis (with a peak fiscal deficit of 19% of GDP).
 
-![](Attachments/_page_136_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_136_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_136_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_136_Figure_5.jpeg)
 
 ## **Brazil 1987–1995 Case Auto-Summary (cont.)**
 
@@ -503,31 +503,31 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, the tightening wasn't enough to produce the needed adjustments before the country fell into a spiral of declining exchange rates and hyperinflation. Real FX bottomed at -16% and inflation peaked at over 5,000%. That makes sense given that Brazil had most of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being a long history of poorly-controlled inflation). Brazil was not aggressive in managing its financial institutions and bad debts, pulling 2 out of 9 typical policy levers. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. But, as is classic, stopping the inflationary spiral ultimately required Brazil to make more significant structural changes, including abandoning the hyperinflated cruzado and adopting first the cruzeiro and then the modern real in 1994. It took 1.4 years before real GDP reached its prior peak and equity prices in USD terms recovered within 3 years.
 
-![](Attachments/_page_137_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_137_Figure_4.jpeg)
 
-![](Attachments/_page_137_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_137_Figure_5.jpeg)
 
 ## **Brazil 1987–1995 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_138_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_138_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_138_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_138_Figure_4.jpeg)
 
-![](Attachments/_page_138_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_138_Figure_6.jpeg)
 
 # **Brazil 1987–1995 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_139_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_139_Figure_2.jpeg)
 
-![](Attachments/_page_139_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_139_Figure_3.jpeg)
 
-![](Attachments/_page_139_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_139_Figure_5.jpeg)
 
 # **Turkey 1990–1995 Case Auto-Summary**
 
@@ -543,13 +543,13 @@ Eventually the cycle turned, producing a self-reinforcing bust and a balance of 
 
 to 1994. High debt levels left Turkey vulnerable to a shock which came in the form of moves by the government to undermine central bank independence. Turkey suffered a fall in foreign funding (with capital inflows falling by 8% of GDP), leading to a tightening (policy makers hiked short rates by 203%) and a meaningful decline in the currency (real FX fell by 26%)—which coincided with self-reinforcing declines in GDP (falling by 12%), and in stock prices (falling by 70%). In addition, currency weakness contributed to very high and rising inflation, peaking at 117% during the depression phase, which is high compared to other similar cases. That's true despite the fact that Turkey had only about a quarter of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being a long history of poorly-controlled inflation). Turkey's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 99%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though Turkey needed a deleveraging, its debt as a % GDP went up by 9% (17% annualized), in part because the currency fell (which increased the burden of foreign-denominated debt).
 
-![](Attachments/_page_140_Figure_10.jpeg)
+![](Attachments/BigDebtCycles_page_140_Figure_10.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_140_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_140_Figure_7.jpeg)
 
-![](Attachments/_page_140_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_140_Figure_8.jpeg)
 
 # **Turkey 1990–1995 Case Auto-Summary (cont.)**
 
@@ -557,29 +557,29 @@ to 1994. High debt levels left Turkey vulnerable to a shock which came in the fo
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, after a relatively short "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 5% of GDP), and make the currency more attractive to hold. Turkey was somewhat aggressive in managing its financial institutions and bad debts, pulling 3 out of 9 classic policy levers. It also benefited from an IMF assistance program. As shown in the attribution chart to the right, debt as a % of GDP fell by 11% (7% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Turkey's now much lower currency (with real FX bottoming at -21% during the beautiful period) set up the country for renewed competitiveness. It took 1.6 years before real GDP reached its prior peak and equity prices in USD terms recovered within 4 years.
 
-![](Attachments/_page_141_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_141_Figure_4.jpeg)
 
-![](Attachments/_page_141_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_141_Figure_5.jpeg)
 
 # **Turkey 1990–1995 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_142_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_142_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_142_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_142_Figure_4.jpeg)
 
-![](Attachments/_page_142_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_142_Figure_6.jpeg)
 
 # **Turkey 1990–1995 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_143_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_143_Figure_2.jpeg)
 
-![](Attachments/_page_143_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_143_Figure_4.jpeg)
 
 ### **Mexico 1991–2005 Case Auto-Summary**
 
@@ -595,7 +595,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_144_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_144_Figure_5.jpeg)
 
 ## **Mexico 1991–2005 Case Auto-Summary (cont.)**
 
@@ -603,27 +603,27 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a relatively short "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 7% of GDP), and make the currency more attractive to hold. Mexico was very aggressive in managing its financial institutions and bad debts, pulling 6 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 41% (4% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Mexico's now much lower currency (with real FX bottoming at -26% during the beautiful period) set up the country for renewed competitiveness. It took 2 years before real GDP reached its prior peak and equity prices in USD terms recovered within 10 years.
 
-![](Attachments/_page_145_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_145_Figure_3.jpeg)
 
 ### **Mexico 1991–2005 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_146_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_146_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_146_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_146_Figure_4.jpeg)
 
-![](Attachments/_page_146_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_146_Figure_6.jpeg)
 
 ### **Mexico 1991–2005 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_147_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_147_Figure_2.jpeg)
 
-![](Attachments/_page_147_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_147_Figure_4.jpeg)
 
 # **Bulgaria 1995–2003 Case Auto-Summary**
 
@@ -639,9 +639,9 @@ Eventually the cycle turned, producing a self-reinforcing bust and a balance of 
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_148_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_148_Figure_7.jpeg)
 
-![](Attachments/_page_148_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_148_Figure_8.jpeg)
 
 # **Bulgaria 1995–2003 Case Auto-Summary (cont.)**
 
@@ -649,29 +649,29 @@ Eventually the cycle turned, producing a self-reinforcing bust and a balance of 
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, the tightening wasn't enough to produce the needed adjustments before the country fell into a spiral of declining exchange rates and hyperinflation. Real FX bottomed at -63% and inflation peaked at over 500%. That makes sense given that Bulgaria had most of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being a long history of poorly-controlled inflation). Bulgaria was aggressive in managing its financial institutions and bad debts, pulling 5 out of 9 typical policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program. But, as is classic, stopping the inflationary spiral ultimately required Bulgaria to make more significant structural changes, including redenominating the lev, pegging it to the Deutsche Mark and backing it by foreign exchange reserves. It took 8 years before real GDP reached its prior peak.
 
-![](Attachments/_page_149_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_149_Figure_4.jpeg)
 
-![](Attachments/_page_149_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_149_Figure_5.jpeg)
 
 ## **Bulgaria 1995–2003 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_150_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_150_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_150_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_150_Figure_4.jpeg)
 
-![](Attachments/_page_150_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_150_Figure_6.jpeg)
 
 # **Bulgaria 1995–2003 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_151_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_151_Figure_2.jpeg)
 
-![](Attachments/_page_151_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_151_Figure_4.jpeg)
 
 ## **Thailand 1993–2004 Case Auto-Summary**
 
@@ -685,11 +685,11 @@ Between 1993 and 1996, Thailand experienced a bubble that was driven by a self-r
 
 Eventually the dynamic turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1996 to 1998. At its pre-crisis peak, debt service reached 49% of GDP, making Thailand vulnerable to a shock—which came in the form of a wave of losses from over-indebted companies/ banks. Thailand suffered a fall in foreign funding (with capital inflows falling by 34% of GDP), leading to a tightening (policy makers hiked short rates by 11%) and a meaningful decline in the currency (real FX fell by 19%)—which coincided with self-reinforcing declines in GDP (falling by 14%), and in stock prices (falling by 87%). In addition, currency weakness contributed to moderate and rising inflation, peaking at 8% during the depression phase, which is low compared to other similar cases. That makes sense given that Thailand had only about a quarter of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being their current account deficit). Thailand's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 100%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though Thailand needed a deleveraging, its debt as a % GDP went up by 36% (18% annualized), in part because the currency fell (which increased the burden of foreign-denominated debt).
 
-![](Attachments/_page_152_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_152_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_152_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_152_Figure_5.jpeg)
 
 ### **Thailand 1993–2004 Case Auto-Summary (cont.)**
 
@@ -699,29 +699,29 @@ A key determinant of how balance of payments/currency crises play out is how pol
 
 The crisis had a notable impact on the politics of Thailand, as it helped set the stage for Thaksin Shinawatra, whom many people consider a populist leader, to take power in 2001.
 
-![](Attachments/_page_153_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_153_Figure_5.jpeg)
 
 ### **Thailand 1993–2004 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_154_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_154_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_154_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_154_Figure_4.jpeg)
 
-![](Attachments/_page_154_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_154_Figure_6.jpeg)
 
-![](Attachments/_page_154_Figure_10.jpeg)
+![](Attachments/BigDebtCycles_page_154_Figure_10.jpeg)
 
 # **Thailand 1993–2004 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_155_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_155_Figure_2.jpeg)
 
-![](Attachments/_page_155_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_155_Figure_4.jpeg)
 
 ### **Indonesia 1994–2012 Case Auto-Summary**
 
@@ -735,13 +735,13 @@ Between 1994 and 1997, Indonesia experienced a bubble that was driven by a self-
 
 Eventually the dynamic turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1997 to 1998. High debt levels left Indonesia vulnerable to a shock which came in the form of the 1997 Asian financial crisis. Indonesia suffered a fall in foreign funding (with capital inflows falling by 13% of GDP), leading to a tightening (policy makers hiked short rates by 43%) and a meaningful decline in the currency (real FX fell by 110%)—which coincided with self-reinforcing declines in GDP (falling by 14%), and in stock prices (falling by 89%). In addition, currency weakness contributed to high and rising inflation, peaking at 59% during the depression phase, which is normal compared to other similar cases. That's true despite the fact that Indonesia had only about a quarter of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being high foreign-denominated debts). Indonesia's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 23%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though Indonesia needed a deleveraging, its debt as a % GDP went up by 132% (132% annualized), in part because the currency fell (which increased the burden of foreign-denominated debt).
 
-![](Attachments/_page_156_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_156_Figure_8.jpeg)
 
-![](Attachments/_page_156_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_156_Figure_9.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_156_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_156_Figure_5.jpeg)
 
 ### **Indonesia 1994–2012 Case Auto-Summary (cont.)**
 
@@ -749,29 +749,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a relatively short "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 4% of GDP), and make the currency more attractive to hold. Indonesia was very aggressive in managing its financial institutions and bad debts, pulling 7 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program. As shown in the attribution chart to the right, debt as a % of GDP fell by 178% (13% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Indonesia's now much lower currency (with real FX bottoming at -90% during the beautiful period) set up the country for renewed competitiveness. It took 5 years before real GDP reached its prior peak and equity prices in USD terms recovered within 13 years.
 
-![](Attachments/_page_157_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_157_Figure_4.jpeg)
 
 ### **Indonesia 1994–2012 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_158_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_158_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_158_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_158_Figure_4.jpeg)
 
-![](Attachments/_page_158_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_158_Figure_6.jpeg)
 
 # **Indonesia 1994–2012 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_159_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_159_Figure_2.jpeg)
 
-![](Attachments/_page_159_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_159_Figure_3.jpeg)
 
-![](Attachments/_page_159_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_159_Figure_5.jpeg)
 
 # **Korea 1994–2001 Case Auto-Summary**
 
@@ -787,7 +787,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_160_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_160_Figure_5.jpeg)
 
 ### **Korea 1994–2001 Case Auto-Summary (cont.)**
 
@@ -795,31 +795,31 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly shorter than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 7% of GDP), and make the currency more attractive to hold. Korea was very aggressive in managing its financial institutions and bad debts, pulling 7 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 25% (10% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising, driven primarily by higher real growth. Meanwhile, Korea's now lower currency (with real FX bottoming at -17% during the beautiful period) set up the country for renewed competitiveness. It took 1.7 years before real GDP reached its prior peak and equity prices in USD terms recovered within 9 years.
 
-![](Attachments/_page_161_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_161_Figure_3.jpeg)
 
-![](Attachments/_page_161_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_161_Figure_4.jpeg)
 
-![](Attachments/_page_161_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_161_Figure_5.jpeg)
 
 ### **Korea 1994–2001 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_162_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_162_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_162_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_162_Figure_4.jpeg)
 
-![](Attachments/_page_162_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_162_Figure_6.jpeg)
 
 ### **Korea 1994–2001 Chart Deck Appendix (cont.)**
 
 #### **Markets**
 
-![](Attachments/_page_163_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_163_Figure_2.jpeg)
 
-![](Attachments/_page_163_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_163_Figure_4.jpeg)
 
 # **Malaysia 1994–2001 Case Auto-Summary**
 
@@ -835,7 +835,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_164_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_164_Figure_5.jpeg)
 
 ## **Malaysia 1994–2001 Case Auto-Summary (cont.)**
 
@@ -843,27 +843,27 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly shorter than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 19% of GDP), and make the currency more attractive to hold. Malaysia was very aggressive in managing its financial institutions and bad debts, pulling 7 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. As shown in the attribution chart to the right, debt as a % of GDP fell by 41% (18% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising, driven primarily by higher real growth. Meanwhile, Malaysia's now much lower currency (with real FX bottoming at -9% during the beautiful period) set up the country for renewed competitiveness. It took 2 years before real GDP reached its prior peak and equity prices in USD terms recovered within 14 years.
 
-![](Attachments/_page_165_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_165_Figure_3.jpeg)
 
 ## **Malaysia 1994–2001 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_166_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_166_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_166_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_166_Figure_4.jpeg)
 
-![](Attachments/_page_166_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_166_Figure_6.jpeg)
 
 # **Malaysia 1994–2001 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_167_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_167_Figure_2.jpeg)
 
-![](Attachments/_page_167_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_167_Figure_4.jpeg)
 
 # **Philippines 1994–2008 Case Auto-Summary**
 
@@ -877,15 +877,15 @@ Between 1994 and 1997, the Philippines experienced a bubble that was most charac
 
 Eventually the dynamic turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1997 to 1998. At its pre-crisis peak, debt service reached 25% of GDP, making the Philippines vulnerable to a shock—which came in the form of the 1997 Asian financial crisis. The Philippines suffered a fall in foreign funding (with capital inflows falling by 19% of GDP), leading to a tightening (policy makers hiked short rates by 9%) and a meaningful decline in the currency (real FX fell by 29%)—which coincided with self-reinforcing declines in GDP (falling by 3%), and in stock prices (falling by 79%). In addition, currency weakness contributed to moderate and rising inflation, peaking at 10% during the depression phase, which is low compared to other similar cases. That makes sense given that the Philippines had only about a quarter of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being low central bank reserves). The Philippines's financial institutions also came under considerable
 
-![](Attachments/_page_168_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_168_Figure_8.jpeg)
 
-![](Attachments/_page_168_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_168_Figure_9.jpeg)
 
 pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 60%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though the Philippines needed a deleveraging, its debt as a % GDP went up by 24% (15% annualized), in part because the currency fell (which increased the burden of foreign-denominated debt).
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_168_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_168_Figure_5.jpeg)
 
 ### **Philippines 1994–2008 Case Auto-Summary (cont.)**
 
@@ -893,31 +893,31 @@ pressure. Meanwhile, the central bank spent down its reserves to defend the curr
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly shorter than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 11% of GDP), and make the currency more attractive to hold. The Philippines was somewhat aggressive in managing its financial institutions and bad debts, pulling 3 out of 9 classic policy levers. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 51% (5% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, the Philippines's now much lower currency (with real FX bottoming at -24% during the beautiful period) set up the country for renewed competitiveness. In the end, the GDP contraction was brief, while equity prices in USD terms recovered within 16 years.
 
-![](Attachments/_page_169_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_169_Figure_3.jpeg)
 
 The crisis had a notable impact on the politics of the Philippines, as it helped set the stage for Joseph Estrada, whom many people consider a populist leader, to take power.
 
-![](Attachments/_page_169_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_169_Figure_5.jpeg)
 
 # **Philippines 1994–2008 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_170_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_170_Figure_2.jpeg)
 
 #### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_170_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_170_Figure_4.jpeg)
 
-![](Attachments/_page_170_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_170_Figure_6.jpeg)
 
 # **Philippines 1994–2008 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_171_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_171_Figure_2.jpeg)
 
-![](Attachments/_page_171_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_171_Figure_4.jpeg)
 
 ### **Russia 1996–2006 Case Auto-Summary**
 
@@ -931,11 +931,11 @@ Unlike many other cases, Russia didn't experience a broadbased bubble in the yea
 
 Eventually the cycle turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1997 to 1998. At its pre-crisis peak, debt service reached 90% of GDP, making Russia vulnerable to a shock—which came in the form of ripples from the 1997 Asian financial crisis and falling oil prices. Russia suffered a fall in foreign funding (with capital inflows falling by 5% of GDP), leading to a tightening (policy makers hiked short rates by more than 250%) and a meaningful decline in the currency (real FX fell by 72%)—which coincided with self-reinforcing declines in GDP (falling by 10%), and in stock prices (falling by 85%). In addition, currency weakness contributed to high and rising inflation, peaking at 91% during the depression phase, which is high compared to other similar cases. That makes sense given that Russia had around half of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being a long history of poorly-controlled inflation). Russia's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 55%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though Russia needed a deleveraging, its debt as a % GDP went up by 63% (58% annualized), in part because the currency fell (which increased the burden of foreign-denominated debts) and in part because the government had to borrow more in response to the crisis (with a peak fiscal deficit of 5% of GDP).
 
-![](Attachments/_page_172_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_172_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_172_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_172_Figure_5.jpeg)
 
 ### **Russia 1996–2006 Case Auto-Summary (cont.)**
 
@@ -943,27 +943,27 @@ Eventually the cycle turned, producing a self-reinforcing bust and a balance of 
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a relatively short "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 8% of GDP), and make the currency more attractive to hold. Russia was very aggressive in managing its financial institutions and bad debts, pulling 6 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 119% (15% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Russia's now much lower currency (with real FX bottoming at -43% during the beautiful period) set up the country for renewed competitiveness. It took 1.8 years before real GDP reached its prior peak and equity prices in USD terms recovered within 6 years.
 
-![](Attachments/_page_173_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_173_Figure_3.jpeg)
 
 ### **Russia 1996–2006 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_174_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_174_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_174_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_174_Figure_4.jpeg)
 
-![](Attachments/_page_174_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_174_Figure_6.jpeg)
 
 ### **Russia 1996–2006 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_175_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_175_Figure_2.jpeg)
 
-![](Attachments/_page_175_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_175_Figure_4.jpeg)
 
 ## **Colombia 1995–2008 Case Auto-Summary**
 
@@ -979,7 +979,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_176_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_176_Figure_5.jpeg)
 
 ### **Colombia 1995–2008 Case Auto-Summary (cont.)**
 
@@ -987,29 +987,29 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly longer than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 5% of GDP), and make the currency more attractive to hold. Colombia was very aggressive in managing its financial institutions and bad debts, pulling 6 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 16% (3% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Colombia's now much lower currency (with real FX bottoming at -29% during the beautiful period) set up the country for renewed competitiveness. It took 4 years before real GDP reached its prior peak and equity prices in USD terms recovered within 7 years.
 
-![](Attachments/_page_177_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_177_Figure_3.jpeg)
 
 ### **Colombia 1995–2008 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_178_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_178_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_178_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_178_Figure_4.jpeg)
 
-![](Attachments/_page_178_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_178_Figure_6.jpeg)
 
-![](Attachments/_page_178_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_178_Figure_7.jpeg)
 
 # **Colombia 1995–2008 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_179_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_179_Figure_2.jpeg)
 
-![](Attachments/_page_179_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_179_Figure_4.jpeg)
 
 ### **Ecuador 1995–2009 Case Auto-Summary**
 
@@ -1023,11 +1023,11 @@ Unlike many other cases, Ecuador didn't experience a broadbased bubble in the ye
 
 Eventually the cycle turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 1998 to 2000. High debt levels left Ecuador vulnerable to a shock which came in the form of contagion from the 1997 Asian financial crisis. Ecuador suffered a fall in foreign funding (with capital inflows falling by 11% of GDP), leading to a meaningful decline in the currency (real FX fell by 60%)—which coincided with self-reinforcing declines in GDP (falling by 6%), and in stock prices (falling by 62%). Unemployment rates increased by 2%, while currency weakness contributed to high and rising inflation, peaking at 76% during the depression phase, which is high compared to other similar cases. That makes sense given that Ecuador had most of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being low real short rates). Ecuador's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 61%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though Ecuador needed a deleveraging, its debt as a % GDP went up by 46% (42% annualized), in part because the currency fell (which increased the burden of foreign-denominated debt).
 
-![](Attachments/_page_180_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_180_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_180_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_180_Figure_5.jpeg)
 
 ### **Ecuador 1995–2009 Case Auto-Summary (cont.)**
 
@@ -1035,7 +1035,7 @@ Eventually the cycle turned, producing a self-reinforcing bust and a balance of 
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a relatively short "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 11% of GDP), and make the currency more attractive to hold. Ecuador was very aggressive in managing its financial institutions and bad debts, pulling 9 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 79% (8% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Ecuador's now much lower currency (with real FX bottoming at -55% during the beautiful period) set up the country for renewed competitiveness. It took 1.8 years before real GDP reached its prior peak and equity prices in USD terms recovered within 5 years.
 
-![](Attachments/_page_181_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_181_Figure_3.jpeg)
 
 The crisis had a notable impact on the politics of Ecuador, as it helped set the stage for Lucio Gutierrez, whom many people consider a populist leader, to take power in 2003.
 
@@ -1043,21 +1043,21 @@ The crisis had a notable impact on the politics of Ecuador, as it helped set the
 
 ### **Indebtedness**
 
-![](Attachments/_page_182_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_182_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_182_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_182_Figure_4.jpeg)
 
-![](Attachments/_page_182_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_182_Figure_6.jpeg)
 
 ## **Ecuador 1995–2009 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_183_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_183_Figure_2.jpeg)
 
-![](Attachments/_page_183_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_183_Figure_4.jpeg)
 
 ### **Turkey 1997–2003 Case Auto-Summary**
 
@@ -1071,17 +1071,17 @@ Between 1997 and 2000, Turkey experienced a bubble that was driven by a self-rei
 
 Eventually the dynamic turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 2000 to 2001. At its pre-crisis peak, debt service reached 30% of GDP, making Turkey vulnerable to a shock—which came in the form of political turmoil and violence. Turkey suffered a fall in foreign funding (with capital inflows falling by 10% of GDP), leading to a tightening (policy makers hiked short rates by 157%) and a meaningful decline in the currency (real FX fell by 12%)—which coincided with self-reinforcing declines in GDP (falling by 10%), and in stock prices (falling by 78%). Unemployment rates increased by 3%, while currency weakness contributed to high and rising inflation, peaking at 62% during the depression phase, which is high compared to other similar cases. That makes sense given that Turkey had most of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being a long history of poorly-controlled inflation). Turkey's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 100%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though Turkey needed a deleveraging, its debt as a % GDP went up by 9% (6% annualized), in part because the currency fell (which increased the burden of foreign-denominated debts) and in part because
 
-![](Attachments/_page_184_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_184_Figure_8.jpeg)
 
-![](Attachments/_page_184_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_184_Figure_9.jpeg)
 
-![](Attachments/_page_184_Figure_10.jpeg)
+![](Attachments/BigDebtCycles_page_184_Figure_10.jpeg)
 
-![](Attachments/_page_184_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_184_Figure_11.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_184_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_184_Figure_5.jpeg)
 
 ## **Turkey 1997–2003 Case Auto-Summary (cont.)**
 
@@ -1089,27 +1089,27 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly shorter than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 5% of GDP), and make the currency more attractive to hold. Turkey was very aggressive in managing its financial institutions and bad debts, pulling 7 out of 9 classic policy levers. In particular, it nationalized banks, provided liquidity, and directly purchased troubled assets. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 6% (3% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Turkey's now lower currency (with real FX bottoming at -18% during the beautiful period) set up the country for renewed competitiveness. It took 2 years before real GDP reached its prior peak and equity prices in USD terms recovered within 6 years.
 
-![](Attachments/_page_185_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_185_Figure_3.jpeg)
 
 ### **Turkey 1997–2003 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_186_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_186_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_186_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_186_Figure_4.jpeg)
 
-![](Attachments/_page_186_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_186_Figure_6.jpeg)
 
 ## **Turkey 1997–2003 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_187_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_187_Figure_2.jpeg)
 
-![](Attachments/_page_187_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_187_Figure_4.jpeg)
 
 # **Argentina 1998–2012 Case Auto-Summary**
 
@@ -1123,11 +1123,11 @@ Between 1998 and 2001, Argentina experienced a bubble that was most characterize
 
 Eventually the dynamic turned, producing a self-reinforcing bust and a balance of payments/currency crisis, which ran from 2001 to 2002. High debt levels left Argentina vulnerable to a shock which came in the form of ripples from the late 1990s crises in other EM countries. Argentina suffered a fall in foreign funding (with capital inflows falling by 10% of GDP), leading to a tightening (policy makers hiked short rates by 173%) and a meaningful decline in the currency (real FX fell by 77%)—which coincided with self-reinforcing declines in GDP (falling by 15%), and in stock prices (falling by 82%). Unemployment rates increased by 3%, while currency weakness contributed to high and rising inflation, peaking at 32% during the depression phase, which is normal compared to other similar cases. That makes sense given that Argentina had around half of the classic "risk factors" for bigger inflation spirals (with the biggest risk factor being a long history of poorly-controlled inflation). Argentina's financial institutions also came under considerable pressure. Meanwhile, the central bank spent down its reserves to defend the currency (drawing down reserves by 66%), though it eventually abandoned its currency defense. As shown in the attribution chart to the right, even though Argentina needed a deleveraging, its debt as a % GDP went up by 118% (62% annualized), in part because the currency fell (which increased the burden of foreign-denominated debts) and in part because the government had to borrow more in response to the crisis (with a peak fiscal deficit of 4% of GDP).
 
-![](Attachments/_page_188_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_188_Figure_8.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_188_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_188_Figure_5.jpeg)
 
 # **Argentina 1998–2012 Case Auto-Summary (cont.)**
 
@@ -1135,7 +1135,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they let their currency go and allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, they abandoned the currency peg and, after a slightly shorter than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 7% of GDP), and make the currency more attractive to hold. Argentina was very aggressive in managing its financial institutions and bad debts, pulling 6 out of 9 classic policy levers. In particular, it nationalized banks and provided liquidity. It also benefited from an IMF assistance program and enacted structural reforms designed to increase labor market flexibility. As shown in the attribution chart to the right, debt as a % of GDP fell by 140% (15% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Argentina's now much lower currency (with real FX bottoming at -42% during the beautiful period) set up the country for renewed competitiveness. It took 5 years before real GDP reached its prior peak and equity prices in USD terms recovered within 7 years.
 
-![](Attachments/_page_189_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_189_Figure_3.jpeg)
 
 The crisis had a notable impact on the politics of Argentina, as it helped set the stage for Eduardo Duhalde, whom many people consider a populist leader, to take power.
 
@@ -1143,21 +1143,21 @@ The crisis had a notable impact on the politics of Argentina, as it helped set t
 
 ### **Indebtedness**
 
-![](Attachments/_page_190_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_190_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_190_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_190_Figure_4.jpeg)
 
-![](Attachments/_page_190_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_190_Figure_6.jpeg)
 
 # **Argentina 1998–2012 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_191_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_191_Figure_2.jpeg)
 
-![](Attachments/_page_191_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_191_Figure_4.jpeg)
 
 ## **Iceland 2005–2016 Case Auto-Summary**
 
@@ -1173,7 +1173,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_192_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_192_Figure_5.jpeg)
 
 # **Iceland 2005–2016 Case Auto-Summary (cont.)**
 
@@ -1181,27 +1181,27 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, after a slightly longer than average "ugly" phase, policy makers allowed enough tightening to flow through to reduce spending on imports (the current account balance improved by 13% of GDP), and make the currency more attractive to hold. Iceland was very aggressive in managing its financial institutions and bad debts, pulling 6 out of 9 classic policy levers. In particular, it nationalized banks and provided liquidity. It also benefited from an IMF assistance program. As shown in the attribution chart to the right, debt as a % of GDP fell by 1,037% (170% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came from a balanced mix of outright debt reduction as well as rising income, driven primarily by higher real growth. Meanwhile, Iceland's now much lower currency (with real FX bottoming at -22% during the beautiful period) set up the country for renewed competitiveness. It took 8 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_193_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_193_Figure_4.jpeg)
 
 ### **Iceland 2005–2016 Chart Deck Appendix**
 
 #### **Indebtedness**
 
-![](Attachments/_page_194_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_194_Figure_2.jpeg)
 
 #### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_194_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_194_Figure_4.jpeg)
 
-![](Attachments/_page_194_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_194_Figure_6.jpeg)
 
 ## **Iceland 2005–2016 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_195_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_195_Figure_2.jpeg)
 
-![](Attachments/_page_195_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_195_Figure_4.jpeg)
 
 ## **Russia 2005–2011 Case Auto-Summary**
 
@@ -1217,7 +1217,7 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_196_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_196_Figure_5.jpeg)
 
 ## **Russia 2005–2011 Case Auto-Summary (cont.)**
 
@@ -1225,27 +1225,27 @@ Eventually the dynamic turned, producing a self-reinforcing bust and a balance o
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, after a slightly shorter than average "ugly" phase, policy makers allowed enough tightening to flow through to make the currency more attractive to hold. Russia was aggressive in managing its financial institutions and bad debts, pulling 4 out of 9 classic policy levers. As shown in the attribution chart to the right, debt as a % of GDP fell by 14% (8% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came mostly from nominal income rising. Meanwhile, Russia's now much lower currency (with real FX bottoming at 11% during the beautiful period) set up the country for renewed competitiveness. It took 3 years before real GDP reached its prior peak, but equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_197_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_197_Figure_3.jpeg)
 
 ### **Russia 2005–2011 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_198_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_198_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_198_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_198_Figure_4.jpeg)
 
-![](Attachments/_page_198_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_198_Figure_6.jpeg)
 
 ## **Russia 2005–2011 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_199_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_199_Figure_2.jpeg)
 
-![](Attachments/_page_199_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_199_Figure_4.jpeg)
 
 # **Russia 2012–2016 Case Auto-Summary**
 
@@ -1261,11 +1261,11 @@ Eventually the cycle turned, producing a self-reinforcing bust and a balance of 
 
 government had to borrow more in response to the crisis (with a peak fiscal deficit of 4% of GDP).
 
-![](Attachments/_page_200_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_200_Figure_9.jpeg)
 
 **\*The first two charts show gauges which measure bubble/depression conditions and tightness/easiness of money and credit. For each gauge, the difference from zero conveys the extent of the bubble while the crossing above/below zero represents the shifting into or out of the bubble.**
 
-![](Attachments/_page_200_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_200_Figure_5.jpeg)
 
 ## **Russia 2012–2016 Case Auto-Summary (cont.)**
 
@@ -1273,31 +1273,31 @@ government had to borrow more in response to the crisis (with a peak fiscal defi
 
 A key determinant of how balance of payments/currency crises play out is how policy makers respond to adverse capital flows: whether they allow a tightening of financial conditions to flow through (painful but typically necessary to resolve the crisis), or print money to make up for money leaving (which can be inflationary). In this case, after a slightly shorter than average "ugly" phase, policy makers allowed enough tightening to flow through to make the currency more attractive to hold. Russia was aggressive in managing its financial institutions and bad debts, pulling 4 out of 9 classic policy levers. As shown in the attribution chart to the right, debt as a % of GDP fell by 7% (14% annualized) over the course of this adjustment period. The reduction in debt-to-income ratios came from a balanced mix of outright debt reduction as well as rising income. Meanwhile, Russia's now much lower currency (with real FX bottoming at -17% during the beautiful period) set up the country for renewed competitiveness. Real GDP has not yet reached its prior peak and equity prices in USD terms haven't yet fully recovered.
 
-![](Attachments/_page_201_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_201_Figure_3.jpeg)
 
 ### **Russia 2012–2016 Chart Deck Appendix**
 
 ### **Indebtedness**
 
-![](Attachments/_page_202_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_202_Figure_2.jpeg)
 
 ### **Monetary and Fiscal Policy**
 
-![](Attachments/_page_202_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_202_Figure_4.jpeg)
 
-![](Attachments/_page_202_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_202_Figure_6.jpeg)
 
-![](Attachments/_page_202_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_202_Figure_8.jpeg)
 
 ### **Russia 2012–2016 Chart Deck Appendix (cont.)**
 
 ### **Markets**
 
-![](Attachments/_page_203_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_203_Figure_2.jpeg)
 
-![](Attachments/_page_203_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_203_Figure_3.jpeg)
 
-![](Attachments/_page_203_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_203_Figure_5.jpeg)
 
 # **Appendix: Macroprudential Policies**
 
@@ -1395,7 +1395,7 @@ After attaining the ability to set margin requirements from the Securities Excha
 - <sup>n</sup>All of the Fed's changes to the margin requirements are shown in the chart below.
 - <sup>n</sup>Since 1974, the Federal Reserve mostly stopped using this lever, as the development of other ways of buying assets on credit (e.g., derivatives) made it easy for investors to side-step this requirement.
 
-![](Attachments/_page_207_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_207_Figure_2.jpeg)
 
 USA Initial Margin Requirement US Stocks
 
@@ -1502,7 +1502,7 @@ In the 1940s, the Federal Reserve made a series of adjustments to the reserve re
 - <sup>n</sup>The Depository Institutions Deregulation and Monetary Control Act in March, 1980, eliminated Regulation Q. In the end, Regulation Q was considered unsuccessful because there were many ways to get around it.51
 - n By 1986, the ceilings were gradually phased out.52
 
-![](Attachments/_page_212_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_212_Figure_0.jpeg)
 
 ### **Macroprudential Measures Aimed at Supply of Credit: Supervisory Guidance and "Direct Pressure"**
 

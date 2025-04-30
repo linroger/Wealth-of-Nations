@@ -88,13 +88,13 @@ During this stage, growth is increasingly financed by debt rather than productiv
 
 The charts below convey what happens to debt and the current account in the average of the 27 inflationary deleveraging cases (which we call the "archetype"). Just as I did with the deflationary deleveraging archetype charts, I highlight each of the stages (with the "zero" point on the charts representing the top in economic activity). Classically, during the bubble, debt as a percentage of GDP rises from around 125 percent to about 150 percent, and the current account deteriorates by about 2 percent of GDP.
 
-![](Attachments/_page_4_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_4_Figure_7.jpeg)
 
 During the bubble, the gap between the country's income and its spending widens. The country requires an increasing inflow of capital to drive continued growth in spending. But levels of economic activity can remain strong at the top of the cycle only as long as continued inflows, motivated by expectations of continued high growth, drive up asset prices and cause the currency to strengthen further. At this point, the country is increasingly fragile and even a minor event can trigger a reversal.
 
-![](Attachments/_page_5_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_5_Figure_1.jpeg)
 
-![](Attachments/_page_6_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_6_Figure_0.jpeg)
 
 Below we summarize the conditions through the upswings that led to the 27 inflationary deleveragings we looked at. We break out the cases with higher and lower levels of foreign-denominated debt and the cases that eventually had the least and most extreme economic outcomes (as measured by most severe declines in growth and equity prices and increases in unemployment and inflation). As you will see, the countries that were most externally reliant through the upswing and experienced the biggest asset bubbles ultimately experienced the most painful outcomes.
 
@@ -138,9 +138,9 @@ Weakening capital flows are often the first shoe to drop in a balance of payment
 
 Capital Inflows (%PGDP)
 
-![](Attachments/_page_7_Figure_13.jpeg)
+![](Attachments/BigDebtCycles_page_7_Figure_13.jpeg)
 
-![](Attachments/_page_8_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_0.jpeg)
 
 The shift in capital and income flows drives asset prices down and interest rates up, slowing the economic growth rates that were dependent on the inflows. This worsens the fundamentals of companies and further drives out capital flows. The economy suffers a debt bust—asset prices fall and banks fail.
 
@@ -162,7 +162,7 @@ At this point in the cycle, capital controls are a third (often last ditch) leve
 
 Usually, this currency defense phase of the cycle is relatively brief, in the vicinity of six months, with reserves drawn down about 10 to 20 percent before the defense is abandoned.
 
-![](Attachments/_page_9_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_9_Figure_5.jpeg)
 
 ## **4) The Depression (Often When the Currency Is Let Go)**
 
@@ -178,9 +178,9 @@ Here is what we typically see after policy makers let the currency go:
 
 Real FX vs TWI
 
-![](Attachments/_page_10_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_10_Figure_7.jpeg)
 
-![](Attachments/_page_11_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_11_Figure_0.jpeg)
 
 Central banks should not defend their currencies to the point of letting their reserves get too low or their interest rates too high relative to what is good for the economy because the dangers those conditions pose are greater than the dangers of devaluation. In fact, devaluations are stimulative for the economy and markets, which is helpful during the economic contraction. The currency decline tends to cause assets to rise in value measured in that weakened currency, stimulate export sales, and help the balance of payments adjustment by bringing spending back in line with income. It also lowers imports (by making them more expensive), which favors domestic producers, makes assets in that currency more competitively priced and attractive, creates better profit margins for exported goods, and sets the stage for the country to earn more income from abroad (through cheaper and more competitive exports).
 
@@ -197,9 +197,9 @@ When the capital is no longer available, the spending is forced to stop. Even th
 
 Capital Inflows (%PGDP)
 
-![](Attachments/_page_12_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_7.jpeg)
 
-![](Attachments/_page_12_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_8.jpeg)
 
 Typically the pullback in capital is not offset much by the central bank printing money, as printing risks enabling more people to get out of the currency, worsening capital flight. Weaker growth causes investors to pull their money out anyway; the assets that had been seen as a fabulous treasure a short time ago now look like trash. They quickly go from overbought to oversold and prices plummet.
 
@@ -207,21 +207,21 @@ Typically the pullback in capital is not offset much by the central bank printin
 - **•** Printing is limited (1 to 2 percent of GDP, on average).
 - **•** Equities in local currency terms fall *(on average by around 50%)*. They perform even worse in foreign currency terms, as the currency decline exacerbates the equity sell-off.
 
-![](Attachments/_page_13_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_13_Figure_4.jpeg)
 
 One of the most important asset/liability mismatches is foreign-denominated debt. As their local currency depreciates, debtors who owe foreign currency debt face a rising debt burden (in local currency). There is not much that borrowers can do, so they typically sell local currency to pay back debts, put on hedges, and move more savings into foreign currency, all of which contributes further to the cycle of downward pressure on the local currency.
 
 - **•** Debt service rises further (on average by more than 5 percent of GDP) because incomes fall and foreign currency-denominated debt service becomes higher when measured in local currency, further squeezing incomes and spending.
 - **•** FX debt burdens rise on those who borrowed in foreign currency (debt-to-GDP rises on average by about 20 percent from the decline in incomes and the currency).
 
-![](Attachments/_page_13_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_13_Figure_8.jpeg)
 
 The currency declines also push up inflation as imports become more expensive.
 
 - **•** Inflation rises (typically by 15 percent, peaking around 30 percent).
 - **•** Inflation stays elevated for a while, on average for about two years from the top.
 
-![](Attachments/_page_14_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_14_Figure_3.jpeg)
 
 During this phase, the pendulum swings from most everything looking great to most everything looking terrible. Different types of problems—debt, economic, political, currency, etc.—reinforce each other. Hidden problems like fraudulent accounting and corruption typically come to the surface during such times. This bad environment discourages foreign money from coming in and encourages domestic investors to get their money out of the country.
 
@@ -235,7 +235,7 @@ Here are some key economic developments that characterize this phase:
 - **•** Unemployment rises
 - **•** The bottom in activity comes after about one year, with the trough in the GDP gap typically near -4 percent
 
-![](Attachments/_page_15_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_15_Figure_0.jpeg)
 
 ## **5) Normalization**
 
@@ -247,7 +247,7 @@ As explained earlier, the best way to bring that about is to let the currency de
 
 Both the balance of payments fundamentals and the central bank's willingness to control "money printing" and currency depreciations will determine whether the total return of the currency (i.e., the currency changes plus interest rate differences) will be positive or negative, which will influence the willingness to own or be short the currency. Devaluing currencies is like using cocaine, in that it provides short-term stimulation but is ruinous when abused. It's very important to watch what central banks do before you decide whether or not it's prudent to take a long position. If investors are burned with negative returns for too long and the currency keeps falling, that's frequently the break-point that determines if you're going to have an inflationary spiral or not. The central bank's objective should be to allow the currency to get cheap enough that it can provide the needed stimulation for the economy and the balance of payments, while running a tight enough policy to make the returns of owning the currency attractive. As you can see in the chart below, returns to holding the currency for foreigners start out negative, but then rally about a year after the devaluation.
 
-![](Attachments/_page_16_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_16_Figure_3.jpeg)
 
 Even if the country as a whole hasn't hit its debt limits, frequently, certain entities within the country have, and policy makers must recapitalize systemically important institutions and provide liquidity in a targeted way to manage bad debts. By providing this targeted liquidity (typically by printing money) where needed, they can help avoid a debt crisis that could be contractionary or could cause additional rounds of capital flight, but the inflationary nature of this money printing needs to be balanced carefully.
 
@@ -269,9 +269,9 @@ The sizable and painful decline in domestic conditions also helps to close the b
 
 Imports (%PGDP, Indexed)
 
-![](Attachments/_page_17_Figure_10.jpeg)
+![](Attachments/BigDebtCycles_page_17_Figure_10.jpeg)
 
-![](Attachments/_page_18_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_18_Figure_0.jpeg)
 
 Below, we provide a summary of what well-managed and poorly managed versions of these adjustments looks like.
 
@@ -304,7 +304,7 @@ Over time, as the currency declines and printing is used more and more, people b
 
 **With each round of printing, more of the printed money is transferred to real or foreign assets instead of being spent on goods and services that fuel economic activity.** Since investors that shorted cash and bought real/foreign assets were repeatedly better off than those who saved and invested domestically, domestic currency holders shift from investing the printed money in productive assets to real assets (like gold) and foreign currency, in order to hedge inflation and a deterioration in their real wealth. Foreign investors stay away. Because the economy is weak and investors are buying real assets, stocks suffer and no longer provide the wealth effect that drove earlier rounds of spending. The result is a currency devaluation that doesn't stimulate growth. This dynamic is important to inflationary deleveragings, so we'll walk through it in detail.
 
-![](Attachments/_page_20_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_20_Figure_0.jpeg)
 
 When continual currency declines lead to persistent inflation, it can become self-reinforcing in a way that nurtures inflation psychology and changes investor behavior. A key way this occurs is when inflation pressures spread to wages and produce a **wage-cost spiral**. Workers demand higher wages to compensate for their reduced purchasing power. Compelled to raise wages, producers increase their prices to compensate. Sometimes this happens mechanically because of wage indexing—contracts in which employers agree to increase wages with inflation. As is normal in such cases of price and wage indexing, a vicious cycle is established: the currency depreciates, internal prices rise, the increase of the quantity of paper money once more lowers the value of the currency, prices rise once more, and so on.
 
@@ -358,23 +358,23 @@ After the war period, during the paying back period, the market consequences of 
 
 The following charts show some of the typical shifts in the economy—how countries shift much of their economies to war production, borrow a lot of money to finance big fiscal deficits, and move much of their workforces to the armed services and war production. The first chart shows the rapid rise in government spending relative to private spending. The subsequent charts show the increase in military spending and the number of soldiers, averaging a number of war cases—both military spending and number of soldiers as a percent of the population increase by around five times. For instance, during World War II, 20 percent of the US workforce shifted to the military.
 
-![](Attachments/_page_23_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_23_Figure_6.jpeg)
 
-![](Attachments/_page_24_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_24_Figure_0.jpeg)
 
 After a major war ends, all countries—both the winners and losers—are saddled with debt and the need to transition from a war-economy to a more normal economy. The big contraction of military spending usually causes a postwar recession, as factories are retooled once again and the large number of people formerly employed in the war effort need to find new jobs. Countries typically enter periods of deleveraging, working through the big war debts with the same basic dynamics visible in other depressions/deleveragings coming into play here too. However, losers of war experience significantly worse economic conditions. The following charts demonstrate this dynamic. Losers experience a much deeper depression, resort to more money printing, meaningfully spend down their savings/reserves, and see much
 
 higher inflation rates (sometimes experiencing hyperinflation).
 
-![](Attachments/_page_24_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_24_Figure_3.jpeg)
 
-![](Attachments/_page_24_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_24_Figure_4.jpeg)
 
 **Fiscal Balance (%GDP)** -5% 0% 5% Governments run sizable
 
-![](Attachments/_page_24_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_24_Figure_6.jpeg)
 
-![](Attachments/_page_25_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_25_Figure_0.jpeg)
 
 That's all I have to convey about war economies at this stage. For more color on them, I suggest you read the Weimar Germany and US Great Depression case studies in Part 2, as the first paints a good picture of a postwar period for a war loser and the second shows how economic conflicts initiate a sequence of events that lead to shooting wars. I also suggest that you also look at the charts of the US and UK in the post-World War II periods
 
@@ -394,4 +394,4 @@ While these big debt crises can be devastating to some people and countries over
 
 more important than the bumps along the way. The biggest bumps came more as a result of wars than the worst depressions (though a case can be made that those wars were caused by the political fallout from those depressions).
 
-![](Attachments/_page_26_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_26_Figure_1.jpeg)

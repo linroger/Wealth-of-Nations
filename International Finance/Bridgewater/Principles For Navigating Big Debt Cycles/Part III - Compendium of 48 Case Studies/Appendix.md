@@ -95,7 +95,7 @@ After attaining the ability to set margin requirements from the Securities Excha
 - <sup>n</sup>All of the Fed's changes to the margin requirements are shown in the chart below.
 - <sup>n</sup>Since 1974, the Federal Reserve mostly stopped using this lever, as the development of other ways of buying assets on credit (e.g., derivatives) made it easy for investors to side-step this requirement.
 
-![](Attachments/_page_207_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_207_Figure_2.jpeg)
 
 USA Initial Margin Requirement US Stocks
 
@@ -202,7 +202,7 @@ In the 1940s, the Federal Reserve made a series of adjustments to the reserve re
 - <sup>n</sup>The Depository Institutions Deregulation and Monetary Control Act in March, 1980, eliminated Regulation Q. In the end, Regulation Q was considered unsuccessful because there were many ways to get around it.51
 - n By 1986, the ceilings were gradually phased out.52
 
-![](Attachments/_page_212_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_212_Figure_0.jpeg)
 
 ### **Macroprudential Measures Aimed at Supply of Credit: Supervisory Guidance and "Direct Pressure"**
 

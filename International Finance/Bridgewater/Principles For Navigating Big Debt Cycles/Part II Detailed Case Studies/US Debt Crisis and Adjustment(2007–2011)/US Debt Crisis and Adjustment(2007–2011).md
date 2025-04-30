@@ -40,9 +40,9 @@ That was not enough to slow debt-financed asset appreciation. Over those three y
 
 In this case, the most important area in which the bubble was emerging was housing. From 2004 to 2006, home prices increased around 30 percent and had increased more than 80 percent since 2000, supported by increasingly liberal lending practices. That was the fastest pace of real housing price increases in a century, except for the immediate post-WWII period. The price rise was classically self-reinforcing in a way that often creates bubbles. Because most houses are bought with borrowed money, **home price gains have magnified impacts on equity values**. For example, if a household used their savings of \$50,000 as a down-payment on a \$250,000 house, and that house went up in value to \$350,000, then the household's investment tripled. This allowed for more borrowing and attracted other buyers and other lenders to finance them, as this lending was very profitable.
 
-![](Attachments/_page_2_Figure_21.jpeg)
+![](Attachments/BigDebtCycles_page_2_Figure_21.jpeg)
 
-![](Attachments/_page_2_Figure_20.jpeg)
+![](Attachments/BigDebtCycles_page_2_Figure_20.jpeg)
 
 Household debt rose from 85 percent of household disposable income in 2000 to about 120 percent in 2006. Credit standards were lowered, and while all income quintiles increased their debt substantially over the period, the biggest percentage increase in debt between 2001 and 2007 was among borrowers in the bottom quintile of income earners.1 As mortgage lending practices became more liberal, even non-home buyers ran up debts by borrowing against their
 
@@ -78,7 +78,7 @@ home equity—home equity loans and cash-out refinancing totaled \$500 billion i
 
 **The more prices went up, the more credit standards were lowered (even though it would have been logical for the opposite to happen), but both lenders and borrowers found lending and buying houses on borrowed money to be very profitable.** The credit-fueled buying drove up prices even more, creating self-reinforcing expectations and drawing in new borrowers/ lenders who did not want to miss out on the action. This is classic in bubble periods.
 
-![](Attachments/_page_3_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_3_Figure_2.jpeg)
 
 The US housing market was showing **every sign of a classic bubble**. To repeat my defining characteristics of a bubble:
 
@@ -128,9 +128,9 @@ December 17, 2005 **New Strategy for Growth at Citigroup**
 
  "For the first time in at least five years, Citigroup is focusing on expanding existing businesses. It will broaden its retail presence in the United States by adding about 300 branches and banking centers, largely in areas like Philadelphia and New Jersey, where it already has customers." *–New York Times*
 
-![](Attachments/_page_4_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_4_Figure_6.jpeg)
 
-![](Attachments/_page_4_Picture_7.jpeg)
+![](Attachments/BigDebtCycles_page_4_Picture_7.jpeg)
 
 From TIME, 12 June © 2005 Time Inc. All rights reserved. Used by permission and protection by the Copyright Laws of the United States. The printing, copying redistribution, or retransmission of this Content without express written permission is prohibited.
 
@@ -150,7 +150,7 @@ Just as there was a mania to buy houses, there was a mania to lend to people to 
 
 But the handoff also meant that Mr. Bernanke would face murkier choices at a time of substantial risks that increase the chances for serious missteps."
 
-![](Attachments/_page_4_Picture_8.jpeg)
+![](Attachments/BigDebtCycles_page_4_Picture_8.jpeg)
 
 #### February 10, 2006 **US Trade Deficit Hit Record High In 2005**
 
@@ -160,13 +160,13 @@ The \$725.8 billion gap, which is almost exactly twice the deficit in 2001, was 
 
 more detail, banks were able to package this debt in ways that obscured its underlying risks (i.e., "securitization"), helping fuel the easy availability of credit and low interest rates.
 
-![](Attachments/_page_5_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_5_Figure_1.jpeg)
 
 For all of the debt build-up and frenzied housing activity, the economy didn't overheat and inflation remained moderate, so the Fed, looking at the average numbers, remained unconcerned. **It is typically the case that the worst debt bubbles (e.g., the US in 1929, Japan in 1989) are not accompanied by high and rising goods and services inflation, but by asset price inflation financed by debt growth. Typically, central banks make the mistake of accommodating the debt growth because they are focused on goods and services inflation (as measured by the CPI) and/or growth. They are not focused on debt growth, which is what they are creating, and on whether the debts will produce the incomes to service them**, which is what they should be thinking about if they want to prevent bad debt crises.
 
 As you can see in the charts below, as inflation was mostly between 2 and 3.5 percent—a bit higher than desirable but not worrisome—the Fed kept interest rates low well into the expansion. In fact, US short-term interest rates were below inflation (i.e., real short-term borrowing costs were negative) from late 2001 until early 2006. Even when the Fed did begin raising short-term rates in mid-2004, long-term nominal interest rates remained roughly flat, and real long-term interest rates declined.
 
-![](Attachments/_page_5_Figure_13.jpeg)
+![](Attachments/BigDebtCycles_page_5_Figure_13.jpeg)
 
 ## **News & Bridgewater Daily Observations (BDO)**
 
@@ -188,7 +188,7 @@ As you can see in the charts below, as inflation was mostly between 2 and 3.5 pe
 
 As shown below, the same was broadly true across the developed world.
 
-![](Attachments/_page_6_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_6_Figure_8.jpeg)
 
 ## For all these reasons, a global financial bubble was emerging.
 
@@ -212,7 +212,7 @@ While all three men had concerns about the "dry tinder and gathering storm," and
 
 "Foreclosures on prime adjustable-rate mortgages rose to a four-year high in the second quarter, a sign that more homeowners with good credit ratings are having trouble paying their bills...The rate of subprime ARM's — representing lending to people with poor credit histories — that were entering foreclosure rose to 2.01 percent, the highest since the fourth quarter of 2003, the report showed." *–Bloomberg* 
 
-![](Attachments/_page_7_Picture_17.jpeg)
+![](Attachments/BigDebtCycles_page_7_Picture_17.jpeg)
 
 as Government Supported Entities, or GSEs), which Larry Summers also highlighted when he was Treasury secretary in the Clinton administration. That prompted Paulson to get President Bush's support in the fall of 2006 to begin working on legislation with Barney Frank (then the ranking minority member of the House Financial Services Committee) to reform those entities, though that push didn't lead to progress until the crisis came to a head in the summer of 2008.5
 
@@ -220,9 +220,9 @@ as Government Supported Entities, or GSEs), which Larry Summers also highlighted
 
 The broader economy also showed signs of a bubble. Savings rates declined from low to lower and the US aggressively sucked in capital from abroad. US manufacturing employment fell and the US was rapidly losing global export market share to emerging countries, especially China. However, the increase in housing-related activity camouflaged this; for instance, construction employment in support of building houses increasingly financed by debt rose by around 50 percent compared to 1995.
 
-![](Attachments/_page_7_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_7_Figure_3.jpeg)
 
-![](Attachments/_page_7_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_7_Figure_12.jpeg)
 
 In addition, a lot of money to fund consumption was also borrowed via mortgages and other types of debt instruments. **High debt growth to fund consumption rather than investment is a red flag, since consumption doesn't produce an income, while investment might.**
 
@@ -250,11 +250,11 @@ November 7, 2006 **In Arizona, 'For Sale' Is a Sign of the Times** "Until recent
 
 Typical of such periods, a lot of foreign money came pouring in to participate in the bubble, as reflected in both capital inflows and our current account deficit swelling (to 6 percent of GDP). A lot of this money was coming from emerging economies such as China, which were running huge current account surpluses at the time and were choosing to save/invest in US assets. Strong capital inflows allowed US citizens to borrow so they could continue consuming more than they were earning.
 
-![](Attachments/_page_8_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_1.jpeg)
 
 Strong demand for US assets abroad also helped keep long-term borrowing costs low even as the Fed began raising short-term interest rates in late 2004.
 
-![](Attachments/_page_8_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_4.jpeg)
 
 Many of these flows went to lending that would not produce the income to service the debts. They supported a dynamic that was unsustainable: The savings rate can't fall indefinitely, and the wave of lending can't increase forever. As the debts came due, there would be cash flow problems. When we ran our pro forma financial numbers, we could see that when all these flows tapered off, there would be cash flow problems.
 
@@ -270,7 +270,7 @@ particularly vulnerable. During the bubble, there were five key components that 
 - 4) Globalization of dollar lending, leading to the explosion of dollar borrowing and lending outside of US banks.
 - 5) Securitization of lending, where banks take their traditional loans (auto loans, home loans, etc.) and sell them to other investors. This creates a "moral hazard" problem in which banks have an incentive to make risky loans since they can sell them and not bear the consequences (as long as investors remain willing to buy).
 
-![](Attachments/_page_9_Figure_16.jpeg)
+![](Attachments/BigDebtCycles_page_9_Figure_16.jpeg)
 
 The US financial regulatory system did not keep pace with these developments. It did not provide adequate regulatory visibility into the shadow banks and markets, nor did it provide the authorities with the powers they needed to curb their excesses, though, as is typical, that wasn't apparent at first. Banks and shadow banks at the time were inadequately capitalized and over-leveraged. This meant they didn't have much cushion and would be exposed to solvency problems in a downturn. In the 1990s and early 2000s era of financial liberalization and financial engineering, regulators were more concerned about the US financial industry staying competitive with London, which discouraged them from pulling in the reins.
 
@@ -356,7 +356,7 @@ Markets were flatter between February and March, and overall market volatility w
 
 Aggregate Corporate Spread Realized Equity Volatility
 
-![](Attachments/_page_11_Figure_15.jpeg)
+![](Attachments/BigDebtCycles_page_11_Figure_15.jpeg)
 
 Problems emanating out of subprime mortgage lenders—those that focused on mortgages for less credit-worthy borrowers—continued to grow, with some facing considerable losses, but they did not affect the broader economy and markets. Still, bigger banks were starting to report a rise in bad mortgage debts. We summarized the situation (in our March 13 *Daily Observations*) as follows:
 
@@ -422,7 +422,7 @@ Most people thought that these troubles in one corner of the financial markets w
 
 The US stock market continued to rally through April and May, hitting new records. The shaded portion of the chart shows the rally in the first half of the year.
 
-![](Attachments/_page_12_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_11.jpeg)
 
 Jul-06 Oct-06 Jan-07 Apr-07 Jul-07
 
@@ -446,7 +446,7 @@ June 5, 2007 **Shares Post Slight Gains as Slide in China Is Shrugged Off**
 
 **The tightening popped the bubble.** As interest rates rose, home prices began to decline, since debt service payments on new homes would be higher, and interest payments on many existing mortgages rose quickly because many subprime borrowers had taken out adjustable rate mortgages (ARMs). As interest rates rose, so did their debt service payments. By June, these tightening pressures flowed through to the first broad sign of financial distress: rising foreclosures and delinquencies started to translate into meaningful losses for bigger banks. In mid-June, two hedge funds run out of the investment bank Bear Stearns that invested in subprime mortgage-backed securities (MBS) one of them leveraged about 20:19 —faced growing losses and a wave of investor redemptions. That required them to do a fire-sale of \$3.6 billion of the securities, a large amount for the market.10 The leveraged financial buying shifted into deleveraging selling. As the prices of securities they held fell, the hedge funds faced huge losses and forced liquidations. In the end, Bear Stearns promised a \$3.2 billion loan to bail out one of the funds (later reduced to \$1.6 billion), and other banks that seized collateral from the hedge funds cooperated to ensure that the market remained stable (e.g., not selling more subprime MBS). The funds would eventually be wiped out. These were relatively small funds, and the initial reverberations were limited.
 
-![](Attachments/_page_13_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_13_Figure_11.jpeg)
 
 ## **News & Bridgewater Daily Observations (BDO)**
 
@@ -496,7 +496,7 @@ Economic growth remained healthy and US equity markets hit new highs in mid-July
 
 Stress in the housing market was gradually building. The indices of subprime MBS (called the ABX indices) continued to see big price declines (even the AAA bonds, which were likely seen as "riskless" when purchased, fell around 5 percent), and some of the mortgage lenders started reporting increasing numbers of borrowers missing loan payments. One large mortgage lender looked to be closer to bankruptcy, and a small German bank exposed to mortgage loans faced big losses and ended up needing to be acquired by Germany's state bank. New home sales were falling very quickly. As this news emerged, the markets sold off a bit (ending July down 6 percent from the peak).
 
-![](Attachments/_page_14_Figure_10.jpeg)
+![](Attachments/BigDebtCycles_page_14_Figure_10.jpeg)
 
 I expected this debt crisis to be self-reinforcing because of the impact that mark-to-market accounting and high leverage would have on lenders. **Debt crises and downturns are self-reinforcing behaviors because as losses occur, both lenders and borrowers are less able to lend and borrow, which worsens conditions. For example, when losses occur, one's capital declines, and because there are limits to how much one can hold in assets relative to one's capital, that means assets have to be sold, or the buying of assets has to be curtailed. That in turn makes asset prices and lending weaker, producing more losses and reinforcing the cycle further.** Because we could get very detailed financial information on banks that allowed us to know their exposures, we could estimate what the values and losses on their positions would be by knowing the pricing of analogous liquid assets. As a result, we constantly did our mark-to-market stress tests, which showed us that the financial sector and those dependent on it were incurring losses before they reported them. We could also get detailed financial information on public
 
@@ -562,7 +562,7 @@ August 7, 2007 **Fed Leaves Rate Steady; No Sign of Future Cut**
 
 **Stocks Tumble as French Bank Reacts to Home Loan Worries** 
 
-![](Attachments/_page_16_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_16_Figure_6.jpeg)
 
 Here is what I wrote to clients and policy makers the next day:
 
@@ -618,7 +618,7 @@ Less than a week later, news emerged that Countrywide, the US's largest mortgage
 
 Over the next several days, stocks fell sharply and yields on commercial paper spiked. The Bank of Japan, the ECB, and the Fed all responded to the market stress by providing liquidity to banks. The worst of the stock sell-off ended when the Fed surprisingly cut interest rates by 0.5 percent—doing so between its regularly scheduled meetings—an unusual move. Chairman Bernanke said he would do more if needed.11 And Bank of America shored up Countrywide by investing \$2 billion in exchange for a large stake in the company. These moves alleviated most of the funding strains in the market, and equities recovered a bit. Below is a chart of the stock market up until that time. Note that it was still near its highs.
 
-![](Attachments/_page_17_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_17_Figure_2.jpeg)
 
 Coming out of this episode, most policy makers and investors thought that the problems in the risky part of the mortgage market would be contained, so the flow-through to the real economy wouldn't be substantial. Based on our calculations, we saw it differently and wrote: "the day of reckoning will be pushed forward, probably to when there is a big tightening by the Fed or a big turndown in the economy."
 
@@ -962,13 +962,13 @@ December 19, 2007 **E.C.B. Makes \$500 Billion Infusion**  *-New York Times*
 
 "On Thursday, shares of the nation's biggest insurer of financial risk, MBIA, fell 26 percent after it disclosed that it was guaranteeing billions of dollars of the kind of complex debt that unnerved the credit market this summer. The move came a day after Standard & Poor's downgraded another bond insurer and assigned a negative outlook to four companies, including MBIA."
 
-![](Attachments/_page_25_Picture_10.jpeg)
+![](Attachments/BigDebtCycles_page_25_Picture_10.jpeg)
 
 right, and they operate within political systems that don't act until there is a broad consensus that there is an intolerable problem. As a result, policy makers generally don't act decisively until a crisis is on top of them.
 
 As 2007 came to an end, the S&P 500 was down 6 percent from its October peak, but in positive territory for the year as a whole. December's biggest market sell-off came on a day that the Fed lowered interest rates by 0.25 percent—even though rate cuts ordinarily help stocks—since it was less than the 0.5 percent cut that the markets were expecting. Bond yields had declined more sharply, from yields around 5 percent back in June before the credit crunch began to around 4 percent at the end of the year. The dollar index was down 8.6 percent over the year. Oil, meanwhile, was up a whopping 55 percent to \$96, just a hair beneath its all-time high.
 
-![](Attachments/_page_25_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_25_Figure_2.jpeg)
 
 ## **News & Bridgewater Daily Observations (BDO)**
 
@@ -1018,9 +1018,9 @@ Following an emergency meeting on January 22, the Fed cut rates by 75 basis poin
 
 "Shares of MBIA and Ambac...tumbled Thursday after credit ratings firms said they would re-examine the company's financial health." *–New York Times*
 
-![](Attachments/_page_26_Figure_30.jpeg)
+![](Attachments/BigDebtCycles_page_26_Figure_30.jpeg)
 
-![](Attachments/_page_26_Figure_31.jpeg)
+![](Attachments/BigDebtCycles_page_26_Figure_31.jpeg)
 
 ### January 18, 2008 **Bush Calls for \$145 Billion Economic Aid Package**
 
@@ -1094,7 +1094,7 @@ February 28, 2008 **Write-Down Sends A.I.G. to \$5 Billion Loss**  *-New York Ti
 
 jumped to 7.9 percent, from 7.3 percent at the end of September and 6.1 percent in December 2006. Before the third quarter, the rate had never risen past 7 percent since the survey began in 1979." *–New York Times*
 
-![](Attachments/_page_28_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_28_Figure_8.jpeg)
 
 Bear Stearns was the most stressed of the major investment banks. Although Bear was the smallest of them, it still held \$400 billion worth of securities that would be dumped onto the market if it failed. Moreover, Bear and its nearly 400 subsidiaries had activities that touched almost every other major financial firm. It had 5,000 trading counterparties and 750,000 open derivatives contracts. As Bernanke put it in his memoirs,21 "size alone wasn't the problem. Bear was big, but not that big compared to the largest commercial banks." It was not "too big to fail," it was "too interconnected to fail." Bernanke's greatest fear was that a Bear bankruptcy could trigger a collapse in the \$2.8 *trillion* tri-party repo market (a significant credit pipe for financial institutions), an event that would have "disastrous consequences for financial markets and, as credit froze and asset prices plunged, the entire economy."
 
@@ -1218,7 +1218,7 @@ the financial markets by the Federal Reserve, and of wild swings in prices."
 
 In response to the rescue of Bear Stearns and the big easing, stocks rallied and bond yields rose through most of April and May, as markets became increasingly confident that the Fed would do whatever was necessary if things got bad enough. Prominent policy makers struck a tone of cautious optimism, with Treasury Secretary Paulson noting that the economy was beginning to rebound and that he also "expected to see a faster pace of economic growth before the end of the year."27 The charts below are some of the key markets at the time. You might give some thought to what bets you would've made then.
 
-![](Attachments/_page_31_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_31_Figure_2.jpeg)
 
 **The "expansions of balance sheets" (i.e., the increased lending and buying of assets) through borrowing was beginning to slow, and, as a result, economic conditions continued to weaken as reflected in the economic stats, which came in below expectations.** Unemployment continued to climb, consumer confidence and borrowing continued to fall, housing delinquencies and foreclosures continued to rise, and manufacturing and services activity continued to contract. Simultaneously, fresh rounds of write-downs were announced at UBS (\$19 billion), Deutsche Bank (\$4 billion), MBIA (\$2.4 billion), and AIG (\$7.8 billion). Reflecting on the market action in the months following the Fed's rescue, we likened it to a "currency intervention that temporarily reverses the markets but doesn't change the underlying conditions that necessitated the action."
 
@@ -1288,7 +1288,7 @@ Collectively, the combination of new-found optimism in the financial system and 
 
 In June the S&P fell by 9 percent because surging oil prices led to a spike in inflation at the same time that there were renewed credit problems in the financial sector and poor economic stats.
 
-![](Attachments/_page_32_Figure_21.jpeg)
+![](Attachments/BigDebtCycles_page_32_Figure_21.jpeg)
 
 In terms of credit problems, the month began with downgrades of Lehman Brothers, Merrill Lynch, and Morgan Stanley by Standard & Poor's, with the rating agency noting that it had lost some confidence in these banks' ability to meet their financial obligations. This was followed by rumors that Lehman had approached the Fed for emergency funding and a release from Moody's that MBIA and Ambac (two of the country's largest bond insurers) were likely to lose their AAA ratings (thereby severely impairing their ability to write new insurance). By the end of the month, Moody's had cut the insurers' ratings and placed Lehman on credit review, while home foreclosures and mortgage delinquency rates, the underlying drivers of the strains, continued to accelerate.
 
@@ -1324,11 +1324,11 @@ May 2, 2008 **Fed Moves to Ease Strains in Credit Markets** "The Fed said it was
 
 *–Associated Press*
 
-![](Attachments/_page_33_Picture_28.jpeg)
+![](Attachments/BigDebtCycles_page_33_Picture_28.jpeg)
 
 **As we looked at these institutions' balance sheets, estimated the losses they would have to report, and imagined what the reduced capital from those losses would mean for their lending and sales of assets, it was clear to us that they were headed for serious trouble that would have serious knock-on effects.** Basically, they were getting margin calls, which meant that they would have to raise capital or sell assets and contract their lending, which would be bad for the markets and the economy.
 
-![](Attachments/_page_33_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_33_Figure_1.jpeg)
 
 As a result of the contraction in credit, unemployment surged to 5.6 percent (the largest monthly increase in two decades), manufacturing activity declined for the fourth month in a row, and consumer confidence hit a 16-year low. Simultaneously, a CPI print showed that headline inflation rose to 4.4 percent in May, its sharpest increase in six months, and spiked fears of stagflation amidst poor growth and rising inflation expectations.
 
@@ -1380,7 +1380,7 @@ prices spiked over \$138, an increase of nearly \$11, and the unemployment rate 
 
 *–Reuters*
 
-![](Attachments/_page_34_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_34_Figure_12.jpeg)
 
 Markets continued to decline, oil prices rose, and a series of ratings downgrades, write-downs, and poor housing stats surfaced during the first two weeks of July. Financial stocks went into a free fall as it became clear that the Fed was behind developments and that the credit problems would not be fixed up via a blanket easy Fed policy even if it aggressively eased. The mortgage crisis and who it would affect next also became clearer. Shares of Freddie Mac and Fannie Mae came under extreme selling pressure, following a report by Lehman Brothers, published on July 7, stating that the two mortgage giants would need a capital infusion of as much as \$75 billion to remain solvent. According to Paulson, the report "set off an investor stampede," with shares of Freddie Mac and Fannie Mae declining by about 45 percent each respectively in the week following the report's release.30
 
@@ -1434,9 +1434,9 @@ In mid-July, markets bounced because oil prices declined sharply (leaving more r
 
 "With a 145-point slide on Friday, the Dow Jones industrial average flirted with bear market territory, meaning that it is down 20 percent from its high on October 9, 2007...Another surge in the price of oil, which traded above \$142 on Friday afternoon after gaining \$5 a day earlier, discouraged investors and had helped nudge the Dow down 1.1 percent to 11,327 at 2 p.m." *–New York Times*
 
-![](Attachments/_page_35_Figure_23.jpeg)
+![](Attachments/BigDebtCycles_page_35_Figure_23.jpeg)
 
-![](Attachments/_page_35_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_35_Figure_0.jpeg)
 
 ## **Taking Control of Fannie and Freddie**
 
@@ -1446,9 +1446,9 @@ Of all the interventions, the guarantee to use public funds to support Fannie Ma
 
 Of course, all this was based on an implicit guarantee that the government would backstop Fannie and Freddie—it was only that guarantee that allowed the securities issued by GSEs to be seen as about as safe as treasuries, giving them very low borrowing rates. At times, the spread on their debt to treasuries essentially hit 0 percent.
 
-![](Attachments/_page_35_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_35_Figure_8.jpeg)
 
-![](Attachments/_page_35_Figure_22.jpeg)
+![](Attachments/BigDebtCycles_page_35_Figure_22.jpeg)
 
 ## **News & Bridgewater Daily Observations (BDO)**
 
@@ -1522,7 +1522,7 @@ After more than a week of sharp swings, the price of Freddie Mac's shares jumped
 
 *"We had seen what happened in March when Bear Stearns's counterparties… abruptly turned away. We had survived that, but the collapse of Fannie and Freddie would be catastrophic. Seemingly everyone in the world—little banks, big banks, foreign central banks, money market funds—[either] owned their paper or were [their] counterparty. Investors would lose tens of billions; foreigners would lose confidence in the US. It might cause a run on the dollar."32*
 
-![](Attachments/_page_37_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_37_Figure_3.jpeg)
 
 This case exemplifies the very common problem of politics creating **government guarantees (implicit or explicit) that make risky assets appear to be safer than they are. This encourages investors to lever up in them, which feeds bad debt growth.**
 
@@ -1626,9 +1626,9 @@ Over the first week of September, there was a mix of good and bad news in the fo
 
 While financial players like Lehman Brothers, Freddie, Fannie, and Ambac were struggling, it also seemed as though solutions to their problems were in the works. For example, Lehman's stock rose on news that it had made progress in negotiations to sell part of itself to the Korea Development Bank, while good news from Freddie (a successful sale of \$4 billion in debt) and Ambac (the announced launch of a new insurance subsidiary) partially softened investor concerns surrounding these companies.
 
-![](Attachments/_page_40_Figure_25.jpeg)
+![](Attachments/BigDebtCycles_page_40_Figure_25.jpeg)
 
-![](Attachments/_page_40_Figure_26.jpeg)
+![](Attachments/BigDebtCycles_page_40_Figure_26.jpeg)
 
 Sep-07 Dec-07 Mar-08 Jun-08 Sep-08
 
@@ -1690,7 +1690,7 @@ Stocks rose about two percent on Monday, September 8, as the market responded po
 
 Writers of accounts such as this one, who have the benefit of hindsight, typically paint pictures of what happened in ways that make what happened seem obvious. However, as that rally and comment reflect, it is an entirely different matter when one is in the moment. Just days before the crisis would become much worse, the *New York Times* wrote on three separate occasions (September 3, 5, and 10) about "bargain hunters" coming in with the stock market down around 20 percent from peak and many individual stocks down much more. Lehman Brothers, for instance, was trading down some 80 percent, but it was a company with a good reputation, a nearly 160-year history, and it looked to be on the verge of finding a buyer or strategic investor. Below is its share price through early September. While the picture is clearly within the downtrend, there were rallies, and in just about all of them, one could make the argument that the bottom was being made. In investing, it's at least as important to know when not to be confident and when not to make a bet as it is to have an opinion and make one.
 
-![](Attachments/_page_41_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_41_Figure_12.jpeg)
 
 The strategic investor who would come in and save Lehman never materialized and Lehman's stock fell by almost 50 percent on Tuesday. Other major bank stocks, including Citigroup, Morgan Stanley, and Merrill, sold off 5–10 percent, while the overall market was down about 3 percent, and credit spreads widened substantially. Both investors and regulators began to wonder whether
 
@@ -1748,7 +1748,7 @@ September 12, 2008 **U.S. Gives Banks Urgent Warning to Solve Crisis**
 
 "As Lehman Brothers teetered Friday evening, Federal Reserve officials summoned the heads of major Wall Street firms to a meeting in Lower Manhattan and insisted they rescue the stricken investment bank and develop plans to stabilize the financial markets."
 
-![](Attachments/_page_42_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_42_Figure_6.jpeg)
 
 There were no clear, legally acceptable paths for saving failing investment banks, yet these investment banks were "systemically important" (i.e., they could easily take the whole system down with them). While the Fed was able to lend to Lehman to alleviate its liquidity problem, there were limitations on how much they should under these conditions. And since Lehman faced a solvency problem in addition to a liquidity problem, it wasn't even clear that more liquidity could save it.
 
@@ -1770,7 +1770,7 @@ On Friday Lehman's shares dropped 17 percent on news that neither the Fed nor th
 
 **Stunning Fall for Main Street's Brokerage Firm** "Merrill, which has lost more than \$45 billion on its mortgage investments, agreed to sell itself on Sunday to Bank of America for \$50.3 billion in stock, according to people briefed on the negotiations."
 
-![](Attachments/_page_43_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_43_Figure_0.jpeg)
 
 On Friday evening, reports surfaced that Fed officials had gathered the heads of Wall Street's major banks—from Goldman Sachs to the Bank of New York Mellon—to urge them to bail out Lehman. Whether there would be any takers remained to be seen. Bank of America, Barclays, and HSBC had reportedly expressed interest, but none wanted to do the deal without government support. And Treasury officials publicly insisted no support would come.
 
@@ -1800,7 +1800,7 @@ On Monday morning, September 15, Lehman Brothers filed for bankruptcy, and the s
 
 One of the Fed's immediate responses, announced the night before, was an unprecedented expansion in the "Primary Dealer Credit Facility": They were willing to lend to investment banks against almost any collateral, including extremely risky instruments—e.g., equities, subprime mortgages, and junk bonds. It should have been seen as an enormous step for a central bank to take, and in a more normal environment, it would have been. But the Lehman collapse overshadowed it.
 
-![](Attachments/_page_44_Figure_8.jpeg)
+![](Attachments/BigDebtCycles_page_44_Figure_8.jpeg)
 
 Paulson would later write in his book that **he felt constrained from even being able to explain in a forthright way why Lehman had failed without creating more problems—a common issue policy makers face when communicating during a crisis.** As he put it:
 
@@ -1844,7 +1844,7 @@ GE admitted to regulators that even they were having trouble borrowing in the co
 
 Throughout the day, regulators scrambled to keep up with AIG's rapid decline. AIG was one of the largest insurers, with around \$1 trillion in assets at peak. Its problems centered around it having issued hundreds of billions of dollars of insurance contracts on bonds (called CDS and CDOs), which required it to pay out if a bond faced losses. Many of these insured bonds were repackaged subprime mortgages, so AIG was exposed to a staggering amount of losses. Since many other financial institutions were counting on these insurance contracts, AIG was systemically important. And it looked to be heading toward failure fast. On Sunday, it had said it would need \$40 billion in funding. Now, just a day later, it was suggesting it would need \$85 billion.41
 
-![](Attachments/_page_46_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_46_Figure_3.jpeg)
 
 Sep-07 Dec-07 Mar-08 Jun-08 Sep-08
 
@@ -1876,7 +1876,7 @@ Prime money-market funds had been a crucial source of liquidity for all kinds of
 
 "broke the buck" on September 16. Fears that others might take losses caused many investors to pull their money. As the dollars flowed out of these funds, they had to liquidate their holdings of commercial paper. The result was that hundreds of billions of dollars that had been funding the day-to-day operations of businesses dried up in a matter of days.
 
-![](Attachments/_page_48_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_48_Figure_1.jpeg)
 
 After the Reserve Fund broke the buck, Ken Wilson, who was at Treasury at the time, had gotten a call at 7 a.m. from Northern Trust, followed by others from Black Rock, State Street, and Bank of New York Mellon. All of them reported runs on their money-market funds. Meanwhile, GE had been in the news, explaining that they couldn't sell their paper. Then Coca-Cola CFO Muhtar Kent called and said they were going to be unable to make their \$800 million quarterly dividend payment at the end of the week because they couldn't roll their paper. Even AAA-rated industrial- and consumer-products companies couldn't roll their paper! The situation was very quickly metastasizing from Wall Street to Main Street.
 
@@ -1990,7 +1990,7 @@ September 25, 2008 **As Stocks Rally, Credit Markets Appear Frozen**
 
 September 30, 2008 **A Recovery in Shares on Hopes of a Bailout**  *-New York Times*
 
-![](Attachments/_page_51_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_51_Figure_0.jpeg)
 
 **Again, among the most important aspects of successfully managing a crisis is having wise and knowledgeable decision-makers who have the authority to do whatever it takes.** The Congressional vote was a sign that the Treasury would have to struggle to get the authority it needed. At the time, we wrote:
 
@@ -2062,11 +2062,11 @@ October 7, 2008 **U.S. Markets Plunge Despite Hint of Rate Cut**  *-New York Tim
 
 "You've got increasing government supply with tight liquidity; dealers can't finance inventory, hedge funds can't borrow, foreigners are losing confidence in the dollar as a reserve currency, and the desire for cash is trumping all forms of risk, even the yield curve risk of a treasury bond."
 
-![](Attachments/_page_53_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_53_Figure_0.jpeg)
 
 **During this period of constant bad news, stocks sold off literally every day.** Between October 1 and October 10, investors in the S&P 500 took total losses of 22 percent, without a single day of gains. Crude oil continued to fall rapidly as well, ending the first half of the month at \$75 per barrel. Some days saw huge routs even when there wasn't much news. On October 9, for instance, stocks sold off 7.6 percent on record volume, with virtually nothing important enough to warrant it.
 
-![](Attachments/_page_53_Figure_10.jpeg)
+![](Attachments/BigDebtCycles_page_53_Figure_10.jpeg)
 
 This acute pain wasn't concentrated only in the financial sector. Reports surfaced that major nonfinancial corporations were relying on credit lines to finance continuing operations as they found themselves all but shut out of corporate paper markets. Some companies announced that they were slashing dividends to keep up cash reserves, and outflows from prime money-market funds continued. In the household sector, a report showed that consumer credit had fallen in August for the first time since 1998. Similar stories were unfolding globally, as liquidity dried up in every major market, even as central banks announced unprecedented interventions.
 
@@ -2198,13 +2198,13 @@ Fears and uncertainties surrounding the economy kept volatility extremely high o
 
 But by Monday, October 20, markets had registered a meaningful easing of conditions in interbank lending and commercial paper. Rates on commercial paper touched four-week lows, while short-term treasury yields crept up. This thawing of credit conditions helped lift stocks, and represented a significant easing of the pressure on banks.
 
-![](Attachments/_page_56_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_56_Figure_9.jpeg)
 
 Still, most of the financial mismatches that were squeezing financial institutions and companies (i.e., borrowing short term and lending longer term, borrowing in one currency and lending in another) had yet to be resolved. There was a squeeze for dollars because foreign financial institutions that had borrowed dollars and lent them out now had to pay them back, and/or had to deal with their debtors, who had to pay them back in dollars when dollars, money, and credit were hard to come by. Though the Fed continually expanded its dollar swap lines (i.e., liquidity lending) with developed-world central banks throughout October, it was not able to provide enough dollar liquidity to alleviate this global dollar squeeze. Part of the problem lay in central banks' reluctance to lend Fed-provided dollars against locally denominated collateral because of their fears of default and logistical issues. The largest squeeze occurred in emerging markets, where major dollar debts had built up and debtors were scrambling for dollars. All in all, the dollar rallied 8 percent in October.
 
-![](Attachments/_page_56_Figure_16.jpeg)
+![](Attachments/BigDebtCycles_page_56_Figure_16.jpeg)
 
-![](Attachments/_page_56_Figure_15.jpeg)
+![](Attachments/BigDebtCycles_page_56_Figure_15.jpeg)
 
 ## **News & Bridgewater Daily Observations (BDO)**
 
@@ -2240,7 +2240,7 @@ The actual price of anything is always equal to the amount of spending on the it
 
 In the midst of this chaos, on November 4, Barack Obama was elected President amid record turnout, and would come into office with big majorities in both houses of Congress. Heading into the election, Obama had promised billions in government spending on infrastructure, unemployment insurance, and Medicaid, and was supportive of TARP—and control of Congress would allow him to move quickly.
 
-![](Attachments/_page_57_Picture_13.jpeg)
+![](Attachments/BigDebtCycles_page_57_Picture_13.jpeg)
 
 From USA Today, 5 November © 2008 Gannett-USA Today. All rights reserved. Used by permission and protection by the Copyright Laws of the United States. The printing, copying redistribution, or retransmission of this Content without express written permission is prohibited.
 
@@ -2290,7 +2290,7 @@ November 11, 2008 **Oil Prices Drop to 20-Month Low**  *-New York Times*
 
 ## November 11, 2008
 
-![](Attachments/_page_58_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_58_Figure_9.jpeg)
 
 #### **We Are Thrilled with the Fed's Management and Are Hopeful That There Will Be Excellent Management at the Treasury**
 
@@ -2365,11 +2365,11 @@ November 20, 2008 **Oil Closes Below \$50, Lowest Price since May 2005**
 
 See the chart below to get a sense of what happened in response to the news of "quantitative easing." 30-year fixed mortgage rates fell nearly 1 percent on the news (and 10-year Treasury yields declined 22 basis points).
 
-![](Attachments/_page_60_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_60_Figure_7.jpeg)
 
 Still, the stock market ended the month down 7.5 percent, as it wasn't clear if these moves were too little too late.
 
-![](Attachments/_page_60_Figure_17.jpeg)
+![](Attachments/BigDebtCycles_page_60_Figure_17.jpeg)
 
 We wrote to clients on this announcement:
 
@@ -2466,9 +2466,9 @@ While all these moves were big, there was of course good reason to question whet
 
 Bridgewater closed out 2008 with significant gains for our investors, when most other investors had significant losses. What a year! What a relief!
 
-![](Attachments/_page_62_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_62_Figure_2.jpeg)
 
-![](Attachments/_page_62_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_62_Figure_4.jpeg)
 
 Equity Implied Vol (3M, at-the-money) 10-Year Treasury Bond Yield
 
@@ -2476,7 +2476,7 @@ Having the template explained in Part 1 and understanding the dynamics of the Gr
 
 Quantitative easing is like a giant shot of adrenalin to save a patient that is having a massive heart attack. The only question I had in late 2008 was if this overdue and great move would work or if it had come too late.
 
-![](Attachments/_page_62_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_62_Figure_7.jpeg)
 
 # **Transition from an "Ugly" to a "Beautiful" Deleveraging: 2009**
 
@@ -2576,7 +2576,7 @@ February 6, 2009 **Markets Rise Despite Report** "Not even the loss of 598,000 j
 
 *–New York Times*
 
-![](Attachments/_page_64_Figure_31.jpeg)
+![](Attachments/BigDebtCycles_page_64_Figure_31.jpeg)
 
 #### February 10, 2009 **Secretary Geithner Introduces Financial Stability Plan**
 
@@ -2668,7 +2668,7 @@ March 1, 2009 **U.S. Is Said to Offer Another \$30 Billion in Funds to A.I.G.**
 
 tactic that amounts to creating vast new sums of money out of thin air." *–New York Times*
 
-![](Attachments/_page_66_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_66_Figure_7.jpeg)
 
 **Then, on March 23,** Secretary Geithner announced an expanded set of policies that aimed to buy \$500 billion to \$1 trillion worth of troubled assets from banks. At the heart of the program was the three-part Public-Private Investment Partnership (PPIP), which incentivized private investment firms to buy banks' bad assets using their own capital. In effect, it allowed firms to leverage their investments in troubled assets using money borrowed from the Fed, with a guarantee that they would not lose more than their initial investment if the assets fell below their initial value. In another move coordinated with the Fed, Geithner also announced a possible expansion of TALF, to finance residential and commercial MBS, and said the agencies were considering making legacy securities eligible for the program.
 
@@ -2708,7 +2708,7 @@ Hill to claw back bonuses from firms that received government bailouts...On Thur
 
 #### March 23, 2009 **Banking Plan Propels Wall St. to Best Day in Months**
 
-![](Attachments/_page_67_Picture_19.jpeg)
+![](Attachments/BigDebtCycles_page_67_Picture_19.jpeg)
 
 At the end of March, Summers and Geithner oversaw a team led by Steven Rattner, a smart financier, to create the plan that would push GM and Chrysler into what Larry Summers described as a "cushioned bankruptcy." Bankruptcy would force the trade unions and creditors to negotiate ways to reduce debts, and ample US government support (including a large guarantee of GM's car warrantees) would ensure that GM could remain functioning while the company was restructured. While the automobile companies felt they couldn't function in bankruptcy, Summers thought that, with sufficient support, a bankrupt automobile company could function, and that there was no reason that the debt needed to be paid in full.
 
@@ -2828,7 +2828,7 @@ The uproar ultimately faded after President Obama strongly stood behind Tim. But
 
 Fortunately, the bottoms in the markets and the economy were being made, because had things gotten any worse or gone on any longer our capitalist and democratic system would've been at risk of breaking. All else being equal, prices for goods, services, and investment assets go down when a rate of buying lessens and go up when the rate of selling lessens. For that reason, **tops are typically made when the rate of buying is unsustainable (which is also when people think prices will rise) and bottoms are made when the rate of selling is at a pace that's unsustainable (typically when most people are bearish)**. In the weeks before and after the big announcements, pressures eased, signs of an economic rebound emerged, and markets rallied. A series of economic releases during the first week of April showed that while the economy continued to contract during March, the pace of contraction was slower than expected. And as the charts below show, while the major economic stats continued contracting through March at the fastest pace in decades, the contractions looked to be leveling off and maybe reversing.
 
-![](Attachments/_page_70_Figure_18.jpeg)
+![](Attachments/BigDebtCycles_page_70_Figure_18.jpeg)
 
 ## **News & Bridgewater Daily Observations (BDO)**
 
@@ -2848,7 +2848,7 @@ Shares pushed higher even though few details were forthcoming on the ratios and 
 
 "Sounding slightly less terrified than they have at any time in the last six months, finance ministers from the United States and other wealthy nations said Friday that they saw 'signs of stabilization' in the global economic crisis...In a joint statement, the group went further and predicted that economic activity should begin to edge up later this year, though they cautioned that growth would be 'weak' and that the outlook could darken again." *–New York Times* 
 
-![](Attachments/_page_70_Figure_19.jpeg)
+![](Attachments/BigDebtCycles_page_70_Figure_19.jpeg)
 
 ## April 28, 2009 **A New Plan to Help Modify Second**
 
@@ -2864,11 +2864,11 @@ May 1, 2009 **Citi Is Said to Require New Capital**  *-New York Times*
 
 By mid-April, stock and commodity markets around the world had rebounded sharply from their March lows. The S&P was up 25 percent, oil was up over 20 percent, and bank CDS spreads fell almost 30 percent, but in level terms they remained near their extremes. This appeared to be due more to a slower rate of selling than a pickup in buying.
 
-![](Attachments/_page_71_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_71_Figure_1.jpeg)
 
 ## Dollar Exchange Rate vs. Trade
 
-![](Attachments/_page_71_Figure_10.jpeg)
+![](Attachments/BigDebtCycles_page_71_Figure_10.jpeg)
 
 The obvious question at the time was whether a bottom was being made or if we were just seeing another bear market rally. After all, there had been a number of classic bear market rallies along the way—e.g., the S&P had staged a 19 percent rally over a week at the end of October and a 24 percent rally over the last six weeks of 2008 before giving up the gains of each and hitting new lows.
 
@@ -2888,7 +2888,7 @@ S&P 500 (Through Apr 10, 2009)
 
 "The stress tests released by the Obama administration Thursday painted a broad montage of the troubles in the nation's banking industry and, for the first time, drew a stark dividing line through the new landscape of American finance...Broadly speaking, the test results suggested that the banking industry was in better shape than many had feared. Of the nation's 19 largest banks, which sit atop two-thirds of all deposits, regulators gave nine a clean bill of health."
 
-![](Attachments/_page_71_Figure_13.jpeg)
+![](Attachments/BigDebtCycles_page_71_Figure_13.jpeg)
 
 *–New York Times* 
 
@@ -2976,11 +2976,11 @@ May 21, 2009 **U.S. Is Said to Be Weighing Financial Consumer Agency**
 
 In the second half of 2009, the policies (i.e., providing liquidity via QE, capital via fiscal policies, and other supports via macro-prudential policies) reduced risks and increased the buying and prices of "riskier" assets, and the economy began to recover. This shift was analogous to others that produced "beautiful deleveragings" for reasons explained earlier.
 
-![](Attachments/_page_73_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_73_Figure_2.jpeg)
 
 S&P 500
 
-![](Attachments/_page_73_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_73_Figure_11.jpeg)
 
 While we won't discuss all the improving news of this period in depth, we will highlight two points. First, frequent concerns over inflation stemming from the fast pace of central bank printing didn't materialize, which fortunately laid to rest the incorrect belief that printing a lot of money would cause inflation to accelerate. The Fed's "printing money" would not cause an acceleration of inflation if it was replacing contracting credit.
 
@@ -3113,7 +3113,7 @@ Now, the markets started to discount a move to normalcy. The credit markets pric
 
 Tightening Priced into Interest
 
-![](Attachments/_page_75_Figure_15.jpeg)
+![](Attachments/BigDebtCycles_page_75_Figure_15.jpeg)
 
 Around this time, most of the world's central banks and governments were slowing their aggressive rates of stimulus. The Fed ended the first round of quantitative easing in March after purchasing \$1.25 trillion in mortgage-backed securities. The pace of fiscal stimulus from programs like the America Recovery and Reinvestment Act were set to peak later in the year. Abroad, there were pockets of tightening as countries like China increased interest rates.
 
@@ -3175,7 +3175,7 @@ At the same time, we did our pro forma financial projections in Europe and saw a
 
 "We judge the over-indebtedness problems of the European debtor countries (PIGS) to be comparable in magnitude to some of the worst emerging-market debt problems of the past.
 
-![](Attachments/_page_76_Figure_24.jpeg)
+![](Attachments/BigDebtCycles_page_76_Figure_24.jpeg)
 
 But the European debt crisis is a different story. While I won't go into it now, it is noteworthy that the same sequence of events followed, in that policy makers didn't believe they would face a debt crisis until they had it. When it came, they made the same rookie mistakes of leaning too heavily on deflationary levers like austerity and of not printing money and of not providing protections against defaults for systemically important entities until the pain became intolerable.
 
@@ -3231,13 +3231,13 @@ September 7, 2010 **Renewed European Worry Hurts Shares**  *-New York Times*
 
 That weakness led to the realization that the Fed was likely to maintain its course on its 0-percent-interest-rate policy. US bond yields fell over 100 basis points over the next four months. The pace of improvement in the economy slowed in the summer of 2010. Timely reads on labor market health showed only modest improvement in unemployment claims, while the unemployment rate was still near highs. There was still a lot of slack in the economy. Weakness at this level of economic activity would have been terrible.
 
-![](Attachments/_page_77_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_77_Figure_1.jpeg)
 
 Jun-08 Dec-08 Jun-09 Dec-09 Jun-10
 
 Bernanke addressed further QE in a speech in Jackson Hole, making it clear that it was a key policy option if needed, saying,"a first option for providing additional monetary accommodation, if necessary, is to expand the Federal Reserve's holdings of longer-term securities."62 He also emphasized his belief that QE had been effective and had "made an important contribution to the economic stabilization and recovery." As the chart below shows, the 10-year break-even inflation rate had fallen by 50 basis points in the several months leading up to Bernanke's August speech, reflecting concerns of sustained very low inflation or deflation. However, after he signaled that further QE was a strong possibility, the markets rebounded strongly. The real economy response naturally lagged the essentially instantaneous market response, but it wasn't long before growth picked up as well.
 
-![](Attachments/_page_77_Figure_16.jpeg)
+![](Attachments/BigDebtCycles_page_77_Figure_16.jpeg)
 
 be warranted."63 Dudley went on to give an assessment of the underlying drivers of US growth that was broadly similar to our own view at the time, based largely on this observation (from our October 1 BDO): "Consumers are facing slow
 
@@ -3351,7 +3351,7 @@ By this point, it was clear that the governments different programs to support t
 
 We will end this case study here, because in the second quarter of 2011 real GDP returned to its pre-crisis levels. This wasn't the end of the recovery by any means. There was still plenty of slack in the economy and a self-reinforcing upward cycle. The charts below show the unemployment rate, GDP growth, the GDP gap (showing the estimated amount of slack in the economy's capacity to produce), and the S&P 500 stock market index from 2006 until the writing of this on the tenth anniversary of the 2008 Lehman debt crisis. The shaded bars show where they were in 2Q 2011. The second set of charts show existing and projected debt-to-GDP ratios from 1920 until 10 years from now. These numbers do not include non-debt obligations such as those for pensions and health care, which are considerably larger than debts. But that's another issue to be explained at another time.
 
-![](Attachments/_page_79_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_79_Figure_12.jpeg)
 
 **News & Bridgewater Daily Observations (BDO)**
 
@@ -3365,7 +3365,7 @@ March 15, 2011 **Stocks End Lower as Traders Focus on Japan Crisis**
 
 March 20, 2011 **Dow Soars Above 12,000 on AT&T Deal for T-Mobile** 
 
-![](Attachments/_page_80_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_80_Figure_0.jpeg)
 
 # **Works Cited:**
 

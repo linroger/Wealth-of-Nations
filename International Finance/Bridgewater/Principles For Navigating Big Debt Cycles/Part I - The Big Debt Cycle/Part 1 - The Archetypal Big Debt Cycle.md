@@ -143,7 +143,7 @@ Typically debt crises occur because debt and debt service costs rise faster than
 
 While the chart gives a good general picture, I should make clear that it is inadequate in two respects: 1) it doesn't convey the differences between the various entities that make up these total numbers, which are very important to understand, and 2) it just shows what is called debt, so it doesn't reflect liabilities such as pension and health care obligations, which are much larger. Having this more granular perspective is very important in gauging a country's vulnerabilities, though for the most part such issues are beyond the scope of this book.
 
-![](Attachments/_page_8_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_4.jpeg)
 
 **US Total Debt Burdens (%GDP)**
 

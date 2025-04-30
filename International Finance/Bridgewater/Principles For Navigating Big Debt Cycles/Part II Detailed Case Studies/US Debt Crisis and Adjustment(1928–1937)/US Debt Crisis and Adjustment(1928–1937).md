@@ -6,7 +6,7 @@ This section gives a detailed account of the big US debt cycle of the 1920s and 
 
 Following the world war and the recession of 1920 to 1921, the US economy experienced a period of rapid technology-led growth. The continuing electrification of rural and small-town America and the growth of the middle class opened up huge markets for new technologies. The radio was the new, hot technology and the number of radio sets owned grew from 60,000 in 1922 to 7.5 million in 1928.1 The automobile industry also grew rapidly and by 1929 there were 23 million cars on the road—on average, about one per every five Americans (which was nearly three times higher than in 1920).2 Technological advances also led to a productivity boom (factory worker output per hour increased 75 percent from 1922 to 1928). Technology breakthroughs filled the newspapers, driving wide-spread optimism about the economy.
 
-![](Attachments/_page_2_Figure_16.jpeg)
+![](Attachments/BigDebtCycles_page_2_Figure_16.jpeg)
 
 In the midst of that technology boom, the early part of the cycle (roughly from 1922 to 1927) saw strong economic growth and subdued inflation. The broader period became known as the "fat years," as both capitalists and workers experienced significant gains.3 Corporate profits rose to postwar highs, unemployment dropped to postwar lows, and real wages rose more than 20 percent. **In the pre-bubble years of 1923 to 1926, debt growth was appropriately in line with income growth because it was being used to finance activities that produced fast income growth.** At the same time, the stock market roared higher while experiencing little volatility—investors in US
 
@@ -111,7 +111,7 @@ June 17, 1927 **\$62,233,000 in Gold Now Held Abroad; Federal Reserve Banks Show
 
 "Secretary Hoover's report of economic gains since 1921 means not that prosperity has come to the bulk of the American people but that widespread poverty, which has persisted among all peoples through all the ages, may soon be abolished in the United States, according to Professor Irving Fisher, Yale economist, in a copyrighted article made public for tomorrow."
 
-![](Attachments/_page_3_Picture_31.jpeg)
+![](Attachments/BigDebtCycles_page_3_Picture_31.jpeg)
 
 - **6. New buyers (i.e., those who weren't previously in the market) have entered the market**
 - **7. Stimulative monetary policy helps inflate the bubble, and tight policy contributes to its popping**
@@ -174,15 +174,15 @@ A new group of investors entered the call loan market to lend to the crowd of sp
 
 The charts below show the explosion in margin debt through the bubble and the accompanying rise in prices.
 
-![](Attachments/_page_5_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_5_Figure_9.jpeg)
 
 Investment trusts were another financial innovation that saw rapid growth during the bubble and helped draw new speculators into the market. First originated and popularized in Great Britain, investment trusts were companies that issued shares and invested the proceeds in the shares of other companies.15 The well-known economist Irving Fisher praised the "wide and well-managed diversification" that trusts provided investors who lacked sufficient capital to buy shares in multiple companies.16 As the stock market boomed, the number of trusts exploded. By 1929, new trusts were launching at a rate of nearly five per week, and these offerings were taking in one-third of the new capital raised.17
 
 > 175 200 225
 
-![](Attachments/_page_5_Figure_26.jpeg)
+![](Attachments/BigDebtCycles_page_5_Figure_26.jpeg)
 
-![](Attachments/_page_5_Figure_22.jpeg)
+![](Attachments/BigDebtCycles_page_5_Figure_22.jpeg)
 
 ### **News & Federal Reserve Bulletin**
 
@@ -234,7 +234,7 @@ The leveraging was mostly taking place in the "shadow banking" system; banks at 
 
 While the Federal Reserve governors debated the need to restrain the rapid lending that was fueling stock speculation, they were hesitant to raise shortterm interest rates because the economy wasn't overheating, inflation remained subdued, and higher interest rates would hurt all borrowers, not just speculators.22 **Typically the worst debt bubbles are not accompanied by high and rising inflation, but by asset price inflation financed by debt growth. That is because central banks make the mistake of accommodating debt growth because they are focused on inflation and/or growth—not on debt growth, the asset inflations they are producing, and whether or not debts will produce the incomes required to service them.**
 
-![](Attachments/_page_6_Figure_16.jpeg)
+![](Attachments/BigDebtCycles_page_6_Figure_16.jpeg)
 
 ### **News & Federal Reserve Bulletin**
 
@@ -284,7 +284,7 @@ While the Federal Reserve governors debated the need to restrain the rapid lendi
 
 **New Investment Trust; Hudson-Harlem Valley Corp. to Acquire Bank and Trust Stocks** 
 
-![](Attachments/_page_6_Figure_31.jpeg)
+![](Attachments/BigDebtCycles_page_6_Figure_31.jpeg)
 
 Rather than raising its discount rate, the Fed enacted macroprudential (i.e., regulatory) measures aimed at constraining the supply of credit via banks. Some of these regulatory measures included lowering the acceptance rate for loans and increasing supervision of credit facilities.23 The Fed publicly released a letter it had written to regional banks, deriding the "excessive amount of the country's credit absorbed in speculative security loans" and threatening that banks attempting to borrow money from the Fed in order to fund such loans might be refused.24 But these policies were largely ineffective.
 
@@ -292,7 +292,7 @@ Rather than raising its discount rate, the Fed enacted macroprudential (i.e., re
 
 In 1928, the Fed started to tighten monetary policy. From February to July, rates had risen by 1.5 percent to five percent. The Fed was hoping to slow the growth of speculative credit, without crippling the economy. A year later, in August 1929, it raised rates again, to six percent. **As short-term interest rates rose, the yield curve flattened and inverted, liquidity declined, and the return on holding short duration assets such as cash increased as their yields rose. As loans became more costly and holding cash became more attractive than holding longer duration and/or riskier financial assets (such as bonds, equities, and real estate), money moved out of financial assets, causing them to fall in value. Declining asset prices created a negative wealth effect, which fed on itself in the financial markets and fed back into the economy through declining spending and incomes. The bubble reversed into a bust.**
 
-![](Attachments/_page_7_Figure_19.jpeg)
+![](Attachments/BigDebtCycles_page_7_Figure_19.jpeg)
 
 **It was the tightening that popped the bubble**. It happened as follows:
 
@@ -376,7 +376,7 @@ stock were handled and they hit the exchange in a torrent of liquidation."
 
 **Steady Upward Trend in Earnings by Banks; Deposits also Show Advance in Third Quarter—Stocks Maintain Firm Tone**  *–New York Times* 
 
-![](Attachments/_page_9_Figure_14.jpeg)
+![](Attachments/BigDebtCycles_page_9_Figure_14.jpeg)
 
 ## **The Stock Market Crashes**
 
@@ -508,7 +508,7 @@ accompaniment of rising prices." *–New York Times*
 
 from brokers whose loans from corporations were suddenly called amid the panic.50 Trading volume set another record as 9 million shares changed hands over the course of the day (3 million in the last hour of trading)51 and the Dow finished down 13.5 percent—its largest one-day loss in history—on what became known as Black Monday. The Bankers' Pool met again after the market closed, stirring optimism, but announced no additional buying measures.52
 
-![](Attachments/_page_11_Picture_11.jpeg)
+![](Attachments/BigDebtCycles_page_11_Picture_11.jpeg)
 
 **From the New York Times, 29 October © 1929 The New York Times. All rights reserved. Used by permission and protection by the Copyright Laws of the United States. The printing, copying redistribution, or retransmission of this Content without express written permission is prohibited.**
 
@@ -580,7 +580,7 @@ Both the Fed and the Bank of England cut rates on Thursday. The Fed dropped its 
 
 But speculators looking to capitalize on the prior week's rally raced to sell when the market opened on Monday and stocks plunged again. By Wednesday, the Dow was down 15 percent on the week. Stocks continued to fall the following week as well.
 
-![](Attachments/_page_12_Figure_21.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_21.jpeg)
 
 Railroad bonds and other high-grade bonds performed well during the crash, as investors sought safer investments after pulling back from stocks and call loans. At the same time, the yields between high-grade and lower-grade
 
@@ -638,9 +638,9 @@ Although the Hoover Administration's handling of the market crash and economic d
 
 As mentioned, the New York Fed aggressively provided liquidity during the crash. Within a month, it cut its discount rate from 6 percent to 5 percent and then cut it again, to 4 ½ percent.
 
-![](Attachments/_page_13_Figure_26.jpeg)
+![](Attachments/BigDebtCycles_page_13_Figure_26.jpeg)
 
-![](Attachments/_page_13_Figure_25.jpeg)
+![](Attachments/BigDebtCycles_page_13_Figure_25.jpeg)
 
 These policy moves combined with other steps by the private sector to support the stock market, most notably John D. Rockefeller's bid for one million shares of Standard Oil Co. at \$50 on November 13 (effectively flooring the price at \$50).65 On November 13, the market bottomed and began what was to be a 20 percent rally going into December. A sense of optimism took hold.
 
@@ -698,7 +698,7 @@ By April 10, the Dow had rallied back above 290. But despite stimulation and gen
 
 May-29 Aug-29 Nov-29 Feb-30
 
-![](Attachments/_page_14_Figure_14.jpeg)
+![](Attachments/BigDebtCycles_page_14_Figure_14.jpeg)
 
 Over the second half of 1930, the economy clearly began to weaken. From May through December, department store sales fell 8 percent and industrial production fell 17.6 percent. Over the course of the year, the rate of unemployment rose by over 10 percent (to 14 percent) and capacity utilization fell by 12 percent (to 67 percent). Housing and mortgage debt collapsed. Still, at that point, the decline in the economy was more akin to a shallow recession. For example, levels of consumer spending remained above the lows of previous
 
@@ -750,7 +750,7 @@ yesterday's volume was Dec. 20, when the turnover was 5,545,650 shares."
 
 recessions and many industries were not yet suffering from severe declines. The charts below show how both department store sales and industrial production had slipped but had not yet collapsed to the lows of the prior recession (the gray bars highlight 1930).
 
-![](Attachments/_page_15_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_15_Figure_11.jpeg)
 
 As the economy weakened, the sell-off across markets resumed. Stocks ended the period on a low note: By October of 1930, the stock market had fallen
 
@@ -802,7 +802,7 @@ Stocks sold off sharply as it became clear the tariff bill would pass. After fal
 
 #### **Average Tari Rate on Dutiable Imports**
 
-![](Attachments/_page_16_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_16_Figure_1.jpeg)
 
 Source: Irwin, "Clashing Over Commerce: A History of US Trade Policy"
 
@@ -926,7 +926,7 @@ At the start of 1931, economists, politicians, and other experts in both the US 
 
 By March, all business indexes were pointing to a rise in employment, wages, and industrial production. Bank runs led to a less than 10 percent drop in deposits.91 The news reflected growing economic confidence: on March 23, the *New York Times* declared that the depression had bottomed, and the U.S. economy was on its way back up.92 New investment trusts were being formed to profit from the expected "long recovery."93
 
-![](Attachments/_page_18_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_18_Figure_12.jpeg)
 
 Optimism was also bolstered by the recovery of the stock market. Through the end of February, the Dow rose more than 20 percent off its December lows. The following chart illustrates the index's rise.
 
@@ -966,7 +966,7 @@ Optimism was also bolstered by the recovery of the stock market. Through the end
 
 **National Summary of Business Conditions** "Industrial activity increased in January by slightly less than the usual seasonal amount, and factory employment and pay rolls declined. Money rates in the open market declined further from the middle of January to the middle of February." *–Federal Reserve Bulletin*
 
-![](Attachments/_page_19_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_19_Figure_11.jpeg)
 
 But the rally wasn't sustained. Growing concerns over Europe and indications of weak first quarter earnings caused stock prices to slip through March and end the quarter at 172.4, down 11.3 percent from their February highs.
 
@@ -1016,7 +1016,7 @@ For all the suffering that the Depression had caused, a sense of crisis-driven u
 
 relative to more stimulative policies until the pain of doing these things became intolerable.
 
-![](Attachments/_page_20_Figure_17.jpeg)
+![](Attachments/BigDebtCycles_page_20_Figure_17.jpeg)
 
 ## **Second Quarter, 1931: The Global Dollar Shortage Causes a Global Debt Crisis and a Strong Dollar**
 
@@ -1068,7 +1068,7 @@ Also, as is typical in such times, economies and wealth disparities fuel the ris
 
 The global trade war made economic conditions and the dollar squeeze worse. The collapse in global trade depressed foreigners' dollar income, which in turn made it harder for foreigners to service their dollar debts. As shown below, US imports in dollars had fallen by about 50 percent from 1929 to 1931.
 
-![](Attachments/_page_21_Figure_22.jpeg)
+![](Attachments/BigDebtCycles_page_21_Figure_22.jpeg)
 
 In a warning that would be echoed by global politicians and business leaders in
 
@@ -1114,7 +1114,7 @@ The shortage of dollars made borrowing more expensive, creating a liquidity sque
 
 **Hoover Urges Arms Cut to Revive Trade in Opening World Chamber of Commerce; Foreign Delegates Attack High Tariffs; 35 Nations Represented; President Asks That Land Forces Be Reduced as Navies Are**  *–New York Times* 
 
-![](Attachments/_page_22_Picture_25.jpeg)
+![](Attachments/BigDebtCycles_page_22_Picture_25.jpeg)
 
 continued financing of fiscal deficits, these governments naturally turned to some money printing (since the alternative of allowing the credit crunch to spiral was worse). This increased inflation, raising fears of a return to the hyperinflation of the early 1920s in Germany. In essence, Germany was facing a balance of payments crisis. On May 7, the US Ambassador to Germany, Frederic M. Sackett, told President Hoover of Germany's economic strain, listing its pockets of weakness: capital flight, currency difficulties, unemployment, global tightening of credit, pressures for debt payments, and refusals to renew foreign held German bank accounts.101
 
@@ -1164,13 +1164,13 @@ Germany was facing capital flight. The country's gold and foreign exchange reser
 
 "Shaking off the reactionary influences that depressed prices steadily for several weeks, the stock market pointed sharply upward yesterday in the widest advance since Nov. 15. 1929, the second day of the recovery from the disastrous break of that period. Yesterday's advance, which extended to every part of the New York Stock Exchange, was accelerated by announcement that banks were adopting a more liberal policy in loans on stock collateral."
 
-![](Attachments/_page_23_Figure_14.jpeg)
+![](Attachments/BigDebtCycles_page_23_Figure_14.jpeg)
 
 Investors took heavy losses as more and more bank failures hurt the stock market. In May, German stocks fell 14.2 percent, British stocks were down 9.8 percent and French stocks sold off 6.9 percent. In the US, the Dow sold off 15 percent in May following a 12.3 percent decline in April. The world was imploding.
 
-![](Attachments/_page_23_Figure_24.jpeg)
+![](Attachments/BigDebtCycles_page_23_Figure_24.jpeg)
 
-![](Attachments/_page_23_Figure_23.jpeg)
+![](Attachments/BigDebtCycles_page_23_Figure_23.jpeg)
 
 Political turmoil in Europe led funds to flow into the US, which increased demand for US Treasuries and pushed down interest rates. In an attempt to lessen the demand for dollars, the Federal Reserve reduced its discount rate to 1.5 percent.
 
@@ -1220,7 +1220,7 @@ On July 6, the moratorium negotiations finally concluded. Fifteen countries agre
 
 The chart below puts things in perspective; the arrow under the grey shaded area shows the moratorium rally. Notice how insignificant that 35 percent rally looks within the bigger moves. I can assure you that those sorts of moves don't seem small when you're going through them. Throughout the Great Depression, announcements of big policy moves like this one repeatedly produced waves of optimism and big rallies, amid a decline that totaled almost 90 percent. Investors were repeatedly disappointed when the policy moves weren't enough and the economy continued to deteriorate. As noted earlier, bear market rallies like this are classic in a depression, since workers, investors, and policy makers have a strong tendency to exaggerate the importance of relatively small things that appear big close-up.
 
-![](Attachments/_page_24_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_24_Figure_11.jpeg)
 
 400
 
@@ -1246,7 +1246,7 @@ On July 8, just one day after the moratorium had been finalized, Reichsbank pres
 
  "In recent weeks additions to this country's gold stock, which have been continuous since last autumn, greatly increased in volume. In addition to the inflow of gold from Argentina and Canada, a large amount of gold, which had previously been held under earmark for foreign account, was released in the United States. This release of gold was connected with a largescale withdrawal of short-time funds from the German market. During the period from May 31 to June 23 the Reichsbank lost \$230,000,000 in gold and \$20,000,000 in foreign exchange, with the consequence that its reserves were reduced close to the minimum required by law." *–Federal Reserve Bulletin*
 
-![](Attachments/_page_24_Picture_10.jpeg)
+![](Attachments/BigDebtCycles_page_24_Picture_10.jpeg)
 
 #### July 14, 1931
 
@@ -1274,7 +1274,7 @@ On July 8, just one day after the moratorium had been finalized, Reichsbank pres
 
 **Says An Election Now Would Defeat Hoover; Farley Tells Westchester Democrats President Would Not Win Two Western States** 
 
-![](Attachments/_page_25_Picture_30.jpeg)
+![](Attachments/BigDebtCycles_page_25_Picture_30.jpeg)
 
 Naturally, banks were opposed to the standstill agreement and Treasury Secretary Mellon implored Hoover to reconsider. Hoover would not budge. He described his reasoning in his memoir: "This was a banker-made crisis… the bankers must shoulder the burden of the solution, not our taxpayers."116 **Hoover's instinct to have the banks bear the cost is a classic but misguided policy response to a debt crisis. Punishing the banks in a way that weakens them makes sense for a few moral and economic reasons, as mentioned in the discussion of the archetypal template, and it can be a political necessity as the public hates the bankers at such times—but it can have disastrous consequences for the financial system and markets.**
 
@@ -1336,7 +1336,7 @@ The Bank of England also sought loans from abroad to support the currency, but t
 
 **Slight Gain in Gold at Bank of France; Foreign Sight Balances Up 985,000,000 Francs, Foreign Bills Discounted 225,000,000** *–New York Times*
 
-![](Attachments/_page_26_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_26_Figure_0.jpeg)
 
 On Saturday, September 19, having exhausted all of its foreign loans and with just over £100 million in gold reserves remaining, the Bank of England stopped supporting the pound and let it fall sharply, and of course the following day, officially suspended gold payments, a de facto default.122 Initially, the public did not understand what going off the gold standard would mean for their transactions. Newspapers lamented it as the end of an era.123
 
@@ -1344,7 +1344,7 @@ Sterling fell 30 percent over the next three months. On the first trading day si
 
 Other countries followed the UK in abandoning gold convertibility so they could finally "print money" and devalue their currencies. Most of these devaluations were roughly 30 percent (e.g., the Nordic countries, Portugal, much of eastern Europe, New Zealand, Australia, India), in line with sterling's devaluation. The chart, below right, shows the depreciations for a few countries.
 
-![](Attachments/_page_26_Figure_4.jpeg)
+![](Attachments/BigDebtCycles_page_26_Figure_4.jpeg)
 
 Investors feared that government bonds would be defaulted on with devalued money. This led to a run out of bonds, which raised interest rates and drove bond prices down. In the United States, the Fed raised interest rates by 2 percent in order to attract foreign capital and hold the gold peg. Each government's bonds hit new lows in 1931. All except Switzerland's and France's declined at least 20 percent from their 1931 highs. Global stocks also sold off and some markets stopped trading altogether. On September 21, only the Paris Stock Exchange was open in Europe.124
 
@@ -1352,7 +1352,7 @@ UK stocks and bonds sold off during the currency defense phase and continued to 
 
 The devaluation helped stimulate the export sector of the economy and allowed the Bank of England to ease significantly, cutting rates by one percent by the end of the year. Equilibrium was reached so that, by the end of October, banks in London were receiving money again. **In other words, the devaluation and money printing kicked off a beautiful deleveraging** (I'll go through this more later, when I discuss the US leaving the gold standard). Consistent with these pressures, UK stocks and bonds both rallied after selling off sharply through the currency defense phase and immediately following the devaluation. It is important to understand that these moves are very classic. Why they work as they do is explained in the archetypal template.
 
-![](Attachments/_page_27_Figure_27.jpeg)
+![](Attachments/BigDebtCycles_page_27_Figure_27.jpeg)
 
 4.0 4.5 5.0 5.5 6.0 6.5
 
@@ -1406,7 +1406,7 @@ September 25, 1931 **Sales of Gold Upset Money Market Here; Stock Prices Break; 
 
 "The action of Sweden and Norway in following Great Britain's lapse from the gold standard brought further confusion to the foreign exchange market yesterday and provoked foreign central banks to make additional requisitions against the gold stocks of this country for the purpose of strengthening their reserves."
 
-![](Attachments/_page_27_Figure_26.jpeg)
+![](Attachments/BigDebtCycles_page_27_Figure_26.jpeg)
 
 October 1931
 
@@ -1416,7 +1416,7 @@ October 1931
 
 bonds that would come due in the following two years.127 The fear of devaluation led to particularly acute runs on US banks, so banks needed to sell bonds to raise cash, which contributed to rising yields.128
 
-![](Attachments/_page_28_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_28_Figure_1.jpeg)
 
 In September 1931, the dollar ceased to be a safe haven for the first time since the global debt crisis began. Gold reserves began to flow out of the US following sterling's devaluation as central banks in France, Belgium, Switzerland, and the Netherlands all began to convert their dollars to gold. The US lost about 10 percent of its gold reserves within the three weeks following the sterling devaluation.
 
@@ -1464,11 +1464,11 @@ ownership,' which will meet in Washington, D.C., on Dec. 2."
 
 November 8, 1931 **Weekly Business Index Declines to New Low; Comparisons Made with Past Depressions**  "The movement of the weekly index of business activity in the final week of October was dominated by the decline in the adjusted index of automobile production from 24.4 to the exceptionally low figure of 15.5." *–New York Times* 
 
-![](Attachments/_page_29_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_29_Figure_11.jpeg)
 
 As money and credit contracted, the economy started to fall off a cliff. Over the second half of 1931, industrial production contracted by 14.3 percent and department store sales fell 12.9 percent. By the end of 1931, unemployment had reached nearly 20 percent, and domestic prices were falling 10 percent per year.
 
-![](Attachments/_page_29_Figure_27.jpeg)
+![](Attachments/BigDebtCycles_page_29_Figure_27.jpeg)
 
 Department Store Sales (Nominal) Industrial Production
 
@@ -1534,7 +1534,7 @@ The depression deepened in 1932, as the economy continued to plunge with deflati
 
 **US Bank Suspensions by Year** 2,000 2,500
 
-![](Attachments/_page_30_Figure_15.jpeg)
+![](Attachments/BigDebtCycles_page_30_Figure_15.jpeg)
 
 **It is classic in a big debt crisis: Policy makers play around with deflationary levers to bring down debt for a couple of years but eventually wake up to the fact that the depressing effects of debt reduction and austerity are both too painful and inadequate to produce the effects that are needed. So more aggressive policies are undertaken.** As it became clear that the Hoover administration hadn't done enough to reverse the credit contraction, it announced another set of policies during the first part of 1932 in an attempt to provide liquidity to the banking system and get credit going again.
 
@@ -1584,7 +1584,7 @@ Around this time, the Fed started to experiment with money printing. Going into 
 
 The Federal Reserve System bought nearly \$50 million in government securities each week in April and nearly \$100 million each week in May. By June, the system had purchased over \$1.5 billion in government securities. The following chart illustrates the Federal Reserve's purchases and holdings of government debt in 1931 and 1932.
 
-![](Attachments/_page_31_Figure_23.jpeg)
+![](Attachments/BigDebtCycles_page_31_Figure_23.jpeg)
 
 Once the Federal Reserve began purchases, yields on short-term Treasury securities fell rapidly with three month T-Bill yields falling more than two percent over the first half of the year. Fed purchases also relieved pressure in the market for longer-term treasury bonds, where the supply-demand imbalance for dollars had reached a breaking point amid large deficits and foreign reluctance to hold US assets. After rising above 4.3 percent in January, yields on ten-year treasuries fell below 3.5 percent over the next six months.
 
@@ -1638,7 +1638,7 @@ economic collapse. Pressure on US gold reserves continued because foreigners wor
 
 In March, stocks sold off and the market suffered a decline that extended through 11 weeks. The Dow Jones dropped 50 percent, from 88 on March 8 to 44 on May 31. The Dow Jones closed in May on a low for the month, and volume further declined that month to about 750,000 shares per day.147 Early in the crisis, government efforts to increase lending and spending had led to sustained rallies in asset markets. At this stage, however, investors had become disillusioned. They worried that Hoover's programs were not making enough of a difference to make up for their vast cost, and markets continued to trend downward.
 
-![](Attachments/_page_32_Figure_14.jpeg)
+![](Attachments/BigDebtCycles_page_32_Figure_14.jpeg)
 
 ### **News & Federal Reserve Bulletin**
 
@@ -1694,7 +1694,7 @@ unemployment relief bill because of the \$500,000,000 appropriated in it for pub
 
 By the summer, the big stimulation and relief to banks appeared to be helping. The downward spiral began to moderate, asset prices stabilized, and production actually increased in certain areas of the economy, like autos. From May through June, commodities, stocks, and bonds all bottomed. Markets for both stocks and bonds improved during the second half of the year. In August and September, the Dow Jones Industrial Average rallied to a peak of 80, almost double its July low. You can see trajectory of the Dow in the chart below.
 
-![](Attachments/_page_33_Figure_21.jpeg)
+![](Attachments/BigDebtCycles_page_33_Figure_21.jpeg)
 
 *Time* magazine's August 8, 1932, edition claimed that the rally occurred because the gold outflow had finally ceased, rumors had spread about the country receiving foreign capital, and a railroad merger had been approved.
 
@@ -1796,11 +1796,11 @@ to avert the failure of its main state bank, the holiday sparked a national pani
 
 The collapse of the economy throughout 1932 was breathtaking. The charts below show some of the economic stats, highlighting the period from sterling's devaluation until the end of 1932. Consumer spending and production fell by more than 20 percent and unemployment rose by more than 16 percent. Severe deflation had taken hold and prices were falling by almost one percent every month.
 
-![](Attachments/_page_35_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_35_Figure_12.jpeg)
 
 **Policy makers' reliance on the deflationary levers of debt reduction had pushed the US into a severe depression/"ugly deleveraging."** Since nominal interest rates were well above nominal growth rates, debt grew faster than income and debt burdens rose despite defaults.
 
-![](Attachments/_page_35_Figure_16.jpeg)
+![](Attachments/BigDebtCycles_page_35_Figure_16.jpeg)
 
 But while investors were worried about the effects of a Roosevelt presidency, the populist nature of his campaign (along with the terrible economic conditions) propelled him to victory. Roosevelt was elected in November 1932, winning 22.8 million votes against Hoover's 15.8 million, the most popular votes ever won by a presidential candidate up to that time.
 
@@ -1876,7 +1876,7 @@ February 8, 1933 **Gold Supply Lower by \$1,601,500 in Day**  *–New York Times
 
 "Despite declines in all other classifications, the number of retail failures showed an increase during the week ended Feb. 9, according to Bradstreet's. The store defaults totaled 376, against 353 in the preceding week. The total number of failures was 509, which compares with 567 in the previous week."
 
-![](Attachments/_page_37_Figure_9.jpeg)
+![](Attachments/BigDebtCycles_page_37_Figure_9.jpeg)
 
 In the face of this pressure on gold reserves, Hoover attempted to invoke the War Powers Act and introduce capital controls, a classic but ineffective response to balance of payments pressures, but the Democrats would not allow it.169
 
@@ -1888,7 +1888,7 @@ The economy suffered enormously. In March, business had slowed to a shocking ext
 
 On Sunday, March 5, the day after he took office, Roosevelt declared a national four-day bank holiday, suspended gold exports (effectively delinking the dollar from gold), and set a team to work on rescuing the banking system. **It was a scramble to get as much done as possible in as short a time as possible.**
 
-![](Attachments/_page_37_Picture_20.jpeg)
+![](Attachments/BigDebtCycles_page_37_Picture_20.jpeg)
 
 **From the New York Times,6 March © 1933 The New York Times. All rights reserved. Used by permission and protection by the Copyright Laws of the United States. The printing, copying redistribution, or retransmission of this Content without express written permission is prohibited.**
 
@@ -1994,7 +1994,7 @@ March 7, 1933 **Business Backs Scrip**
 
 "The New York Stock Exchange ended yesterday its first week of enforced inactivity since 1914 without any indication as to when trading would be resumed. None of the other security or commodity markets here have yet set a date for reopening, but the New York Cocoa Exchange announced that the board of managers had voted to extend the holiday up to and including next Tuesday."
 
-![](Attachments/_page_39_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_39_Figure_12.jpeg)
 
 Within two weeks of leaving the gold peg, the Federal Reserve was able to decrease its liquidity injections; short-term rates decreased by one percent to two percent, bankers' acceptance rates dropped back to two percent, and call loan rates decreased to three percent.176 The money supply increased by 1.5 percent over the next three months, and the Dow was up by almost 100 percent over the next four months. These moves ended the depression on a dime. (Most people mistakenly think that the depression lasted through the 1930s until World War II so I want to be clear on what actually happened. It is correct that it took until 1936 for GDP to match its 1929 peak. But when you look at the numbers in the charts below, you can see that leaving the gold peg was the turning point; it was exactly then that all markets and economic statistics bottomed. Still, these average numbers can be misleading because the recovery benefited the rich more than the poor, and the post-1933 period remained more difficult for a lot of people than the averages suggest, which is likely why people often think of the depression as lasting through the entire decade.)
 
@@ -2026,7 +2026,7 @@ Within two weeks of leaving the gold peg, the Federal Reserve was able to decrea
 
 **Banks Over Nation Approach Normal; Reopenings Continue in All the States as Authorities Speed Restoration**
 
-![](Attachments/_page_39_Figure_27.jpeg)
+![](Attachments/BigDebtCycles_page_39_Figure_27.jpeg)
 
 *–New York Times* 
 
@@ -2044,7 +2044,7 @@ with President Roosevelt's program before the end of next week. When the House a
 
 "Banking reform legislation took on new life paused in the midst of his international
 
-![](Attachments/_page_40_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_40_Figure_0.jpeg)
 
 While leaving the gold standard, printing money, and providing guarantees were by far the most impactful policy moves that Roosevelt made, they were just the first of an avalanche of policies that were unrolled during his first six months in office. The shock and awe of all those big announcements of spending, coming week after week, built confidence among investors and the public, which was critical to putting the economy on a good footing. I'll describe some of those policies below, not because the particulars are all that important, but because together they paint the picture of a bold, multifaceted, and comprehensive policy push.
 
@@ -2175,17 +2175,17 @@ The economy roared to life over the next three months as terribly depressed leve
 
 "Stocks and bonds continued yesterday to reflect returning confidence in the general business position. The share market went into new high ground for the current movement, with well distributed gains of 1 to 2 points or more, while domestic corporation bonds showed further improvement under the leadership of specially favored industrial and railway issues."
 
-![](Attachments/_page_42_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_42_Figure_0.jpeg)
 
 Note how the level of GDP growth was above the level of interest rates.
 
-![](Attachments/_page_42_Figure_2.jpeg)
+![](Attachments/BigDebtCycles_page_42_Figure_2.jpeg)
 
 ## **1935: The Goldilocks Period**
 
 The economy and the markets continued to recover through 1934 and into 1935, when the Federal Reserve began contemplating tightening once again. By 1935 the economy had recovered, deflation had disappeared, and stock prices had soared as a result of the Fed's earlier policies. At the time, home prices were rising faster than 10 percent per year, and the recovery in equity prices was even faster. The boost to wealth was big, though wealth and economic output remained below pre-depression, bubble levels.
 
-![](Attachments/_page_42_Figure_16.jpeg)
+![](Attachments/BigDebtCycles_page_42_Figure_16.jpeg)
 
 ### **News & Federal Reserve Bulletin**
 
@@ -2346,7 +2346,7 @@ By 1936, war was brewing in Europe, driving capital flight to the US, which cont
 
 To neutralize the effects of these inflows, in December, FDR ordered "sterilization" to begin. Normally, when people sold their gold to the US government in exchange for dollars, the number of dollars increased (i.e., money is printed), which, given the strong economic recovery, wasn't seen as desirable. Instead, starting December 23, the gold inflows/newly mined gold were sterilized—literally, the Treasury purchased gold inflows by drawing down its cash account at the Federal Reserve instead of printing money. From the end of 1936 to July 1937, the Treasury sterilized about 1.3 billion of gold inflows (approximately 1.5 percent of GDP).197 We can see the increase in sterilization and slowing of gold and other asset purchases in 1936/37 with money growth slowing and dropping below gold reserve growth. The Fed also tightened reserve requirements in order to take money out of circulation, as we have seen.
 
-![](Attachments/_page_45_Figure_27.jpeg)
+![](Attachments/BigDebtCycles_page_45_Figure_27.jpeg)
 
 ### **News & Federal Reserve Bulletin**
 
@@ -2458,7 +2458,7 @@ Treasury all the time and there was sufficient for that purpose."
 
 December 17, 1937 **Federal Deficit Reduced; Now Below \$695,245,000 Estimate of President on Oct. 19**  *–New York Times* 
 
-![](Attachments/_page_47_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_47_Figure_7.jpeg)
 
 ## **Late 1937–1938: Policy Makers Reverse Their Course**
 
@@ -2466,7 +2466,7 @@ As markets and the economy turned down in 1937, the Fed accelerated a twist into
 
 The Fed's twist is shown below. While the Fed didn't do much in the way of net asset purchases, it accelerated its buying of long-term bonds in 1937 while selling bills and notes (a process it had actually started in 1936). It also increased net assets by a small amount (slightly above 3 percent by 1938).
 
-![](Attachments/_page_47_Figure_20.jpeg)
+![](Attachments/BigDebtCycles_page_47_Figure_20.jpeg)
 
 ### **Fed Balance Sheet Public Debt Assets (% 1936 GDP)**
 

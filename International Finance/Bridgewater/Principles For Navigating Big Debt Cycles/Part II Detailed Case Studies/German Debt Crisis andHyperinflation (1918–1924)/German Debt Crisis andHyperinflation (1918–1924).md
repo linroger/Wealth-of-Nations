@@ -56,7 +56,7 @@ All news excerpts from *The New York Times.*
 
 supply, policy makers suspended the conversion of money to gold on July 31, 1914.3 The government also authorized the Reichsbank to buy short-term Treasury bills and use them, along with commercial bills, as collateral for the money it was printing.4 The pace of printing that followed was rapid: By the end of August, the quantity of Reichsbank notes in circulation (i.e., paper marks) had increased by approximately 30 percent.
 
-![](Attachments/_page_2_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_2_Figure_11.jpeg)
 
 Price of Gold in Marks
 
@@ -102,11 +102,11 @@ May 21, 1917 **Germany to Borrow Bonds** "*The Exchange Telegraph*'s Amsterdam c
 
  "Every power of persuasion and pressure at the disposition of the German Government was brought into play to make a success of the seventh war loan of 15,000,000,000 marks, (\$3,570,000,000 at normal exchange), according to reports found in German newspapers recently reaching London."
 
-![](Attachments/_page_3_Picture_28.jpeg)
+![](Attachments/BigDebtCycles_page_3_Picture_28.jpeg)
 
 **locked out of international lending markets, the war had to be financed by issuing domestic debt.**<sup>5</sup> In 1914, German government debt was insignificant. By 1918, Germany had amassed a total local currency debt stock of 100 billion marks, about 130 percent of German GDP.
 
-![](Attachments/_page_3_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_3_Figure_1.jpeg)
 
 #### **Source: Global Financial Data**
 
@@ -160,7 +160,7 @@ mainly to the higher amount required for interest on the national debt."
 
 **Armistice Signed, End of the War! Berlin Seized by Revolutionists: New Chancellor Begs for Order; Ousted Kaiser Flees to Holland**
 
-![](Attachments/_page_4_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_4_Figure_0.jpeg)
 
 The currency remained an effective medium of exchange while losing its effectiveness as a store hold of wealth. So, the government borrowed money to pay for its war expenditures, and the Reichsbank was forced to monetize the debt as investors came up short in supplying the money. This had the effect of increasing the money supply by an amount equal to the fiscal deficit not financed by the public. **As debt monetization is inflationary (there is more money in the economy chasing the same quantity of goods and services), a self-reinforcing spiral ensued—i.e., debt monetization increased inflation, which reduced real interest rates, which discouraged lending to the government, which encouraged additional debt monetization.** As the deficit was huge (averaging about 40 percent of GDP between 1914 and 1918), this led to the money supply increasing by almost 300 percent over the course of the war.13
 
@@ -168,7 +168,7 @@ The pace of money creation accelerated after 1917 as German citizens became incr
 
 **Source: Global Financial Data** 
 
-![](Attachments/_page_4_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_4_Figure_3.jpeg)
 
 In the last two years of the war, the German government began borrowing in foreign currencies because lenders were unwilling to take promises to pay in marks.16 When a country has to borrow in a foreign currency, it's a bad sign. By 1918, the Reichsbank and private firms each owed about 2.5 billion gold marks in FX to external lenders.17 A gold mark was an artificial unit used to measure the value of a paper mark to gold. In 1914, one gold mark equaled one paper mark.18 A debt of 5 billion gold marks was therefore a debt denominated in gold, with the bill equal to the amount of gold that could be purchased by 5 billion marks in 1914.
 
@@ -182,7 +182,7 @@ Breaking the peg to gold and monetizing an ever-growing fiscal deficit, combined
 
 However, in the context of WWI, this was pretty typical—i.e., it's what most countries did to fund their wars. German inflation, while high, was not significantly higher than that of other war participants, as you can see in the chart below.23 But only a few of the war's many participants ended up with hyperinflation, for reasons I will soon explain.
 
-![](Attachments/_page_5_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_5_Figure_5.jpeg)
 
 I bring up this point to underline the fact that WWI (and the accompanying monetization of debt) did not directly cause Germany's postwar inflationary depression. As mentioned in the archetype template, **while inflationary depressions are possible in all countries/currencies, they are most common in countries that:**
 
@@ -201,7 +201,7 @@ and it was very likely that the Allies would force Germany to pay them an additi
 
 News of the German surrender in November 1918 was met with a wave of capital flight out of Germany. German citizens and firms rushed to convert their wealth into the currencies and assets of the victorious powers, not knowing what the terms of the peace would be or exactly how the German government would pay for its massive stock of liabilities now that it had lost the war. Over the next few months, the mark declined about 30 percent against the dollar, the German stock market lost almost half its real value, and government debt in local currency rose by about 30 percent, almost all of which had to be monetized by the central bank. As a result, the money supply grew by about 50 percent and the inflation rate climbed to 30 percent.
 
-![](Attachments/_page_6_Figure_24.jpeg)
+![](Attachments/BigDebtCycles_page_6_Figure_24.jpeg)
 
 #### **Source: Global Financial Data**
 
@@ -255,7 +255,7 @@ annexations, 10 percent of its population, 43 percent of its pig-iron capacity, 
 
 Germany had no option but to agree to these terms or face total occupation. It signed the treaty on June 28, 1919. This triggered another sharp plunge in the exchange rate,28 with the mark falling 90 percent against the dollar between July, 1919 and January, 1920. Inflation surged, hitting 140 percent by the end of the year. Once again, the mark's drop was driven primarily by **German citizens rushing to get their capital out of the country because they justifiably feared that these promises to deliver currency (i.e., these debt obligations) would make it very difficult, if not impossible, for the German government to meet its liabilities with hard money. To do that, the Reich would have to levy extortionately high taxes and confiscate private wealth. As the real wealth of private citizens was at risk, getting out of the currency and the country made sense.**
 
-![](Attachments/_page_7_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_7_Figure_12.jpeg)
 
 **As the mark fell, German debtors with external liabilities saw the real expenses of their debts soar. They rushed to pay off as many of their foreign debts as they could**, flooding the foreign exchange market. This further weakened the mark, triggering additional rounds of capital flight. This dynamic is also very common in countries with large foreign currency denominated debt during a debt/balance of payments crisis. As a prominent Hamburg industrialist noted at the time, "We are driving ourselves to destruction if everyone now… secretly sells mark notes in order to be able to meet his obligations. If things keep on this way, the mark notes will become unusable."29
 
@@ -309,13 +309,13 @@ Naturally, as money leaves a currency/debt market, that puts the central bank in
 
 From July 1919 through March 1920, the decline in the mark and negative real rates provided a boost to the German economy and its equity and commodity markets.
 
-![](Attachments/_page_8_Figure_18.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_18.jpeg)
 
-![](Attachments/_page_8_Picture_12.jpeg)
+![](Attachments/BigDebtCycles_page_8_Picture_12.jpeg)
 
 The export industry also thrived, unemployment declined, and as real wages remained low, business profitability improved. You can see the decline in unemployment and the pickup in exports in the charts below. (Note that all unemployment statistics from the time only show unemployment among trade union members, so they likely understate the true amount of unemployment and hardship in German society. However, they do show that employment conditions were improving.)
 
-![](Attachments/_page_8_Figure_20.jpeg)
+![](Attachments/BigDebtCycles_page_8_Figure_20.jpeg)
 
 #### **The News**
 
@@ -359,7 +359,7 @@ The beneficial results of currency weakness led many German policy makers to adv
 
 # **Real Local Currency Debt (1913 Marks Bln)**
 
-![](Attachments/_page_9_Figure_14.jpeg)
+![](Attachments/BigDebtCycles_page_9_Figure_14.jpeg)
 
 # **The central bank's alternative to allowing inflation to "naturally" reduce the real debt burden was to tighten monetary policy and engineer a**
 
@@ -429,13 +429,13 @@ The fourteen months between March 1920 and May 1921 were a period of "relative s
 
 The global backdrop at the time was one of severe contraction, driven by tightening monetary policy in the US and UK. For example, between 1920 and 1921, industrial production fell by 20 percent in the US and 18.6 percent in the UK, while unemployment climbed to 22 percent and 11.8 percent respectively.43
 
-![](Attachments/_page_11_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_11_Figure_0.jpeg)
 
 #### **Source: Global Financial Data**
 
 In contrast to other central banks, the Reichsbank kept monetary policy very easy—the discount rate remained at 5 percent until 1922.44 The Reichsbank also regularly intervened to inject additional liquidity when credit conditions tightened. For instance, in the spring of 1921, when business liquidity tightened moderately, the Reichsbank responded by accelerating its purchases of commercial bills (from 3.1 percent to 9 percent of bills outstanding).45 Fiscal policy also remained accommodative, with real expenditures (ex-reparations) rising in 1920 and 1921.46 Although the budget deficit narrowed, it remained huge—roughly 10 percent of GDP—and continued to be financed by the issuance of floating debt.
 
-![](Attachments/_page_11_Figure_11.jpeg)
+![](Attachments/BigDebtCycles_page_11_Figure_11.jpeg)
 
 **Source: Global Financial Data**
 
@@ -489,13 +489,13 @@ February 20, 1921 **Germany's Growing Trade**
 
 "*The New York Times* correspondent has reliable information that the German proposals in London will be based on demands for delay in the fixing of the total of reparations, in order to afford Germany time for recuperation. This procedure, it is argued, would give the Entente an opportunity of judging just what Germany really could pay."
 
-![](Attachments/_page_12_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_12.jpeg)
 
 Rising economic activity and reflationary policies did not result in much inflation in Germany between March 1920 and May 1921, as domestic inflationary pressures were being offset by global deflationary forces. Import prices from the US and UK fell by about 50 percent, and rising capital flows into the outperforming German economy helped to stabilize the currency, which allowed for slower growth in the money supply. As you can see in the charts below, this was a significant turnaround. The mark rallied, inflation
 
 declined, and by early 1921 prices stopped rising for the first time since 1914.
 
-![](Attachments/_page_12_Figure_16.jpeg)
+![](Attachments/BigDebtCycles_page_12_Figure_16.jpeg)
 
 There was also considerable optimism about the German economy abroad—in fact, it became the new hot economy to invest in, as reflected by foreigners' willingness to pour money into it, which financed an ever-growing trade deficit. In fact, some commentators at the time began referring to Germany's surging capital inflows as a "tremendous" speculative bubble, with Keynes even calling it "the greatest ever known." **Many of those flooding the market with mark orders were new buyers, with no prior experience in the market they were trading—one of the classic signs of a bubble.** According to Keynes:
 
@@ -535,7 +535,7 @@ Strong capital inflows also meant that the German economy became increasingly de
 
 The mark's sharp appreciation in early 1920 was an unwelcome development for policy makers because a falling mark was considered essential to maintaining German export competitiveness, supporting employment growth, and building a savings pool of hard currency earnings. It was considered the "one good fortune in the midst of misfortune," without which Germany would lose the possibility of exports.50 The initial appreciation hit exports hard, with the chamber of commerce going as far as to say that industry had practically "ground to a halt."51 Unemployment surged, with the number of trade union members reported as unemployed tripling. For these reasons, the economic ministry intervened between March and June 1920—aiming to deliberately depress the mark and stimulate employment. It worked. The mark fell, competitiveness returned, and unemployment once again began to decline.52
 
-![](Attachments/_page_13_Figure_15.jpeg)
+![](Attachments/BigDebtCycles_page_13_Figure_15.jpeg)
 
 During this period, German policy makers were more concerned about deflationary forces spreading to Germany than the inflation that their stimulative policies could cause. Rising unemployment, and the potential social unrest it could cause, were considered much more menacing than the return of rising prices. As the reconstruction minister told a prominent industrialist:
 
@@ -603,17 +603,17 @@ The reparations demanded were enormous and dashed expectations that a far more c
 
 **FX Debt Levels Prior to Inflationary Depressions (%GDP)**
 
-![](Attachments/_page_14_Figure_5.jpeg)
+![](Attachments/BigDebtCycles_page_14_Figure_5.jpeg)
 
 **Estimated German Government Debt (%GDP)**
 
-![](Attachments/_page_14_Figure_7.jpeg)
+![](Attachments/BigDebtCycles_page_14_Figure_7.jpeg)
 
 As soon as the reparation burden was announced, the mark began selling off; it declined by 75 percent by the end of the year. Inflation also returned, with prices almost doubling over the same period. For one prominent German participant at Versailles, the ultimatum fulfilled his worst fears:
 
 *"The world must be made to understand that it is impossible to burden a country with debts and at the same time to deprive it of the means of paying them…the most complete collapse of the currency…cannot…be avoided if the peace treaty is maintained in its current form."*56
 
-![](Attachments/_page_15_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_15_Figure_0.jpeg)
 
 **The reparation schedule created a balance of payments crisis. In many ways, a balance of payments crisis is just like any other serious problem faced by individuals, households, and corporations in making a payment. To come up with the money, a country must either 1) spend less, 2) earn more, 3) finance the payments through borrowing and/or tapping into savings, or 4) default on the debt (or convince creditors to give it relief).** Unlike its domestic war loans, Germany could not print away the debt burden, as the debts were not denominated in paper marks. Policy makers would need to rely on some combination of the four levers outlined
 
@@ -705,7 +705,7 @@ As the central bank kept market interest rates anchored at 5 percent (by increas
 
 fall by about 30 percent.75 This made tensions between the "haves" and the "have-nots" even worse.
 
-![](Attachments/_page_18_Figure_20.jpeg)
+![](Attachments/BigDebtCycles_page_18_Figure_20.jpeg)
 
 **The only sector of the economy that saw some clear benefit from the collapse of the mark was the export sector. Foreign sales increased as German goods became cheaper on the international market.** However, the pickup in exports was less than it ordinarily would have been, given such a large decline in the currency, for two reasons: First, there was considerable hostility to German exports abroad, even as they became cheaper, which limited the potential gains from a depreciating currency. Second, labor costs were also declining in the rest of the developed world, as a result of deflation from the severe global recession, limiting the potential competitiveness gains from the depreciating mark.
 
@@ -751,11 +751,11 @@ Once again, **this bull market was not driven by improving economic fundamentals
 
 *"Stock market speculation today is the organized flight from the mark…at a time when the return on an investment diminishes in the same ratio as the value of the paper mark and when therefore even the solid capitalist, if he does not want to impoverish himself from day to day, must acquire real values. This alone has led to an extraordinary increase in the stock market business."*<sup>78</sup>
 
-![](Attachments/_page_19_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_19_Figure_3.jpeg)
 
 By the end of 1921, deteriorating economic conditions, the absence of faith in the mark, and rapidly rising prices began to threaten an economic and/or political collapse. At the time, the inflation rate was nearing 100 percent. The only thing preventing a total collapse was the foreigners' willingness to continue to buy marks and fund Germany's massive external deficit (about 10 percent of GDP). As the chart below illustrates, despite the loss of confidence in the mark at home, many foreigners kept purchasing German assets at cheap prices.
 
-![](Attachments/_page_19_Figure_19.jpeg)
+![](Attachments/BigDebtCycles_page_19_Figure_19.jpeg)
 
 Purchases of Marks in NYC (Goldmark Mln)
 
@@ -857,7 +857,7 @@ Renewed optimism about meaningful relief from reparations halted the mark's slid
 
 **Calls on Germany to Limit Paper Money: Allied Board Plans Partial Moratorium**
 
-![](Attachments/_page_21_Picture_24.jpeg)
+![](Attachments/BigDebtCycles_page_21_Picture_24.jpeg)
 
 *"Over and over again we encounter the notion that if the value of our money has been ruined this can only be because we have printed money. The recipe which we are given against this is: stop your printing press, bring your budget in order, and the misfortune is ended. A grave economic error!…[How is it possible] to make continuous gold payments without the help of foreign loans and at the same time keep the exchange rate intact? The attempt has never been made to give such a prescription and it cannot be given. For a country that does not produce gold cannot pay in gold unless it buys this gold with export surpluses [which Germany did not have] or unless it is borrowed [which Germany could not do]."*<sup>83</sup>
 
@@ -867,7 +867,7 @@ From February until May, expectations surrounding the currency continued to be d
 
 The chart below gives a taste of how new pieces of information on the reparation negotiations led to major swings in the mark. As you can see from the below table, the markets chopped up and down in big moves every time there was essentially any update on reparation negotiations. Imagine having to trade through such volatility!
 
-![](Attachments/_page_21_Figure_17.jpeg)
+![](Attachments/BigDebtCycles_page_21_Figure_17.jpeg)
 
 #### **The News**
 
@@ -969,15 +969,15 @@ enough to keep up with the flight of marks abroad and rising prices. By July, ba
 
 #### August 20, 1922 **Another Increase in German Paper Issues** "Circulation Rises 6,811,000,000 in Second Week of August, 14,900,000,000 Since July."
 
-![](Attachments/_page_23_Picture_31.jpeg)
+![](Attachments/BigDebtCycles_page_23_Picture_31.jpeg)
 
 By August 1922, the economy was on the brink of financial collapse. The central bank was forced to respond by rapidly accelerating the pace at which it was printing marks and monetizing a growing share of government debt.
 
-![](Attachments/_page_23_Figure_1.jpeg)
+![](Attachments/BigDebtCycles_page_23_Figure_1.jpeg)
 
 The central bank also began purchasing commercial bills en masse. As the liquidity crisis deepened in the fall, it additionally accelerated its provision of direct credits to the banking system. By the end of the year, the Reichsbank would end up holding about one third of all commercial bills in circulation and would have increased its credits to the banking system by 1,900 percent.93 Such interventions helped prevent the financial system from collapsing, and led to a ten-fold increase in the money supply.
 
-![](Attachments/_page_23_Figure_17.jpeg)
+![](Attachments/BigDebtCycles_page_23_Figure_17.jpeg)
 
 Unlike past bouts of currency depreciation and money printing, in which inflation would pick up substantially but never enter hyperinflation territory, this round of currency depreciation and money printing sent inflation skyrocketing. Part of this was due to the scale of the liquidity injection that was needed to offset the pullback in foreign capital, but part of it was also due to changing inflationary psychology. While most people had believed that
 
@@ -1033,7 +1033,7 @@ September 14, 1922 **14 Billions Added to the German Currency** "Increase in fir
 
 **German Paper Issues Again Break Record** "New Currency Put Out in Third Week of October 35,466,969,000 Marks."
 
-![](Attachments/_page_24_Figure_0.jpeg)
+![](Attachments/BigDebtCycles_page_24_Figure_0.jpeg)
 
 **In inflationary depressions, it is classic that with each round of printing, more money leaves the currency instead of going into economic activity.** As domestic currency holders see that investors that short cash (i.e., borrow in the weakening currency) and buy real/foreign assets are repeatedly better off than those who save and invest at home, they increasingly catch on and shift from investing printed money in productive assets to purchasing real assets (like gold) and foreign currency. Foreign investors no longer return because they have been repeatedly burned.
 
@@ -1049,7 +1049,7 @@ As early as August, with prices rising by over 50 percent a month and accelerati
 
 **People tend to think that hyperinflations are caused by central banks recklessly printing too much money, and all they need to do to stop it is to turn off the printing press.** If it were that easy, hyperinflations would almost never occur! Instead, inflation spirals push policy makers into circumstances where printing is the least bad of several terrible options.
 
-![](Attachments/_page_25_Picture_28.jpeg)
+![](Attachments/BigDebtCycles_page_25_Picture_28.jpeg)
 
 In the case of Weimar Germany, the cost of not printing was not only potential economic collapse, but political fragmentation. France's repeated threats to occupy German territory if reparations were not paid made halting the printing press an invitation to a foreign invasion. It also lowered hopes for productive reparations negotiations. As one prominent industrialist put it at the time:
 
@@ -1059,7 +1059,7 @@ In the case of Weimar Germany, the cost of not printing was not only potential e
 
 You can see this relationship most vividly in the chart below—which must be shown in logarithmic terms due to the exponential growth rates in inflation and the money supply. As you can see, currency weakness was leading inflation, which was leading money supply growth—not the other way around. **Reckless money printing was less the cause of the hyperinflation than what was required to prevent massive deflationary defaults by banks (and just about everyone else) and a deflationary economic collapse.**
 
-![](Attachments/_page_25_Figure_15.jpeg)
+![](Attachments/BigDebtCycles_page_25_Figure_15.jpeg)
 
 Jan-22 Feb-22 Mar-22 Apr-22 May-22 Jun-22 Jul-22 Aug-22 Sep-22 Oct-22 Nov-22 Dec-22
 
@@ -1117,9 +1117,9 @@ In a desperate attempt to calm the inflationary spiral, on October 12 1922, the 
 
 See the charts below and imagine living through these conditions.
 
-![](Attachments/_page_26_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_26_Figure_6.jpeg)
 
-![](Attachments/_page_27_Picture_23.jpeg)
+![](Attachments/BigDebtCycles_page_27_Picture_23.jpeg)
 
 # **January 1923–August 1923: The Occupation of the Ruhr and the Final Days of Inflation**
 
@@ -1167,13 +1167,13 @@ February 12, 1923 **Arrests and Riot Mark Day in Ruhr**
 
 **Prices in Germany Up 248 ½ Per Cent in January; All Monthly Records of Increase Broken—7,159 Times Prewar Average** 
 
-![](Attachments/_page_28_Figure_12.jpeg)
+![](Attachments/BigDebtCycles_page_28_Figure_12.jpeg)
 
 #### Est. 1923 Net Reserve Sales (Goldmark Mln)
 
 Now the German economy found itself burdened by an additional stock of hard currency debt, and the French reaffirmed their commitment to stay in the Ruhr as long as was necessary to get what they were owed. Throughout the summer, some sporadic interventions in the FX market were attempted, but none were able to curb inflation or prevent the downward spiral in the exchange rate.109 Around this time, the president of the Reich asked his finance minister to find new measures "to avert the complete collapse of our mark." The finance minister replied "the complete collapse of the mark is already underway."110
 
-![](Attachments/_page_28_Figure_28.jpeg)
+![](Attachments/BigDebtCycles_page_28_Figure_28.jpeg)
 
 From July 1922 until November 1923 the mark depreciated by 99.99999997 percent versus the dollar (i.e., the cost of dollars increased 1,570 billion percent) and prices rose by 387 billion percent! For some perspective on what these numbers mean, in 1913 a total of six billion marks circulated as currency and coin in the whole German economy. By late October 1923, the entire stock of money in 1913 would just about get you a one kilo-loaf of rye bread.111 Living through such chaos was immensely painful and traumatizing for German citizens—and experiences of the inflation would later serve to validate many of the criticisms made by Nazi politicians of the "disastrous" Weimar era.
 
@@ -1335,7 +1335,7 @@ August 29, 1923 **Hunger-Driven Germans Die from Eating Toadstools**
 
 With the reparations debt service substantially reduced and the domestic debt mostly inflated away, Germany's debt burden was largely relieved.
 
-![](Attachments/_page_31_Figure_16.jpeg)
+![](Attachments/BigDebtCycles_page_31_Figure_16.jpeg)
 
 # **Estimated German Government Debt (%GDP)**
 
@@ -1409,7 +1409,7 @@ backing behind the rentenmark applied not only to newly issued bills (as had bee
 
 In the months that followed, both of these pegged rates held, and by December both the rentenmark and the newly-pegged paper mark were trading at par in foreign markets, while inflation had fallen to sustainable levels.138
 
-![](Attachments/_page_32_Figure_6.jpeg)
+![](Attachments/BigDebtCycles_page_32_Figure_6.jpeg)
 
 # **3) Imposing Limits on Money Printing**
 
@@ -1417,7 +1417,7 @@ The key to the new currency's lasting success was that the Rentenbank issued rel
 
 As shown on the chart below, the monetary base in dollars had fallen to equal Germany's gold reserves by 1923.
 
-![](Attachments/_page_33_Figure_13.jpeg)
+![](Attachments/BigDebtCycles_page_33_Figure_13.jpeg)
 
 After a year of relative stability, German policy makers implemented the third phase of the currency transition. On October 11, 1924, they introduced another new hard currency (the reichsmark), which could be purchased with rentenmarks at a one to one ratio. Unlike the rentenmark, which had only been formally backed by mortgage bonds, the new reichsmark could be exchanged directly for bullion at the Reichsbank. Specifically, it could be converted into precisely the same quantity of gold as the pre-war mark.143 All remaining paper marks were withdrawn from circulation by June 5, 1925, while the old currency (the rentenmark) was gradually phased out over the next decade.144
 
@@ -1519,7 +1519,7 @@ Additionally, the government took aggressive measures to reduce expenses, dismis
 
 "The trade situation throughout Germany continues to improve. One evidence is the fact that publicly supported unemployed workmen on Feb. 15 are stated to have been 1,301,270, as against 1,582,852 on Jan. 15. Even the partly unemployed decreased from 635,839 to 257,840."
 
-![](Attachments/_page_35_Picture_34.jpeg)
+![](Attachments/BigDebtCycles_page_35_Picture_34.jpeg)
 
 painful, and would have been almost impossible to stomach a year or two before. But the hyperinflation had caused so much suffering and chaos by the end of 1923 that the German public was willing to do almost anything to bring prices back under control.
 
@@ -1527,7 +1527,7 @@ Most important, though, was the effect of more gradual inflation and a more stab
 
 By January 1924, the government was running a surplus.158
 
-![](Attachments/_page_35_Figure_3.jpeg)
+![](Attachments/BigDebtCycles_page_35_Figure_3.jpeg)
 
 # **6) Tightening Credit**
 
@@ -1649,15 +1649,6 @@ Peukert, Detlev J.K. *The Weimar Republic: The Crisis of Classical Modernity*. N
 - Taylor, Frederick. *The Downfall of Money: Germany's Hyperinflation and the Destruction of the Middle Class*. New York: Bloomsbury Press, 2013.
 
 Webb, Steven B. *Hyperinflation and Stabilization in Weimar Germany*. New York: Oxford University Press, 1989.
+Notably, even the rentenmark was not really adequately secured.** 
 
- **Feldman, The Great Disorder, 30. Feldman, 32. Bresciani-Turroni, The Economics of Inflation, 23. Bresciani-Turroni, 23. Feldman, 38. Feldman, 38. Feldman, 45. Feldman, 47. Holtfrerich, The German Inflation, 177. Feldman, 42. Feldman, 52-54. Taylor, The Downfall of Money, 16. 13 Bridgewater estimates. See also Bresciani-Turroni, 25; Ferguson, Paper and Iron, 118-20. Holtfrerich, 117. Taylor, 31. Feldman, 45-46. Feldman, 45. Feldman, 44. Bridgewater estimates. See also Feldman, 45-46. Feldman, 47-49. Feldman, 49. Feldman, 48-49. 23 Webb, Hyperinflation and Stabilization, 4; Ferguson, 120. Feldman, 146. Feldman, 146.**
-
- **Feldman, 148. Feldman, 148. Bresciani-Turroni, 54. Feldman, 178. Ferguson, 150. Ferguson, 186. Ferguson, 276. Webb, 33, 37. Holtfrerich, 132-3. Feldman, 151. Feldman, 152. Holtfrerich, 132-3. Feldman, 206. Feldman, 207. Feldman, 207. Holtfrerich, 71. Ferguson, 245. Holtfrerich, 209. Ferguson, 285. Ferguson, 286. Webb, 33. Keynes, Collected Writings, 48. Ferguson, 243. Ferguson, 270. Ferguson, 287. Ferguson, 295. Ferguson, 287. Ferguson, 289. Webb, 107. 55 See Ferguson, 311-2, for a discussion on the payments schedule. Ferguson, 310. Webb, 37; Ferguson, 313. Ferguson, 298.**
-
- **Ferguson, 308. Ferguson, 343. Keynes, 92. Ferguson, 321. Feldman, 445. Webb, 56. Ferguson, 337. Feldman, 389. 67 See Bresciani-Turroni, 188-197 for more on these dynamics. Quoted in Feldman, 389. Bresciani-Turroni, 294. Webb, 61. Webb, 63.**
-
- **Bresciani-Turroni, 294. Holtfrerich, 205. Graham, Exchange, Prices, and Production, 28. Bresciani-Turroni, 297. Bresciani-Turroni, 305-6. Ferguson, 335-6. Feldman, 390. Bresciani-Turroni, 260. Quoted in Feldman, 390. Eichengreen, Hall of Mirrors, 134. Quoted in Feldman, 446. Balderston, "War Finance," 21; Eichengreen, 134. Feldman, 445. Quoted in Feldman, 433. Feldman, 505. Feldman, 418. Feldman, 418. Webb, 56. Webb, 56. Ferguson, 318. Webb, 57. Ferguson, 338. Ferguson, 383. Ferguson, 341. Bresciani-Turroni, 81. Quoted in Ferguson, 339-340. Bresciani-Turroni, 80-82. Quoted in Feldman, 355. Webb, 14. Webb, 14. Holtfrerich, 75. Ferguson, 360. Bresciani-Turroni, 366-7. Webb, 58. Rupieper, The Cuno Government, 113. Feldman, 640-1. Feldman, 643. Ferguson, 371. Ferguson, 371. Webb, 60. Quoted in Ferguson, 376. Webb, 3. Eichengreen, 146-7; Bresciani-Turroni, 368. Bresciani-Turroni, 336. Feldman, 768. Feldman, 704. Feldman, 728. Eichengreen, 149. 118 For a thorough discussion of the negotiations, see Feldman, 453-507; 658-669; 698-753. Eichengreen, 148. 120 Eichengreen, 148. Eichengreen, 148. Ferguson, 405; Eichengreen, 149. Eichengreen, 149. Peukert, The Weimar Republic, 286. Eichengreen, 150. Webb, 61; Bresciani-Turroni, 353. 127 Feldman, 784-5. Bresciani-Turroni, 342-3. Bresciani-Turroni, 343.**
-
-**130 Bresciani-Turroni, 343. Bresciani-Turroni, 343-4. Bresciani-Turroni, 344. Bresciani-Turroni, 344. Bresciani-Turroni, 343; Webb 63. Bresciani-Turroni, 346. Bresciani-Turroni, 343. Holtfrerich, 316. 140 Webb, 62; Feldman, 752, 787-8. Notably, even the rentenmark was not really adequately secured.** 
-
-**Since the gold-denominated mortgage bonds that backed the rentenmark paid 5 percent, while market interest rates for stable-value loans were much higher, these mortgages traded below par. The "real" exchange value of the rentenmark, therefore, was well below its par value. The implicit backing of the Reichsbank's gold reserves was crucial, therefore, when it came to supporting the value of the new currency. For a more detailed discussion of the rentenmark's backing. See Bresciani-Turroni, 340-1. Bresciani-Turroni, 346. Bresciani-Turroni, 348-9. Bresciani-Turroni, 354. Bresciani-Turroni, 354. Webb, 61-62. Webb, 62. Hotfrerich, 316-7. Eichengreen, 147. Eichengreen, 147. Feldman, 770. Bresciani-Turroni, 356. Webb, 61. Webb, 62. Eichengreen, 146. Eichengreen, 146. Eichengreen, 146-7. Bresciani-Turroni, 356. Bresciani-Turroni, 356-7; Eichengreen, 146. Bresciani-Turroni, 322. Bresciani-Turroni, 322. Bresciani-Turroni, 322-3. Webb, 71. Webb, 71; Bresciani-Turroni, 353. Bresciani-Turroni, 348-351. Bresciani-Turroni, 349. Bresciani-Turroni, 349. Bresciani-Turroni, 350-2. Eichengreen, 150. Eichengreen, 150. Eichengreen, 150. Eicehngreen, 151.**
+**Since the gold-denominated mortgage bonds that backed the rentenmark paid 5 percent, while market interest rates for stable-value loans were much higher, these mortgages traded below par. The "real" exchange value of the rentenmark, therefore, was well below its par value. The implicit backing of the Reichsbank's gold reserves was crucial, therefore, when it came to supporting the value of the new currency. For a more detailed discussion of the rentenmark's backing. 
