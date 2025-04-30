@@ -51,6 +51,7 @@ key_concepts:
 		- **[[How Countries Go Broke Notes]]**
 			- [[How Countries Go Broke Notes]]
 			- [[Introduction to How Countries Go Broke]]
+			- [[Part 3 - Looking Back Chapter 8 -11 Notes]]
 			- [[Part II The Archetypical Sequence Leading to Central Governments and Central Banks Going Broke Chapters 4-5 Notes]]
 			- [[The Crisis Spills over to the Central Bank (Stages 5-6)]]
 			- [[The Mechanics in Words and Concepts (Stages 2-3) Notes]]
