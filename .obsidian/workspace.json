@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/Securitization.md",
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/Chapter 2 - The Mechanics in Words and Concepts Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Securitization"
+              "title": "Chapter 2 - The Mechanics in Words and Concepts Notes"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter One.md",
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How Countries Go Broke Introduction & Chapter One"
+              "title": "How Countries Go Broke Introduction & Chapter 1"
             }
           }
         ]
@@ -354,10 +354,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/Securitization.md"
+                "file": "International Finance/Navigating Big Debt Crises/How Countries Go Broke/Chapter 2 - The Mechanics in Words and Concepts Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Securitization"
+              "title": "File properties for Chapter 2 - The Mechanics in Words and Concepts Notes"
             }
           },
           {
@@ -404,16 +404,20 @@
   },
   "active": "f3ff574e577e29ec",
   "lastOpenFiles": [
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Two & Chapter Three.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/Introduction to How Countries Go Broke.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 8 to Chapter 11.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter One.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Six & Chapter Seven.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 2 & Chapter 3.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/Chapter 2 - The Mechanics in Words and Concepts Notes.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 15 & Chapter 16.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five.md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/The Crisis Spills over to the Central Bank (Stages 5-6).md",
-    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five 1.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 12 to Chapter 14.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 8 to Chapter 11.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 6 & Chapter 7.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter 4 & Chapter 5.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Introduction & Chapter 1.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/How Countries Go Broke Notes.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/The Crisis Spills over to the Central Bank (Stages 5-6).md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes",
+    "International Finance/Navigating Big Debt Crises/Securitization.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke Notes/Introduction to How Countries Go Broke.md",
+    "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke-Chapter Four & Chapter Five 1.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS/Chapter 4 - Swap Markets/Chapter 4 - Swap Markets.md",
     "International Finance/Navigating Big Debt Crises/How Countries Go Broke/How Countries Go Broke.md",
     "International Finance/Navigating Big Debt Crises/Black Scholes Derivation.md",
@@ -427,9 +431,6 @@
     "Financial Engineering/1. DeterministicCashFlows.md",
     "Clippings/Bond Equivalent Yield (BEY) - Definition, Formula, and Example.md",
     "Clippings/Clippings.md",
-    "Financial Engineering/Principles of Financial Engineering/Chapter 2 Institutional Aspects of Derivative Markets.md",
-    "Course Notes/Python/QuantLib-Python/Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python.md",
-    "Course Notes/Python/QuantLib-Python/An Introduction to Interest Rate Term Structure in QuantLib Python.md",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART II CASH FLOW ENGINEERING",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART I RELATIVE VALUE BUILDING BLOCKS",
     "Financial Markets/Financial Engineering and Arbitrage in the Financial Markets/PART III THE PLAYERS",
@@ -439,7 +440,6 @@
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part V Numerical Methods",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part IV Extensions and Generalizations of Derivative Pricing",
     "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part III Continuous Time Derivatives Pricing Theory",
-    "Financial Markets/Foundations of the Pricing of Financial Derivatives/Part II Discrete Time Derivatives Pricing Theory",
     "Untitled.canvas",
     "Attachments/84ad513cf17cc463407dc0ea197e102732c0f29bab870dd363214de21530002f.jpg",
     "Attachments/84c52ada1cedaba1e84542cec5599c9dae26bf428f556357719c6e807ef17f1a.jpg",

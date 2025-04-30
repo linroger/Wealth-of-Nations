@@ -29,7 +29,7 @@ key_concepts:
 The following is an excerpt from an early draft from my new book, How Countries Go Broke, which is available for pre-order [here](https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064/ref=sr_1_1?crid=XOCA3ZTYL6CU&dib=eyJ2IjoiMSJ9.YkMKxgt74urg8QSxlqNskvA_5CZe4P9TQCOpI05f8bn_OQkSrZnTOG2Wceus81A550iLhZeXNUEZyQ6r20IS7BW4sxiTsDS6XNSaR6U0CvLqRcjz1AbTpJYqLKD_jkJUQQJOMyB7aq31Yj5LSzp9D_LOZ8YCRZI65eRxTKdrMnh9E5a3NgStVkR1VFvkInIvnaItAtMxzjgNI7qrkg_Ik4Aihgf9Ttt2yszAm3GSkJg.hgOF8vURIysjRYA9XDbyMZIoHfOXAIMWeGCIpa9XmGY&dib_tag=se&keywords=how+countries+go+broke&qid=1736773669&sprefix=how+countries+go+bro%2Caps%2C441&sr=8-1).
 
 View the previous installation of this study [here](https://www.linkedin.com/pulse/how-countries-go-broke-introduction-chapter-one-ray-dalio-3wjae).
-
+[[Chapter 2 - The Mechanics in Words and Concepts Notes]]
 ### Chapter 2: The Mechanics in Words and Concepts
 
 **Note: This chapter gives unconventional concepts about the mechanics of how markets work that I believe would be valuable for professionals and aspiring professionals but are probably beyond the interests of others. I suggest that you give it a try to see whether or not it’s the sort of thing you’d like to get into.**
